@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: 'Levant Historic Railway Network Database'
+message: 'If you use this database, please cite it as below.'
+type: dataset
+authors:
+  - name: "Levantrain"
+    website: 'https://levantrain.net'
+repository-code: 'https://github.com/levantrain/levant-historic-railways'
+url: 'https://levantrain.net'
+license: ODbL-1.0
+date-released: 2026-04-08
+keywords:
+  - railways
+  - Middle East
+  - Levant
+  - historic infrastructure
+  - transport planning
+  - GIS
+  - open data

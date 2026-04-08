@@ -1,0 +1,7 @@
+# Python dependencies for Levant Historic Railway Network
+# Currently the validation script uses only standard library modules
+
+# Future dependencies could include:
+# geojson>=2.5.0  # For advanced GeoJSON validation
+# jsonschema>=4.0.0  # For schema validation
+# shapely>=2.0.0  # For geometric operations

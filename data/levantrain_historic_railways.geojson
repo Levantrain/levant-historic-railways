@@ -1,0 +1,705 @@
+{
+  "type": "FeatureCollection",
+  "name": "Levant Historic Railway Network",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [29.0095, 41.0058]},
+      "properties": {
+        "name": "Istanbul Haydarpaşa",
+        "name_arabic": "حيدر باشا",
+        "year_opened": 1908,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Turkey",
+        "notes": "Western terminus of Baghdad Railway; iconic Ottoman station",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [29.4303, 40.8025]},
+      "properties": {
+        "name": "Gebze",
+        "name_arabic": "غبزة",
+        "year_opened": 1873,
+        "status": "Active",
+        "station_type": "Minor",
+        "country": "Turkey",
+        "notes": "Part of original Anatolian Railway",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [29.9208, 40.7654]},
+      "properties": {
+        "name": "Izmit",
+        "name_arabic": "إزميت",
+        "year_opened": 1873,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Turkey",
+        "notes": "Industrial city; junction point",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [30.5206, 39.7767]},
+      "properties": {
+        "name": "Eskişehir",
+        "name_arabic": "إسكي شهير",
+        "year_opened": 1892,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Turkey",
+        "notes": "Major railway junction and workshop",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [30.5567, 38.7507]},
+      "properties": {
+        "name": "Afyonkarahisar",
+        "name_arabic": "أفيون قره حصار",
+        "year_opened": 1895,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Turkey",
+        "notes": "Strategic junction point",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [32.4833, 37.8667]},
+      "properties": {
+        "name": "Konya",
+        "name_arabic": "قونية",
+        "year_opened": 1896,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Turkey",
+        "notes": "Ancient Seljuk capital; major station",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [34.4833, 37.5500]},
+      "properties": {
+        "name": "Ulukışla",
+        "name_arabic": "أولوكيشلا",
+        "year_opened": 1912,
+        "status": "Active",
+        "station_type": "Minor",
+        "country": "Turkey",
+        "notes": "Entrance to Taurus Mountains",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [34.7667, 37.3333]},
+      "properties": {
+        "name": "Gülek",
+        "name_arabic": "غوليك",
+        "year_opened": 1918,
+        "status": "Active",
+        "station_type": "Minor",
+        "country": "Turkey",
+        "notes": "Famous tunnels and viaducts through Taurus Mountains",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [34.9000, 36.9167]},
+      "properties": {
+        "name": "Tarsus",
+        "name_arabic": "طرسوس",
+        "year_opened": 1886,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Turkey",
+        "notes": "Ancient city; St. Paul's birthplace",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.3213, 37.0000]},
+      "properties": {
+        "name": "Adana",
+        "name_arabic": "أضنة",
+        "year_opened": 1886,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Turkey",
+        "notes": "Major city; important junction",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.2167, 37.2167]},
+      "properties": {
+        "name": "Fevzipaşa",
+        "name_arabic": "فوزي باشا",
+        "year_opened": 1918,
+        "status": "Active",
+        "station_type": "Border Station",
+        "country": "Turkey",
+        "notes": "Turkey-Syria border; formerly Muslimiye",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.2667, 36.9500]},
+      "properties": {
+        "name": "Meidan Ekbis",
+        "name_arabic": "ميدان اكبس",
+        "year_opened": 1918,
+        "status": "Active",
+        "station_type": "Border Station",
+        "country": "Syria",
+        "notes": "Syria-Turkey border station",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.1612, 36.2012]},
+      "properties": {
+        "name": "Aleppo",
+        "name_arabic": "حلب",
+        "year_opened": 1906,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Syria",
+        "notes": "Major city; ancient trading center",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.5167, 36.3667]},
+      "properties": {
+        "name": "Al-Bab",
+        "name_arabic": "الباب",
+        "year_opened": 1912,
+        "status": "Damaged",
+        "station_type": "Minor",
+        "country": "Syria",
+        "notes": "Damaged in Syrian Civil War",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [38.0111, 36.8167]},
+      "properties": {
+        "name": "Jarablus",
+        "name_arabic": "جرابلس",
+        "year_opened": 1918,
+        "status": "Limited Service",
+        "station_type": "Border Station",
+        "country": "Syria",
+        "notes": "Syria-Turkey border on Euphrates",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.2142, 37.0742]},
+      "properties": {
+        "name": "Nusaybin",
+        "name_arabic": "نصيبين",
+        "year_opened": 1918,
+        "status": "Active",
+        "station_type": "Border Station",
+        "country": "Turkey",
+        "notes": "Turkey-Syria border; ancient Nisibis",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.2264, 37.0519]},
+      "properties": {
+        "name": "Qamishli",
+        "name_arabic": "القامشلي",
+        "year_opened": 1918,
+        "status": "Limited Service",
+        "station_type": "Minor",
+        "country": "Syria",
+        "notes": "Kurdish-majority city",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [36.2765, 33.5138]},
+      "properties": {
+        "name": "Damascus",
+        "name_arabic": "دمشق",
+        "year_opened": 1908,
+        "status": "Active - Limited",
+        "station_type": "Terminus/Major",
+        "country": "Syria",
+        "notes": "Northern terminus of Hejaz Railway; Ottoman station preserved",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [36.2408, 33.3575]},
+      "properties": {
+        "name": "Kiswe",
+        "name_arabic": "القصوة",
+        "year_opened": 1908,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Syria",
+        "notes": "First station south of Damascus",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [36.1042, 33.2217]},
+      "properties": {
+        "name": "Khan Dannun",
+        "name_arabic": "خان دنون",
+        "year_opened": 1908,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Syria",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [36.2567, 32.8628]},
+      "properties": {
+        "name": "Izra",
+        "name_arabic": "إزرع",
+        "year_opened": 1908,
+        "status": "Abandoned",
+        "station_type": "Major",
+        "country": "Syria",
+        "notes": "Junction point; strategic importance",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [36.0069, 32.5614]},
+      "properties": {
+        "name": "Ramtha",
+        "name_arabic": "الرمثا",
+        "year_opened": 1908,
+        "status": "Abandoned",
+        "station_type": "Border Station",
+        "country": "Jordan",
+        "notes": "Syria-Jordan border crossing",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [36.2075, 32.3417]},
+      "properties": {
+        "name": "Mafraq",
+        "name_arabic": "المفرق",
+        "year_opened": 1908,
+        "status": "Active - Limited",
+        "station_type": "Major",
+        "country": "Jordan",
+        "notes": "Junction for Damascus-Haifa line",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [36.1000, 32.0833]},
+      "properties": {
+        "name": "Zarqa",
+        "name_arabic": "الزرقاء",
+        "year_opened": 1905,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Jordan",
+        "notes": "Junction point; industrial area",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.9239, 31.9515]},
+      "properties": {
+        "name": "Amman",
+        "name_arabic": "عمان",
+        "year_opened": 1903,
+        "status": "Active - Heritage",
+        "station_type": "Major",
+        "country": "Jordan",
+        "notes": "Capital city station; now heritage site and museum",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.9194, 31.2236]},
+      "properties": {
+        "name": "Qatrana",
+        "name_arabic": "القطرانة",
+        "year_opened": 1908,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Jordan",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.7361, 30.1964]},
+      "properties": {
+        "name": "Ma'an",
+        "name_arabic": "معان",
+        "year_opened": 1908,
+        "status": "Partially Active",
+        "station_type": "Major",
+        "country": "Jordan",
+        "notes": "Major station; locomotive depot",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.2889, 29.3083]},
+      "properties": {
+        "name": "Mudawwara",
+        "name_arabic": "المدورة",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Jordan",
+        "notes": "Famous for T.E. Lawrence raids",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [36.5500, 28.3833]},
+      "properties": {
+        "name": "Tabuk",
+        "name_arabic": "تبوك",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Major",
+        "country": "Saudi Arabia",
+        "notes": "Regional center",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.9239, 26.6086]},
+      "properties": {
+        "name": "Al-Ula",
+        "name_arabic": "العلا",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Major",
+        "country": "Saudi Arabia",
+        "notes": "Ancient city; archaeological significance",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.9528, 26.7894]},
+      "properties": {
+        "name": "Mada'in Salih",
+        "name_arabic": "مدائن صالح",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Major",
+        "country": "Saudi Arabia",
+        "notes": "UNESCO World Heritage site nearby",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [39.6111, 24.4686]},
+      "properties": {
+        "name": "Medina",
+        "name_arabic": "المدينة المنورة",
+        "year_opened": 1908,
+        "year_closed": 1916,
+        "status": "Abandoned",
+        "station_type": "Terminus/Major",
+        "country": "Saudi Arabia",
+        "notes": "Southern terminus; never completed to Mecca",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [34.7500, 32.0500]},
+      "properties": {
+        "name": "Jaffa",
+        "name_arabic": "يافا",
+        "year_opened": 1892,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Israel",
+        "notes": "Mediterranean port; original terminus",
+        "gauge_mm": 1435,
+        "historic_routes": "Jaffa-Jerusalem Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [34.8833, 31.9500]},
+      "properties": {
+        "name": "Lod/Lydda",
+        "name_arabic": "اللد",
+        "year_opened": 1892,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Israel",
+        "notes": "Major junction; now central station",
+        "gauge_mm": 1435,
+        "historic_routes": "Jaffa-Jerusalem Railway, Palestine Railways"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.2167, 31.7833]},
+      "properties": {
+        "name": "Jerusalem",
+        "name_arabic": "القدس",
+        "year_opened": 1892,
+        "status": "Active - Heritage",
+        "station_type": "Terminus/Major",
+        "country": "Israel/Palestine",
+        "notes": "Terminus; now heritage attraction",
+        "gauge_mm": 1435,
+        "historic_routes": "Jaffa-Jerusalem Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [34.7818, 32.0853]},
+      "properties": {
+        "name": "Tel Aviv",
+        "name_arabic": "تل أبيب",
+        "year_opened": 1921,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Israel",
+        "notes": "Built during British Mandate",
+        "gauge_mm": 1435,
+        "historic_routes": "Palestine Railways"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [34.9886, 32.8211]},
+      "properties": {
+        "name": "Haifa",
+        "name_arabic": "حيفا",
+        "year_opened": 1905,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Israel",
+        "notes": "Mediterranean port; British Mandate era",
+        "gauge_mm": 1050,
+        "historic_routes": "Jezreel Valley Railway, Haifa-Deraa line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [36.1019, 32.6189]},
+      "properties": {
+        "name": "Deraa",
+        "name_arabic": "درعا",
+        "year_opened": 1908,
+        "status": "Damaged",
+        "station_type": "Major",
+        "country": "Syria",
+        "notes": "Junction for multiple lines; war damage",
+        "gauge_mm": 1050,
+        "historic_routes": "Haifa-Deraa line, Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.5000, 33.8958]},
+      "properties": {
+        "name": "Beirut",
+        "name_arabic": "بيروت",
+        "year_opened": 1895,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Lebanon",
+        "notes": "Mediterranean port terminus",
+        "gauge_mm": 1435,
+        "historic_routes": "Beirut-Damascus Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.9761, 33.8467]},
+      "properties": {
+        "name": "Rayak",
+        "name_arabic": "رياق",
+        "year_opened": 1885,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Lebanon",
+        "notes": "Major junction for multiple lines",
+        "gauge_mm": 1435,
+        "historic_routes": "Beirut-Damascus Railway, Rayak-Aleppo Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [29.9167, 31.2000]},
+      "properties": {
+        "name": "Alexandria",
+        "name_arabic": "الإسكندرية",
+        "year_opened": 1854,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Egypt",
+        "notes": "Mediterranean port; historic station",
+        "gauge_mm": 1435,
+        "historic_routes": "Egyptian State Railways"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [31.2497, 30.0626]},
+      "properties": {
+        "name": "Cairo Main Station",
+        "name_arabic": "القاهرة",
+        "year_opened": 1856,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Egypt",
+        "notes": "Major hub; Ramses Station",
+        "gauge_mm": 1435,
+        "historic_routes": "Egyptian State Railways"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [32.5500, 29.9667]},
+      "properties": {
+        "name": "Suez",
+        "name_arabic": "السويس",
+        "year_opened": 1858,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Egypt",
+        "notes": "Red Sea port; southern Suez Canal",
+        "gauge_mm": 1435,
+        "historic_routes": "Egyptian State Railways"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [32.3019, 31.2653]},
+      "properties": {
+        "name": "Port Said",
+        "name_arabic": "بور سعيد",
+        "year_opened": 1904,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Egypt",
+        "notes": "Mediterranean port; northern Suez Canal",
+        "gauge_mm": 1435,
+        "historic_routes": "Egyptian State Railways"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.8333, 34.4333]},
+      "properties": {
+        "name": "Tripoli",
+        "name_arabic": "طرابلس",
+        "year_opened": 1911,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Lebanon",
+        "notes": "Northern coastal city",
+        "gauge_mm": 1435,
+        "historic_routes": "Tripoli-Homs Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [36.7167, 34.7333]},
+      "properties": {
+        "name": "Homs",
+        "name_arabic": "حمص",
+        "year_opened": 1902,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Syria",
+        "notes": "Major junction city",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway, Tripoli-Homs Railway"
+      }
+    }
+  ]
+}
