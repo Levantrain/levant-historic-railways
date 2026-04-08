@@ -1,0 +1,298 @@
+{
+  "type": "FeatureCollection",
+  "name": "Levant Historic Railway Routes",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [36.2765, 33.5138],
+          [36.2408, 33.3575],
+          [36.1042, 33.2217],
+          [36.2567, 32.8628],
+          [36.0069, 32.5614],
+          [36.2075, 32.3417],
+          [36.1000, 32.0833],
+          [35.9239, 31.9515],
+          [35.9194, 31.2236],
+          [35.8186, 30.8142],
+          [35.7361, 30.1964],
+          [35.6167, 29.8833],
+          [35.4833, 29.5167],
+          [35.2889, 29.3083],
+          [36.5500, 28.3833],
+          [37.9239, 26.6086],
+          [37.9528, 26.7894],
+          [39.6111, 24.4686]
+        ]
+      },
+      "properties": {
+        "name": "Hejaz Railway",
+        "name_arabic": "سكة حديد الحجاز",
+        "route_type": "Main Line",
+        "year_opened": 1908,
+        "year_closed": 1916,
+        "status": "Abandoned",
+        "gauge_mm": 1050,
+        "countries": "Syria, Jordan, Saudi Arabia",
+        "notes": "Damascus to Medina; southern terminus of Ottoman Hejaz Railway",
+        "color": "#d32f2f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [29.0095, 41.0058],
+          [29.4303, 40.8025],
+          [29.9208, 40.7654],
+          [30.5206, 39.7767],
+          [30.5567, 38.7507],
+          [32.4833, 37.8667],
+          [34.4833, 37.5500],
+          [34.7667, 37.3333],
+          [34.9000, 36.9167],
+          [35.3213, 37.0000],
+          [37.2167, 37.2167],
+          [37.1612, 36.2012],
+          [38.9575, 36.6972],
+          [41.2142, 37.0742],
+          [43.1189, 36.3350],
+          [44.3661, 33.3152],
+          [47.7804, 30.5085]
+        ]
+      },
+      "properties": {
+        "name": "Baghdad Railway",
+        "name_arabic": "سكة حديد بغداد",
+        "route_type": "Main Line",
+        "year_opened": 1903,
+        "year_closed": null,
+        "status": "Active - Partially",
+        "gauge_mm": 1435,
+        "countries": "Turkey, Syria, Iraq",
+        "notes": "Istanbul to Baghdad and Basra; German-Ottoman project",
+        "color": "#1976d2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [34.7500, 32.0500],
+          [34.8833, 31.9500],
+          [34.8667, 31.9333],
+          [34.9833, 31.8333],
+          [35.0500, 31.8167],
+          [35.2167, 31.7833]
+        ]
+      },
+      "properties": {
+        "name": "Jaffa-Jerusalem Railway",
+        "name_arabic": "سكة حديد يافا-القدس",
+        "route_type": "Main Line",
+        "year_opened": 1892,
+        "year_closed": null,
+        "status": "Active - Heritage",
+        "gauge_mm": 1435,
+        "countries": "Israel/Palestine",
+        "notes": "First railway in the region; now partially heritage line",
+        "color": "#388e3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [35.5000, 33.8958],
+          [35.8333, 33.8167],
+          [35.8500, 33.8167],
+          [35.9761, 33.8467],
+          [36.1003, 33.7242],
+          [36.1500, 33.6833],
+          [36.2765, 33.5138]
+        ]
+      },
+      "properties": {
+        "name": "Beirut-Damascus Railway",
+        "name_arabic": "سكة حديد بيروت-دمشق",
+        "route_type": "Main Line",
+        "year_opened": 1895,
+        "year_closed": null,
+        "status": "Active - Limited",
+        "gauge_mm": 1435,
+        "countries": "Lebanon, Syria",
+        "notes": "Mountain railway with rack section at Dar Al Baidar",
+        "color": "#7b1fa2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [34.9886, 32.8211],
+          [35.2897, 32.6078],
+          [35.5781, 32.7069],
+          [36.1019, 32.6189]
+        ]
+      },
+      "properties": {
+        "name": "Jezreel Valley Railway",
+        "name_arabic": "سكة حديد مرج ابن عامر",
+        "route_type": "Main Line",
+        "year_opened": 1905,
+        "year_closed": 1948,
+        "status": "Abandoned",
+        "gauge_mm": 1050,
+        "countries": "Israel, Palestine, Jordan",
+        "notes": "British Mandate era; Haifa to Deraa connection",
+        "color": "#f57c00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [32.8211, 34.9886],
+          [35.5781, 32.7069],
+          [36.1019, 32.6189]
+        ]
+      },
+      "properties": {
+        "name": "Haifa-Deraa Line",
+        "name_arabic": "خط حيفا-درعا",
+        "route_type": "Branch Line",
+        "year_opened": 1905,
+        "year_closed": 1948,
+        "status": "Abandoned",
+        "gauge_mm": 1050,
+        "countries": "Israel, Jordan, Syria",
+        "notes": "Connected Mediterranean to Hejaz Railway",
+        "color": "#f57c00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [29.9167, 31.2000],
+          [31.2497, 30.0626]
+        ]
+      },
+      "properties": {
+        "name": "Alexandria-Cairo Railway",
+        "name_arabic": "سكة حديد الإسكندرية-القاهرة",
+        "route_type": "Main Line",
+        "year_opened": 1854,
+        "year_closed": null,
+        "status": "Active",
+        "gauge_mm": 1435,
+        "countries": "Egypt",
+        "notes": "One of the oldest railways in Africa and Middle East",
+        "color": "#795548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [31.2497, 30.0626],
+          [32.5500, 29.9667]
+        ]
+      },
+      "properties": {
+        "name": "Cairo-Suez Railway",
+        "name_arabic": "سكة حديد القاهرة-السويس",
+        "route_type": "Main Line",
+        "year_opened": 1858,
+        "year_closed": null,
+        "status": "Active",
+        "gauge_mm": 1435,
+        "countries": "Egypt",
+        "notes": "Connected Cairo to Red Sea and Suez Canal",
+        "color": "#795548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [31.2497, 30.0626],
+          [32.2667, 30.5833],
+          [32.3019, 31.2653]
+        ]
+      },
+      "properties": {
+        "name": "Cairo-Port Said Railway",
+        "name_arabic": "سكة حديد القاهرة-بورسعيد",
+        "route_type": "Main Line",
+        "year_opened": 1904,
+        "year_closed": null,
+        "status": "Active",
+        "gauge_mm": 1435,
+        "countries": "Egypt",
+        "notes": "Via Ismailia along Suez Canal",
+        "color": "#795548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [35.8333, 34.4333],
+          [36.7167, 34.7333]
+        ]
+      },
+      "properties": {
+        "name": "Tripoli-Homs Railway",
+        "name_arabic": "سكة حديد طرابلس-حمص",
+        "route_type": "Main Line",
+        "year_opened": 1911,
+        "year_closed": null,
+        "status": "Active - Limited",
+        "gauge_mm": 1435,
+        "countries": "Lebanon, Syria",
+        "notes": "Connected Lebanese coast to Syrian interior",
+        "color": "#00796b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [35.9761, 33.8467],
+          [36.2181, 34.0056]
+        ]
+      },
+      "properties": {
+        "name": "Rayak-Baalbek Branch",
+        "name_arabic": "فرع رياق-بعلبك",
+        "route_type": "Branch Line",
+        "year_opened": 1902,
+        "year_closed": null,
+        "status": "Limited Service",
+        "gauge_mm": 1050,
+        "countries": "Lebanon",
+        "notes": "Narrow gauge branch to ancient Baalbek ruins",
+        "color": "#7b1fa2"
+      }
+    }
+  ]
+}
