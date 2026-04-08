@@ -700,6 +700,728 @@
         "gauge_mm": 1435,
         "historic_routes": "Baghdad Railway, Tripoli-Homs Railway"
       }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.2167, 33.3833]
+      },
+      "properties": {
+        "name": "Deir Ali",
+        "name_arabic": "دير علي",
+        "year_opened": 1908,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Syria",
+        "notes": "Between Damascus and Kiswe",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.0833, 32.5800]
+      },
+      "properties": {
+        "name": "Nasib",
+        "name_arabic": "النصيب",
+        "year_opened": 1908,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Border Station",
+        "country": "Syria",
+        "notes": "Syria-Jordan border",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.1058, 31.4719]
+      },
+      "properties": {
+        "name": "Khan az-Zabib",
+        "name_arabic": "خان الزبيب",
+        "year_opened": 1908,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Jordan",
+        "notes": "Has Umayyad historical site",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.8667, 31.0500]
+      },
+      "properties": {
+        "name": "Manzil",
+        "name_arabic": "منزل",
+        "year_opened": 1908,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Jordan",
+        "notes": "Between Qatrana and Al-Hasa",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.7833, 30.5833]
+      },
+      "properties": {
+        "name": "Jurf ad-Darawish",
+        "name_arabic": "جرف الدراويش",
+        "year_opened": 1908,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Jordan",
+        "notes": "Between Al-Hasa and Ma'an",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.7500, 30.3500]
+      },
+      "properties": {
+        "name": "Unayzah",
+        "name_arabic": "عنيزة",
+        "year_opened": 1908,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Jordan",
+        "notes": "Has Hajj fort Khan al-Unayzah",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.3833, 29.4167]
+      },
+      "properties": {
+        "name": "Wadi Rutm",
+        "name_arabic": "وادي رتم",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Jordan",
+        "notes": "Between Batn al-Ghul and Mudawwara",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.3167, 29.3667]
+      },
+      "properties": {
+        "name": "Tel esh-Sham",
+        "name_arabic": "تل الشام",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Jordan",
+        "notes": "Near Mudawwara",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.1500, 28.7000]
+      },
+      "properties": {
+        "name": "Dhat al-Hajj",
+        "name_arabic": "ذات الحج",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Saudi Arabia",
+        "notes": "Has Hajj fort",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.3000, 28.6000]
+      },
+      "properties": {
+        "name": "Bir Ibn Hermas",
+        "name_arabic": "بئر ابن هرماس",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Water Station",
+        "country": "Saudi Arabia",
+        "notes": "Major water station",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.1500, 26.2000]
+      },
+      "properties": {
+        "name": "Al-Muazzam",
+        "name_arabic": "المعظم",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Saudi Arabia",
+        "notes": "Southern section station",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.3667, 25.9333]
+      },
+      "properties": {
+        "name": "Dahr al-Hajj",
+        "name_arabic": "ظهر الحج",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Saudi Arabia",
+        "notes": "Also called Dar al-Hajj",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.6000, 25.6500]
+      },
+      "properties": {
+        "name": "Al-Akhdar",
+        "name_arabic": "الأخضر",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Saudi Arabia",
+        "notes": "Southern variant; has Hajj fort",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.8500, 25.3500]
+      },
+      "properties": {
+        "name": "Al-Khanzira",
+        "name_arabic": "الخنزيرة",
+        "year_opened": 1908,
+        "year_closed": 1918,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Saudi Arabia",
+        "notes": "Also called Disa'ad",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.4333, 24.6833]
+      },
+      "properties": {
+        "name": "Abu Na'am",
+        "name_arabic": "أبو نعام",
+        "year_opened": 1908,
+        "year_closed": 1916,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Saudi Arabia",
+        "notes": "Near Medina",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.5500, 24.5167]
+      },
+      "properties": {
+        "name": "Buwair",
+        "name_arabic": "بوير",
+        "year_opened": 1908,
+        "year_closed": 1916,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Saudi Arabia",
+        "notes": "Close to Medina",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.5833, 24.4833]
+      },
+      "properties": {
+        "name": "al-Hafirah",
+        "name_arabic": "الحفيرة",
+        "year_opened": 1908,
+        "year_closed": 1916,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Saudi Arabia",
+        "notes": "On Hajj route; very close to Medina",
+        "gauge_mm": 1050,
+        "historic_routes": "Hejaz Railway"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.2150, 37.1811]
+      },
+      "properties": {
+        "name": "Karaman",
+        "name_arabic": "قرمان",
+        "year_opened": 1904,
+        "year_closed": null,
+        "status": "Active",
+        "station_type": "Minor",
+        "country": "Turkey",
+        "notes": "Between Konya and Ereğli",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.7000, 36.9667]
+      },
+      "properties": {
+        "name": "Yenice",
+        "name_arabic": "ينيجة",
+        "year_opened": 1912,
+        "year_closed": null,
+        "status": "Active",
+        "station_type": "Minor",
+        "country": "Turkey",
+        "notes": "Çukurova plain station",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.0500, 36.6167]
+      },
+      "properties": {
+        "name": "Rajo",
+        "name_arabic": "راجو",
+        "year_opened": 1912,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Syria",
+        "notes": "Between Adana and Aleppo; near Turkish border",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.9575, 36.6972]
+      },
+      "properties": {
+        "name": "Tell Abyad",
+        "name_arabic": "تل أبيض",
+        "year_opened": 1918,
+        "year_closed": null,
+        "status": "Limited Service",
+        "station_type": "Border Station",
+        "country": "Syria",
+        "notes": "Syria-Turkey border town",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.1189, 36.3350]
+      },
+      "properties": {
+        "name": "Mosul",
+        "name_arabic": "الموصل",
+        "year_opened": 1940,
+        "year_closed": null,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Iraq",
+        "notes": "Major Iraqi city; northern terminus in Iraq",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.3661, 33.3152]
+      },
+      "properties": {
+        "name": "Baghdad",
+        "name_arabic": "بغداد",
+        "year_opened": 1940,
+        "year_closed": null,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Iraq",
+        "notes": "Iraqi capital; eastern terminus of Baghdad Railway",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.7804, 30.5085]
+      },
+      "properties": {
+        "name": "Basra",
+        "name_arabic": "البصرة",
+        "year_opened": 1968,
+        "year_closed": null,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Iraq",
+        "notes": "Southern Iraqi port; extension of Baghdad Railway",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.3825, 37.0594]
+      },
+      "properties": {
+        "name": "Gaziantep",
+        "name_arabic": "غازي عنتاب",
+        "year_opened": 1960,
+        "year_closed": null,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Turkey",
+        "notes": "Major Turkish city; bypass route opened 1960",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway,Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.0167, 36.8333]
+      },
+      "properties": {
+        "name": "Karkamış",
+        "name_arabic": "كركميش",
+        "year_opened": 1960,
+        "year_closed": null,
+        "status": "Active",
+        "station_type": "Border Station",
+        "country": "Turkey",
+        "notes": "Turkey-Syria border crossing; opened 1960",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway,Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.3922, 35.4681]
+      },
+      "properties": {
+        "name": "Kirkuk",
+        "name_arabic": "كركوك",
+        "year_opened": 1926,
+        "year_closed": null,
+        "status": "Active",
+        "station_type": "Major",
+        "country": "Iraq",
+        "notes": "Important oil industry center; transfer point",
+        "gauge_mm": 1435,
+        "historic_routes": "Baghdad Railway,Taurus Express"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3890, 35.6892]
+      },
+      "properties": {
+        "name": "Tehran",
+        "name_arabic": "تهران",
+        "year_opened": 1938,
+        "year_closed": null,
+        "status": "Active",
+        "station_type": "Terminus/Major",
+        "country": "Iran",
+        "notes": "Iranian capital; Trans-Iranian Railway connection",
+        "gauge_mm": 1435,
+        "historic_routes": "Taurus Express connection"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.9333, 31.9000]
+      },
+      "properties": {
+        "name": "Al-Sejed",
+        "name_arabic": "عين سجد",
+        "year_opened": 1892,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Israel",
+        "notes": "Between Ramla and Battir",
+        "gauge_mm": 1435,
+        "historic_routes": "Jaffa-Jerusalem Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.1333, 31.7167]
+      },
+      "properties": {
+        "name": "Battir",
+        "name_arabic": "بتير",
+        "year_opened": 1892,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Palestine",
+        "notes": "Historic village; UNESCO heritage site consideration",
+        "gauge_mm": 1435,
+        "historic_routes": "Jaffa-Jerusalem Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.8333, 33.8167]
+      },
+      "properties": {
+        "name": "Dar Al Baidar",
+        "name_arabic": "دار البيدر",
+        "year_opened": 1895,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Lebanon",
+        "notes": "Mountain pass station; rack railway section",
+        "gauge_mm": 1435,
+        "historic_routes": "Beirut-Damascus Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.8500, 33.8167]
+      },
+      "properties": {
+        "name": "Chtaura",
+        "name_arabic": "شتورا",
+        "year_opened": 1895,
+        "year_closed": null,
+        "status": "Active",
+        "station_type": "Minor",
+        "country": "Lebanon",
+        "notes": "Bekaa Valley; junction for Baalbek branch",
+        "gauge_mm": 1435,
+        "historic_routes": "Beirut-Damascus Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.1003, 33.7242]
+      },
+      "properties": {
+        "name": "Zabadani",
+        "name_arabic": "الزبداني",
+        "year_opened": 1895,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Syria",
+        "notes": "Syrian mountain resort town in Anti-Lebanon",
+        "gauge_mm": 1435,
+        "historic_routes": "Beirut-Damascus Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.1500, 33.6833]
+      },
+      "properties": {
+        "name": "Souk Wadi Barada",
+        "name_arabic": "سوق وادي بردى",
+        "year_opened": 1895,
+        "year_closed": null,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Syria",
+        "notes": "Valley station approaching Damascus",
+        "gauge_mm": 1435,
+        "historic_routes": "Beirut-Damascus Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.5700, 32.7044]
+      },
+      "properties": {
+        "name": "Tzemah",
+        "name_arabic": "צמח",
+        "year_opened": 1905,
+        "year_closed": 1948,
+        "status": "Abandoned",
+        "station_type": "Junction",
+        "country": "Israel",
+        "notes": "Junction at southern tip of Sea of Galilee",
+        "gauge_mm": 1050,
+        "historic_routes": "Jezreel Valley Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.5667, 32.6500]
+      },
+      "properties": {
+        "name": "Gesher",
+        "name_arabic": "גשר",
+        "year_opened": 1905,
+        "year_closed": 1948,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Israel",
+        "notes": "Jordan River crossing point",
+        "gauge_mm": 1050,
+        "historic_routes": "Jezreel Valley Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.5500, 32.6333]
+      },
+      "properties": {
+        "name": "Naharayim",
+        "name_arabic": "نهاريم",
+        "year_opened": 1905,
+        "year_closed": 1948,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Jordan",
+        "notes": "Hydroelectric power station site",
+        "gauge_mm": 1050,
+        "historic_routes": "Jezreel Valley Railway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.6667, 32.7000]
+      },
+      "properties": {
+        "name": "al-Hamma",
+        "name_arabic": "الحمة",
+        "year_opened": 1905,
+        "year_closed": 1948,
+        "status": "Abandoned",
+        "station_type": "Minor",
+        "country": "Jordan",
+        "notes": "Hot springs resort area",
+        "gauge_mm": 1050,
+        "historic_routes": "Jezreel Valley Railway"
+      }
     }
   ]
 }
