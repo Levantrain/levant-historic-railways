@@ -6,8 +6,8 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [31.2497, 30.0626],   // Cairo Main Station
-          [32.5500, 29.9667]    // Suez
+          [31.2497, 30.0626],
+          [32.5500, 29.9667]
         ]
       },
       "properties": {

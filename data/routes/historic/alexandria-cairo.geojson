@@ -6,8 +6,8 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [29.9167, 31.2000],   // Alexandria
-          [31.2497, 30.0626]    // Cairo Main Station
+          [29.9167, 31.2000],
+          [31.2497, 30.0626]
         ]
       },
       "properties": {

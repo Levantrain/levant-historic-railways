@@ -6,8 +6,8 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [35.8333, 34.4333],   // Tripoli
-          [36.7167, 34.7333]    // Homs
+          [35.8333, 34.4333],
+          [36.7167, 34.7333]
         ]
       },
       "properties": {

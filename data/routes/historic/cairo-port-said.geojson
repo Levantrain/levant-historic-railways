@@ -6,9 +6,9 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [31.2497, 30.0626],   // Cairo Main Station
-          [32.2667, 30.5833],   // Ismailia
-          [32.3019, 31.2653]    // Port Said
+          [31.2497, 30.0626],
+          [32.2667, 30.5833],
+          [32.3019, 31.2653]
         ]
       },
       "properties": {
