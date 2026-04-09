@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [31.2497, 30.0626],   // Cairo Main Station
+          [32.5500, 29.9667]    // Suez
+        ]
+      },
+      "properties": {
+        "name": "Cairo-Suez Railway",
+        "name_arabic": "سكة حديد القاهرة-السويس",
+        "route_type": "Main Line",
+        "year_opened": 1858,
+        "year_closed": null,
+        "status": "Active",
+        "gauge_mm": 1435,
+        "countries": "Egypt",
+        "notes": "Connected Cairo to Red Sea and Suez Canal",
+        "color": "#795548"
+      }
+    }
+  ]
+}

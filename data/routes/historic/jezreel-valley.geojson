@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [34.9886, 32.8211],   // Haifa
+          [35.2897, 32.6078],   // Afula
+          [35.5700, 32.7044],   // Tzemah
+          [35.5667, 32.6500],   // Gesher
+          [35.5500, 32.6333],   // Naharayim
+          [35.6667, 32.7000]    // al-Hamma
+        ]
+      },
+      "properties": {
+        "name": "Jezreel Valley Railway",
+        "name_arabic": "سكة حديد مرج ابن عامر",
+        "route_type": "Main Line",
+        "year_opened": 1905,
+        "year_closed": 1948,
+        "status": "Abandoned",
+        "gauge_mm": 1050,
+        "countries": "Israel, Jordan",
+        "notes": "British Mandate era; Haifa to Sea of Galilee region",
+        "color": "#f57c00"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [35.5000, 33.8958],   // Beirut
+          [35.8333, 33.8167],   // Dar Al Baidar
+          [35.8500, 33.8167],   // Chtaura
+          [35.9761, 33.8467],   // Rayak
+          [36.1003, 33.7242],   // Zabadani
+          [36.1500, 33.6833],   // Souk Wadi Barada
+          [36.2765, 33.5138]    // Damascus
+        ]
+      },
+      "properties": {
+        "name": "Beirut-Damascus Railway",
+        "name_arabic": "سكة حديد بيروت-دمشق",
+        "route_type": "Main Line",
+        "year_opened": 1895,
+        "year_closed": null,
+        "status": "Active - Limited",
+        "gauge_mm": 1435,
+        "countries": "Lebanon, Syria",
+        "notes": "Mountain railway with rack section at Dar Al Baidar",
+        "color": "#7b1fa2"
+      }
+    }
+  ]
+}

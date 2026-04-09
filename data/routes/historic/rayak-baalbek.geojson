@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [35.9761, 33.8467],   // Rayak
+          [36.2181, 34.0056]    // Baalbek
+        ]
+      },
+      "properties": {
+        "name": "Rayak-Baalbek Branch",
+        "name_arabic": "فرع رياق-بعلبك",
+        "route_type": "Branch Line",
+        "year_opened": 1902,
+        "year_closed": null,
+        "status": "Limited Service",
+        "gauge_mm": 1050,
+        "countries": "Lebanon",
+        "notes": "Narrow gauge branch to ancient Baalbek ruins",
+        "color": "#7b1fa2"
+      }
+    }
+  ]
+}

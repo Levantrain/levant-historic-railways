@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [29.9167, 31.2000],   // Alexandria
+          [31.2497, 30.0626]    // Cairo Main Station
+        ]
+      },
+      "properties": {
+        "name": "Alexandria-Cairo Railway",
+        "name_arabic": "سكة حديد الإسكندرية-القاهرة",
+        "route_type": "Main Line",
+        "year_opened": 1854,
+        "year_closed": null,
+        "status": "Active",
+        "gauge_mm": 1435,
+        "countries": "Egypt",
+        "notes": "One of the oldest railways in Africa and Middle East",
+        "color": "#795548"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [35.8333, 34.4333],   // Tripoli
+          [36.7167, 34.7333]    // Homs
+        ]
+      },
+      "properties": {
+        "name": "Tripoli-Homs Railway",
+        "name_arabic": "سكة حديد طرابلس-حمص",
+        "route_type": "Main Line",
+        "year_opened": 1911,
+        "year_closed": null,
+        "status": "Active - Limited",
+        "gauge_mm": 1435,
+        "countries": "Lebanon, Syria",
+        "notes": "Connected Lebanese coast to Syrian interior",
+        "color": "#00796b"
+      }
+    }
+  ]
+}

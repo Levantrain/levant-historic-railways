@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [36.2765, 33.5138],   // Damascus
+          [36.2167, 33.3833],   // Deir Ali
+          [36.2408, 33.3575],   // Kiswe
+          [36.1042, 33.2217],   // Khan Dannun
+          [36.0503, 33.0144],   // Ghabaghib
+          [36.2567, 32.8628],   // Izra
+          [36.1681, 32.8256],   // Sheikh Miskin
+          [36.1019, 32.6189],   // Deraa
+          [36.0833, 32.5800],   // Nasib
+          [36.0069, 32.5614],   // Ramtha
+          [36.2075, 32.3417],   // Mafraq
+          [36.1000, 32.0833],   // Zarqa
+          [35.9239, 31.9515],   // Amman
+          [36.2714, 31.9011],   // Ziza
+          [36.0833, 31.5333],   // Jiza
+          [36.1058, 31.4719],   // Khan az-Zabib
+          [35.9194, 31.2236],   // Qatrana
+          [35.8667, 31.0500],   // Manzil
+          [35.8186, 30.8142],   // Hasa
+          [35.7833, 30.5833],   // Jurf ad-Darawish
+          [35.7500, 30.3500],   // Unayzah
+          [35.7361, 30.1964],   // Ma'an
+          [35.6167, 29.8833],   // Ghadir al-Haj
+          [35.4833, 29.5167],   // Batn al-Ghul
+          [35.3833, 29.4167],   // Wadi Rutm
+          [35.3167, 29.3667],   // Tel esh-Sham
+          [35.2889, 29.3083],   // Mudawwara
+          [34.9167, 28.8167],   // Hallat Ammar
+          [35.1500, 28.7000],   // Dhat al-Hajj
+          [35.3000, 28.6000],   // Bir Ibn Hermas
+          [34.7833, 28.6000],   // Akhdar
+          [36.5500, 28.3833],   // Tabuk
+          [36.8167, 27.4833],   // Muaddham
+          [38.1500, 26.2000],   // Al-Muazzam
+          [37.9239, 26.6086],   // Al-Ula
+          [37.9528, 26.7894],   // Mada'in Salih
+          [38.3667, 25.9333],   // Dahr al-Hajj
+          [38.6000, 25.6500],   // Al-Akhdar (southern)
+          [38.8500, 25.3500],   // Al-Khanzira
+          [39.3000, 24.8167],   // Hadiyyah
+          [39.4333, 24.6833],   // Abu Na'am
+          [39.5500, 24.5167],   // Buwair
+          [39.5833, 24.4833],   // al-Hafirah
+          [39.6111, 24.4686]    // Medina
+        ]
+      },
+      "properties": {
+        "name": "Hejaz Railway",
+        "name_arabic": "سكة حديد الحجاز",
+        "route_type": "Main Line",
+        "year_opened": 1908,
+        "year_closed": 1916,
+        "status": "Abandoned",
+        "gauge_mm": 1050,
+        "countries": "Syria, Jordan, Saudi Arabia",
+        "notes": "Damascus to Medina; southern terminus of Ottoman Hejaz Railway",
+        "color": "#d32f2f"
+      }
+    }
+  ]
+}

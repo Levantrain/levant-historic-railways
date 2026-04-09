@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [31.2497, 30.0626],   // Cairo Main Station
+          [32.2667, 30.5833],   // Ismailia
+          [32.3019, 31.2653]    // Port Said
+        ]
+      },
+      "properties": {
+        "name": "Cairo-Port Said Railway",
+        "name_arabic": "سكة حديد القاهرة-بورسعيد",
+        "route_type": "Main Line",
+        "year_opened": 1904,
+        "year_closed": null,
+        "status": "Active",
+        "gauge_mm": 1435,
+        "countries": "Egypt",
+        "notes": "Via Ismailia along Suez Canal",
+        "color": "#795548"
+      }
+    }
+  ]
+}
