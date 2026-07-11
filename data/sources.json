@@ -84,6 +84,20 @@
     "note": null
   },
   {
+    "id": "dbpedia",
+    "title": "DBpedia",
+    "publisher": "DBpedia",
+    "type": "database",
+    "url": "https://www.dbpedia.org/",
+    "accessed": "2026-07",
+    "license": "CC BY-SA",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": null
+  },
+  {
     "id": "farnworth",
     "title": "Egyptian Railway History (A Short Version)",
     "publisher": "Roger Farnworth",
@@ -92,6 +106,34 @@
     "accessed": "2026-07",
     "license": "proprietary",
     "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": null
+  },
+  {
+    "id": "gazetteer_misc",
+    "title": "Miscellaneous gazetteers & local heritage sites",
+    "publisher": "various",
+    "type": "gazetteer",
+    "url": null,
+    "accessed": "2026-07",
+    "license": "various",
+    "reliability": "crowdsourced",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": null
+  },
+  {
+    "id": "geonames",
+    "title": "GeoNames gazetteer (via getamap.net / latitude.to)",
+    "publisher": "GeoNames",
+    "type": "gazetteer",
+    "url": "https://www.geonames.org/",
+    "accessed": "2026-07",
+    "license": "CC BY",
+    "reliability": "crowdsourced",
     "author": null,
     "year": null,
     "isbn": null,
@@ -182,6 +224,20 @@
     "note": null
   },
   {
+    "id": "nabataea",
+    "title": "Nabataea.net — Hejaz Railway stations",
+    "publisher": "nabataea.net",
+    "type": "specialist",
+    "url": "http://nabataea.net/",
+    "accessed": "2026-07",
+    "license": "proprietary",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": null
+  },
+  {
     "id": "ochsenwald_1980",
     "title": "The Hijaz Railroad",
     "publisher": "University Press of Virginia",
@@ -250,6 +306,34 @@
     "year": null,
     "isbn": null,
     "note": "Specialist site — verify against authoritative references."
+  },
+  {
+    "id": "thehejazrailway",
+    "title": "The Hejaz Railway (station coordinates)",
+    "publisher": "thehejazrailway.com",
+    "type": "specialist",
+    "url": "https://www.thehejazrailway.com/",
+    "accessed": "2026-07",
+    "license": "proprietary",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": null
+  },
+  {
+    "id": "wikipedia_geo",
+    "title": "Wikipedia — article / infobox coordinates",
+    "publisher": "Wikipedia",
+    "type": "encyclopedia",
+    "url": "https://www.wikipedia.org/",
+    "accessed": "2026-07",
+    "license": "CC BY-SA",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": null
   },
   {
     "id": "wp_adana_aleppo",

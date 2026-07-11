@@ -5,7 +5,7 @@ list is [`data/sources.json`](../data/sources.json); attribute-level citations (
 field of which feature) live in [`data/source_links.json`](../data/source_links.json). Each GeoJSON
 feature also carries a `source_ids` array referencing these entries.
 
-## Source catalogue (31)
+## Source catalogue (37)
 
 | ID | Title | Publisher | Type | Reliability | URL |
 | --- | --- | --- | --- | --- | --- |
@@ -15,18 +15,24 @@ feature also carries a `source_ids` array referencing these entries.
 | `britannica_baghdad` | Baghdad Railway | Encyclopædia Britannica | encyclopedia | secondary | [link](https://www.britannica.com/topic/Baghdad-Railway) |
 | `britannica_hejaz` | Hejaz Railway | Encyclopædia Britannica | encyclopedia | secondary | [link](https://www.britannica.com/topic/Hejaz-Railway) |
 | `cotterell_1984` | The Railways of Palestine and Israel | Tourret Publishing | reference | authoritative | [link](https://www.nli.org.il/en/books/NNL_ALEPH990010162560205171/NLI) |
+| `dbpedia` | DBpedia | DBpedia | database | secondary | [link](https://www.dbpedia.org/) |
 | `farnworth` | Egyptian Railway History (A Short Version) | Roger Farnworth | specialist | secondary | [link](https://rogerfarnworth.com/2026/04/01/egyptian-railway-history-a-short-version/) |
+| `gazetteer_misc` | Miscellaneous gazetteers & local heritage sites | various | gazetteer | crowdsourced | — |
+| `geonames` | GeoNames gazetteer (via getamap.net / latitude.to) | GeoNames | gazetteer | crowdsourced | [link](https://www.geonames.org/) |
 | `greenarea_baalbek` | Baalbek Railway Station... A 'Living Memory' | GreenArea.com.lb | news | secondary | [link](https://greenarea.com.lb/en/138469/baalbek-railway-station-a-living-memory/) |
 | `gwr_lebanon` | Railways of Lebanon | GWR Archive (gwrarchive.org) | specialist | secondary | [link](https://www.gwrarchive.org/site/sitel2pg/Lebanon/lebanon.php) |
 | `hughes_1981` | Middle East Railways | Continental Railway Circle | reference | authoritative | [link](https://openlibrary.org/works/OL9206200W/Middle_East_railways) |
 | `internationalsteam` | The Railways of Lebanon (2016) | International Steam (internationalsteam.co.uk) | specialist | secondary | [link](https://www.internationalsteam.co.uk/trains/lebanon04.htm) |
 | `levantrain_compilation` | Levantrain compilation (locality-level coordinate estimate) | Levantrain project | derived | estimate | — |
 | `levantrain_system` | Levantrain project database (route catalogue, incl. Arabic names & descriptions) | Levantrain project | user-provided | secondary | — |
+| `nabataea` | Nabataea.net — Hejaz Railway stations | nabataea.net | specialist | secondary | [link](http://nabataea.net/) |
 | `ochsenwald_1980` | The Hijaz Railroad | University Press of Virginia | monograph | primary | [link](https://archive.org/details/hijazrailroad0000ochs) |
 | `osm` | OpenStreetMap | OpenStreetMap contributors | geodata | crowdsourced | [link](https://www.openstreetmap.org/) |
 | `railwaywonders` | In the Nile Valley | Railway Wonders of the World | specialist | secondary | [link](https://www.railwaywondersoftheworld.com/nile_valley.html) |
 | `robinson_atlas` | World Rail Atlas & Historical Summary Vol 8: The Middle East and Caucasus | World Rail Atlas Ltd | atlas | authoritative | [link](https://www.railwaygazette.com/book-reviews/middle-east-and-caucasus-world-rail-atlas-and-historical-summary-vol-8/33139.article) |
 | `shemer_jezreel` | The Jezreel Valley Railway | Shemer Israel | specialist | secondary | [link](https://eng.shemerisrael.co.il/jezreel-valley-railway-valley-railway/) |
+| `thehejazrailway` | The Hejaz Railway (station coordinates) | thehejazrailway.com | specialist | secondary | [link](https://www.thehejazrailway.com/) |
+| `wikipedia_geo` | Wikipedia — article / infobox coordinates | Wikipedia | encyclopedia | secondary | [link](https://www.wikipedia.org/) |
 | `wp_adana_aleppo` | Adana–Aleppo railway | Wikipedia | encyclopedia | secondary | [link](https://en.wikipedia.org/wiki/Adana%E2%80%93Aleppo_railway) |
 | `wp_berlin_baghdad` | Berlin–Baghdad railway | Wikipedia | encyclopedia | secondary | [link](https://en.wikipedia.org/wiki/Berlin%E2%80%93Baghdad_railway) |
 | `wp_egypt_stations` | List of railway stations in Egypt | Wikipedia | encyclopedia | secondary | [link](https://en.wikipedia.org/wiki/List_of_railway_stations_in_Egypt) |
@@ -46,5 +52,5 @@ feature also carries a `source_ids` array referencing these entries.
 - **authoritative** — standard reference atlases/works (e.g. World Rail Atlas).
 - **primary** — archival or contemporary first-hand material.
 - **secondary** — encyclopedic, specialist, or news treatments.
-- **crowdsourced** — OpenStreetMap (geometry).
+- **crowdsourced** — OpenStreetMap and gazetteers (GeoNames, etc.).
 - **estimate / derived** — Levantrain-internal locality-level estimates (clearly flagged).

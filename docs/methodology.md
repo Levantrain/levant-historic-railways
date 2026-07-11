@@ -174,3 +174,13 @@ Provenance is split by aspect (attribute vs. geometry vs. connection) and record
 `data/source_links.json`; each feature also lists a deduplicated `source_ids`. Where the underlying
 sources conflict, the reconciliation is kept as a sourced note on the record (see route `notes`) rather
 than silently overwritten — so discrepancies stay visible and checkable.
+
+### Coordinate verification (2026-07-11)
+
+All 218 station coordinates were swept against public gazetteers and encyclopedias. **194** now
+carry a verified, sourced coordinate; the remaining **24** keep their prior estimate (no citable
+precise point found) and are flagged as such. Each station's `precision` reflects the *kind* of point
+found — an actual station building/site (`exact`), the town centre (`town`), or a rough area
+(`approx`) — and its coordinate source is recorded in `source_links` (aspect `geometry`,
+field `coordinates`). Where sources gave slightly different coordinates, the discrepancy is left
+un-reconciled and noted rather than silently averaged.

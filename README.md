@@ -27,7 +27,7 @@ This historical documentation serves multiple purposes:
 
 ## Overview
 
-The database spans historic railway infrastructure across Turkey, Syria, Lebanon, Jordan, Israel/Palestine, Saudi Arabia, and Egypt at its maximum historical extent. This snapshot (**2026-07-11**) contains **21 routes · 218 stations · 217 segments · 7 bridges/tunnels**, every fact cited to one of **31 sources** (~1,240 citations):
+The database spans historic railway infrastructure across Turkey, Syria, Lebanon, Jordan, Israel/Palestine, Saudi Arabia, and Egypt at its maximum historical extent. This snapshot (**2026-07-11**) contains **21 routes · 218 stations · 217 segments · 7 bridges/tunnels**, every fact cited to one of **37 sources** (~1,440 citations). Station coordinates were verified against public gazetteers — **194 of 218 now carry a sourced, verified coordinate**:
 
 - **Historic railway stations** with geolocation and a stated location **precision**
 - **Railway routes** as ordered, per-segment geometries carrying **confidence** and geometry provenance
@@ -48,8 +48,8 @@ This repository is a **point-in-time snapshot (2026-07-11)** generated from the 
 | `data/stations/historic/stations.geojson` | 218 stations (Point features) |
 | `data/routes/historic/*.geojson` | 21 routes, one file each — a Feature per **segment** (LineString) plus route metadata under a top-level `route` object |
 | `data/infrastructure/historic.geojson` | 7 historic bridges/tunnels (Point features) |
-| `data/sources.json` | The 31 sources every fact is cited to |
-| `data/source_links.json` | 1,238 attribute-level citations (which source backs which field of which feature) |
+| `data/sources.json` | The 37 sources every fact is cited to |
+| `data/source_links.json` | 1,442 attribute-level citations (which source backs which field of which feature) |
 | `data/snapshot.json` | Snapshot metadata (date + counts) |
 
 Every feature carries a `source_ids` array referencing `data/sources.json`, so provenance travels with

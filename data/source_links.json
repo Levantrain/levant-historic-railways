@@ -2682,6 +2682,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "aaraya",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "abu-hammad",
     "aspect": "attribute",
     "field": "name",
@@ -2707,6 +2714,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-hammad",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -2745,6 +2759,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "abu-na-am",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "thehejazrailway"
+  },
+  {
+    "entity_type": "station",
     "entity": "achrafieh",
     "aspect": "attribute",
     "field": "name",
@@ -2773,6 +2794,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "achrafieh",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "acre",
     "aspect": "attribute",
     "field": "name",
@@ -2798,6 +2826,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "acre",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -2836,6 +2871,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "adana",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "afula",
     "aspect": "attribute",
     "field": "name",
@@ -2861,6 +2903,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "afula",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -2892,6 +2941,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "ain-el-fijeh",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "ain-hur",
     "aspect": "attribute",
     "field": "name",
@@ -2917,6 +2973,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ain-hur",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -2983,6 +3046,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "al-dalhamiyya",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "al-hafirah",
     "aspect": "attribute",
     "field": "name",
@@ -3015,6 +3085,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hafirah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "thehejazrailway"
   },
   {
     "entity_type": "station",
@@ -3046,6 +3123,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "al-hama",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "al-hamma",
     "aspect": "attribute",
     "field": "name",
@@ -3074,6 +3158,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "al-hamma",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "al-hasa",
     "aspect": "attribute",
     "field": "name",
@@ -3109,6 +3200,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "al-hasa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "gazetteer_misc"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hasa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "al-khanzira",
     "aspect": "attribute",
     "field": "name",
@@ -3138,6 +3243,41 @@
   {
     "entity_type": "station",
     "entity": "al-khanzira",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-muazzam",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-muazzam",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-muazzam",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-muazzam",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-muazzam",
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
@@ -3145,37 +3285,9 @@
   {
     "entity_type": "station",
     "entity": "al-muazzam",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "arabnews_hejaz"
-  },
-  {
-    "entity_type": "station",
-    "entity": "al-muazzam",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "ochsenwald_1980"
-  },
-  {
-    "entity_type": "station",
-    "entity": "al-muazzam",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "robinson_atlas"
-  },
-  {
-    "entity_type": "station",
-    "entity": "al-muazzam",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "wp_hejaz"
-  },
-  {
-    "entity_type": "station",
-    "entity": "al-muazzam",
     "aspect": "geometry",
-    "field": "coordinate",
-    "source_id": "levantrain_compilation"
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -3207,6 +3319,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "al-qantarah-west",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-qantarah-west",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "al-sanamayn",
     "aspect": "attribute",
     "field": "name",
@@ -3239,6 +3365,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-sanamayn",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -3277,6 +3410,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "al-thawra",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "al-ula",
     "aspect": "attribute",
     "field": "name",
@@ -3309,6 +3449,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-ula",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -3347,6 +3494,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "aleppo",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "alexandria",
     "aspect": "attribute",
     "field": "name",
@@ -3375,6 +3529,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "alexandria",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "aley",
     "aspect": "attribute",
     "field": "name",
@@ -3400,6 +3561,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aley",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -3438,6 +3606,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "amman",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "an-nabk",
     "aspect": "attribute",
     "field": "name",
@@ -3459,6 +3634,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "an-nabk",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "aqaba",
     "aspect": "attribute",
     "field": "name",
@@ -3473,6 +3655,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "aqaba",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "aswan",
     "aspect": "attribute",
     "field": "name",
@@ -3494,6 +3683,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "aswan",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "asyut",
     "aspect": "attribute",
     "field": "name",
@@ -3512,6 +3708,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "asyut",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -3540,6 +3743,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baabda",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -3564,6 +3774,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "baalbek",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "bab-al-wad",
     "aspect": "attribute",
     "field": "name",
@@ -3585,6 +3802,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "bab-al-wad",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "baghdad",
     "aspect": "attribute",
     "field": "name",
@@ -3620,6 +3844,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "baghdad",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "baiji",
     "aspect": "attribute",
     "field": "name",
@@ -3652,6 +3883,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baiji",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -3683,6 +3921,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "balad-al-sheikh",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "banha",
     "aspect": "attribute",
     "field": "name",
@@ -3711,6 +3956,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "banha",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "baniyas",
     "aspect": "attribute",
     "field": "name",
@@ -3722,6 +3974,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baniyas",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -3739,6 +3998,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "baquba",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "basra",
     "aspect": "attribute",
     "field": "name",
@@ -3774,6 +4040,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "basra",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "batn-al-ghul",
     "aspect": "attribute",
     "field": "name",
@@ -3806,6 +4079,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "batn-al-ghul",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -3830,6 +4110,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "battir",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "beersheba",
     "aspect": "attribute",
     "field": "name",
@@ -3848,6 +4135,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beersheba",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -3879,6 +4173,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "beirut",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "beit-she-an",
     "aspect": "attribute",
     "field": "name",
@@ -3907,6 +4208,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "beit-she-an",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "beit-yosef",
     "aspect": "attribute",
     "field": "name",
@@ -3932,6 +4240,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-yosef",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -3956,6 +4271,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "beni-suef",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "bhamdoun",
     "aspect": "attribute",
     "field": "name",
@@ -3984,6 +4306,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "bhamdoun",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "bir-el-abd",
     "aspect": "attribute",
     "field": "name",
@@ -4005,6 +4334,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "bir-el-abd",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "bir-ibn-hermas",
     "aspect": "attribute",
     "field": "name",
@@ -4040,6 +4376,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "bir-ibn-hermas",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "gazetteer_misc"
+  },
+  {
+    "entity_type": "station",
     "entity": "buwair",
     "aspect": "attribute",
     "field": "name",
@@ -4072,6 +4415,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "buwair",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "thehejazrailway"
   },
   {
     "entity_type": "station",
@@ -4103,6 +4453,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "cairo",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cairo",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "cairo-ain-shams",
     "aspect": "attribute",
     "field": "name",
@@ -4128,6 +4492,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cairo-ain-shams",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -4159,6 +4530,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "chekka",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "chtaura",
     "aspect": "attribute",
     "field": "name",
@@ -4184,6 +4562,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "chtaura",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -4222,6 +4607,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "daba-a",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "dahr-al-hajj",
     "aspect": "attribute",
     "field": "name",
@@ -4282,6 +4674,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dahr-el-baidar",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -4313,6 +4712,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "damanhour",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "damascus-hejaz",
     "aspect": "attribute",
     "field": "name",
@@ -4338,6 +4744,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-hejaz",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -4373,6 +4786,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-kadem",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -4397,6 +4817,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "dayr-aban",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "dbpedia"
+  },
+  {
+    "entity_type": "station",
     "entity": "deir-ali",
     "aspect": "attribute",
     "field": "name",
@@ -4432,6 +4859,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "deir-ali",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "deir-el-balah",
     "aspect": "attribute",
     "field": "name",
@@ -4450,6 +4884,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-el-balah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -4467,6 +4908,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "deir-ez-zor",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "deir-qanoun",
     "aspect": "attribute",
     "field": "name",
@@ -4495,6 +4943,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "deir-qanoun",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-qanoun",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "deir-sneid",
     "aspect": "attribute",
     "field": "name",
@@ -4513,6 +4975,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-sneid",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -4541,6 +5010,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deraa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -4579,6 +5055,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "dhat-al-hajj",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "diwaniyah",
     "aspect": "attribute",
     "field": "name",
@@ -4590,6 +5073,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "diwaniyah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -4621,6 +5111,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "dummar",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "edfu",
     "aspect": "attribute",
     "field": "name",
@@ -4639,6 +5136,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "edfu",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -4670,6 +5174,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "ein-harod",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "el-arish",
     "aspect": "attribute",
     "field": "name",
@@ -4688,6 +5199,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-arish",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -4719,6 +5237,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "el-ballah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "el-cap",
     "aspect": "attribute",
     "field": "name",
@@ -4775,6 +5300,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "el-ferdan",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "el-kantara-east",
     "aspect": "attribute",
     "field": "name",
@@ -4796,6 +5328,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "el-kantara-east",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "el-mazar",
     "aspect": "attribute",
     "field": "name",
@@ -4814,6 +5353,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-mazar",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -4915,6 +5461,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "erbil",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "eregli-konya",
     "aspect": "attribute",
     "field": "name",
@@ -4950,6 +5503,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "eregli-konya",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "eskisehir",
     "aspect": "attribute",
     "field": "name",
@@ -4982,6 +5542,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eskisehir",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -5006,6 +5573,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "esna",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "fevzipasa",
     "aspect": "attribute",
     "field": "name",
@@ -5038,6 +5612,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "fevzipasa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -5069,6 +5650,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "furn-el-chebbak",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "gaza",
     "aspect": "attribute",
     "field": "name",
@@ -5087,6 +5675,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaza",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -5122,6 +5717,20 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaziantep",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaziantep",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -5153,6 +5762,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "gesher",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "ghabaghib",
     "aspect": "attribute",
     "field": "name",
@@ -5185,6 +5801,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghabaghib",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -5244,6 +5867,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "gilban",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "hadath",
     "aspect": "attribute",
     "field": "name",
@@ -5269,6 +5899,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadath",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -5293,6 +5930,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "hadera",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "hadiyyah",
     "aspect": "attribute",
     "field": "name",
@@ -5325,6 +5969,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadiyyah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "nabataea"
   },
   {
     "entity_type": "station",
@@ -5356,6 +6007,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "haifa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "halat-ammar",
     "aspect": "attribute",
     "field": "name",
@@ -5388,6 +6046,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "halat-ammar",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -5412,6 +6077,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "hama",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "hasade",
     "aspect": "attribute",
     "field": "name",
@@ -5440,6 +6112,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "hasade",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "hasakah",
     "aspect": "attribute",
     "field": "name",
@@ -5451,6 +6130,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hasakah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -5468,6 +6154,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "hillah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "homs",
     "aspect": "attribute",
     "field": "name",
@@ -5486,6 +6179,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "homs",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -5521,6 +6221,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "islahiye",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -5552,6 +6259,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "ismailia",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "istanbul-haydarpasa",
     "aspect": "attribute",
     "field": "name",
@@ -5587,6 +6301,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "istanbul-haydarpasa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "izmit",
     "aspect": "attribute",
     "field": "name",
@@ -5619,6 +6340,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izmit",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -5657,6 +6385,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "izra",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "jableh",
     "aspect": "attribute",
     "field": "name",
@@ -5668,6 +6403,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jableh",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -5689,6 +6431,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jaffa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -5717,6 +6466,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jamhour",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -5748,6 +6504,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "jbeil",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "jdeideh",
     "aspect": "attribute",
     "field": "name",
@@ -5773,6 +6536,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jdeideh",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -5797,6 +6567,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "jenin",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "jerusalem",
     "aspect": "attribute",
     "field": "name",
@@ -5815,6 +6592,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jerusalem",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "dbpedia"
   },
   {
     "entity_type": "station",
@@ -5881,6 +6665,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "jiza",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "nabataea"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jiza",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "jurf-ad-darawish",
     "aspect": "attribute",
     "field": "name",
@@ -5913,6 +6711,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jurf-ad-darawish",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -5944,6 +6749,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "kafr-el-zayyat",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "karaman",
     "aspect": "attribute",
     "field": "name",
@@ -5979,6 +6791,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "karaman",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "karkamis",
     "aspect": "attribute",
     "field": "name",
@@ -6011,6 +6830,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karkamis",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -6042,6 +6868,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "kfar-yehoshua",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "gazetteer_misc"
+  },
+  {
+    "entity_type": "station",
     "entity": "khan-az-zabib",
     "aspect": "attribute",
     "field": "name",
@@ -6074,6 +6907,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-az-zabib",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -6109,6 +6949,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-dannun",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -6130,6 +6977,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-yunis",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -6182,6 +7036,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "khirbet-as-samra",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "kirkuk",
     "aspect": "attribute",
     "field": "name",
@@ -6214,6 +7075,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kirkuk",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -6280,6 +7148,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "kiswe",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "kom-ombo",
     "aspect": "attribute",
     "field": "name",
@@ -6301,6 +7176,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "kom-ombo",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "konya",
     "aspect": "attribute",
     "field": "name",
@@ -6336,6 +7218,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "konya",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "kut",
     "aspect": "attribute",
     "field": "name",
@@ -6371,6 +7260,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "kut",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "latakia",
     "aspect": "attribute",
     "field": "name",
@@ -6382,6 +7278,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "latakia",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -6406,6 +7309,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "latrun",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "luxor",
     "aspect": "attribute",
     "field": "name",
@@ -6424,6 +7334,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "luxor",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -6448,6 +7365,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "lydda-lod",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "ma-an",
     "aspect": "attribute",
     "field": "name",
@@ -6480,6 +7404,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ma-an",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -6532,6 +7463,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "maarat-al-numan",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "mada-in-salih",
     "aspect": "attribute",
     "field": "name",
@@ -6564,6 +7502,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mada-in-salih",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -6595,6 +7540,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "madaya",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "mafraq",
     "aspect": "attribute",
     "field": "name",
@@ -6627,6 +7579,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mafraq",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -6651,6 +7610,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "mallawi",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "manzil",
     "aspect": "attribute",
     "field": "name",
@@ -6683,6 +7649,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "manzil",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "gazetteer_misc"
   },
   {
     "entity_type": "station",
@@ -6707,6 +7680,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "mas-udiya",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "gazetteer_misc"
+  },
+  {
+    "entity_type": "station",
     "entity": "medina",
     "aspect": "attribute",
     "field": "name",
@@ -6739,6 +7719,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "medina",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -6777,6 +7764,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "meydan-ekbez",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "minya",
     "aspect": "attribute",
     "field": "name",
@@ -6795,6 +7789,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "minya",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -6833,6 +7834,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "mosul",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "mreijat",
     "aspect": "attribute",
     "field": "name",
@@ -6858,6 +7866,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mreijat",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -6896,6 +7911,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "mudawwara",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "muzeirib",
     "aspect": "attribute",
     "field": "name",
@@ -6907,6 +7929,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "muzeirib",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -6931,6 +7960,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "nablus",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "nag-hammadi",
     "aspect": "attribute",
     "field": "name",
@@ -6949,6 +7985,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nag-hammadi",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -7008,6 +8051,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "nahariya",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "nasiriyah",
     "aspect": "attribute",
     "field": "name",
@@ -7019,6 +8069,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nasiriyah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -7054,6 +8111,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nassib-jaber",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -7113,6 +8177,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "nesher",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "dbpedia"
+  },
+  {
+    "entity_type": "station",
     "entity": "nusaybin",
     "aspect": "attribute",
     "field": "name",
@@ -7145,6 +8216,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nusaybin",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -7176,6 +8254,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "port-said",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "pozanti",
     "aspect": "attribute",
     "field": "name",
@@ -7211,6 +8296,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "pozanti",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "qalqilya",
     "aspect": "attribute",
     "field": "name",
@@ -7229,6 +8321,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qalqilya",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -7260,6 +8359,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "qalyub",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "qamishli",
     "aspect": "attribute",
     "field": "name",
@@ -7271,6 +8377,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qamishli",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -7337,6 +8450,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "qatrana",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "qena",
     "aspect": "attribute",
     "field": "name",
@@ -7355,6 +8475,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qena",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -7414,6 +8541,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "rajo",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "ramla",
     "aspect": "attribute",
     "field": "name",
@@ -7432,6 +8566,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ramla",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -7470,6 +8611,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "ramtha",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "raqqa",
     "aspect": "attribute",
     "field": "name",
@@ -7481,6 +8629,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "raqqa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -7516,6 +8671,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-ayn",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -7547,6 +8709,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "ras-al-naqoura",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-naqoura",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "raswa",
     "aspect": "attribute",
     "field": "name",
@@ -7600,6 +8776,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rayak",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -7659,6 +8842,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "russeifa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "saadnayel",
     "aspect": "attribute",
     "field": "name",
@@ -7687,6 +8877,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "saadnayel",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "samakh-tzemah",
     "aspect": "attribute",
     "field": "name",
@@ -7712,6 +8909,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samakh-tzemah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -7750,6 +8954,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "samarra",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "samawah",
     "aspect": "attribute",
     "field": "name",
@@ -7761,6 +8972,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samawah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -7792,6 +9010,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "serghaya",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "shata",
     "aspect": "attribute",
     "field": "name",
@@ -7817,6 +9042,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shata",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "dbpedia"
   },
   {
     "entity_type": "station",
@@ -7855,6 +9087,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "sheikh-miskin",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "shellal",
     "aspect": "attribute",
     "field": "name",
@@ -7873,6 +9112,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shellal",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -7918,6 +9164,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "shuruq",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "sidi-gaber",
     "aspect": "attribute",
     "field": "name",
@@ -7943,6 +9196,20 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sidi-gaber",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sidi-gaber",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -7974,6 +9241,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "sidon",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "sofar",
     "aspect": "attribute",
     "field": "name",
@@ -7999,6 +9273,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sofar",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -8023,6 +9304,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "sohag",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "souk-wadi-barada",
     "aspect": "attribute",
     "field": "name",
@@ -8048,6 +9336,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "souk-wadi-barada",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -8086,6 +9381,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "suaq-sultani",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "gazetteer_misc"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suaq-sultani",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "suez",
     "aspect": "attribute",
     "field": "name",
@@ -8111,6 +9420,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suez",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -8174,6 +9490,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tabuk",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -8205,6 +9528,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "tanta",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "tartus",
     "aspect": "attribute",
     "field": "name",
@@ -8216,6 +9546,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tartus",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -8254,6 +9591,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "tel-shahem",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "tel-yosef",
     "aspect": "attribute",
     "field": "name",
@@ -8279,6 +9623,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-yosef",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "dbpedia"
   },
   {
     "entity_type": "station",
@@ -8314,6 +9665,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-abyad",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -8345,6 +9703,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "tell-el-kebir",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "toprakkale",
     "aspect": "attribute",
     "field": "name",
@@ -8380,6 +9745,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "toprakkale",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "tripoli",
     "aspect": "attribute",
     "field": "name",
@@ -8398,6 +9770,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tripoli",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -8422,6 +9801,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "tulkarm",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
     "entity": "tyre",
     "aspect": "attribute",
     "field": "name",
@@ -8447,6 +9833,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tyre",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -8548,6 +9941,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "yagur",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "dbpedia"
+  },
+  {
+    "entity_type": "station",
     "entity": "yahfoufa",
     "aspect": "attribute",
     "field": "name",
@@ -8601,6 +10001,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zabadani",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -8629,6 +10036,20 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zagazig",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zagazig",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -8664,5 +10085,12 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zarqa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
   }
 ]

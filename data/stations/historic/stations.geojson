@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.772,
-          30.528
+          31.67972,
+          30.54444
         ]
       },
       "properties": {
@@ -16,11 +16,12 @@
         "country": "Egypt",
         "role": "Cairo-Ismailia junction",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations",
           "wp_enr"
         ]
@@ -31,8 +32,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.319,
-          30.853
+          32.31393,
+          30.85731
         ]
       },
       "properties": {
@@ -41,11 +42,13 @@
         "country": "Egypt",
         "role": "Cairo-Port Said; Suez Canal west bank (Palestine link at Kantara)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations",
           "wp_enr"
         ]
@@ -56,8 +59,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.919,
-          31.2
+          29.90676,
+          31.19336
         ]
       },
       "properties": {
@@ -67,11 +70,12 @@
         "role": "Alexandria-Cairo terminus (Mediterranean)",
         "confidence": "high",
         "km_from_origin": 0,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "farnworth",
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_enr"
         ]
@@ -82,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.899,
-          24.089
+          32.90253,
+          24.0998
         ]
       },
       "properties": {
@@ -92,10 +96,11 @@
         "country": "Egypt",
         "role": "Upper Egypt terminus",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations"
         ]
@@ -106,8 +111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.183,
-          27.18
+          31.18805,
+          27.18084
         ]
       },
       "properties": {
@@ -116,10 +121,11 @@
         "country": "Egypt",
         "role": "Upper Egypt junction; reached 1874",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations"
         ]
@@ -130,8 +136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.183,
-          30.464
+          31.1833,
+          30.4667
         ]
       },
       "properties": {
@@ -140,10 +146,11 @@
         "country": "Egypt",
         "role": "Alexandria-Cairo junction",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "farnworth",
+          "geonames",
           "levantrain_compilation",
           "railwaywonders",
           "wp_enr"
@@ -155,8 +162,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.099,
-          29.074
+          31.0833,
+          29.0667
         ]
       },
       "properties": {
@@ -165,9 +172,10 @@
         "country": "Egypt",
         "role": "Upper Egypt main-line station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "railwaywonders",
           "wp_egypt_stations"
@@ -179,8 +187,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.01,
-          31.02
+          33.011111,
+          31.018056
         ]
       },
       "properties": {
@@ -189,11 +197,12 @@
         "country": "Egypt",
         "role": "Sinai desert railhead (WWI)",
         "confidence": "low",
-        "verification_status": "unverified",
-        "precision": "unknown",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_palestine_rw"
         ]
       }
@@ -203,8 +212,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.245,
-          30.06
+          31.24605,
+          30.06298
         ]
       },
       "properties": {
@@ -213,11 +222,13 @@
         "country": "Egypt",
         "role": "Cairo terminus (Ramses/Bab al-Hadid)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "farnworth",
+          "geonames",
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_enr"
         ]
@@ -228,8 +239,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.317,
-          30.129
+          31.31911,
+          30.131
         ]
       },
       "properties": {
@@ -238,10 +249,11 @@
         "country": "Egypt",
         "role": "Modern Cairo-Suez desert-line junction (NE Cairo)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations",
           "wp_enr"
@@ -254,7 +266,7 @@
         "type": "Point",
         "coordinates": [
           30.47,
-          31.034
+          31.04056
         ]
       },
       "properties": {
@@ -264,12 +276,13 @@
         "role": "Alexandria-Cairo stop",
         "confidence": "medium",
         "notes": "CANDIDATE: on the main-line corridor; not explicitly confirmed for the original line.",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "farnworth",
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_enr"
         ]
       }
@@ -279,8 +292,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.873,
-          24.978
+          32.87333,
+          24.97778
         ]
       },
       "properties": {
@@ -289,11 +302,12 @@
         "country": "Egypt",
         "role": "Upper Egypt main-line station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations"
         ]
       }
@@ -303,8 +317,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.801,
-          31.131
+          33.803376,
+          31.132072
         ]
       },
       "properties": {
@@ -313,11 +327,12 @@
         "country": "Egypt",
         "role": "Sinai station (reached Jan 1917)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_palestine_rw"
         ]
       }
@@ -327,8 +342,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.32,
-          30.76
+          32.31668,
+          30.77088
         ]
       },
       "properties": {
@@ -337,10 +352,11 @@
         "country": "Egypt",
         "role": "Canal-side station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations",
           "wp_enr"
@@ -377,8 +393,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.33,
-          30.65
+          32.334,
+          30.657
         ]
       },
       "properties": {
@@ -387,11 +403,12 @@
         "country": "Egypt",
         "role": "Canal-side station; El Ferdan swing bridge toward Sinai",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "approx",
         "source_ids": [
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations",
           "wp_enr"
         ]
@@ -402,8 +419,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.335,
-          30.86
+          32.33444,
+          30.86972
         ]
       },
       "properties": {
@@ -412,11 +429,12 @@
         "country": "Egypt",
         "role": "Sinai Military Railway start (east bank of the Suez Canal)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_palestine_rw"
         ]
       }
@@ -426,8 +444,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.5,
-          31.05
+          33.3883,
+          31.0339
         ]
       },
       "properties": {
@@ -436,10 +454,11 @@
         "country": "Egypt",
         "role": "Sinai desert railhead (WWI)",
         "confidence": "low",
-        "verification_status": "unverified",
-        "precision": "unknown",
+        "verification_status": "verified",
+        "precision": "approx",
         "source_ids": [
           "cotterell_1984",
+          "geonames",
           "levantrain_compilation",
           "wp_palestine_rw"
         ]
@@ -475,8 +494,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.554,
-          25.293
+          32.55,
+          25.3
         ]
       },
       "properties": {
@@ -485,11 +504,12 @@
         "country": "Egypt",
         "role": "Upper Egypt main-line station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations"
         ]
       }
@@ -499,8 +519,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.6,
-          31.0
+          32.50122,
+          30.93487
         ]
       },
       "properties": {
@@ -509,11 +529,12 @@
         "country": "Egypt",
         "role": "Sinai desert railhead (WWI)",
         "confidence": "low",
-        "verification_status": "unverified",
-        "precision": "unknown",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "osm",
           "wp_palestine_rw"
         ]
       }
@@ -523,8 +544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.273,
-          30.604
+          32.27006,
+          30.59333
         ]
       },
       "properties": {
@@ -533,10 +554,11 @@
         "country": "Egypt",
         "role": "Cairo-Port Said junction (Suez Canal)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations",
           "wp_enr"
@@ -548,8 +570,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.821,
-          30.824
+          30.815278,
+          30.824722
         ]
       },
       "properties": {
@@ -558,12 +580,13 @@
         "country": "Egypt",
         "role": "Alexandria-Cairo (Rosetta Nile branch); 1854 railhead",
         "confidence": "high",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "farnworth",
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_enr"
         ]
       }
@@ -573,8 +596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.943,
-          24.476
+          32.947017,
+          24.476656
         ]
       },
       "properties": {
@@ -583,10 +606,11 @@
         "country": "Egypt",
         "role": "Upper Egypt main-line station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations"
         ]
@@ -597,8 +621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.64,
-          25.699
+          32.644683,
+          25.696546
         ]
       },
       "properties": {
@@ -607,10 +631,11 @@
         "country": "Egypt",
         "role": "Upper Egypt; reached 1898",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations"
         ]
@@ -621,8 +646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.841,
-          27.732
+          30.84111,
+          27.73194
         ]
       },
       "properties": {
@@ -631,11 +656,12 @@
         "country": "Egypt",
         "role": "Upper Egypt main-line station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations"
         ]
       }
@@ -645,8 +671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.75,
-          28.109
+          30.74444,
+          28.11944
         ]
       },
       "properties": {
@@ -655,11 +681,12 @@
         "country": "Egypt",
         "role": "Upper Egypt main-line station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations"
         ]
       }
@@ -669,8 +696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.239,
-          26.048
+          32.24105,
+          26.043278
         ]
       },
       "properties": {
@@ -679,10 +706,11 @@
         "country": "Egypt",
         "role": "Upper Egypt; Nile crossing",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations"
         ]
@@ -718,8 +746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.301,
-          31.265
+          32.3055,
+          31.2632
         ]
       },
       "properties": {
@@ -728,10 +756,11 @@
         "country": "Egypt",
         "role": "Cairo-Port Said terminus (Mediterranean)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations",
           "wp_enr"
@@ -743,8 +772,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.207,
-          30.178
+          31.225432,
+          30.179785
         ]
       },
       "properties": {
@@ -754,11 +783,12 @@
         "role": "Alexandria-Cairo stop (N of Cairo)",
         "confidence": "medium",
         "notes": "CANDIDATE: on the main-line corridor; not explicitly confirmed for the original line.",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "farnworth",
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_enr"
         ]
@@ -794,8 +824,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.716,
-          26.164
+          32.72722,
+          26.17
         ]
       },
       "properties": {
@@ -804,11 +834,12 @@
         "country": "Egypt",
         "role": "Upper Egypt junction (Kena-Aswan Rly)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations"
         ]
       }
@@ -867,8 +898,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.893,
-          24.02
+          32.88333,
+          24.05
         ]
       },
       "properties": {
@@ -878,11 +909,12 @@
         "role": "Historic terminus; 1884 military line to Aswan",
         "confidence": "medium",
         "notes": "1884 military line (first Sudan campaign); regauged to standard gauge 1926 (railwaywonders).",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations"
         ]
       }
@@ -892,8 +924,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.61,
-          30.121
+          31.629562,
+          30.148854
         ]
       },
       "properties": {
@@ -902,10 +934,11 @@
         "country": "Egypt",
         "role": "Modern Cairo-Suez desert-line station (El Shorouk)",
         "confidence": "low",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations",
           "wp_enr"
@@ -917,8 +950,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.943,
-          31.216
+          29.942465,
+          31.218991
         ]
       },
       "properties": {
@@ -928,12 +961,14 @@
         "role": "Alexandria-Cairo stop (Alexandria)",
         "confidence": "low",
         "notes": "CANDIDATE: main-line stop, not confirmed on the original 1854-56 line.",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "farnworth",
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_enr"
         ]
       }
@@ -943,8 +978,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.695,
-          26.557
+          31.699088,
+          26.551439
         ]
       },
       "properties": {
@@ -953,10 +988,11 @@
         "country": "Egypt",
         "role": "Upper Egypt main-line station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_egypt_stations"
         ]
@@ -968,7 +1004,7 @@
         "type": "Point",
         "coordinates": [
           32.55,
-          29.97
+          29.967
         ]
       },
       "properties": {
@@ -977,11 +1013,12 @@
         "country": "Egypt",
         "role": "Cairo-Suez terminus (Red Sea)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations",
           "wp_enr"
         ]
@@ -1017,8 +1054,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.0,
-          30.788
+          30.99421,
+          30.78133
         ]
       },
       "properties": {
@@ -1028,11 +1065,12 @@
         "role": "Alexandria-Cairo principal junction",
         "confidence": "high",
         "notes": "Described as the important junction between Alexandria and Cairo (railwaywonders).",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "farnworth",
           "levantrain_compilation",
+          "osm",
           "railwaywonders",
           "wp_enr"
         ]
@@ -1043,8 +1081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.679,
-          30.548
+          31.77806,
+          30.54556
         ]
       },
       "properties": {
@@ -1053,11 +1091,12 @@
         "country": "Egypt",
         "role": "Cairo-Ismailia station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations",
           "wp_enr"
         ]
@@ -1068,8 +1107,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.503,
-          30.588
+          31.502,
+          30.5877
         ]
       },
       "properties": {
@@ -1078,11 +1117,13 @@
         "country": "Egypt",
         "role": "Eastern Delta junction (Cairo-Ismailia)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "railwaywonders",
+          "wikipedia_geo",
           "wp_egypt_stations",
           "wp_enr"
         ]
@@ -1117,8 +1158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.361,
-          33.312
+          44.38028,
+          33.32361
         ]
       },
       "properties": {
@@ -1127,11 +1168,12 @@
         "country": "Iraq",
         "role": "Baghdad Railway hub",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -1143,8 +1185,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.49,
-          34.929
+          43.4892,
+          34.9242
         ]
       },
       "properties": {
@@ -1153,10 +1195,11 @@
         "country": "Iraq",
         "role": "Mosul-Baghdad main-line station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "britannica_baghdad",
+          "geonames",
           "levantrain_compilation",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
@@ -1169,8 +1212,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.63,
-          33.75
+          44.6437,
+          33.7466
         ]
       },
       "properties": {
@@ -1179,9 +1222,10 @@
         "country": "Iraq",
         "role": "Baghdad-Kirkuk line station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_iraq"
         ]
@@ -1192,8 +1236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.784,
-          30.508
+          47.78467,
+          30.55992
         ]
       },
       "properties": {
@@ -1202,11 +1246,12 @@
         "country": "Iraq",
         "role": "Southern terminus (Persian Gulf)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -1218,8 +1263,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.92,
-          31.99
+          44.9255,
+          31.9929
         ]
       },
       "properties": {
@@ -1228,9 +1273,10 @@
         "country": "Iraq",
         "role": "Basra-Baghdad metre-gauge station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_iraq"
         ]
@@ -1241,8 +1287,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.01,
-          36.19
+          44.0106,
+          36.1926
         ]
       },
       "properties": {
@@ -1251,9 +1297,10 @@
         "country": "Iraq",
         "role": "Kirkuk-Erbil terminus (opened 1949)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_iraq"
         ]
@@ -1264,8 +1311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.43,
-          32.47
+          44.4333,
+          32.4833
         ]
       },
       "properties": {
@@ -1274,9 +1321,10 @@
         "country": "Iraq",
         "role": "Basra-Baghdad metre-gauge station (Babylon)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_iraq"
         ]
@@ -1310,8 +1358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.392,
-          35.468
+          44.361505,
+          35.446113
         ]
       },
       "properties": {
@@ -1321,11 +1369,12 @@
         "role": "Baghdad-Kirkuk branch (not the Mosul-Baghdad main line)",
         "confidence": "medium",
         "notes": "Kirkuk lies on a separate branch; the Baghdad Railway main line runs Mosul-Baiji-Samarra-Baghdad.",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "osm",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -1338,7 +1387,7 @@
         "type": "Point",
         "coordinates": [
           45.818,
-          32.512
+          32.5088
         ]
       },
       "properties": {
@@ -1347,10 +1396,11 @@
         "country": "Iraq",
         "role": "Baghdad-Basra line station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "britannica_baghdad",
+          "geonames",
           "levantrain_compilation",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
@@ -1363,8 +1413,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.13,
-          36.34
+          43.1189,
+          36.335
         ]
       },
       "properties": {
@@ -1373,10 +1423,11 @@
         "country": "Iraq",
         "role": "Baghdad Railway station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "britannica_baghdad",
+          "geonames",
           "levantrain_compilation",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
@@ -1389,7 +1440,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.26,
+          46.2667,
           31.05
         ]
       },
@@ -1399,9 +1450,10 @@
         "country": "Iraq",
         "role": "Basra-Baghdad metre-gauge station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_iraq"
         ]
@@ -1412,8 +1464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.875,
-          34.198
+          43.8333,
+          34.1667
         ]
       },
       "properties": {
@@ -1422,10 +1474,11 @@
         "country": "Iraq",
         "role": "Mosul-Baghdad main-line station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
+          "geonames",
           "levantrain_compilation",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
@@ -1438,8 +1491,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.29,
-          31.33
+          45.2944,
+          31.332
         ]
       },
       "properties": {
@@ -1448,9 +1501,10 @@
         "country": "Iraq",
         "role": "Basra-Baghdad metre-gauge station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_iraq"
         ]
@@ -1461,8 +1515,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.08,
-          32.928
+          35.08306,
+          32.92819
         ]
       },
       "properties": {
@@ -1471,11 +1525,12 @@
         "country": "Israel",
         "role": "HBT coastal station (Akko)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "awm_hbt",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon",
           "wp_palestine_rw"
         ]
@@ -1486,8 +1541,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.29,
-          32.606
+          35.295226,
+          32.621563
         ]
       },
       "properties": {
@@ -1497,10 +1552,11 @@
         "role": "Jezreel Valley junction (Nablus ext.)",
         "confidence": "high",
         "km_from_origin": 36.4,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
@@ -1512,8 +1568,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.075,
-          32.79
+          35.04278,
+          32.7725
         ]
       },
       "properties": {
@@ -1523,11 +1579,12 @@
         "role": "Haifa-Deraa station",
         "confidence": "medium",
         "km_from_origin": 4.5,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "shemer_jezreel",
+          "wikipedia_geo",
           "wp_hejaz",
           "wp_jezreel"
         ]
@@ -1538,8 +1595,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.5,
-          32.497
+          35.488526,
+          32.515005
         ]
       },
       "properties": {
@@ -1549,10 +1606,11 @@
         "role": "Jezreel Valley station",
         "confidence": "high",
         "km_from_origin": 59.3,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
@@ -1564,8 +1622,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.52,
-          32.53
+          35.551,
+          32.5552
         ]
       },
       "properties": {
@@ -1574,9 +1632,10 @@
         "country": "Israel",
         "role": "Added Jordan-valley halt (1937)",
         "confidence": "low",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "shemer_jezreel",
           "wp_hejaz",
@@ -1589,8 +1648,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.392,
-          32.558
+          35.393578,
+          32.559218
         ]
       },
       "properties": {
@@ -1599,10 +1658,11 @@
         "country": "Israel",
         "role": "Added Harod-valley halt (1921)",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
@@ -1639,8 +1699,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.553,
-          32.622
+          35.55222,
+          32.62139
         ]
       },
       "properties": {
@@ -1649,11 +1709,12 @@
         "country": "Israel",
         "role": "Haifa-Deraa station (Mujami bridge)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "shemer_jezreel",
+          "wikipedia_geo",
           "wp_hejaz",
           "wp_jezreel"
         ]
@@ -1664,8 +1725,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.46,
-          32.512
+          35.4757,
+          32.5218
         ]
       },
       "properties": {
@@ -1674,9 +1735,10 @@
         "country": "Israel",
         "role": "Added Harod-valley halt (1934)",
         "confidence": "low",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "shemer_jezreel",
           "wp_hejaz",
@@ -1689,8 +1751,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.919,
-          32.434
+          34.95,
+          32.44611
         ]
       },
       "properties": {
@@ -1699,10 +1761,11 @@
         "country": "Israel",
         "role": "Eastern Railway / coastal branch",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_israel_rw",
           "wp_palestine_rw"
         ]
@@ -1713,8 +1776,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.99,
-          32.819
+          35.00472,
+          32.81194
         ]
       },
       "properties": {
@@ -1724,11 +1787,12 @@
         "role": "Haifa terminus; junction; port",
         "confidence": "high",
         "km_from_origin": 0,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
           "shemer_jezreel",
+          "wikipedia_geo",
           "wp_hejaz",
           "wp_jezreel"
         ]
@@ -1739,8 +1803,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.752,
-          32.055
+          34.7614,
+          32.059
         ]
       },
       "properties": {
@@ -1750,11 +1814,12 @@
         "role": "Jaffa-Jerusalem terminus",
         "confidence": "high",
         "km_from_origin": 0,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_jaffa_jerusalem"
         ]
       }
@@ -1764,8 +1829,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.15,
-          32.717
+          35.11653,
+          32.701462
         ]
       },
       "properties": {
@@ -1775,9 +1840,10 @@
         "role": "Jezreel Valley station (loco depot)",
         "confidence": "high",
         "km_from_origin": 21.8,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
+          "gazetteer_misc",
           "levantrain_compilation",
           "shemer_jezreel",
           "wp_hejaz",
@@ -1815,8 +1881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.89,
-          31.951
+          34.87556,
+          31.94583
         ]
       },
       "properties": {
@@ -1826,11 +1892,12 @@
         "role": "Junction",
         "confidence": "high",
         "km_from_origin": 19.1,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_jaffa_jerusalem"
         ]
       }
@@ -1840,8 +1907,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.094,
-          33.009
+          35.09889,
+          33.00528
         ]
       },
       "properties": {
@@ -1850,11 +1917,12 @@
         "country": "Israel",
         "role": "HBT station; northern end of the surviving Israeli section",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "awm_hbt",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon",
           "wp_palestine_rw"
         ]
@@ -1865,8 +1933,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.045,
-          32.767
+          35.039444,
+          32.771111
         ]
       },
       "properties": {
@@ -1875,9 +1943,10 @@
         "country": "Israel",
         "role": "Added valley halt (founded 1925)",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
+          "dbpedia",
           "levantrain_compilation",
           "shemer_jezreel",
           "wp_hejaz",
@@ -1890,8 +1959,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.871,
-          31.928
+          34.8809,
+          31.9231
         ]
       },
       "properties": {
@@ -1901,11 +1970,12 @@
         "role": "Jaffa-Jerusalem station",
         "confidence": "high",
         "km_from_origin": 22.5,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_jaffa_jerusalem"
         ]
       }
@@ -1915,8 +1985,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.583,
-          32.702
+          35.58333,
+          32.7
         ]
       },
       "properties": {
@@ -1926,10 +1996,11 @@
         "role": "Sea of Galilee station",
         "confidence": "high",
         "km_from_origin": 86.9,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
@@ -1941,8 +2012,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.44,
-          32.53
+          35.4375,
+          32.554165
         ]
       },
       "properties": {
@@ -1951,9 +2022,10 @@
         "country": "Israel",
         "role": "Added Harod-valley halt",
         "confidence": "low",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
+          "dbpedia",
           "levantrain_compilation",
           "shemer_jezreel",
           "wp_hejaz",
@@ -1966,8 +2038,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.405,
-          32.553
+          35.401112,
+          32.556389
         ]
       },
       "properties": {
@@ -1976,9 +2048,10 @@
         "country": "Israel",
         "role": "Added Harod-valley halt",
         "confidence": "low",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
+          "dbpedia",
           "levantrain_compilation",
           "shemer_jezreel",
           "wp_hejaz",
@@ -1991,8 +2064,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.075,
-          32.742
+          35.077221,
+          32.74139
         ]
       },
       "properties": {
@@ -2001,9 +2074,10 @@
         "country": "Israel",
         "role": "Added valley halt (1920s)",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
+          "dbpedia",
           "levantrain_compilation",
           "shemer_jezreel",
           "wp_hejaz",
@@ -2016,8 +2090,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.585,
-          32.66
+          35.5758,
+          32.6548
         ]
       },
       "properties": {
@@ -2026,9 +2100,10 @@
         "country": "Israel",
         "role": "Added Jordan-valley halt",
         "confidence": "low",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "shemer_jezreel",
           "wp_hejaz",
@@ -2091,8 +2166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.02,
-          31.81
+          35.0333,
+          31.8167
         ]
       },
       "properties": {
@@ -2102,10 +2177,11 @@
         "role": "Ayalon-valley ROAD corridor (Sha'ar HaGai)",
         "confidence": "low",
         "notes": "NOT a station on the historic Jaffa-Jerusalem railway; Bab al-Wad is the road pass into the hills, not the railway’s Sorek-valley route.",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "approx",
         "source_ids": [
           "cotterell_1984",
+          "geonames",
           "levantrain_compilation",
           "wp_jaffa_jerusalem"
         ]
@@ -2116,8 +2192,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.792,
-          31.252
+          34.784879,
+          31.24537
         ]
       },
       "properties": {
@@ -2126,11 +2202,12 @@
         "country": "Israel/Palestine",
         "role": "Beersheba-branch terminus (1918)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_palestine_rw"
         ]
       }
@@ -2140,8 +2217,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.983,
-          31.75
+          34.990875,
+          31.757437
         ]
       },
       "properties": {
@@ -2151,10 +2228,11 @@
         "role": "Jaffa-Jerusalem station (later Hartuv)",
         "confidence": "medium",
         "km_from_origin": 50.3,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "cotterell_1984",
+          "dbpedia",
           "levantrain_compilation",
           "wp_jaffa_jerusalem"
         ]
@@ -2165,8 +2243,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.218,
-          31.778
+          35.224712,
+          31.76685
         ]
       },
       "properties": {
@@ -2176,10 +2254,11 @@
         "role": "Jaffa-Jerusalem terminus",
         "confidence": "high",
         "km_from_origin": 86.6,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "cotterell_1984",
+          "dbpedia",
           "levantrain_compilation",
           "wp_jaffa_jerusalem"
         ]
@@ -2190,8 +2269,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.98,
-          31.838
+          34.98139,
+          31.83194
         ]
       },
       "properties": {
@@ -2201,11 +2280,12 @@
         "role": "Ayalon-valley ROAD corridor (not on the 1892 railway)",
         "confidence": "low",
         "notes": "NOT a station on the historic Jaffa-Jerusalem railway; Latrun is on the Ayalon road corridor / near the modern line, not the Sorek-valley alignment.",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "approx",
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_jaffa_jerusalem"
         ]
       }
@@ -2215,8 +2295,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.664,
-          32.681
+          35.6592,
+          32.6837
         ]
       },
       "properties": {
@@ -2226,9 +2306,10 @@
         "role": "Yarmuk gorge station (Hamat Gader)",
         "confidence": "high",
         "km_from_origin": 95.3,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "shemer_jezreel",
           "wp_hejaz",
@@ -2241,8 +2322,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.934,
-          30.839
+          35.9772,
+          30.8186
         ]
       },
       "properties": {
@@ -2251,10 +2332,12 @@
         "country": "Jordan",
         "role": "Hejaz station",
         "confidence": "high",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
+          "gazetteer_misc",
+          "geonames",
           "ochsenwald_1980",
           "robinson_atlas",
           "wp_hejaz"
@@ -2266,8 +2349,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.945,
-          31.955
+          35.96879,
+          31.96884
         ]
       },
       "properties": {
@@ -2276,12 +2359,13 @@
         "country": "Jordan",
         "role": "Hejaz Jordan Railway HQ",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "osm",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -2292,8 +2376,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.006,
-          29.532
+          35.01781,
+          29.5328
         ]
       },
       "properties": {
@@ -2302,10 +2386,11 @@
         "country": "Jordan",
         "role": "Red Sea port terminus (phosphate)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "wp_jordan"
         ]
       }
@@ -2315,8 +2400,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.9,
-          29.7
+          35.9133,
+          29.6767
         ]
       },
       "properties": {
@@ -2326,10 +2411,11 @@
         "role": "Hejaz station (escarpment)",
         "confidence": "medium",
         "km_from_origin": 519.7,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
+          "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -2342,8 +2428,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.03,
-          31.6
+          36.0614,
+          31.5944
         ]
       },
       "properties": {
@@ -2353,10 +2439,11 @@
         "role": "Hejaz station",
         "confidence": "medium",
         "km_from_origin": 278.7,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
+          "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -2396,8 +2483,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.0,
-          31.7
+          35.96171,
+          31.71186
         ]
       },
       "properties": {
@@ -2406,12 +2493,14 @@
         "country": "Jordan",
         "role": "Heritage-train terminus S of Amman",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
+          "nabataea",
           "ochsenwald_1980",
+          "osm",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -2422,8 +2511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.9,
-          30.71
+          35.8667,
+          30.6833
         ]
       },
       "properties": {
@@ -2432,10 +2521,11 @@
         "country": "Jordan",
         "role": "Hejaz station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
+          "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -2448,8 +2538,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.106,
-          31.472
+          36.1125,
+          31.4736
         ]
       },
       "properties": {
@@ -2459,10 +2549,11 @@
         "role": "Hejaz station (Umayyad site)",
         "confidence": "high",
         "km_from_origin": 295.2,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
+          "geonames",
           "ochsenwald_1980",
           "robinson_atlas",
           "wp_hejaz"
@@ -2474,8 +2565,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.167,
-          32.183
+          36.16233,
+          32.18061
         ]
       },
       "properties": {
@@ -2484,11 +2575,12 @@
         "country": "Jordan",
         "role": "Hejaz station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "exact",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "ochsenwald_1980",
+          "osm",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -2499,8 +2591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.734,
-          30.192
+          35.7341,
+          30.1962
         ]
       },
       "properties": {
@@ -2509,10 +2601,11 @@
         "country": "Jordan",
         "role": "Junction: Hejaz trunk x Aqaba branch",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
+          "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -2526,7 +2619,7 @@
         "type": "Point",
         "coordinates": [
           36.208,
-          32.343
+          32.3429
         ]
       },
       "properties": {
@@ -2535,10 +2628,11 @@
         "country": "Jordan",
         "role": "Hejaz station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
+          "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -2551,8 +2645,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.05,
-          31.15
+          36.003,
+          31.085
         ]
       },
       "properties": {
@@ -2562,10 +2656,11 @@
         "role": "Hejaz station",
         "confidence": "low",
         "km_from_origin": 348.4,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "approx",
         "source_ids": [
           "arabnews_hejaz",
+          "gazetteer_misc",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -2578,8 +2673,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.994,
-          29.331
+          36.02527,
+          29.333505
         ]
       },
       "properties": {
@@ -2588,13 +2683,14 @@
         "country": "Jordan",
         "role": "Hejaz station; Jordan-Saudi border",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -2604,8 +2700,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.053,
-          31.248
+          36.04722,
+          31.25361
         ]
       },
       "properties": {
@@ -2614,13 +2710,14 @@
         "country": "Jordan",
         "role": "Hejaz station (triangle)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -2630,8 +2727,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.006,
-          32.557
+          36.0069,
+          32.5592
         ]
       },
       "properties": {
@@ -2640,10 +2737,11 @@
         "country": "Jordan",
         "role": "Hejaz station near the Syrian border",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
+          "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -2656,8 +2754,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.046,
-          32.018
+          36.04639,
+          32.01778
         ]
       },
       "properties": {
@@ -2666,13 +2764,14 @@
         "country": "Jordan",
         "role": "Hejaz station (1930s)",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -2705,8 +2804,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.1,
-          31.35
+          36.0667,
+          31.4
         ]
       },
       "properties": {
@@ -2716,10 +2815,12 @@
         "role": "Hejaz station",
         "confidence": "medium",
         "km_from_origin": 309.3,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "approx",
         "source_ids": [
           "arabnews_hejaz",
+          "gazetteer_misc",
+          "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -2732,8 +2833,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.95,
-          29.59
+          35.9667,
+          29.4667
         ]
       },
       "properties": {
@@ -2743,10 +2844,11 @@
         "role": "Hejaz station (Arab Revolt site)",
         "confidence": "medium",
         "km_from_origin": 545,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
+          "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -2814,8 +2916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.088,
-          32.072
+          36.1,
+          32.083
         ]
       },
       "properties": {
@@ -2824,13 +2926,14 @@
         "country": "Jordan",
         "role": "Hejaz station (Qasr Shabib)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -2840,8 +2943,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.605,
-          33.823
+          35.589313,
+          33.829115
         ]
       },
       "properties": {
@@ -2851,12 +2954,13 @@
         "role": "Rack-climb station (Chouit-Aaraya)",
         "confidence": "medium",
         "elevation_m": 530,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -2866,8 +2970,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.6,
-          33.805
+          35.6125,
+          33.80806
         ]
       },
       "properties": {
@@ -2877,12 +2981,13 @@
         "role": "Mountain resort station",
         "confidence": "medium",
         "elevation_m": 830,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -2892,8 +2997,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.545,
-          33.833
+          35.5436,
+          33.8342
         ]
       },
       "properties": {
@@ -2903,12 +3008,13 @@
         "role": "Rack-climb station",
         "confidence": "medium",
         "elevation_m": 210,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -2918,8 +3024,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.208,
-          34.006
+          36.207322,
+          34.006336
         ]
       },
       "properties": {
@@ -2929,11 +3035,12 @@
         "role": "Rayak-Baalbek station (Roman ruins); km 26.8 from Rayak",
         "confidence": "high",
         "km_from_origin": 26.8,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "internationalsteam",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -2943,8 +3050,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.508,
-          33.895
+          35.528622,
+          33.898129
         ]
       },
       "properties": {
@@ -2954,12 +3061,13 @@
         "role": "Coastal terminus (Mar Mikhael); rack climb begins",
         "confidence": "high",
         "elevation_m": 18,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -2969,8 +3077,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.661,
-          33.796
+          35.65528,
+          33.80972
         ]
       },
       "properties": {
@@ -2980,12 +3088,13 @@
         "role": "Mountain station",
         "confidence": "medium",
         "elevation_m": 1075,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -2995,8 +3104,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.71,
-          34.3
+          35.733,
+          34.333
         ]
       },
       "properties": {
@@ -3005,11 +3114,12 @@
         "country": "Lebanon",
         "role": "HBT station; Chekka headland tunnel",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "awm_hbt",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon",
           "wp_palestine_rw"
         ]
@@ -3020,8 +3130,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.855,
-          33.817
+          35.85472,
+          33.81472
         ]
       },
       "properties": {
@@ -3031,12 +3141,13 @@
         "role": "Beqaa junction station (Jdita/Chtaura)",
         "confidence": "high",
         "elevation_m": 1005,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -3046,8 +3157,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.76,
-          33.82
+          35.76188,
+          33.81034
         ]
       },
       "properties": {
@@ -3057,12 +3168,13 @@
         "role": "Summit of the line (Dar al-Baidar pass)",
         "confidence": "high",
         "elevation_m": 1490,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -3072,8 +3184,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.525,
-          33.865
+          35.52552,
+          33.8716
         ]
       },
       "properties": {
@@ -3083,12 +3195,13 @@
         "role": "Beirut suburban station",
         "confidence": "medium",
         "elevation_m": 30,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -3098,8 +3211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.538,
-          33.842
+          35.53633,
+          33.834998
         ]
       },
       "properties": {
@@ -3109,12 +3222,13 @@
         "role": "Rack-climb station",
         "confidence": "medium",
         "elevation_m": 86,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -3124,8 +3238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.585,
-          33.828
+          35.57194,
+          33.82861
         ]
       },
       "properties": {
@@ -3135,12 +3249,13 @@
         "role": "Rack-climb station",
         "confidence": "medium",
         "elevation_m": 380,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -3150,8 +3265,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.647,
-          34.123
+          35.65194,
+          34.12361
         ]
       },
       "properties": {
@@ -3160,11 +3275,12 @@
         "country": "Lebanon",
         "role": "HBT coastal station (Byblos)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "awm_hbt",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon",
           "wp_palestine_rw"
         ]
@@ -3201,8 +3317,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.8,
-          33.805
+          35.81678,
+          33.80698
         ]
       },
       "properties": {
@@ -3212,12 +3328,13 @@
         "role": "Beqaa descent station",
         "confidence": "medium",
         "elevation_m": 1200,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -3227,7 +3344,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.987,
+          35.988,
           33.851
         ]
       },
@@ -3238,12 +3355,13 @@
         "role": "Gauge-break junction; DHP workshops",
         "confidence": "high",
         "elevation_m": 928,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -3253,8 +3371,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.9,
-          33.752
+          35.88278,
+          33.82
         ]
       },
       "properties": {
@@ -3264,12 +3382,13 @@
         "role": "Beqaa station",
         "confidence": "medium",
         "elevation_m": 918,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -3279,8 +3398,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.375,
-          33.56
+          35.37583,
+          33.56056
         ]
       },
       "properties": {
@@ -3289,11 +3408,12 @@
         "country": "Lebanon",
         "role": "HBT coastal station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "awm_hbt",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon",
           "wp_palestine_rw"
         ]
@@ -3304,8 +3424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.723,
-          33.788
+          35.70122,
+          33.80206
         ]
       },
       "properties": {
@@ -3315,12 +3435,13 @@
         "role": "Mountain station near summit",
         "confidence": "medium",
         "elevation_m": 1278,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -3330,8 +3451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.844,
-          34.436
+          35.8497,
+          34.4367
         ]
       },
       "properties": {
@@ -3340,9 +3461,10 @@
         "country": "Lebanon",
         "role": "Tripoli-Homs / HBT northern terminus (coast)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_lebanon",
           "wp_syria"
@@ -3354,8 +3476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.196,
-          33.271
+          35.2098,
+          33.268
         ]
       },
       "properties": {
@@ -3364,10 +3486,11 @@
         "country": "Lebanon",
         "role": "HBT coastal station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "awm_hbt",
+          "geonames",
           "levantrain_compilation",
           "wp_lebanon",
           "wp_palestine_rw"
@@ -3404,8 +3527,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.108,
-          33.09
+          35.10387,
+          33.09442
         ]
       },
       "properties": {
@@ -3414,11 +3537,13 @@
         "country": "Lebanon/Israel",
         "role": "HBT border headland (Rosh HaNikra)",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "approx",
         "source_ids": [
           "awm_hbt",
+          "geonames",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon",
           "wp_palestine_rw"
         ]
@@ -3429,8 +3554,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.57,
-          31.58
+          34.55,
+          31.56667
         ]
       },
       "properties": {
@@ -3439,11 +3564,12 @@
         "country": "Palestine",
         "role": "Junction for the Beersheba branch (1918)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "osm",
           "wp_palestine_rw"
         ]
       }
@@ -3453,8 +3579,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.35,
-          31.418
+          34.3503,
+          31.4178
         ]
       },
       "properties": {
@@ -3463,10 +3589,11 @@
         "country": "Palestine",
         "role": "Gaza-Strip station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "cotterell_1984",
+          "geonames",
           "levantrain_compilation",
           "wp_palestine_rw"
         ]
@@ -3477,8 +3604,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.466,
-          31.504
+          34.4667,
+          31.5
         ]
       },
       "properties": {
@@ -3487,10 +3614,11 @@
         "country": "Palestine",
         "role": "Coastal station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "cotterell_1984",
+          "geonames",
           "levantrain_compilation",
           "wp_palestine_rw"
         ]
@@ -3502,7 +3630,7 @@
         "type": "Point",
         "coordinates": [
           35.3,
-          32.461
+          32.46
         ]
       },
       "properties": {
@@ -3511,9 +3639,10 @@
         "country": "Palestine",
         "role": "Eastern Railway station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_israel_rw",
           "wp_palestine_rw"
@@ -3525,8 +3654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.303,
-          31.34
+          34.3063,
+          31.3402
         ]
       },
       "properties": {
@@ -3535,10 +3664,11 @@
         "country": "Palestine",
         "role": "Gaza-Strip station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "cotterell_1984",
+          "geonames",
           "levantrain_compilation",
           "wp_palestine_rw"
         ]
@@ -3549,8 +3679,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.19,
-          32.28
+          35.192847,
+          32.302451
         ]
       },
       "properties": {
@@ -3559,9 +3689,10 @@
         "country": "Palestine",
         "role": "Eastern Railway junction (near Sebastia)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
+          "gazetteer_misc",
           "levantrain_compilation",
           "wp_israel_rw",
           "wp_palestine_rw"
@@ -3573,8 +3704,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.261,
-          32.221
+          35.2544,
+          32.2211
         ]
       },
       "properties": {
@@ -3583,9 +3714,10 @@
         "country": "Palestine",
         "role": "Eastern Railway branch terminus (from Mas'udiya)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_israel_rw",
           "wp_palestine_rw"
@@ -3597,8 +3729,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.971,
-          32.19
+          34.9708,
+          32.1954
         ]
       },
       "properties": {
@@ -3607,9 +3739,10 @@
         "country": "Palestine",
         "role": "Eastern Railway station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_israel_rw",
           "wp_palestine_rw"
@@ -3621,8 +3754,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.028,
-          32.311
+          35.0286,
+          32.3104
         ]
       },
       "properties": {
@@ -3631,9 +3764,10 @@
         "country": "Palestine",
         "role": "Eastern Railway junction",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_israel_rw",
           "wp_palestine_rw"
@@ -3645,8 +3779,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.132,
-          31.72
+          35.141,
+          31.7195
         ]
       },
       "properties": {
@@ -3656,10 +3790,11 @@
         "role": "Jaffa-Jerusalem station",
         "confidence": "high",
         "km_from_origin": 75.9,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "cotterell_1984",
+          "geonames",
           "levantrain_compilation",
           "wp_jaffa_jerusalem"
         ]
@@ -3670,8 +3805,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.9,
-          25.4
+          38.824319,
+          25.229599
         ]
       },
       "properties": {
@@ -3681,13 +3816,14 @@
         "role": "Hejaz station (Arab Revolt site)",
         "confidence": "low",
         "km_from_origin": 1176,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "thehejazrailway",
           "wp_hejaz"
         ]
       }
@@ -3723,8 +3859,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.925,
-          26.609
+          37.940065,
+          26.603054
         ]
       },
       "properties": {
@@ -3733,12 +3869,13 @@
         "country": "Saudi Arabia",
         "role": "Hejaz station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "osm",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -3776,8 +3913,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.2,
-          27.3
+          37.51419,
+          27.73779
         ]
       },
       "properties": {
@@ -3786,12 +3923,13 @@
         "country": "Saudi Arabia",
         "role": "Hejaz station",
         "confidence": "low",
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "osm",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -3802,8 +3940,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.45,
-          28.6
+          36.2534,
+          28.869097
         ]
       },
       "properties": {
@@ -3813,10 +3951,11 @@
         "role": "Hejaz station",
         "confidence": "low",
         "km_from_origin": 635,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
+          "gazetteer_misc",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -3829,8 +3968,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.1,
-          25.1
+          38.988876,
+          24.947082
         ]
       },
       "properties": {
@@ -3840,13 +3979,14 @@
         "role": "Hejaz station",
         "confidence": "low",
         "km_from_origin": 1215,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "thehejazrailway",
           "wp_hejaz"
         ]
       }
@@ -3883,8 +4023,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.2,
-          28.9
+          36.169288,
+          29.047272
         ]
       },
       "properties": {
@@ -3893,13 +4033,14 @@
         "country": "Saudi Arabia",
         "role": "Hejaz station N of Tabuk",
         "confidence": "low",
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -3909,8 +4050,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.5,
-          25.7
+          38.7383,
+          25.541
         ]
       },
       "properties": {
@@ -3920,11 +4061,12 @@
         "role": "Hejaz station",
         "confidence": "low",
         "km_from_origin": 1144,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
+          "nabataea",
           "ochsenwald_1980",
           "robinson_atlas",
           "wp_hejaz"
@@ -3936,8 +4078,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.05,
-          29.19
+          36.0758,
+          29.1539
         ]
       },
       "properties": {
@@ -3946,10 +4088,11 @@
         "country": "Saudi Arabia",
         "role": "Hejaz station",
         "confidence": "low",
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
+          "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
@@ -3962,8 +4105,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.953,
-          26.79
+          37.95278,
+          26.79167
         ]
       },
       "properties": {
@@ -3972,13 +4115,14 @@
         "country": "Saudi Arabia",
         "role": "Hejaz station (Hegra); museum",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "approx",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -3988,8 +4132,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.611,
-          24.471
+          39.61,
+          24.47
         ]
       },
       "properties": {
@@ -3999,13 +4143,14 @@
         "role": "Southern terminus of the Hejaz Railway",
         "confidence": "high",
         "km_from_origin": 1322,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -4015,8 +4160,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.566,
-          28.383
+          36.57889,
+          28.39722
         ]
       },
       "properties": {
@@ -4025,13 +4170,14 @@
         "country": "Saudi Arabia",
         "role": "Hejaz station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -4041,8 +4187,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.5,
-          24.7
+          39.359432,
+          24.590952
         ]
       },
       "properties": {
@@ -4052,13 +4198,14 @@
         "role": "Hejaz station",
         "confidence": "low",
         "km_from_origin": 1309,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "thehejazrailway",
           "wp_hejaz"
         ]
       }
@@ -4068,8 +4215,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.2,
-          33.585
+          36.193068,
+          33.586734
         ]
       },
       "properties": {
@@ -4079,12 +4226,13 @@
         "role": "Barada-gorge station (Ashrafiyat al-Wadi)",
         "confidence": "low",
         "elevation_m": 800,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -4094,8 +4242,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.085,
-          33.715
+          36.135904,
+          33.771421
         ]
       },
       "properties": {
@@ -4105,12 +4253,13 @@
         "role": "Barada-line station (Aïn-hour)",
         "confidence": "low",
         "elevation_m": 1380,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -4121,7 +4270,7 @@
         "type": "Point",
         "coordinates": [
           36.18,
-          33.6
+          33.614
         ]
       },
       "properties": {
@@ -4131,12 +4280,13 @@
         "role": "Barada-gorge station (spring)",
         "confidence": "medium",
         "elevation_m": 830,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -4146,8 +4296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.22,
-          33.555
+          36.22222,
+          33.55806
         ]
       },
       "properties": {
@@ -4157,12 +4307,13 @@
         "role": "Barada-gorge station",
         "confidence": "medium",
         "elevation_m": 776,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -4172,8 +4323,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.183,
-          33.072
+          36.183429,
+          33.078883
         ]
       },
       "properties": {
@@ -4183,13 +4334,14 @@
         "role": "Hejaz station",
         "confidence": "medium",
         "km_from_origin": 69.1,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -4199,8 +4351,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.55,
-          35.84
+          38.5481,
+          35.8367
         ]
       },
       "properties": {
@@ -4209,9 +4361,10 @@
         "country": "Syria",
         "role": "Euphrates-line station (Tabqa dam)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_syria"
         ]
@@ -4222,8 +4375,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.161,
-          36.202
+          37.14778,
+          36.21389
         ]
       },
       "properties": {
@@ -4232,11 +4385,12 @@
         "country": "Syria",
         "role": "Baghdad Railway hub x DHP north junction",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -4248,8 +4402,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.729,
-          34.023
+          36.7284,
+          34.0255
         ]
       },
       "properties": {
@@ -4258,9 +4412,10 @@
         "country": "Syria",
         "role": "Damascus-Homs trunk station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
+          "geonames",
           "levantrain_compilation",
           "wp_lebanon",
           "wp_syria"
@@ -4272,8 +4427,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.95,
-          35.182
+          35.94028,
+          35.18222
         ]
       },
       "properties": {
@@ -4282,10 +4437,11 @@
         "country": "Syria",
         "role": "Coastal line station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_syria"
         ]
       }
@@ -4295,8 +4451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.293,
-          33.514
+          36.294949,
+          33.511149
         ]
       },
       "properties": {
@@ -4306,12 +4462,13 @@
         "role": "Hejaz/DHP station",
         "confidence": "high",
         "km_from_origin": 0,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -4321,8 +4478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.3,
-          33.472
+          36.28333,
+          33.46667
         ]
       },
       "properties": {
@@ -4332,13 +4489,14 @@
         "role": "Hejaz trunk terminus / works",
         "confidence": "high",
         "km_from_origin": 0,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -4348,8 +4506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.352,
-          33.269
+          36.3025,
+          33.28361
         ]
       },
       "properties": {
@@ -4358,13 +4516,14 @@
         "country": "Syria",
         "role": "Hejaz station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -4374,7 +4533,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.17,
+          36.13556,
           33.605
         ]
       },
@@ -4385,12 +4544,14 @@
         "role": "Barada-gorge station",
         "confidence": "medium",
         "elevation_m": 900,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
+          "geonames",
           "gwr_lebanon",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_lebanon"
         ]
       }
@@ -4400,8 +4561,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.14,
-          35.336
+          40.15,
+          35.333
         ]
       },
       "properties": {
@@ -4410,10 +4571,11 @@
         "country": "Syria",
         "role": "Euphrates-line station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_syria"
         ]
       }
@@ -4423,8 +4585,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.101,
-          32.618
+          36.1,
+          32.617
         ]
       },
       "properties": {
@@ -4433,11 +4595,12 @@
         "country": "Syria",
         "role": "Junction: Hejaz trunk x Haifa-Deraa branch",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
           "shemer_jezreel",
+          "wikipedia_geo",
           "wp_hejaz",
           "wp_jezreel"
         ]
@@ -4448,8 +4611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.25,
-          33.53
+          36.237114,
+          33.538769
         ]
       },
       "properties": {
@@ -4459,12 +4622,13 @@
         "role": "Damascus suburb station",
         "confidence": "medium",
         "elevation_m": 700,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -4499,8 +4663,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.227,
-          33.183
+          36.22534,
+          33.18235
         ]
       },
       "properties": {
@@ -4509,12 +4673,13 @@
         "country": "Syria",
         "role": "Hejaz station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "osm",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -4525,8 +4690,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.751,
-          35.132
+          36.7496,
+          35.1343
         ]
       },
       "properties": {
@@ -4535,10 +4700,11 @@
         "country": "Syria",
         "role": "Homs-Hama-Aleppo trunk / DHP station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "wp_lebanon",
           "wp_syria"
         ]
@@ -4549,8 +4715,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.75,
-          36.5
+          40.746995,
+          36.501374
         ]
       },
       "properties": {
@@ -4559,10 +4725,11 @@
         "country": "Syria",
         "role": "Euphrates-line station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "wp_syria"
         ]
       }
@@ -4572,8 +4739,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.716,
-          34.73
+          36.7167,
+          34.7333
         ]
       },
       "properties": {
@@ -4582,10 +4749,11 @@
         "country": "Syria",
         "role": "Tripoli-Homs terminus; CFS junction",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "wp_lebanon",
           "wp_syria"
         ]
@@ -4596,8 +4764,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.253,
-          32.871
+          36.238489,
+          32.854913
         ]
       },
       "properties": {
@@ -4606,12 +4774,13 @@
         "country": "Syria",
         "role": "Hejaz station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "osm",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -4622,8 +4791,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.92,
-          35.362
+          35.9235,
+          35.3611
         ]
       },
       "properties": {
@@ -4632,10 +4801,11 @@
         "country": "Syria",
         "role": "Coastal line station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "wp_syria"
         ]
       }
@@ -4645,8 +4815,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.205,
-          33.575
+          36.18826,
+          33.57242
         ]
       },
       "properties": {
@@ -4656,12 +4826,13 @@
         "role": "Barada-gorge station (Jdaidet al-Wadi)",
         "confidence": "medium",
         "elevation_m": 782,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -4697,8 +4868,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.283,
-          33.442
+          36.230035,
+          33.331334
         ]
       },
       "properties": {
@@ -4707,12 +4878,13 @@
         "country": "Syria",
         "role": "Hejaz station S of Damascus",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "osm",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -4723,8 +4895,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.238,
-          33.359
+          36.241107,
+          33.358419
         ]
       },
       "properties": {
@@ -4733,12 +4905,13 @@
         "country": "Syria",
         "role": "Hejaz station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "osm",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -4749,8 +4922,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.79,
-          35.531
+          35.78722,
+          35.51583
         ]
       },
       "properties": {
@@ -4759,10 +4932,11 @@
         "country": "Syria",
         "role": "Coastal line port terminus",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_syria"
         ]
       }
@@ -4772,8 +4946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.68,
-          35.647
+          36.677706,
+          35.647079
         ]
       },
       "properties": {
@@ -4782,10 +4956,11 @@
         "country": "Syria",
         "role": "Hama-Aleppo trunk station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "wp_lebanon",
           "wp_syria"
         ]
@@ -4796,8 +4971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.1,
-          33.69
+          36.102939,
+          33.69011
         ]
       },
       "properties": {
@@ -4806,12 +4981,13 @@
         "country": "Syria",
         "role": "Barada-line station",
         "confidence": "low",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -4821,8 +4997,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.026,
-          32.708
+          36.012669,
+          32.688297
         ]
       },
       "properties": {
@@ -4831,10 +5007,11 @@
         "country": "Syria",
         "role": "Hauran grain-line terminus",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "levantrain_compilation"
+          "levantrain_compilation",
+          "osm"
         ]
       }
     },
@@ -4843,8 +5020,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          41.23,
-          37.05
+          41.254631,
+          37.053869
         ]
       },
       "properties": {
@@ -4853,10 +5030,11 @@
         "country": "Syria",
         "role": "Euphrates-line terminus (Turkey border, opp. Nusaybin)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "wp_syria"
         ]
       }
@@ -4866,8 +5044,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.628,
-          36.622
+          36.663739,
+          36.676364
         ]
       },
       "properties": {
@@ -4876,11 +5054,12 @@
         "country": "Syria",
         "role": "Baghdad Railway station (Afrin district)",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "osm",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -4892,8 +5071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.01,
-          35.95
+          39.008921,
+          35.949678
         ]
       },
       "properties": {
@@ -4902,10 +5081,11 @@
         "country": "Syria",
         "role": "Euphrates-line station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "wp_syria"
         ]
       }
@@ -4915,8 +5095,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.07,
-          36.85
+          40.069552,
+          36.850379
         ]
       },
       "properties": {
@@ -4925,11 +5105,12 @@
         "country": "Syria",
         "role": "Baghdad Railway border station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "osm",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -4941,8 +5122,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.1,
-          33.7
+          36.159611,
+          33.811638
         ]
       },
       "properties": {
@@ -4952,12 +5133,13 @@
         "role": "Syrian summit-area railhead; ran into the 2000s",
         "confidence": "medium",
         "elevation_m": 1373,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -4967,8 +5149,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.152,
-          32.823
+          36.16052,
+          32.82666
         ]
       },
       "properties": {
@@ -4977,12 +5159,13 @@
         "country": "Syria",
         "role": "Hejaz station",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "osm",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -4993,8 +5176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.155,
-          33.625
+          36.108062,
+          33.625148
         ]
       },
       "properties": {
@@ -5004,12 +5187,13 @@
         "role": "Barada-gorge station",
         "confidence": "medium",
         "elevation_m": 1012,
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -5019,8 +5203,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.885,
-          34.889
+          35.883,
+          34.883
         ]
       },
       "properties": {
@@ -5029,10 +5213,11 @@
         "country": "Syria",
         "role": "Coastal line port terminus",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_syria"
         ]
       }
@@ -5042,8 +5227,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.1,
-          33.725
+          36.100194,
+          33.724447
         ]
       },
       "properties": {
@@ -5053,12 +5238,13 @@
         "role": "Resort station in the Barada valley",
         "confidence": "medium",
         "elevation_m": 1210,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
           "wp_lebanon"
         ]
       }
@@ -5068,8 +5254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.283,
-          32.66
+          36.18444,
+          32.55528
         ]
       },
       "properties": {
@@ -5078,13 +5264,14 @@
         "country": "Syria/Jordan",
         "role": "Border crossing",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
           "robinson_atlas",
+          "wikipedia_geo",
           "wp_hejaz"
         ]
       }
@@ -5094,8 +5281,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.953,
-          36.696
+          38.95667,
+          36.6975
         ]
       },
       "properties": {
@@ -5104,11 +5291,12 @@
         "country": "Syria/Turkey",
         "role": "Baghdad Railway border station",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5120,8 +5308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.321,
-          37.0
+          35.31917,
+          37.00361
         ]
       },
       "properties": {
@@ -5130,11 +5318,12 @@
         "country": "Turkey",
         "role": "Baghdad Railway junction (Çukurova plain)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5146,8 +5335,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.048,
-          37.513
+          34.057086,
+          37.506018
         ]
       },
       "properties": {
@@ -5156,11 +5345,12 @@
         "country": "Turkey",
         "role": "Baghdad Railway station (pre-Taurus)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5172,8 +5362,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.52,
-          39.776
+          30.5078,
+          39.7794
         ]
       },
       "properties": {
@@ -5182,11 +5372,12 @@
         "country": "Turkey",
         "role": "Anatolian Railway junction",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5198,8 +5389,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.68,
-          37.13
+          36.635078,
+          37.099608
         ]
       },
       "properties": {
@@ -5208,11 +5399,12 @@
         "country": "Turkey",
         "role": "Amanus (Nur) Mts crossing; Ayran tunnel area",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "osm",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5224,8 +5416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.383,
-          37.066
+          37.382807,
+          37.073781
         ]
       },
       "properties": {
@@ -5235,11 +5427,13 @@
         "role": "On the MODERN Gaziantep-Karkamış reroute (bypasses Aleppo)",
         "confidence": "medium",
         "notes": "Not on the original Ottoman main line (Adana-Fevzipaşa-İslahiye-Meydan Ekbez-Aleppo); part of the later Turkish reroute bypassing Aleppo.",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "osm",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5251,8 +5445,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.633,
-          37.026
+          36.63639,
+          37.03056
         ]
       },
       "properties": {
@@ -5261,11 +5455,12 @@
         "country": "Turkey",
         "role": "Baghdad Railway; ~22 km N of the Syrian border",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5277,8 +5472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.019,
-          40.996
+          29.0187,
+          40.9962
         ]
       },
       "properties": {
@@ -5287,11 +5482,12 @@
         "country": "Turkey",
         "role": "Baghdad/Anatolian Railway terminus (Asian side)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5303,8 +5499,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.917,
-          40.766
+          29.917224,
+          40.761896
         ]
       },
       "properties": {
@@ -5313,11 +5509,12 @@
         "country": "Turkey",
         "role": "Anatolian Railway station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5329,8 +5526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.216,
-          37.181
+          33.215649,
+          37.193453
         ]
       },
       "properties": {
@@ -5339,11 +5536,12 @@
         "country": "Turkey",
         "role": "Baghdad Railway station",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5355,8 +5553,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.007,
-          36.842
+          37.999447,
+          36.831984
         ]
       },
       "properties": {
@@ -5365,11 +5563,12 @@
         "country": "Turkey",
         "role": "Border station opposite Jarabulus (Syria)",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "osm",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5381,8 +5580,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.492,
-          37.874
+          32.476361,
+          37.866333
         ]
       },
       "properties": {
@@ -5391,11 +5590,12 @@
         "country": "Turkey",
         "role": "Baghdad Railway start (from the Anatolian Rly)",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5407,8 +5607,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.873,
-          37.427
+          34.8729,
+          37.4228
         ]
       },
       "properties": {
@@ -5417,11 +5617,12 @@
         "country": "Turkey",
         "role": "Taurus Mountains crossing",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5433,8 +5634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.15,
-          37.07
+          36.145786,
+          37.067335
         ]
       },
       "properties": {
@@ -5443,11 +5644,12 @@
         "country": "Turkey",
         "role": "Baghdad Railway junction",
         "confidence": "medium",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "town",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "osm",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5459,8 +5661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.552,
-          36.872
+          36.676813,
+          36.821281
         ]
       },
       "properties": {
@@ -5469,11 +5671,12 @@
         "country": "Turkey/Syria",
         "role": "Baghdad Railway border crossing",
         "confidence": "medium",
-        "verification_status": "unverified",
+        "verification_status": "verified",
         "precision": "town",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "osm",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
@@ -5485,8 +5688,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          41.215,
-          37.068
+          41.22973,
+          37.07606
         ]
       },
       "properties": {
@@ -5495,11 +5698,12 @@
         "country": "Turkey/Syria",
         "role": "Baghdad Railway; eastern limit reached 1918",
         "confidence": "high",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
+          "wikipedia_geo",
           "wp_adana_aleppo",
           "wp_berlin_baghdad",
           "wp_syria"
