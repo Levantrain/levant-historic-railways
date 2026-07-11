@@ -378,6 +378,7 @@
         "country": "Egypt",
         "role": "Canal-side station",
         "confidence": "low",
+        "notes": "Location note: Historic canal-side station on the west-bank Ismailia/El Kantara-Port Said railway; by station order along the canal it sits between El Qantara West (to the south) and El Tina (to the north), roughly 13 km north of El Qantara West",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -479,6 +480,7 @@
         "country": "Egypt",
         "role": "Canal-side station",
         "confidence": "low",
+        "notes": "Location note: Historic canal-side station at the El Tina (El Tineh) plain near the southern approach to Port Said, where the Suez Canal nears the Mediterranean; on the west-bank Port Said railway, north of El Cap",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -731,6 +733,7 @@
         "country": "Egypt",
         "role": "Ismailia-area junction (canal line)",
         "confidence": "medium",
+        "notes": "Location note: El Nefisha is the western district/suburb of Ismailia (~3-4 km SW of Ismailia city center); historically the Egyptian State Railways workshops site on the Cairo–Ismailia canal line. No precise station node located.",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -809,6 +812,7 @@
         "country": "Egypt",
         "role": "Cairo-Ismailia station",
         "confidence": "medium",
+        "notes": "Location note: El Qassasin (Kassassin) is a town on the Cairo–Ismailia line in Sharqia, along the Sweet-Water (Ismailia) Canal between Tell el-Kebir (west) and Ismailia (east); site of the 1882 Battle of Kassassin. No sourced station coordinate obtained.",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -859,6 +863,7 @@
         "country": "Egypt",
         "role": "Port Said approach station",
         "confidence": "medium",
+        "notes": "Location note: El Raswa is the southern approach to Port Said, where the railway/road cross the canal waterways (El Raswa bridges), ~3 km south of Port Said city center on the Ismailia–Port Said canal line.",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -884,6 +889,7 @@
         "country": "Egypt",
         "role": "Sinai station (Battle of Romani, Aug 1916)",
         "confidence": "medium",
+        "notes": "Location note: WWI Sinai station on the British standard-gauge military railway built east from El Qantara (on the Suez Canal). Romani lay ~23 mi (37 km) east of the canal and ~12 mi SW of Katia; Kantara–Romani–Katia line opened May 1916. Site of the Battle of Romani (Aug 1916). Estimate ~31.0,32.6 is consistent (near modern Rumana, coastal strip east of Qantara).",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -1039,6 +1045,7 @@
         "country": "Egypt",
         "role": "Cairo-Suez desert-line station near Suez (Agrud)",
         "confidence": "low",
+        "notes": "Location note: Agrud (Ajrud) is a historic well/fort site NW of Suez on the Cairo–Suez desert line; 'Tabiyet el-Agrud' = the Agrud redoubt/battery. Estimate ~30.05,32.40 places it in the desert NW of Suez, toward the Bitter Lakes.",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -1144,6 +1151,7 @@
         "country": "Egypt/Gaza",
         "role": "Sinai-Palestine border (reached Mar 1917)",
         "confidence": "high",
+        "notes": "Location note: Border station/railhead on the WWI British Kantara–Rafa (Sinai) military railway, which reached Rafah on the Egypt–Palestine frontier in early 1917 and later became the junction from which the branch to Beersheba was laid.; Rafa lies between Kantara East (Suez Canal) and Gaza on the coastal military line; Gaza is ~236 km from Kantara East, Rafa a little short of Gaza.",
         "verification_status": "unverified",
         "precision": "approx",
         "source_ids": [
@@ -1345,6 +1353,7 @@
         "country": "Iraq",
         "role": "Branch terminus (toward the Iranian border)",
         "confidence": "medium",
+        "notes": "Location note: Branch terminus on the IRR Eastern line toward the Iranian border, in Diyala province; GeoNames has an entry for Khanaqin (id 94591) placing the town at roughly 34.35 N, 45.39 E, but the exact figure could not be read from a rendered page and the station point is not separately sourced.",
         "verification_status": "unverified",
         "precision": "approx",
         "source_ids": [
@@ -1684,6 +1693,7 @@
         "country": "Israel",
         "role": "Added valley halt (Al Roy)",
         "confidence": "low",
+        "notes": "Location note: 'El Roi' station on the Jezreel Valley Railway, built 1945 (silicate-stone building), between Yagur (km 10.2 from Haifa) and Kiryat Haroshet (km 16.9 from Haifa). Near moshav Elro'i (Al Roy) south of Nesher.",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -1866,6 +1876,7 @@
         "country": "Israel",
         "role": "Added valley halt",
         "confidence": "low",
+        "notes": "Location note: Small cast-concrete Valley-railway halt at ~16.9 km from Haifa, by the Kishon, at the Kiryat Haroshet locality (part of Kiryat Tiv'on municipality). No precise station coordinate found.",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -2126,6 +2137,7 @@
         "country": "Israel/Jordan",
         "role": "Added halt near the Jordan confluence",
         "confidence": "medium",
+        "notes": "Location note: Halt near the Jordan-Yarmuk confluence at ~78.5 km on the Valley railway; the Naharayim power-station site is ~1 km east of kibbutz Gesher (International-Style building, 1937). No precise station coordinate found.",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -2152,6 +2164,7 @@
         "role": "Jaffa-Jerusalem station (Ayn Sejed)",
         "confidence": "medium",
         "km_from_origin": 39.5,
+        "notes": "Location note: Jaffa-Jerusalem-line station 'Al-Sejed (Ayn Sejed)' at 39.5 km from Jaffa, elevation 110.5-183 m, in use 1892-1915 only; lies between Ramla and Dayr Aban up the coastal-plain approach to the Judean foothills; Upline neighbour is Dayr Aban (Hartuv) at 50.3 km",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -2467,6 +2480,7 @@
         "role": "Hejaz station",
         "confidence": "low",
         "km_from_origin": 475,
+        "notes": "Location note: Hejaz-line station south of Ma'an, on the section between Ma'an and Batn al-Ghul; Arab Revolt demolition site (British-Arab forces destroyed the track/bridges around Ghadir el Haj, spring 1918)",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -2791,6 +2805,7 @@
         "country": "Jordan",
         "role": "Shidiya phosphate mine (branch)",
         "confidence": "low",
+        "notes": "Location note: Esh-Shidiya (Eshidiya) phosphate-mine complex, a large open-pit area SE of Ma'an served by a branch line; historically a 'Bir Shidiya' watering stop existed on the Ma'an-to-Mudawwara section of the old Hejaz line, south of Ma'an",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -2872,6 +2887,7 @@
         "role": "Hejaz station",
         "confidence": "medium",
         "km_from_origin": 422.7,
+        "notes": "Location note: 'Unayzah (Uneyze/Anaza) is a named populated place / station settlement in Ma'an Governorate, Jordan; Hejaz-line station at km 461 on the 1910 Ottoman State Year Book list (18 km before Wadi Rutm), in the Ma'an-to-Batn al-Ghoul desert sector",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -2899,7 +2915,7 @@
         "role": "Hejaz station",
         "confidence": "low",
         "km_from_origin": 530,
-        "notes": "Arabic should be وادي رتم (Wadi Rutm); the project list’s وادي رم is Wadi Rum, a different place.",
+        "notes": "Arabic should be وادي رتم (Wadi Rutm); the project list’s وادي رم is Wadi Rum, a different place.\n\nLocation note: Fortified Ottoman Hejaz station in the Batn al-Ghoul / Wadi Batn al-Ghoul area on the Fassu'ah Ridge descent, Ma'an Governorate; km 479 on the 1910 Ottoman State Year Book Hejaz list (18 km after Uneiza)",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -3302,6 +3318,7 @@
         "role": "Beqaa station (near Zahle)",
         "confidence": "medium",
         "elevation_m": 928,
+        "notes": "Location note: Maalaka (El-Maallaqa) is the south-western quarter of Zahle; a 'Maalaqa station nearby Zahlé' is recorded in OSM; Beqaa station near Zahle on the Rayak line; our estimate sits ~1.5 km SW of Zahle center consistent with the El-Maallaqa quarter",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -3512,6 +3529,7 @@
         "country": "Lebanon",
         "role": "Climb toward the Syrian border",
         "confidence": "medium",
+        "notes": "Location note: First station on the Beirut-Damascus metre-gauge rack line climbing east from Rayak toward Serghaya and the Syrian border; listed in station order between Riyak and Jisr el-Remman",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -3843,6 +3861,7 @@
         "country": "Saudi Arabia",
         "role": "Hejaz station (Qal'at al-Akhdar)",
         "confidence": "low",
+        "notes": "Location note: Official name 'Ahzar' / al-Akhdhar (Ottoman records); nicknamed 'Bughaz' (defile) by Turkish conscripts; two structures (main station + a separate water-supply 'Ahzar Alimentation'); ~km 798 from Haifa",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -3897,6 +3916,7 @@
         "role": "Hejaz station (Al-Assda)",
         "confidence": "low",
         "km_from_origin": 794.4,
+        "notes": "Location note: Obscure Hejaz station, also called 'Al-Assda' (per our role note); no coordinate or dedicated page located",
         "verification_status": "unverified",
         "precision": "unknown",
         "source_ids": [
@@ -4007,6 +4027,7 @@
         "role": "Hejaz station S of Tabuk (Qareen al-Ghazal)",
         "confidence": "low",
         "km_from_origin": 737,
+        "notes": "Location note: Hejaz station S of Tabuk; also known as 'SahrulGhul' / 'Khasm Birk' (per nabataea); role note calls it 'Qareen al-Ghazal'; ~km 782 from Haifa",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -4648,6 +4669,7 @@
         "country": "Syria",
         "role": "Barada-gorge station",
         "confidence": "low",
+        "notes": "Location note: Barada-gorge DHP station 'El-Teqieh', listed in line order between Madaya and Souk Wadi Barada (i.e. in the gorge downstream of Madaya, upstream of Souq Wadi Barada); Downstream neighbour on the line; Further downstream gorge anchor",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [
@@ -4853,6 +4875,7 @@
         "role": "Barada-line station",
         "confidence": "low",
         "elevation_m": 1300,
+        "notes": "Location note: DHP station 'Jisr el-Remman' (~1300 m altitude) at the summit end of the line, listed adjacent to Serghaya (1373 m) and Zabadani (1210 m) — i.e. in the Zabadani/Serghaya branch area; Neighbouring station on the summit section",
         "verification_status": "unverified",
         "precision": "town",
         "source_ids": [

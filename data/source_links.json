@@ -2059,13 +2059,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "alexandria-cairo#1",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "alexandria-cairo#2",
     "aspect": "geometry",
     "field": null,
@@ -2108,6 +2101,34 @@
   },
   {
     "entity_type": "segment",
+    "entity": "baghdad-railway#10",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "baghdad-railway#12",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "baghdad-railway#20",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "baghdad-railway#21",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "baghdad-railway#5",
     "aspect": "geometry",
     "field": null,
@@ -2136,6 +2157,20 @@
   },
   {
     "entity_type": "segment",
+    "entity": "beirut-damascus#12",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#13",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "beirut-damascus#14",
     "aspect": "geometry",
     "field": null,
@@ -2157,6 +2192,13 @@
   },
   {
     "entity_type": "segment",
+    "entity": "beirut-damascus#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "beirut-damascus#20",
     "aspect": "geometry",
     "field": null,
@@ -2165,6 +2207,13 @@
   {
     "entity_type": "segment",
     "entity": "beirut-damascus#23",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#24",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2213,13 +2262,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "beirut-damascus#5",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "beirut-damascus#6",
     "aspect": "geometry",
     "field": null,
@@ -2255,13 +2297,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "cairo-aswan#13",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "cairo-aswan#3",
     "aspect": "geometry",
     "field": null,
@@ -2277,6 +2312,13 @@
   {
     "entity_type": "segment",
     "entity": "cairo-aswan#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#9",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2326,6 +2368,20 @@
   {
     "entity_type": "segment",
     "entity": "cairo-port-said#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#5",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2416,13 +2472,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "haifa-beirut-tripoli#8",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "haifa-beirut-tripoli#9",
     "aspect": "geometry",
     "field": null,
@@ -2431,6 +2480,13 @@
   {
     "entity_type": "segment",
     "entity": "haifa-deraa#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#14",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2465,13 +2521,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "haifa-deraa#2",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "haifa-deraa#3",
     "aspect": "geometry",
     "field": null,
@@ -2486,14 +2535,7 @@
   },
   {
     "entity_type": "segment",
-    "entity": "haifa-deraa#8",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "hejaz#1",
+    "entity": "haifa-deraa#7",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2528,6 +2570,20 @@
   },
   {
     "entity_type": "segment",
+    "entity": "hejaz#16",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#17",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "hejaz#18",
     "aspect": "geometry",
     "field": null,
@@ -2535,14 +2591,7 @@
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#19",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "hejaz#20",
+    "entity": "hejaz#2",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2550,6 +2599,27 @@
   {
     "entity_type": "segment",
     "entity": "hejaz#21",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#22",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#23",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#24",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2570,7 +2640,63 @@
   },
   {
     "entity_type": "segment",
+    "entity": "hejaz#30",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#31",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#32",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#33",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#34",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "hejaz#40",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#42",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#43",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#44",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2591,6 +2717,13 @@
   },
   {
     "entity_type": "segment",
+    "entity": "hejaz#9",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "jaffa-jerusalem#5",
     "aspect": "geometry",
     "field": null,
@@ -2599,6 +2732,20 @@
   {
     "entity_type": "segment",
     "entity": "jaffa-jerusalem#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "jezreel-valley#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "jezreel-valley#2",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2634,13 +2781,6 @@
   {
     "entity_type": "segment",
     "entity": "sinai-military-railway#4",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "syria-coastal#2",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
