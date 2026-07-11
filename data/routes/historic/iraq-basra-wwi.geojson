@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "iraq-basra-wwi",
+    "name": "Basra-Baghdad Railway (WWI metre gauge)",
+    "name_arabic": "سكة حديد البصرة-بغداد",
+    "countries": "Iraq",
+    "gauge_mm": 1000,
+    "year_opened": 1920,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "medium",
+    "description": "WWI British metre-gauge line; later superseded by standard gauge",
+    "notes": "The British military supply railway of the WWI Mesopotamian campaign.  [historic_vs_modern] This is the WWI-era METRE-GAUGE (1,000 mm) Basra-Baghdad line (via Nasiriyah), completed 16 Jan 1920. It is DISTINCT from the modern STANDARD-gauge Baghdad-Basra line (freight 1964, passengers 1968) via Kut, which is represented as the southern end of the Baghdad Railway route.  [route] Some WWI branches (Qurna-Amara, Sheikh Saad-Sinn, Baghdad-Table Mountain) were 2 ft 6 in (762 mm), not metre gauge.",
+    "history": "Built by the British military during the WWI Mesopotamian campaign; the Basra-Nasiriyah section was the most important wartime line, extended north so the full Basra-Baghdad route (metre gauge) opened on 16 January 1920.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "levantrain_compilation",
+      "levantrain_system",
+      "wp_iraq"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.784,
+            30.508
+          ],
+          [
+            46.26,
+            31.05
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "iraq-basra-wwi",
+        "sequence": 1,
+        "from": "Basra",
+        "to": "Nasiriyah",
+        "from_id": "basra",
+        "to_id": "nasiriyah",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.26,
+            31.05
+          ],
+          [
+            45.29,
+            31.33
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "iraq-basra-wwi",
+        "sequence": 2,
+        "from": "Nasiriyah",
+        "to": "Samawah",
+        "from_id": "nasiriyah",
+        "to_id": "samawah",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.29,
+            31.33
+          ],
+          [
+            44.92,
+            31.99
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "iraq-basra-wwi",
+        "sequence": 3,
+        "from": "Samawah",
+        "to": "Diwaniyah",
+        "from_id": "samawah",
+        "to_id": "diwaniyah",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.92,
+            31.99
+          ],
+          [
+            44.43,
+            32.47
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "iraq-basra-wwi",
+        "sequence": 4,
+        "from": "Diwaniyah",
+        "to": "Hillah",
+        "from_id": "diwaniyah",
+        "to_id": "hillah",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.43,
+            32.47
+          ],
+          [
+            44.361,
+            33.312
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "iraq-basra-wwi",
+        "sequence": 5,
+        "from": "Hillah",
+        "to": "Baghdad",
+        "from_id": "hillah",
+        "to_id": "baghdad",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    }
+  ]
+}

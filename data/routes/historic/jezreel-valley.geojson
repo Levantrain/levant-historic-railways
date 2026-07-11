@@ -1,30 +1,530 @@
 {
   "type": "FeatureCollection",
+  "route": {
+    "route_id": "jezreel-valley",
+    "name": "Jezreel Valley Railway",
+    "name_arabic": "سكة حديد مرج ابن عامر",
+    "countries": "Israel, Jordan, Syria",
+    "gauge_mm": 1050,
+    "year_opened": 1905,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "high",
+    "description": "British Mandate era; valley agriculture",
+    "notes": "Historic 1,050 mm line (this). The modern namesake (2016) is a separate standard-gauge build — see historic_vs_modern.  [description] 'British Mandate era' is imprecise: the line OPENED IN 1905 UNDER OTTOMAN RULE as part of the Hejaz Haifa-Deraa branch; it merely OPERATED during the later British Mandate.  [route] ORDER CORRECTED: the project list had Tzemah before Gesher/Naharayim, but by km-post (Beit She’an 59.3 km; Tzemah 86.9 km; al-Hamma 95.3 km) the order east of Beit She’an is Gesher -> Naharayim -> Samakh/Tzemah -> al-Hamma. Added the missing Kfar Yehoshua and Beit She’an. Naharayim (Rutenberg hydro site, 1930s) is a later halt near the Jordan confluence.  [historic_vs_modern] CRITICAL DISTINCTION — two different railways share this name: (1) the HISTORIC Jezreel Valley line (this one) = 1905, 1,050 mm NARROW gauge, Haifa->Afula->Beit She’an->Gesher->Naharayim->Samakh->al-Hamma (->Deraa), closed 1948 (Haifa-Afula to 1949); and (2) the MODERN 'New Jezreel Valley railway' (Israel Railways, opened 16 Oct 2016) = STANDARD gauge 1,435 mm, Haifa->Beit She’an ONLY (~60 km) on a partly-new alignment. The modern line does NOT continue east to Gesher, Naharayim, Tzemah or al-Hamma — so the four eastern stops in this list exist ONLY on the historic line.  [relationship] This route OVERLAPS the kit’s 'Haifa-Deraa Line': the Jezreel Valley line is the western/central portion of that same Hejaz branch (Haifa-Deraa additionally climbs the Yarmuk gorge to Deraa). Keep the relationship explicit in the DB to avoid double-counting shared stations.",
+    "history": "Opened 1905 at 1,050 mm as the western/central part of the Hejaz Haifa-Deraa branch, running from the Mediterranean at Haifa up the Jezreel and Harod valleys to the Jordan valley (Beit She'an, Gesher, Naharayim, Samakh/Tzemah) and al-Hamma on the Yarmuk. Known for serving the valley's agriculture; al-Hamma sits at today's Israel/Jordan/Syria tri-border.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "levantrain_system",
+      "shemer_jezreel",
+      "wp_israel_rw",
+      "wp_jezreel"
+    ]
+  },
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [34.9886, 32.8211],
-          [35.2897, 32.6078],
-          [35.5700, 32.7044],
-          [35.5667, 32.6500],
-          [35.5500, 32.6333],
-          [35.6667, 32.7000]
+          [
+            34.99,
+            32.819
+          ],
+          [
+            35.15,
+            32.717
+          ]
         ]
       },
       "properties": {
-        "name": "Jezreel Valley Railway",
-        "name_arabic": "سكة حديد مرج ابن عامر",
-        "route_type": "Main Line",
-        "year_opened": 1905,
-        "year_closed": 1948,
-        "status": "Abandoned",
-        "gauge_mm": 1050,
-        "countries": "Israel, Jordan",
-        "notes": "British Mandate era; Haifa to Sea of Galilee region",
-        "color": "#f57c00"
+        "route_id": "jezreel-valley",
+        "sequence": 1,
+        "from": "Haifa",
+        "to": "Kfar Yehoshua",
+        "from_id": "haifa",
+        "to_id": "kfar-yehoshua",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.15,
+            32.717
+          ],
+          [
+            35.29,
+            32.606
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "jezreel-valley",
+        "sequence": 2,
+        "from": "Kfar Yehoshua",
+        "to": "Afula",
+        "from_id": "kfar-yehoshua",
+        "to_id": "afula",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.29,
+            32.606
+          ],
+          [
+            35.5,
+            32.497
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "jezreel-valley",
+        "sequence": 3,
+        "from": "Afula",
+        "to": "Beit She'an",
+        "from_id": "afula",
+        "to_id": "beit-she-an",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.5,
+            32.497
+          ],
+          [
+            35.553,
+            32.622
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "jezreel-valley",
+        "sequence": 4,
+        "from": "Beit She'an",
+        "to": "Gesher",
+        "from_id": "beit-she-an",
+        "to_id": "gesher",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.560467,
+            32.618404
+          ],
+          [
+            35.563851,
+            32.623074
+          ],
+          [
+            35.564159,
+            32.623397
+          ],
+          [
+            35.565898,
+            32.624575
+          ],
+          [
+            35.56622,
+            32.625117
+          ],
+          [
+            35.566415,
+            32.626182
+          ],
+          [
+            35.566865,
+            32.626679
+          ],
+          [
+            35.567938,
+            32.627312
+          ],
+          [
+            35.5702,
+            32.628415
+          ],
+          [
+            35.571071,
+            32.629137
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "jezreel-valley",
+        "sequence": 5,
+        "from": "Gesher",
+        "to": "Naharayim",
+        "from_id": "gesher",
+        "to_id": "naharayim",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.571071,
+            32.629137
+          ],
+          [
+            35.571565,
+            32.630068
+          ],
+          [
+            35.571617,
+            32.631144
+          ],
+          [
+            35.571424,
+            32.632165
+          ],
+          [
+            35.571091,
+            32.633213
+          ],
+          [
+            35.570994,
+            32.63399
+          ],
+          [
+            35.571155,
+            32.635571
+          ],
+          [
+            35.570533,
+            32.639574
+          ],
+          [
+            35.570513,
+            32.640196
+          ],
+          [
+            35.570696,
+            32.641433
+          ],
+          [
+            35.571105,
+            32.643166
+          ],
+          [
+            35.571627,
+            32.644197
+          ],
+          [
+            35.571796,
+            32.64434
+          ],
+          [
+            35.573062,
+            32.64483
+          ],
+          [
+            35.573202,
+            32.645431
+          ],
+          [
+            35.573965,
+            32.646802
+          ],
+          [
+            35.574371,
+            32.647331
+          ],
+          [
+            35.575382,
+            32.64828
+          ],
+          [
+            35.57427,
+            32.654974
+          ],
+          [
+            35.574257,
+            32.656242
+          ],
+          [
+            35.57505,
+            32.658853
+          ],
+          [
+            35.575229,
+            32.660042
+          ],
+          [
+            35.584237,
+            32.692826
+          ],
+          [
+            35.586674,
+            32.701349
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "jezreel-valley",
+        "sequence": 6,
+        "from": "Naharayim",
+        "to": "Samakh (Tzemah)",
+        "from_id": "naharayim",
+        "to_id": "samakh-tzemah",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.586674,
+            32.701349
+          ],
+          [
+            35.587131,
+            32.702513
+          ],
+          [
+            35.58801,
+            32.703344
+          ],
+          [
+            35.589369,
+            32.703725
+          ],
+          [
+            35.595091,
+            32.704788
+          ],
+          [
+            35.59626,
+            32.704756
+          ],
+          [
+            35.597845,
+            32.704412
+          ],
+          [
+            35.598928,
+            32.704024
+          ],
+          [
+            35.601031,
+            32.702814
+          ],
+          [
+            35.624625,
+            32.687227
+          ],
+          [
+            35.626202,
+            32.68654
+          ],
+          [
+            35.627994,
+            32.685944
+          ],
+          [
+            35.630117,
+            32.685578
+          ],
+          [
+            35.631022,
+            32.685602
+          ],
+          [
+            35.631859,
+            32.685792
+          ],
+          [
+            35.633658,
+            32.686508
+          ],
+          [
+            35.634656,
+            32.687059
+          ],
+          [
+            35.635668,
+            32.68739
+          ],
+          [
+            35.636558,
+            32.687453
+          ],
+          [
+            35.637241,
+            32.687312
+          ],
+          [
+            35.637985,
+            32.68702
+          ],
+          [
+            35.638865,
+            32.686496
+          ],
+          [
+            35.639687,
+            32.685804
+          ],
+          [
+            35.640695,
+            32.683837
+          ],
+          [
+            35.641694,
+            32.682486
+          ],
+          [
+            35.64215,
+            32.682198
+          ],
+          [
+            35.642476,
+            32.682114
+          ],
+          [
+            35.644024,
+            32.682366
+          ],
+          [
+            35.644519,
+            32.682265
+          ],
+          [
+            35.645003,
+            32.681992
+          ],
+          [
+            35.646912,
+            32.680279
+          ],
+          [
+            35.647566,
+            32.679976
+          ],
+          [
+            35.648435,
+            32.679836
+          ],
+          [
+            35.650002,
+            32.679755
+          ],
+          [
+            35.650405,
+            32.679838
+          ],
+          [
+            35.650909,
+            32.680199
+          ],
+          [
+            35.651773,
+            32.681219
+          ],
+          [
+            35.652485,
+            32.681624
+          ],
+          [
+            35.652781,
+            32.681964
+          ],
+          [
+            35.65329,
+            32.683141
+          ],
+          [
+            35.653585,
+            32.683527
+          ],
+          [
+            35.654691,
+            32.684145
+          ],
+          [
+            35.655769,
+            32.68461
+          ],
+          [
+            35.657195,
+            32.684778
+          ],
+          [
+            35.660558,
+            32.68392
+          ],
+          [
+            35.661861,
+            32.683815
+          ],
+          [
+            35.663134,
+            32.683929
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "jezreel-valley",
+        "sequence": 7,
+        "from": "Samakh (Tzemah)",
+        "to": "al-Hamma",
+        "from_id": "samakh-tzemah",
+        "to_id": "al-hamma",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
       }
     }
   ]

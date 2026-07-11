@@ -1,26 +1,188 @@
 {
   "type": "FeatureCollection",
+  "route": {
+    "route_id": "cairo-suez",
+    "name": "Cairo-Suez Railway",
+    "name_arabic": "سكة حديد القاهرة-السويس",
+    "countries": "Egypt",
+    "gauge_mm": 1435,
+    "year_opened": 1858,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "low",
+    "description": "Built before Suez Canal",
+    "notes": "The trickiest route in the set: the 1858 original is largely gone and undocumented; the mapped points follow the modern Cairo Ain Shams–Suez desert line. Verify everything here against maps.  [description] Opened 1858 as the first Mediterranean–Red Sea land link (pre-dating the 1869 Canal); the original desert alignment was later altered/partly abandoned, so the historic corridor is uncertain.  [route] TWO DISTINCT LINES share these endpoints: (1) the ORIGINAL 1858 desert line — historic alignment and stations essentially UNDOCUMENTED in consulted sources, a genuine research gap needing historical maps; and (2) the MODERN Cairo Ain Shams–Suez desert line, whose stations per Wikipedia are: Cairo Ain Shams, Abur, Kilo 3 / Kilo 11.5 / Kilo 13 / Kilo 82.825 (distance-marker halts), Tabiyet el-Agrud, Wadi el-Sil, Rabiki, Shuruq, Suez. Only the placeable modern stations are mapped here (Ain Shams, Shuruq, Tabiyet el-Agrud); the rest await coordinates. This route is LOW confidence.",
+    "history": "Opened 1858 as the first Mediterranean–Red Sea land link, pre-dating the 1869 Suez Canal. In the early period it reportedly carried goods traffic; a later/modern 'desert railway' on this corridor (Cairo Ain Shams–Suez) was worked by streamlined Ganz (Budapest) diesel rail-cars in the mid-1930s, described in period sources as among the first air-conditioned rail-cars in the world.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "levantrain_system",
+      "railwaywonders",
+      "wp_egypt_stations",
+      "wp_enr"
+    ]
+  },
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [31.2497, 30.0626],
-          [32.5500, 29.9667]
+          [
+            31.245,
+            30.06
+          ],
+          [
+            31.317,
+            30.129
+          ]
         ]
       },
       "properties": {
-        "name": "Cairo-Suez Railway",
-        "name_arabic": "سكة حديد القاهرة-السويس",
-        "route_type": "Main Line",
-        "year_opened": 1858,
-        "year_closed": null,
-        "status": "Active",
-        "gauge_mm": 1435,
-        "countries": "Egypt",
-        "notes": "Connected Cairo to Red Sea and Suez Canal",
-        "color": "#795548"
+        "route_id": "cairo-suez",
+        "sequence": 1,
+        "from": "Cairo",
+        "to": "Cairo Ain Shams",
+        "from_id": "cairo",
+        "to_id": "cairo-ain-shams",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.317,
+            30.129
+          ],
+          [
+            31.61,
+            30.121
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-suez",
+        "sequence": 2,
+        "from": "Cairo Ain Shams",
+        "to": "Shuruq",
+        "from_id": "cairo-ain-shams",
+        "to_id": "shuruq",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.61,
+            30.121
+          ],
+          [
+            32.4,
+            30.05
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-suez",
+        "sequence": 3,
+        "from": "Shuruq",
+        "to": "Tabiyet el-Agrud",
+        "from_id": "shuruq",
+        "to_id": "tabiyet-el-agrud",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.397682,
+            30.066764
+          ],
+          [
+            32.396689,
+            30.067939
+          ],
+          [
+            32.396158,
+            30.068905
+          ],
+          [
+            32.396372,
+            30.069963
+          ],
+          [
+            32.459212,
+            30.035551
+          ],
+          [
+            32.487315,
+            30.016907
+          ],
+          [
+            32.514892,
+            29.99802
+          ],
+          [
+            32.517832,
+            29.995872
+          ],
+          [
+            32.522115,
+            29.992928
+          ],
+          [
+            32.529583,
+            29.988085
+          ],
+          [
+            32.532565,
+            29.985941
+          ],
+          [
+            32.536166,
+            29.983739
+          ],
+          [
+            32.538897,
+            29.981928
+          ],
+          [
+            32.541215,
+            29.980113
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-suez",
+        "sequence": 4,
+        "from": "Tabiyet el-Agrud",
+        "to": "Suez",
+        "from_id": "tabiyet-el-agrud",
+        "to_id": "suez",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
       }
     }
   ]

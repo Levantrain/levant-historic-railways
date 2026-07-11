@@ -144,3 +144,33 @@ We actively seek collaboration with:
 **From documentation to planning** — rigorous methodology for preserving the past and enabling the future.
 
 *Last updated: April 2026*
+---
+
+## 2026-07 snapshot & data model
+
+This repository is a **point-in-time snapshot** regenerated from the Levantrain database (the live
+single source of truth), not a hand-edited store. Re-exports replace the files wholesale, so the repo
+always reflects a coherent state as of its `data/snapshot.json` date.
+
+### Confidence is first-class (honesty over false precision)
+
+Rather than imply everything is equally certain, the model tracks confidence on separate axes:
+
+- **Station location precision** — `exact` (verified coordinates), `approx` (off by a few hundred
+  metres), `town` (placed at the locality), `unknown` (rough placement to be researched).
+- **Route corridor confidence** — `high` / `medium` / `low`, how well a segment's path is known.
+- **Segment geometry status** — `surveyed` (real track), `partial`, or `schematic` (best-guess connector).
+
+### Geometry provenance
+
+Of 217 segments, **85 carry real surveyed geometry** recovered from OpenStreetMap by matching each
+route's station chain to historic-railway ways (graph shortest-path with a historic-track preference and
+endpoint gap-bridging), then simplifying (~6 m). Remaining segments fall back to straight-line
+connectors and are marked `schematic`. OSM-derived geometry is © OpenStreetMap contributors (ODbL).
+
+### Provenance model
+
+Provenance is split by aspect (attribute vs. geometry vs. connection) and recorded per field in
+`data/source_links.json`; each feature also lists a deduplicated `source_ids`. Where the underlying
+sources conflict, the reconciliation is kept as a sourced note on the record (see route `notes`) rather
+than silently overwritten — so discrepancies stay visible and checkable.

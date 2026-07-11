@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "aqaba-branch",
+    "name": "Aqaba Railway (Ma'an-Aqaba)",
+    "name_arabic": "خط سكة حديد العقبة",
+    "countries": "Jordan",
+    "gauge_mm": 1050,
+    "year_opened": 1975,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "medium",
+    "description": "1970s phosphate line to the Red Sea; freight ceased 2018",
+    "notes": "Built 1975 on the Hejaz 1,050 mm gauge; operated by the Aqaba Railway Corporation from 1979.  [route] Ma’an to the Red Sea port of Aqaba, with a spur to the Shidiya phosphate mine (held as an off-line extra_station). Intermediate desert stations are not documented here.",
+    "history": "A 1,050 mm narrow-gauge freight line built in 1975 by the Hejaz Jordan Railway from Ma'an to the Red Sea port of Aqaba to haul phosphate (from the Shidiya mine) and sulphur; the Aqaba Railway Corporation took over operations in 1979.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "levantrain_compilation",
+      "levantrain_system",
+      "wp_jordan"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.734,
+            30.192
+          ],
+          [
+            35.006,
+            29.532
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "aqaba-branch",
+        "sequence": 1,
+        "from": "Ma'an",
+        "to": "Aqaba",
+        "from_id": "ma-an",
+        "to_id": "aqaba",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    }
+  ]
+}

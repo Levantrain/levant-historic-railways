@@ -1,0 +1,585 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "sinai-military-railway",
+    "name": "Sinai Military Railway (Kantara-Haifa)",
+    "name_arabic": "سكة حديد سيناء العسكرية",
+    "countries": "Egypt, Palestine, Israel",
+    "gauge_mm": 1435,
+    "year_opened": 1916,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "medium",
+    "description": "WWI British line; the Egypt-Palestine rail link",
+    "notes": "Became part of Palestine Railways in October 1920; standard gauge throughout.  [route] Built west-to-east then north as the army advanced. Sinai desert railheads (Gilban, Bir el Abd, El Mazar) have approximate/uncertain coordinates. The Beersheba branch (from Deir Sneid, 1918) is held as an off-line extra_station.  [egypt_levant_link] This is THE physical Egypt-Levant rail connection: from El Kantara EAST it crossed the Suez Canal (swing bridge ~3 miles N of Kantara, July 1918) to join the Egyptian network on the west bank — i.e. it connects to the Cairo-Port Said route at Kantara. Note El Kantara (East) here is distinct from 'Al Qantarah West' on the Cairo-Port Said line.",
+    "history": "A standard-gauge (1,435 mm) military railway built by the British Egyptian Expeditionary Force during WWI as it advanced across Sinai: construction began March 1916, reaching Romani by May 1916, El Arish by January 1917 and Rafah (the Palestine border) by March 1917; it then pushed north with the army, converting captured Ottoman lines to standard gauge and reaching Haifa by the end of 1918. A Deir Sneid-Beersheba branch was added by May 1918. It borrowed ~70 locomotives from Egyptian State Railways.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "cotterell_1984",
+      "levantrain_compilation",
+      "levantrain_system",
+      "wp_palestine_rw"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.335,
+            30.86
+          ],
+          [
+            32.6,
+            31.0
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 1,
+        "from": "El Kantara (East)",
+        "to": "Gilban",
+        "from_id": "el-kantara-east",
+        "to_id": "gilban",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6,
+            31.0
+          ],
+          [
+            32.65,
+            31.05
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 2,
+        "from": "Gilban",
+        "to": "Romani",
+        "from_id": "gilban",
+        "to_id": "romani",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.65,
+            31.05
+          ],
+          [
+            33.01,
+            31.02
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 3,
+        "from": "Romani",
+        "to": "Bir el Abd",
+        "from_id": "romani",
+        "to_id": "bir-el-abd",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.01587,
+            31.005601
+          ],
+          [
+            33.078987,
+            31.022709
+          ],
+          [
+            33.087568,
+            31.025204
+          ],
+          [
+            33.090262,
+            31.025724
+          ],
+          [
+            33.094185,
+            31.026121
+          ],
+          [
+            33.111851,
+            31.027376
+          ],
+          [
+            33.135602,
+            31.028638
+          ],
+          [
+            33.171405,
+            31.031139
+          ],
+          [
+            33.17461,
+            31.03163
+          ],
+          [
+            33.176494,
+            31.032033
+          ],
+          [
+            33.178974,
+            31.032667
+          ],
+          [
+            33.179842,
+            31.03306
+          ],
+          [
+            33.18066,
+            31.033302
+          ],
+          [
+            33.19541,
+            31.036845
+          ],
+          [
+            33.198913,
+            31.038327
+          ],
+          [
+            33.19997,
+            31.03854
+          ],
+          [
+            33.201861,
+            31.03858
+          ],
+          [
+            33.205835,
+            31.038336
+          ],
+          [
+            33.208164,
+            31.038407
+          ],
+          [
+            33.221367,
+            31.039662
+          ],
+          [
+            33.230284,
+            31.040693
+          ],
+          [
+            33.231887,
+            31.040653
+          ],
+          [
+            33.239822,
+            31.039654
+          ],
+          [
+            33.241826,
+            31.039297
+          ],
+          [
+            33.248233,
+            31.036888
+          ],
+          [
+            33.252918,
+            31.035531
+          ],
+          [
+            33.26403,
+            31.031865
+          ],
+          [
+            33.303014,
+            31.019504
+          ],
+          [
+            33.304837,
+            31.019066
+          ],
+          [
+            33.305339,
+            31.019037
+          ],
+          [
+            33.307818,
+            31.019169
+          ],
+          [
+            33.310829,
+            31.019482
+          ],
+          [
+            33.31373,
+            31.01956
+          ],
+          [
+            33.319336,
+            31.019216
+          ],
+          [
+            33.334681,
+            31.021726
+          ],
+          [
+            33.343082,
+            31.02454
+          ],
+          [
+            33.363078,
+            31.028498
+          ],
+          [
+            33.364439,
+            31.028692
+          ],
+          [
+            33.374745,
+            31.029542
+          ],
+          [
+            33.376381,
+            31.029867
+          ],
+          [
+            33.380193,
+            31.031235
+          ],
+          [
+            33.38062,
+            31.031281
+          ],
+          [
+            33.392607,
+            31.030676
+          ],
+          [
+            33.393715,
+            31.030786
+          ],
+          [
+            33.400908,
+            31.033695
+          ],
+          [
+            33.430035,
+            31.043031
+          ],
+          [
+            33.435401,
+            31.044882
+          ],
+          [
+            33.444079,
+            31.047574
+          ],
+          [
+            33.463717,
+            31.053981
+          ],
+          [
+            33.464411,
+            31.054133
+          ],
+          [
+            33.468361,
+            31.054523
+          ],
+          [
+            33.475958,
+            31.054794
+          ],
+          [
+            33.4842,
+            31.055334
+          ],
+          [
+            33.488121,
+            31.05529
+          ],
+          [
+            33.488989,
+            31.055405
+          ],
+          [
+            33.492731,
+            31.055561
+          ],
+          [
+            33.499828,
+            31.055602
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 4,
+        "from": "Bir el Abd",
+        "to": "El Mazar",
+        "from_id": "bir-el-abd",
+        "to_id": "el-mazar",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.5,
+            31.05
+          ],
+          [
+            33.801,
+            31.131
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 5,
+        "from": "El Mazar",
+        "to": "El Arish",
+        "from_id": "el-mazar",
+        "to_id": "el-arish",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.801,
+            31.131
+          ],
+          [
+            34.246,
+            31.287
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 6,
+        "from": "El Arish",
+        "to": "Rafah",
+        "from_id": "el-arish",
+        "to_id": "rafah",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.246,
+            31.287
+          ],
+          [
+            34.303,
+            31.34
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 7,
+        "from": "Rafah",
+        "to": "Khan Yunis",
+        "from_id": "rafah",
+        "to_id": "khan-yunis",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.303,
+            31.34
+          ],
+          [
+            34.35,
+            31.418
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 8,
+        "from": "Khan Yunis",
+        "to": "Deir el Balah",
+        "from_id": "khan-yunis",
+        "to_id": "deir-el-balah",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.35,
+            31.418
+          ],
+          [
+            34.466,
+            31.504
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 9,
+        "from": "Deir el Balah",
+        "to": "Gaza",
+        "from_id": "deir-el-balah",
+        "to_id": "gaza",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.466,
+            31.504
+          ],
+          [
+            34.57,
+            31.58
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 10,
+        "from": "Gaza",
+        "to": "Deir Sneid",
+        "from_id": "gaza",
+        "to_id": "deir-sneid",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.57,
+            31.58
+          ],
+          [
+            34.89,
+            31.951
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 11,
+        "from": "Deir Sneid",
+        "to": "Lydda (Lod)",
+        "from_id": "deir-sneid",
+        "to_id": "lydda-lod",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.89,
+            31.951
+          ],
+          [
+            34.99,
+            32.819
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 12,
+        "from": "Lydda (Lod)",
+        "to": "Haifa",
+        "from_id": "lydda-lod",
+        "to_id": "haifa",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    }
+  ]
+}

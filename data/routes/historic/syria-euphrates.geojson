@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "syria-euphrates",
+    "name": "Euphrates Railway (Aleppo-Deir ez-Zor-Qamishli)",
+    "name_arabic": "خط الفرات",
+    "countries": "Syria",
+    "gauge_mm": 1435,
+    "year_opened": 1968,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "medium",
+    "description": "Soviet-built Euphrates/Jazira corridor to the Turkish border",
+    "notes": "Standard-gauge CFS line up the Euphrates and across the Jazira to the Turkish border at Qamishli.  [established] Built in stages with Soviet assistance: Aleppo-Al-Tabqah 1968, Al-Tabqah-Raqqa 1972, Raqqa-Deir ez-Zor 1973, Deir ez-Zor-Qamishli 1976.  [connections] Qamishli sits on the Turkish border opposite Nusaybin (on the Baghdad Railway) - a second Syria-Turkey rail touchpoint.",
+    "history": "A standard-gauge (1,435 mm) line built 1968-1976 with Soviet monetary and industrial assistance, running from Aleppo along the Euphrates (Al-Thawra/Tabqa, Raqqa, Deir ez-Zor) and across the Jazira to Hasakah and Qamishli on the Turkish frontier.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "levantrain_compilation",
+      "levantrain_system",
+      "wp_syria"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.161,
+            36.202
+          ],
+          [
+            38.55,
+            35.84
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-euphrates",
+        "sequence": 1,
+        "from": "Aleppo",
+        "to": "Al-Thawra",
+        "from_id": "aleppo",
+        "to_id": "al-thawra",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.55,
+            35.84
+          ],
+          [
+            39.01,
+            35.95
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-euphrates",
+        "sequence": 2,
+        "from": "Al-Thawra",
+        "to": "Raqqa",
+        "from_id": "al-thawra",
+        "to_id": "raqqa",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.01,
+            35.95
+          ],
+          [
+            40.14,
+            35.336
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-euphrates",
+        "sequence": 3,
+        "from": "Raqqa",
+        "to": "Deir ez-Zor",
+        "from_id": "raqqa",
+        "to_id": "deir-ez-zor",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.14,
+            35.336
+          ],
+          [
+            40.75,
+            36.5
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-euphrates",
+        "sequence": 4,
+        "from": "Deir ez-Zor",
+        "to": "Hasakah",
+        "from_id": "deir-ez-zor",
+        "to_id": "hasakah",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.75,
+            36.5
+          ],
+          [
+            41.23,
+            37.05
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-euphrates",
+        "sequence": 5,
+        "from": "Hasakah",
+        "to": "Qamishli",
+        "from_id": "hasakah",
+        "to_id": "qamishli",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    }
+  ]
+}

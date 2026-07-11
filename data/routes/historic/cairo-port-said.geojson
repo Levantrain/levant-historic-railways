@@ -1,27 +1,1294 @@
 {
   "type": "FeatureCollection",
+  "route": {
+    "route_id": "cairo-port-said",
+    "name": "Cairo-Port Said Railway",
+    "name_arabic": "سكة حديد القاهرة-بورسعيد",
+    "countries": "Egypt",
+    "gauge_mm": 1435,
+    "year_opened": 1904,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "high",
+    "description": "Parallels Suez Canal",
+    "notes": "The Nifisha-Ismailia-Al Qantarah West-Port Said extension along the Canal’s west bank opened 1904.  [route] Intermediate stations from Wikipedia’s Egyptian station list; the source is alphabetical, so the sequence is ordered by geography here — verify the exact historical order around the eastern-Delta junction (Zagazig / Tell el-Kebir / Abu Hammad) and the canal-side stops.",
+    "history": "The line runs from Cairo across the eastern Delta via the Zagazig junction to Ismailia on the Suez Canal, then north along the Canal's WEST bank (the Nifisha–Ismailia–Al Qantarah West–Port Said extension, completed 1904) to Port Said on the Mediterranean. Excursion trains ran Cairo–Ismailia (~98 miles / 158 km).",
+    "verification_status": "unverified",
+    "source_ids": [
+      "levantrain_system",
+      "railwaywonders",
+      "wp_egypt_stations",
+      "wp_enr"
+    ]
+  },
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [31.2497, 30.0626],
-          [32.2667, 30.5833],
-          [32.3019, 31.2653]
+          [
+            31.244465,
+            30.062768
+          ],
+          [
+            31.243719,
+            30.062798
+          ],
+          [
+            31.244494,
+            30.062946
+          ],
+          [
+            31.251149,
+            30.065931
+          ],
+          [
+            31.251891,
+            30.066442
+          ],
+          [
+            31.252425,
+            30.067031
+          ],
+          [
+            31.252657,
+            30.067403
+          ],
+          [
+            31.254602,
+            30.072197
+          ],
+          [
+            31.255102,
+            30.075678
+          ],
+          [
+            31.255556,
+            30.076972
+          ],
+          [
+            31.256284,
+            30.078098
+          ],
+          [
+            31.259478,
+            30.080382
+          ],
+          [
+            31.261315,
+            30.081556
+          ],
+          [
+            31.263972,
+            30.08394
+          ],
+          [
+            31.26432,
+            30.087213
+          ],
+          [
+            31.264217,
+            30.087863
+          ],
+          [
+            31.264004,
+            30.088375
+          ],
+          [
+            31.263253,
+            30.089486
+          ],
+          [
+            31.2605,
+            30.095669
+          ],
+          [
+            31.258899,
+            30.098709
+          ],
+          [
+            31.257385,
+            30.100999
+          ],
+          [
+            31.256432,
+            30.103084
+          ],
+          [
+            31.256253,
+            30.104716
+          ],
+          [
+            31.25567,
+            30.107285
+          ],
+          [
+            31.255472,
+            30.107873
+          ],
+          [
+            31.253639,
+            30.111413
+          ],
+          [
+            31.251935,
+            30.113703
+          ],
+          [
+            31.235301,
+            30.13364
+          ],
+          [
+            31.23388,
+            30.13563
+          ],
+          [
+            31.232789,
+            30.137751
+          ],
+          [
+            31.231891,
+            30.140295
+          ],
+          [
+            31.231095,
+            30.14401
+          ],
+          [
+            31.23088,
+            30.145337
+          ],
+          [
+            31.230947,
+            30.1458
+          ],
+          [
+            31.225793,
+            30.178164
+          ],
+          [
+            31.223996,
+            30.181052
+          ],
+          [
+            31.222856,
+            30.181424
+          ],
+          [
+            31.206307,
+            30.181472
+          ]
         ]
       },
       "properties": {
-        "name": "Cairo-Port Said Railway",
-        "name_arabic": "سكة حديد القاهرة-بورسعيد",
-        "route_type": "Main Line",
-        "year_opened": 1904,
-        "year_closed": null,
-        "status": "Active",
-        "gauge_mm": 1435,
-        "countries": "Egypt",
-        "notes": "Via Ismailia along Suez Canal",
-        "color": "#795548"
+        "route_id": "cairo-port-said",
+        "sequence": 1,
+        "from": "Cairo",
+        "to": "Qalyub",
+        "from_id": "cairo",
+        "to_id": "qalyub",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.207,
+            30.178
+          ],
+          [
+            31.503,
+            30.588
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 2,
+        "from": "Qalyub",
+        "to": "Zagazig",
+        "from_id": "qalyub",
+        "to_id": "zagazig",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.506,
+            30.583534
+          ],
+          [
+            31.507014,
+            30.584126
+          ],
+          [
+            31.507904,
+            30.58486
+          ],
+          [
+            31.509047,
+            30.586142
+          ],
+          [
+            31.511097,
+            30.588803
+          ],
+          [
+            31.512318,
+            30.589965
+          ],
+          [
+            31.512586,
+            30.590186
+          ],
+          [
+            31.515459,
+            30.591743
+          ],
+          [
+            31.517195,
+            30.592246
+          ],
+          [
+            31.519715,
+            30.592572
+          ],
+          [
+            31.521408,
+            30.592545
+          ],
+          [
+            31.523724,
+            30.592126
+          ],
+          [
+            31.524738,
+            30.591839
+          ],
+          [
+            31.530118,
+            30.58982
+          ],
+          [
+            31.573071,
+            30.57331
+          ],
+          [
+            31.574896,
+            30.572522
+          ],
+          [
+            31.604141,
+            30.561407
+          ],
+          [
+            31.666887,
+            30.537218
+          ],
+          [
+            31.670478,
+            30.536294
+          ],
+          [
+            31.673119,
+            30.536033
+          ],
+          [
+            31.674318,
+            30.536024
+          ],
+          [
+            31.677295,
+            30.536352
+          ],
+          [
+            31.681869,
+            30.537522
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 3,
+        "from": "Zagazig",
+        "to": "Tell el-Kebir",
+        "from_id": "zagazig",
+        "to_id": "tell-el-kebir",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "high",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.679,
+            30.548
+          ],
+          [
+            31.772,
+            30.528
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 4,
+        "from": "Tell el-Kebir",
+        "to": "Abu Hammad",
+        "from_id": "tell-el-kebir",
+        "to_id": "abu-hammad",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.772,
+            30.528
+          ],
+          [
+            31.93,
+            30.57
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 5,
+        "from": "Abu Hammad",
+        "to": "Qassasin",
+        "from_id": "abu-hammad",
+        "to_id": "qassasin",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.933405,
+            30.562381
+          ],
+          [
+            31.938104,
+            30.562937
+          ],
+          [
+            31.963001,
+            30.56757
+          ],
+          [
+            31.965184,
+            30.567775
+          ],
+          [
+            31.967955,
+            30.567745
+          ],
+          [
+            31.989492,
+            30.565104
+          ],
+          [
+            32.012718,
+            30.562109
+          ],
+          [
+            32.028915,
+            30.560164
+          ],
+          [
+            32.080003,
+            30.553622
+          ],
+          [
+            32.083232,
+            30.55328
+          ],
+          [
+            32.084877,
+            30.553284
+          ],
+          [
+            32.087721,
+            30.553542
+          ],
+          [
+            32.089874,
+            30.554013
+          ],
+          [
+            32.091191,
+            30.554405
+          ],
+          [
+            32.118103,
+            30.562886
+          ],
+          [
+            32.119422,
+            30.56322
+          ],
+          [
+            32.178091,
+            30.581472
+          ],
+          [
+            32.180691,
+            30.58224
+          ],
+          [
+            32.182786,
+            30.58273
+          ],
+          [
+            32.184957,
+            30.583011
+          ],
+          [
+            32.187403,
+            30.583072
+          ],
+          [
+            32.188749,
+            30.583019
+          ],
+          [
+            32.191587,
+            30.58264
+          ],
+          [
+            32.212654,
+            30.578666
+          ],
+          [
+            32.216423,
+            30.577808
+          ],
+          [
+            32.222906,
+            30.575488
+          ],
+          [
+            32.225153,
+            30.574531
+          ],
+          [
+            32.226099,
+            30.574493
+          ],
+          [
+            32.227449,
+            30.575146
+          ],
+          [
+            32.227992,
+            30.575311
+          ],
+          [
+            32.22854,
+            30.575341
+          ],
+          [
+            32.229234,
+            30.575178
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 6,
+        "from": "Qassasin",
+        "to": "Nefisha",
+        "from_id": "qassasin",
+        "to_id": "nefisha",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.229234,
+            30.575178
+          ],
+          [
+            32.230412,
+            30.574565
+          ],
+          [
+            32.232265,
+            30.571971
+          ],
+          [
+            32.235416,
+            30.573816
+          ],
+          [
+            32.237083,
+            30.57406
+          ],
+          [
+            32.239302,
+            30.574756
+          ],
+          [
+            32.241269,
+            30.57585
+          ],
+          [
+            32.246041,
+            30.579048
+          ],
+          [
+            32.252722,
+            30.583707
+          ],
+          [
+            32.257654,
+            30.586805
+          ],
+          [
+            32.261831,
+            30.590159
+          ],
+          [
+            32.262781,
+            30.590772
+          ],
+          [
+            32.263874,
+            30.59133
+          ],
+          [
+            32.265122,
+            30.591804
+          ],
+          [
+            32.269185,
+            30.592913
+          ],
+          [
+            32.272686,
+            30.594146
+          ],
+          [
+            32.274619,
+            30.594692
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 7,
+        "from": "Nefisha",
+        "to": "Ismailia",
+        "from_id": "nefisha",
+        "to_id": "ismailia",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "high",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.274619,
+            30.594692
+          ],
+          [
+            32.277411,
+            30.594963
+          ],
+          [
+            32.284247,
+            30.594686
+          ],
+          [
+            32.286954,
+            30.59484
+          ],
+          [
+            32.287889,
+            30.594926
+          ],
+          [
+            32.289501,
+            30.595268
+          ],
+          [
+            32.291115,
+            30.595825
+          ],
+          [
+            32.291988,
+            30.596258
+          ],
+          [
+            32.293805,
+            30.597524
+          ],
+          [
+            32.309156,
+            30.611633
+          ],
+          [
+            32.310141,
+            30.612675
+          ],
+          [
+            32.31191,
+            30.615101
+          ],
+          [
+            32.321295,
+            30.631362
+          ],
+          [
+            32.32285,
+            30.635766
+          ],
+          [
+            32.32432,
+            30.641167
+          ],
+          [
+            32.32495,
+            30.643956
+          ],
+          [
+            32.325083,
+            30.645037
+          ],
+          [
+            32.325078,
+            30.64602
+          ],
+          [
+            32.324953,
+            30.646951
+          ],
+          [
+            32.324586,
+            30.64828
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 8,
+        "from": "Ismailia",
+        "to": "El Ferdan",
+        "from_id": "ismailia",
+        "to_id": "el-ferdan",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "high",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.324586,
+            30.64828
+          ],
+          [
+            32.323585,
+            30.650842
+          ],
+          [
+            32.323196,
+            30.652551
+          ],
+          [
+            32.323161,
+            30.653972
+          ],
+          [
+            32.323603,
+            30.656228
+          ],
+          [
+            32.324096,
+            30.657247
+          ],
+          [
+            32.325014,
+            30.658024
+          ],
+          [
+            32.326095,
+            30.658369
+          ],
+          [
+            32.326955,
+            30.658387
+          ],
+          [
+            32.327646,
+            30.658286
+          ],
+          [
+            32.326385,
+            30.658717
+          ],
+          [
+            32.325671,
+            30.659191
+          ],
+          [
+            32.32522,
+            30.65969
+          ],
+          [
+            32.324872,
+            30.660467
+          ],
+          [
+            32.324787,
+            30.661247
+          ],
+          [
+            32.324868,
+            30.661944
+          ],
+          [
+            32.325895,
+            30.666285
+          ],
+          [
+            32.326343,
+            30.66739
+          ],
+          [
+            32.32697,
+            30.66848
+          ],
+          [
+            32.328099,
+            30.669786
+          ],
+          [
+            32.33099,
+            30.672625
+          ],
+          [
+            32.33184,
+            30.673759
+          ],
+          [
+            32.332663,
+            30.675326
+          ],
+          [
+            32.333047,
+            30.676686
+          ],
+          [
+            32.333929,
+            30.682014
+          ],
+          [
+            32.334856,
+            30.685023
+          ],
+          [
+            32.336098,
+            30.688455
+          ],
+          [
+            32.337415,
+            30.692504
+          ],
+          [
+            32.338304,
+            30.698047
+          ],
+          [
+            32.340941,
+            30.707741
+          ],
+          [
+            32.341068,
+            30.709605
+          ],
+          [
+            32.340893,
+            30.711038
+          ],
+          [
+            32.340287,
+            30.713538
+          ],
+          [
+            32.338759,
+            30.719122
+          ],
+          [
+            32.337765,
+            30.722281
+          ],
+          [
+            32.337328,
+            30.723256
+          ],
+          [
+            32.325453,
+            30.739977
+          ],
+          [
+            32.322784,
+            30.743835
+          ],
+          [
+            32.322373,
+            30.744678
+          ],
+          [
+            32.321866,
+            30.746261
+          ],
+          [
+            32.318563,
+            30.762002
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 9,
+        "from": "El Ferdan",
+        "to": "El Ballah",
+        "from_id": "el-ferdan",
+        "to_id": "el-ballah",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "high",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.318563,
+            30.762002
+          ],
+          [
+            32.31619,
+            30.773379
+          ],
+          [
+            32.313554,
+            30.788221
+          ],
+          [
+            32.313421,
+            30.789561
+          ],
+          [
+            32.313547,
+            30.791428
+          ],
+          [
+            32.315108,
+            30.803478
+          ],
+          [
+            32.315767,
+            30.809381
+          ],
+          [
+            32.314495,
+            30.844691
+          ],
+          [
+            32.314106,
+            30.852464
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 10,
+        "from": "El Ballah",
+        "to": "Al Qantarah West",
+        "from_id": "el-ballah",
+        "to_id": "al-qantarah-west",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "high",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.314106,
+            30.852464
+          ],
+          [
+            32.313626,
+            30.860435
+          ],
+          [
+            32.313706,
+            30.862085
+          ],
+          [
+            32.31363,
+            30.876136
+          ],
+          [
+            32.311438,
+            30.939918
+          ],
+          [
+            32.31078,
+            30.9449
+          ],
+          [
+            32.310725,
+            30.946003
+          ],
+          [
+            32.310749,
+            30.949388
+          ],
+          [
+            32.310978,
+            30.952425
+          ],
+          [
+            32.310964,
+            30.953888
+          ],
+          [
+            32.310483,
+            30.96724
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 11,
+        "from": "Al Qantarah West",
+        "to": "El Cap",
+        "from_id": "al-qantarah-west",
+        "to_id": "el-cap",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "high",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.310483,
+            30.96724
+          ],
+          [
+            32.309031,
+            31.009498
+          ],
+          [
+            32.308966,
+            31.010494
+          ],
+          [
+            32.308321,
+            31.014583
+          ],
+          [
+            32.308266,
+            31.015721
+          ],
+          [
+            32.308613,
+            31.019818
+          ],
+          [
+            32.308648,
+            31.021403
+          ],
+          [
+            32.308205,
+            31.033902
+          ],
+          [
+            32.307614,
+            31.038749
+          ],
+          [
+            32.307474,
+            31.041559
+          ],
+          [
+            32.307397,
+            31.04596
+          ],
+          [
+            32.307656,
+            31.050058
+          ],
+          [
+            32.307408,
+            31.058178
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 12,
+        "from": "El Cap",
+        "to": "El Tina",
+        "from_id": "el-cap",
+        "to_id": "el-tina",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.307408,
+            31.058178
+          ],
+          [
+            32.305016,
+            31.130197
+          ],
+          [
+            32.304916,
+            31.131348
+          ],
+          [
+            32.304361,
+            31.134476
+          ],
+          [
+            32.304157,
+            31.139003
+          ],
+          [
+            32.304543,
+            31.143437
+          ],
+          [
+            32.302119,
+            31.215971
+          ],
+          [
+            32.302009,
+            31.217184
+          ],
+          [
+            32.301669,
+            31.218754
+          ],
+          [
+            32.300984,
+            31.221525
+          ],
+          [
+            32.300759,
+            31.221984
+          ],
+          [
+            32.299469,
+            31.223607
+          ],
+          [
+            32.294519,
+            31.229218
+          ],
+          [
+            32.294087,
+            31.229859
+          ],
+          [
+            32.293689,
+            31.230869
+          ],
+          [
+            32.293515,
+            31.232616
+          ],
+          [
+            32.293481,
+            31.235956
+          ],
+          [
+            32.293579,
+            31.236691
+          ],
+          [
+            32.293835,
+            31.237407
+          ],
+          [
+            32.294431,
+            31.238273
+          ],
+          [
+            32.29499,
+            31.238808
+          ],
+          [
+            32.296075,
+            31.239532
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 13,
+        "from": "El Tina",
+        "to": "Raswa",
+        "from_id": "el-tina",
+        "to_id": "raswa",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.296075,
+            31.239532
+          ],
+          [
+            32.298167,
+            31.242258
+          ],
+          [
+            32.298302,
+            31.243691
+          ],
+          [
+            32.29805,
+            31.246058
+          ],
+          [
+            32.298043,
+            31.249987
+          ],
+          [
+            32.298839,
+            31.253428
+          ],
+          [
+            32.300679,
+            31.260345
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cairo-port-said",
+        "sequence": 14,
+        "from": "Raswa",
+        "to": "Port Said",
+        "from_id": "raswa",
+        "to_id": "port-said",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "high",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
       }
     }
   ]

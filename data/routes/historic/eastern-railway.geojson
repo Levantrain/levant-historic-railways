@@ -1,0 +1,397 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "eastern-railway",
+    "name": "Eastern Railway (Afula-Tulkarm-Lydda)",
+    "name_arabic": "السكة الشرقية",
+    "countries": "Israel, Palestine",
+    "gauge_mm": 1050,
+    "year_opened": 1915,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "medium",
+    "description": "WWI Ottoman/German line; later standard-gauged",
+    "notes": "Engineered by Heinrich Meissner under Ottoman direction — the same engineer as the Hejaz Railway.  [gauge_mm] Built as 1,050 mm NARROW gauge (Ottoman/German, WWI); CONVERTED to standard gauge (1,435 mm) by the British EEF in 1917-18. The project’s '1050/1435' captures both eras.  [route] A BRANCHING network, not a single line: the through spine ran Afula -> Jenin -> Mas’udiya -> Tulkarm -> Lydda, with a spur SE to NABLUS (from Mas’udiya; the 1908-1914 Afula-Nablus branch) and a branch NW to HADERA on the coast (from Tulkarm). Nablus and Hadera are held as off-line extra_stations. The project’s 'Hadera-Tulkarm-Lydda' describes the coastal-plain portion of this network.  [historic_vs_modern] NAME CLASH: a MODERN 'Eastern Railway' (Israel Railways, Rosh HaAyin-Kfar Saba-Hadera, opened from 2016) revives the name and roughly the coastal-plain corridor, but it is a NEW standard-gauge line — distinct from this historic WWI Ottoman/German railway.",
+    "history": "A WWI-era line built under Ottoman direction by the German engineer Heinrich Meissner. A branch from Afula (on the Jezreel Valley line) toward Jerusalem was begun in 1908 and reached Nablus by 1914; from 1915 Meissner built a 1,050 mm line west from El Mas'udiya to Tulkarm, with branches north to Hadera and south to Lydda (linking the Jaffa-Jerusalem line).",
+    "verification_status": "unverified",
+    "source_ids": [
+      "levantrain_compilation",
+      "levantrain_system",
+      "wp_israel_rw",
+      "wp_palestine_rw"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.29,
+            32.606
+          ],
+          [
+            35.3,
+            32.461
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "eastern-railway",
+        "sequence": 1,
+        "from": "Afula",
+        "to": "Jenin",
+        "from_id": "afula",
+        "to_id": "jenin",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.3,
+            32.461
+          ],
+          [
+            35.19,
+            32.28
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "eastern-railway",
+        "sequence": 2,
+        "from": "Jenin",
+        "to": "Mas'udiya",
+        "from_id": "jenin",
+        "to_id": "mas-udiya",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.19,
+            32.28
+          ],
+          [
+            35.028,
+            32.311
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "eastern-railway",
+        "sequence": 3,
+        "from": "Mas'udiya",
+        "to": "Tulkarm",
+        "from_id": "mas-udiya",
+        "to_id": "tulkarm",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.028,
+            32.311
+          ],
+          [
+            34.971,
+            32.19
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "eastern-railway",
+        "sequence": 4,
+        "from": "Tulkarm",
+        "to": "Qalqilya",
+        "from_id": "tulkarm",
+        "to_id": "qalqilya",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.956604,
+            32.186608
+          ],
+          [
+            34.956965,
+            32.184427
+          ],
+          [
+            34.956994,
+            32.182723
+          ],
+          [
+            34.956893,
+            32.18169
+          ],
+          [
+            34.956539,
+            32.180076
+          ],
+          [
+            34.956094,
+            32.178807
+          ],
+          [
+            34.955,
+            32.176714
+          ],
+          [
+            34.953606,
+            32.174883
+          ],
+          [
+            34.952454,
+            32.173763
+          ],
+          [
+            34.948183,
+            32.170465
+          ],
+          [
+            34.947466,
+            32.169817
+          ],
+          [
+            34.941057,
+            32.162992
+          ],
+          [
+            34.94017,
+            32.161981
+          ],
+          [
+            34.939092,
+            32.160536
+          ],
+          [
+            34.938152,
+            32.158989
+          ],
+          [
+            34.9373,
+            32.157183
+          ],
+          [
+            34.936684,
+            32.155344
+          ],
+          [
+            34.936357,
+            32.153979
+          ],
+          [
+            34.932898,
+            32.134359
+          ],
+          [
+            34.93274,
+            32.132263
+          ],
+          [
+            34.932862,
+            32.13065
+          ],
+          [
+            34.933756,
+            32.126097
+          ],
+          [
+            34.934364,
+            32.123667
+          ],
+          [
+            34.934459,
+            32.122844
+          ],
+          [
+            34.934416,
+            32.11369
+          ],
+          [
+            34.935144,
+            32.109713
+          ],
+          [
+            34.935167,
+            32.107881
+          ],
+          [
+            34.934551,
+            32.09939
+          ],
+          [
+            34.932679,
+            32.084074
+          ],
+          [
+            34.931996,
+            32.079763
+          ],
+          [
+            34.931857,
+            32.077971
+          ],
+          [
+            34.933003,
+            32.06798
+          ],
+          [
+            34.933605,
+            32.065039
+          ],
+          [
+            34.935969,
+            32.046273
+          ],
+          [
+            34.936091,
+            32.043967
+          ],
+          [
+            34.935942,
+            32.042693
+          ],
+          [
+            34.935707,
+            32.041762
+          ],
+          [
+            34.93519,
+            32.040112
+          ],
+          [
+            34.934525,
+            32.038615
+          ],
+          [
+            34.93263,
+            32.035653
+          ],
+          [
+            34.931406,
+            32.033841
+          ],
+          [
+            34.930564,
+            32.032789
+          ],
+          [
+            34.930001,
+            32.031852
+          ],
+          [
+            34.92758,
+            32.025117
+          ],
+          [
+            34.927163,
+            32.023651
+          ],
+          [
+            34.926968,
+            32.023294
+          ],
+          [
+            34.925688,
+            32.021417
+          ],
+          [
+            34.924373,
+            32.019877
+          ],
+          [
+            34.918605,
+            32.014715
+          ],
+          [
+            34.91728,
+            32.013191
+          ],
+          [
+            34.915277,
+            32.009844
+          ],
+          [
+            34.910096,
+            31.999412
+          ],
+          [
+            34.907158,
+            31.99164
+          ],
+          [
+            34.9034,
+            31.984396
+          ],
+          [
+            34.901917,
+            31.981106
+          ],
+          [
+            34.901534,
+            31.979225
+          ],
+          [
+            34.901175,
+            31.971487
+          ],
+          [
+            34.90092,
+            31.97033
+          ],
+          [
+            34.900465,
+            31.969193
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "eastern-railway",
+        "sequence": 5,
+        "from": "Qalqilya",
+        "to": "Lydda (Lod)",
+        "from_id": "qalqilya",
+        "to_id": "lydda-lod",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    }
+  ]
+}

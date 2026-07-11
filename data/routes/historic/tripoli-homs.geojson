@@ -1,26 +1,53 @@
 {
   "type": "FeatureCollection",
+  "route": {
+    "route_id": "tripoli-homs",
+    "name": "Tripoli-Homs Railway",
+    "name_arabic": "سكة حديد طرابلس-حمص",
+    "countries": "Lebanon, Syria",
+    "gauge_mm": 1435,
+    "year_opened": 1911,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "medium",
+    "description": "Northern Lebanon-Syria link",
+    "notes": "The 'missed connection': the Lebanese and Syrian networks never fully integrated here, partly because of the gauge differences around Tripoli/Homs.  [gauge_mm] GAUGE IS A TWO-ERA PUZZLE, not a simple error — sources conflict, so verify: (a) the ORIGINAL 1911 DHP Homs–Tripoli branch appears to have been 1,050 mm NARROW gauge (Wikipedia), which would have meant yet another gauge break at Homs against the standard-gauge Aleppo line; (b) a STANDARD-gauge (1,435 mm) connection to Tripoli came later — the WWII HBT coastal line reached Tripoli on 18 Dec 1942, and the post-war Syrian (CFS) standard-gauge network served Homs. The project’s 1,435 mm is defensible for the LATER standard-gauge era but likely NOT for the original 1911 branch.  [route] Runs inland from Tripoli (El Mina) through the HOMS GAP / Akkar plain to Homs, where it joined the Syrian network (Damascus–Homs–Hama–Aleppo). Intermediate stations are NOT documented in the consulted sources (a research gap); likely candidates on the corridor include Abou Halqa, the Akkar plain, and Tell Kalakh (Syria) — unverified.",
+    "history": "A DHP branch linking the Mediterranean port of Tripoli inland to Homs (on the Syrian standard-gauge network toward Hama and Aleppo), through the Homs Gap — the natural lowland pass between the Lebanon and coastal mountain ranges.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "internationalsteam",
+      "levantrain_system",
+      "wp_lebanon",
+      "wp_syria"
+    ]
+  },
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [35.8333, 34.4333],
-          [36.7167, 34.7333]
+          [
+            35.844,
+            34.436
+          ],
+          [
+            36.716,
+            34.73
+          ]
         ]
       },
       "properties": {
-        "name": "Tripoli-Homs Railway",
-        "name_arabic": "سكة حديد طرابلس-حمص",
-        "route_type": "Main Line",
-        "year_opened": 1911,
-        "year_closed": null,
-        "status": "Active - Limited",
-        "gauge_mm": 1435,
-        "countries": "Lebanon, Syria",
-        "notes": "Connected Lebanese coast to Syrian interior",
-        "color": "#00796b"
+        "route_id": "tripoli-homs",
+        "sequence": 1,
+        "from": "Tripoli",
+        "to": "Homs",
+        "from_id": "tripoli",
+        "to_id": "homs",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
       }
     }
   ]

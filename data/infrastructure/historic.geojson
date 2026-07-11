@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.183,
+          30.464
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Benha Nile bridge",
+        "confidence": "high",
+        "note": "Second Nile crossing on the Alexandria-Cairo line at Benha.",
+        "route_id": "6525737b-0024-4eec-9035-d808e3e6d506",
+        "source_ids": [
+          "railwaywonders"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.821,
+          30.824
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Kafr el-Zayyat Nile bridge",
+        "confidence": "high",
+        "note": "Nile crossing on the Rosetta branch.",
+        "route_id": "6525737b-0024-4eec-9035-d808e3e6d506",
+        "source_ids": [
+          "farnworth",
+          "railwaywonders",
+          "wp_enr"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.33,
+          30.65
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Suez Canal railway swing bridge (Kantara / El Ferdan)",
+        "confidence": "medium",
+        "note": "Railway swing bridge across the Suez Canal linking the Egyptian west-bank line to the Sinai/Palestine railway — the physical Egypt-Levant rail connection.",
+        "route_id": "399ebd78-e819-456e-8407-3bc1952f48b7",
+        "source_ids": [
+          "railwaywonders",
+          "wp_enr"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.68,
+          37.13
+        ]
+      },
+      "properties": {
+        "type": "tunnel",
+        "name": "Ayran tunnel (Amanus / Nur Mountains)",
+        "confidence": "high",
+        "note": "Tunnel through the Amanus (Nur) Mountains between Ayran and Fevzipaşa.",
+        "route_id": "d57acc0e-cf6a-4d9b-9f26-436e8bafa6d3",
+        "source_ids": [
+          "wp_adana_aleppo",
+          "wp_berlin_baghdad"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.71,
+          34.3
+        ]
+      },
+      "properties": {
+        "type": "tunnel",
+        "name": "Chekka headland tunnel",
+        "confidence": "high",
+        "note": "~1-mile (4,800 ft) tunnel through the Chekka headland on the Lebanese coast.",
+        "route_id": "50df2b1e-00d1-49a9-9de0-c3d9c7e12a94",
+        "source_ids": [
+          "awm_hbt"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.873,
+          37.427
+        ]
+      },
+      "properties": {
+        "type": "tunnel",
+        "name": "Taurus (Toros) Mountains tunnels",
+        "confidence": "high",
+        "note": "Series of tunnels carrying the line through the Taurus Mountains near Pozantı.",
+        "route_id": "d57acc0e-cf6a-4d9b-9f26-436e8bafa6d3",
+        "source_ids": [
+          "wp_berlin_baghdad"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9,
+          32.7
+        ]
+      },
+      "properties": {
+        "type": "tunnel",
+        "name": "Yarmuk gorge tunnels & bridges (Samakh–Deraa)",
+        "confidence": "high",
+        "note": "The Samakh–Deraa climb up the Yarmuk gorge: 8 tunnels (~1,100 m) and 329 bridges/aqueducts over 73 km (+529 m).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "shemer_jezreel",
+          "wp_jezreel"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,8668 @@
+[
+  {
+    "entity_type": "infrastructure",
+    "entity": "Ayran tunnel (Amanus / Nur Mountains)",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Ayran tunnel (Amanus / Nur Mountains)",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Benha Nile bridge",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Chekka headland tunnel",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Kafr el-Zayyat Nile bridge",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Kafr el-Zayyat Nile bridge",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Kafr el-Zayyat Nile bridge",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Suez Canal railway swing bridge (Kantara / El Ferdan)",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Suez Canal railway swing bridge (Kantara / El Ferdan)",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Taurus (Toros) Mountains tunnels",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge tunnels & bridges (Samakh–Deraa)",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge tunnels & bridges (Samakh–Deraa)",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "alexandria-cairo",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "aqaba-branch",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_jordan"
+  },
+  {
+    "entity_type": "route",
+    "entity": "aqaba-branch",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "aqaba-branch",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_jordan"
+  },
+  {
+    "entity_type": "route",
+    "entity": "aqaba-branch",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_jordan"
+  },
+  {
+    "entity_type": "route",
+    "entity": "aqaba-branch",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_jordan"
+  },
+  {
+    "entity_type": "route",
+    "entity": "aqaba-branch",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_jordan"
+  },
+  {
+    "entity_type": "route",
+    "entity": "aqaba-branch",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "aqaba-branch",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jordan"
+  },
+  {
+    "entity_type": "route",
+    "entity": "aqaba-branch",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "aqaba-branch",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_jordan"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-aswan",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-suez",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_jordan"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "britannica_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "britannica_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-basra-wwi",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-basra-wwi",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-basra-wwi",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-basra-wwi",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-basra-wwi",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-basra-wwi",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-basra-wwi",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-basra-wwi",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-basra-wwi",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-basra-wwi",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-kirkuk",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-kirkuk",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-kirkuk",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-kirkuk",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-kirkuk",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-kirkuk",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-kirkuk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-kirkuk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-kirkuk",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "iraq-kirkuk",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "greenarea_baalbek"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "greenarea_baalbek"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "internationalsteam"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "greenarea_baalbek"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "internationalsteam"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "internationalsteam"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-coastal",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-coastal",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-coastal",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-coastal",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-coastal",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-coastal",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-coastal",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-coastal",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-coastal",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-coastal",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-euphrates",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-euphrates",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-euphrates",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-euphrates",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-euphrates",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-euphrates",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-euphrates",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-euphrates",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-euphrates",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-euphrates",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "countries",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "established",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "internationalsteam"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "internationalsteam"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "name_ar",
+    "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "alexandria-cairo#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "alexandria-cairo#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "alexandria-cairo#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "alexandria-cairo#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "alexandria-cairo#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "alexandria-cairo#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "alexandria-cairo#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "baghdad-railway#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#10",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#11",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#14",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#18",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#19",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#20",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#23",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#25",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#26",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#27",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#28",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#9",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#11",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#13",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#10",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#11",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#12",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#13",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#14",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-port-said#9",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-suez#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "eastern-railway#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-beirut-tripoli#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-beirut-tripoli#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-beirut-tripoli#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-beirut-tripoli#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-beirut-tripoli#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-beirut-tripoli#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-beirut-tripoli#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-beirut-tripoli#9",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#15",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#16",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#17",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#18",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#12",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#13",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#14",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#15",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#18",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#19",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#20",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#21",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#28",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#29",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#40",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "jaffa-jerusalem#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "jaffa-jerusalem#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "jezreel-valley#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "jezreel-valley#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "jezreel-valley#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "rayak-baalbek#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-coastal#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-coastal#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aaraya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aaraya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aaraya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aaraya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-hammad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-hammad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-hammad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-hammad",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-na-am",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-na-am",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-na-am",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-na-am",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-na-am",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "achrafieh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "achrafieh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "achrafieh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "achrafieh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "acre",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "station",
+    "entity": "acre",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "acre",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "acre",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "adana",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "adana",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "adana",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "adana",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "adana",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "afula",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "afula",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "afula",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "afula",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ain-el-fijeh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ain-el-fijeh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ain-el-fijeh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ain-el-fijeh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ain-hur",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ain-hur",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ain-hur",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ain-hur",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "akhdar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "akhdar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "akhdar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "akhdar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "akhdar",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-dalhamiyya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-dalhamiyya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-dalhamiyya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-dalhamiyya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hafirah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hafirah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hafirah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hafirah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hafirah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hama",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hama",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hama",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hama",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hamma",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hamma",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hamma",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hamma",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hasa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-khanzira",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-khanzira",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-khanzira",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-khanzira",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-khanzira",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-muazzam",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-muazzam",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-muazzam",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-muazzam",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-muazzam",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-qantarah-west",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-qantarah-west",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-qantarah-west",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-qantarah-west",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-sanamayn",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-sanamayn",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-sanamayn",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-sanamayn",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-sanamayn",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-sejed",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-sejed",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-sejed",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-thawra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-thawra",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-ula",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-ula",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-ula",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-ula",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-ula",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aleppo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aleppo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aleppo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aleppo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aleppo",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "alexandria",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "station",
+    "entity": "alexandria",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "alexandria",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "alexandria",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aley",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aley",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aley",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aley",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "amman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "amman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "amman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "amman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "amman",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "an-nabk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "an-nabk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "an-nabk",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aqaba",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jordan"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aqaba",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aswan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aswan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aswan",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "asyut",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "asyut",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "asyut",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baabda",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baabda",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baabda",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baabda",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baalbek",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "internationalsteam"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baalbek",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baalbek",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bab-al-wad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bab-al-wad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bab-al-wad",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baghdad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baghdad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baghdad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baghdad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baghdad",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baiji",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baiji",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baiji",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baiji",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baiji",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "balad-al-sheikh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "balad-al-sheikh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "balad-al-sheikh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "balad-al-sheikh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "banha",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "station",
+    "entity": "banha",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "banha",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "banha",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baniyas",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baniyas",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baquba",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "station",
+    "entity": "baquba",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "basra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "basra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "basra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "basra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "basra",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "batn-al-ghul",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "batn-al-ghul",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "batn-al-ghul",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "batn-al-ghul",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "batn-al-ghul",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "battir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "battir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "station",
+    "entity": "battir",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beersheba",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beersheba",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beersheba",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beirut",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beirut",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beirut",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beirut",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-she-an",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-she-an",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-she-an",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-she-an",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-yosef",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-yosef",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-yosef",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-yosef",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beni-suef",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beni-suef",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beni-suef",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bhamdoun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bhamdoun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bhamdoun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bhamdoun",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-el-abd",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-el-abd",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-el-abd",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-ibn-hermas",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-ibn-hermas",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-ibn-hermas",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-ibn-hermas",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-ibn-hermas",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "buwair",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "buwair",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "buwair",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "buwair",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "buwair",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cairo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cairo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cairo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cairo",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cairo-ain-shams",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cairo-ain-shams",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cairo-ain-shams",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cairo-ain-shams",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "chekka",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "station",
+    "entity": "chekka",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "chekka",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "chekka",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "chtaura",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "chtaura",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "chtaura",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "chtaura",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "daba-a",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "daba-a",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "daba-a",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "daba-a",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "daba-a",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dahr-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dahr-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dahr-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dahr-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dahr-al-hajj",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dahr-el-baidar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dahr-el-baidar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dahr-el-baidar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dahr-el-baidar",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damanhour",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damanhour",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damanhour",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damanhour",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-hejaz",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-hejaz",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-hejaz",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-hejaz",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-kadem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-kadem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-kadem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-kadem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-kadem",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dayr-aban",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dayr-aban",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dayr-aban",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-ali",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-ali",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-ali",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-ali",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-ali",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-el-balah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-el-balah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-el-balah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-ez-zor",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-ez-zor",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-qanoun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-qanoun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-qanoun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-qanoun",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-sneid",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-sneid",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-sneid",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deraa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deraa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deraa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deraa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dhat-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dhat-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dhat-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dhat-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dhat-al-hajj",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "diwaniyah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "station",
+    "entity": "diwaniyah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dummar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dummar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dummar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dummar",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "edfu",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "edfu",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "edfu",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ein-harod",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ein-harod",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ein-harod",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ein-harod",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-arish",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-arish",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-arish",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-ballah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-ballah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-ballah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-ballah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-cap",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-cap",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-cap",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-cap",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-ferdan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-ferdan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-ferdan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-ferdan",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-kantara-east",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-kantara-east",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-kantara-east",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-mazar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-mazar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-mazar",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-tekkieh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-tekkieh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-tekkieh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-tekkieh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-tina",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-tina",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-tina",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-tina",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "elro-i",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "elro-i",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "elro-i",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "elro-i",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "erbil",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "station",
+    "entity": "erbil",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eregli-konya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eregli-konya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eregli-konya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eregli-konya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eregli-konya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eskisehir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eskisehir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eskisehir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eskisehir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "eskisehir",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "esna",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "esna",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "esna",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "fevzipasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "fevzipasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "fevzipasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "fevzipasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "fevzipasa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "furn-el-chebbak",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "furn-el-chebbak",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "furn-el-chebbak",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "furn-el-chebbak",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaza",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaziantep",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaziantep",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaziantep",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaziantep",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaziantep",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gesher",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gesher",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gesher",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gesher",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghabaghib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghabaghib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghabaghib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghabaghib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghabaghib",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghadir-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghadir-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghadir-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghadir-al-hajj",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ghadir-al-hajj",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gilban",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gilban",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gilban",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadath",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadath",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadath",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadath",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadera",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadera",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadera",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadiyyah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadiyyah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadiyyah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadiyyah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadiyyah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "haifa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "haifa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "haifa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "haifa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "halat-ammar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "halat-ammar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "halat-ammar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "halat-ammar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "halat-ammar",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hama",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hama",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hama",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hasade",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hasade",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hasade",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hasade",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hasakah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hasakah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hillah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hillah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "homs",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "homs",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "homs",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "islahiye",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "islahiye",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "islahiye",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "islahiye",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "islahiye",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ismailia",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ismailia",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ismailia",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ismailia",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "istanbul-haydarpasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "istanbul-haydarpasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "istanbul-haydarpasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "istanbul-haydarpasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "istanbul-haydarpasa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izmit",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izmit",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izmit",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izmit",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izmit",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "izra",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jableh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jableh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jaffa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jaffa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jaffa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jamhour",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jamhour",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jamhour",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jamhour",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jbeil",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jbeil",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jbeil",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jbeil",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jdeideh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jdeideh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jdeideh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jdeideh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jenin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jenin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jenin",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jerusalem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jerusalem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jerusalem",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jisr-el-remman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jisr-el-remman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jisr-el-remman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jisr-el-remman",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jiza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jiza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jiza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jiza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jiza",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jurf-ad-darawish",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jurf-ad-darawish",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jurf-ad-darawish",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jurf-ad-darawish",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jurf-ad-darawish",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kafr-el-zayyat",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kafr-el-zayyat",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kafr-el-zayyat",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kafr-el-zayyat",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karaman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karaman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karaman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karaman",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karaman",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karkamis",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karkamis",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karkamis",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karkamis",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "karkamis",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kfar-yehoshua",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kfar-yehoshua",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kfar-yehoshua",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kfar-yehoshua",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-az-zabib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-az-zabib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-az-zabib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-az-zabib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-az-zabib",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-dannun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-dannun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-dannun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-dannun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-dannun",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-yunis",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-yunis",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-yunis",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khanaqin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khanaqin",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khirbet-as-samra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khirbet-as-samra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khirbet-as-samra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khirbet-as-samra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khirbet-as-samra",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kirkuk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kirkuk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kirkuk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kirkuk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kirkuk",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kiryat-haroshet",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kiryat-haroshet",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kiryat-haroshet",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kiryat-haroshet",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kiswe",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kiswe",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kiswe",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kiswe",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kiswe",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kom-ombo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kom-ombo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kom-ombo",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "konya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "konya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "konya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "konya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "konya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kut",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kut",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kut",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kut",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kut",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "latakia",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "latakia",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "latrun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "latrun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "station",
+    "entity": "latrun",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "luxor",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "luxor",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "luxor",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "lydda-lod",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "lydda-lod",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "station",
+    "entity": "lydda-lod",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ma-an",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ma-an",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ma-an",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ma-an",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ma-an",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "maalaka",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "maalaka",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "maalaka",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "maalaka",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "maarat-al-numan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "maarat-al-numan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "maarat-al-numan",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mada-in-salih",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mada-in-salih",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mada-in-salih",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mada-in-salih",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mada-in-salih",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "madaya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "madaya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "madaya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "madaya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mafraq",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mafraq",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mafraq",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mafraq",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mafraq",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mallawi",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mallawi",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mallawi",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "manzil",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "manzil",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "manzil",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "manzil",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "manzil",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mas-udiya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mas-udiya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mas-udiya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "medina",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "medina",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "medina",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "medina",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "medina",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "meydan-ekbez",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "meydan-ekbez",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "meydan-ekbez",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "meydan-ekbez",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "meydan-ekbez",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "minya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "minya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "minya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mosul",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mosul",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mosul",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mosul",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mosul",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mreijat",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mreijat",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mreijat",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mreijat",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mudawwara",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mudawwara",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mudawwara",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mudawwara",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mudawwara",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "muzeirib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "muzeirib",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nablus",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nablus",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nablus",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nag-hammadi",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nag-hammadi",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nag-hammadi",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "naharayim",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "naharayim",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "naharayim",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "naharayim",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nahariya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nahariya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nahariya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nahariya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nasiriyah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nasiriyah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nassib-jaber",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nassib-jaber",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nassib-jaber",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nassib-jaber",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nassib-jaber",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nefisha",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nefisha",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nefisha",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nefisha",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nesher",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nesher",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nesher",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nesher",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nusaybin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nusaybin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nusaybin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nusaybin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nusaybin",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "port-said",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "port-said",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "port-said",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "port-said",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "pozanti",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "pozanti",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "pozanti",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "pozanti",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "pozanti",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qalqilya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qalqilya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qalqilya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qalyub",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qalyub",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qalyub",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qalyub",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qamishli",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qamishli",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qassasin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qassasin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qassasin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qassasin",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qatrana",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qatrana",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qatrana",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qatrana",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qatrana",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qena",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qena",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qena",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rafah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rafah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rafah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rajo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rajo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rajo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rajo",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rajo",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ramla",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ramla",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jaffa_jerusalem"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ramla",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ramtha",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ramtha",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ramtha",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ramtha",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ramtha",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "raqqa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "raqqa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-ayn",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-ayn",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-ayn",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-ayn",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-ayn",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-naqoura",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-naqoura",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-naqoura",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-al-naqoura",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "raswa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "raswa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "raswa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "raswa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rayak",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rayak",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rayak",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rayak",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "romani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "romani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "romani",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "russeifa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "russeifa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "russeifa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "russeifa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "russeifa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "saadnayel",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "saadnayel",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "saadnayel",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "saadnayel",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samakh-tzemah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samakh-tzemah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samakh-tzemah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samakh-tzemah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samarra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samarra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samarra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samarra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samarra",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samawah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_iraq"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samawah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "serghaya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "serghaya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "serghaya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "serghaya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shata",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shata",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shata",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shata",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sheikh-miskin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sheikh-miskin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sheikh-miskin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sheikh-miskin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sheikh-miskin",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shellal",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shellal",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shellal",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shidiya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jordan"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shidiya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shuruq",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shuruq",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shuruq",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shuruq",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sidi-gaber",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sidi-gaber",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sidi-gaber",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sidi-gaber",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sidon",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sidon",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sidon",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sidon",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sofar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sofar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sofar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sofar",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sohag",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sohag",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sohag",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "souk-wadi-barada",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "souk-wadi-barada",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "souk-wadi-barada",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "souk-wadi-barada",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suaq-sultani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suaq-sultani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suaq-sultani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suaq-sultani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suaq-sultani",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suez",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suez",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suez",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suez",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tabiyet-el-agrud",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tabiyet-el-agrud",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tabiyet-el-agrud",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tabiyet-el-agrud",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tabuk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tabuk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tabuk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tabuk",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tabuk",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tanta",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "farnworth"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tanta",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tanta",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tanta",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tartus",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tartus",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-shahem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-shahem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-shahem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-shahem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-shahem",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-yosef",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-yosef",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-yosef",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-yosef",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-abyad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-abyad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-abyad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-abyad",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-abyad",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-el-kebir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-el-kebir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-el-kebir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-el-kebir",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "toprakkale",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "britannica_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "toprakkale",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adana_aleppo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "toprakkale",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_berlin_baghdad"
+  },
+  {
+    "entity_type": "station",
+    "entity": "toprakkale",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "toprakkale",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tripoli",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tripoli",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tripoli",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tulkarm",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_israel_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tulkarm",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tulkarm",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tyre",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tyre",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tyre",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_palestine_rw"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tyre",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "uneiza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "uneiza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "uneiza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "uneiza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "uneiza",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-rutm",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-rutm",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-rutm",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-rutm",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-rutm",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "yagur",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "shemer_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "yagur",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "yagur",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "station",
+    "entity": "yagur",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "yahfoufa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "yahfoufa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "yahfoufa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "yahfoufa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zabadani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "bdr_project"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zabadani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zabadani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_lebanon"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zabadani",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zagazig",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "railwaywonders"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zagazig",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_egypt_stations"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zagazig",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zagazig",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zarqa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zarqa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zarqa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zarqa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zarqa",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  }
+]

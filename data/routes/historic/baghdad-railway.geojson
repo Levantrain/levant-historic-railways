@@ -1,62 +1,941 @@
 {
   "type": "FeatureCollection",
+  "route": {
+    "route_id": "baghdad-railway",
+    "name": "Baghdad Railway",
+    "name_arabic": "سكة حديد بغداد",
+    "countries": "Turkey, Syria, Iraq",
+    "gauge_mm": 1435,
+    "year_opened": 1903,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "high",
+    "description": "Standard gauge; still operational",
+    "notes": "Istanbul Haydarpaşa–Konya is technically the Anatolian Railway; the Baghdad Railway proper began at Konya. Kept together here as the through Istanbul–Basra corridor.  [established] Construction began 1903. Adana–Aleppo section opened 27 April 1912; the line reached Nusaybin by 1918 (still ~480 km short of completion in 1915); through completion to Baghdad only in 1940.  [route] TWO items from the project list need care: (1) GAZIANTEP and KARKAMIŞ belong to the MODERN Turkish reroute (a later Gaziantep–Karkamış line that bypasses Aleppo), not the original Ottoman main line, which ran Adana–Fevzipaşa–İslahiye–Meydan Ekbez–Aleppo. (2) KIRKUK is on a separate branch, not the Mosul–Baghdad main line (which runs via Baiji and Samarra). Both are retained as annotated extra_stations (off the main polyline). The classic alignment is used for the route geometry.  [gauge_mm] Standard gauge 1,435 mm (Adana–Aleppo confirmed).",
+    "history": "The Ottoman Baghdad Railway, financed and engineered by Germany (Deutsche Bank; Philipp Holzmann), extended the Anatolian Railway from Konya toward Baghdad and ultimately Basra. Construction began 1903; the Adana–Aleppo section opened 27 April 1912; it reached Nusaybin by 1918 and was completed through to Baghdad only in 1940. Its defining engineering works were the Taurus and Amanus (Nur) mountain crossings, including the Ayran tunnel (~4.9 km, completed 1917; some sources cite ~8 km for the Ayran–Fevzipaşa crossing).",
+    "verification_status": "unverified",
+    "source_ids": [
+      "britannica_baghdad",
+      "levantrain_system",
+      "wp_adana_aleppo",
+      "wp_berlin_baghdad",
+      "wp_syria"
+    ]
+  },
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [29.0095, 41.0058],
-          [29.4303, 40.8025],
-          [29.9208, 40.7654],
-          [30.4031, 40.7569],
-          [29.9833, 40.1500],
-          [30.5206, 39.7767],
-          [29.9833, 39.4242],
-          [30.5567, 38.7507],
-          [32.4833, 37.8667],
-          [33.2150, 37.1811],
-          [34.0500, 37.5167],
-          [34.4833, 37.5500],
-          [34.8667, 37.4167],
-          [34.7667, 37.3333],
-          [34.9000, 36.9167],
-          [35.3213, 37.0000],
-          [35.7000, 36.9667],
-          [35.8167, 37.0333],
-          [36.2500, 37.0833],
-          [36.6333, 37.0333],
-          [37.2167, 37.2167],
-          [37.3825, 37.0594],
-          [38.0167, 36.8333],
-          [37.2667, 36.9500],
-          [37.0500, 36.6167],
-          [37.1612, 36.2012],
-          [37.5167, 36.3667],
-          [37.9500, 36.5333],
-          [38.0111, 36.8167],
-          [40.0667, 36.8500],
-          [38.9575, 36.6972],
-          [41.2142, 37.0742],
-          [41.2264, 37.0519],
-          [42.1500, 37.1833],
-          [44.3922, 35.4681],
-          [43.1189, 36.3350],
-          [44.3661, 33.3152],
-          [47.7804, 30.5085]
+          [
+            29.019,
+            40.996
+          ],
+          [
+            29.917,
+            40.766
+          ]
         ]
       },
       "properties": {
-        "name": "Baghdad Railway",
-        "name_arabic": "سكة حديد بغداد",
-        "route_type": "Main Line",
-        "year_opened": 1903,
-        "year_closed": null,
-        "status": "Active - Partially",
-        "gauge_mm": 1435,
-        "countries": "Turkey, Syria, Iraq",
-        "notes": "Istanbul to Baghdad and Basra; German-Ottoman project",
-        "color": "#1976d2"
+        "route_id": "baghdad-railway",
+        "sequence": 1,
+        "from": "Istanbul Haydarpasa",
+        "to": "Izmit",
+        "from_id": "istanbul-haydarpasa",
+        "to_id": "izmit",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.917,
+            40.766
+          ],
+          [
+            30.52,
+            39.776
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 2,
+        "from": "Izmit",
+        "to": "Eskisehir",
+        "from_id": "izmit",
+        "to_id": "eskisehir",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.52,
+            39.776
+          ],
+          [
+            32.492,
+            37.874
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 3,
+        "from": "Eskisehir",
+        "to": "Konya",
+        "from_id": "eskisehir",
+        "to_id": "konya",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.492,
+            37.874
+          ],
+          [
+            33.216,
+            37.181
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 4,
+        "from": "Konya",
+        "to": "Karaman",
+        "from_id": "konya",
+        "to_id": "karaman",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.215616,
+            37.193542
+          ],
+          [
+            33.222777,
+            37.193679
+          ],
+          [
+            33.223952,
+            37.193933
+          ],
+          [
+            33.225014,
+            37.194389
+          ],
+          [
+            33.319509,
+            37.243527
+          ],
+          [
+            33.362609,
+            37.265289
+          ],
+          [
+            33.365131,
+            37.26668
+          ],
+          [
+            33.517242,
+            37.343279
+          ],
+          [
+            33.523939,
+            37.346638
+          ],
+          [
+            33.526175,
+            37.34765
+          ],
+          [
+            33.527644,
+            37.348164
+          ],
+          [
+            33.530571,
+            37.348897
+          ],
+          [
+            33.533676,
+            37.349337
+          ],
+          [
+            33.639776,
+            37.357218
+          ],
+          [
+            33.642762,
+            37.357676
+          ],
+          [
+            33.644469,
+            37.358088
+          ],
+          [
+            33.648413,
+            37.359619
+          ],
+          [
+            33.650833,
+            37.360936
+          ],
+          [
+            33.689095,
+            37.38593
+          ],
+          [
+            33.691844,
+            37.388182
+          ],
+          [
+            33.716864,
+            37.41039
+          ],
+          [
+            33.719226,
+            37.412356
+          ],
+          [
+            33.719941,
+            37.412849
+          ],
+          [
+            33.721821,
+            37.413793
+          ],
+          [
+            33.722702,
+            37.414106
+          ],
+          [
+            33.74286,
+            37.419738
+          ],
+          [
+            33.757293,
+            37.423879
+          ],
+          [
+            33.760101,
+            37.424587
+          ],
+          [
+            33.761705,
+            37.424821
+          ],
+          [
+            33.76368,
+            37.424831
+          ],
+          [
+            33.784006,
+            37.423541
+          ],
+          [
+            33.786403,
+            37.423284
+          ],
+          [
+            33.814917,
+            37.41747
+          ],
+          [
+            33.816942,
+            37.41724
+          ],
+          [
+            33.820146,
+            37.417148
+          ],
+          [
+            33.822489,
+            37.417277
+          ],
+          [
+            33.824785,
+            37.417573
+          ],
+          [
+            33.828562,
+            37.418418
+          ],
+          [
+            33.834297,
+            37.42014
+          ],
+          [
+            33.838844,
+            37.42198
+          ],
+          [
+            33.840641,
+            37.422967
+          ],
+          [
+            33.84337,
+            37.42488
+          ],
+          [
+            33.846399,
+            37.427442
+          ],
+          [
+            33.84863,
+            37.429483
+          ],
+          [
+            33.849134,
+            37.429578
+          ],
+          [
+            33.849368,
+            37.42992
+          ],
+          [
+            33.85109,
+            37.431609
+          ],
+          [
+            33.859761,
+            37.439008
+          ],
+          [
+            33.882578,
+            37.452651
+          ],
+          [
+            33.887154,
+            37.455115
+          ],
+          [
+            33.891294,
+            37.456599
+          ],
+          [
+            33.894534,
+            37.457393
+          ],
+          [
+            33.9047,
+            37.458941
+          ],
+          [
+            33.910168,
+            37.459883
+          ],
+          [
+            33.924355,
+            37.461685
+          ],
+          [
+            33.928447,
+            37.462336
+          ],
+          [
+            33.929844,
+            37.462703
+          ],
+          [
+            33.932637,
+            37.463694
+          ],
+          [
+            33.939685,
+            37.467148
+          ],
+          [
+            33.946743,
+            37.470163
+          ],
+          [
+            33.949717,
+            37.470952
+          ],
+          [
+            33.951271,
+            37.471216
+          ],
+          [
+            33.956861,
+            37.471722
+          ],
+          [
+            33.96902,
+            37.472378
+          ],
+          [
+            33.973288,
+            37.472691
+          ],
+          [
+            33.976377,
+            37.473169
+          ],
+          [
+            33.978515,
+            37.473698
+          ],
+          [
+            33.979819,
+            37.474115
+          ],
+          [
+            34.053771,
+            37.504298
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 5,
+        "from": "Karaman",
+        "to": "Eregli (Konya)",
+        "from_id": "karaman",
+        "to_id": "eregli-konya",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "high",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.048,
+            37.513
+          ],
+          [
+            34.873,
+            37.427
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 6,
+        "from": "Eregli (Konya)",
+        "to": "Pozanti",
+        "from_id": "eregli-konya",
+        "to_id": "pozanti",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.873,
+            37.427
+          ],
+          [
+            35.321,
+            37.0
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 7,
+        "from": "Pozanti",
+        "to": "Adana",
+        "from_id": "pozanti",
+        "to_id": "adana",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.321,
+            37.0
+          ],
+          [
+            36.15,
+            37.07
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 8,
+        "from": "Adana",
+        "to": "Toprakkale",
+        "from_id": "adana",
+        "to_id": "toprakkale",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.15,
+            37.07
+          ],
+          [
+            36.68,
+            37.13
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 9,
+        "from": "Toprakkale",
+        "to": "Fevzipasa",
+        "from_id": "toprakkale",
+        "to_id": "fevzipasa",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.68,
+            37.13
+          ],
+          [
+            36.633,
+            37.026
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 10,
+        "from": "Fevzipasa",
+        "to": "Islahiye",
+        "from_id": "fevzipasa",
+        "to_id": "islahiye",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.633,
+            37.026
+          ],
+          [
+            36.552,
+            36.872
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 11,
+        "from": "Islahiye",
+        "to": "Meydan Ekbez",
+        "from_id": "islahiye",
+        "to_id": "meydan-ekbez",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.552,
+            36.872
+          ],
+          [
+            36.628,
+            36.622
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 12,
+        "from": "Meydan Ekbez",
+        "to": "Rajo",
+        "from_id": "meydan-ekbez",
+        "to_id": "rajo",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.628,
+            36.622
+          ],
+          [
+            37.161,
+            36.202
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 13,
+        "from": "Rajo",
+        "to": "Aleppo",
+        "from_id": "rajo",
+        "to_id": "aleppo",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.161,
+            36.202
+          ],
+          [
+            38.007,
+            36.842
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 14,
+        "from": "Aleppo",
+        "to": "Karkamis",
+        "from_id": "aleppo",
+        "to_id": "karkamis",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.007,
+            36.842
+          ],
+          [
+            38.953,
+            36.696
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 15,
+        "from": "Karkamis",
+        "to": "Tell Abyad",
+        "from_id": "karkamis",
+        "to_id": "tell-abyad",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.953,
+            36.696
+          ],
+          [
+            40.07,
+            36.85
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 16,
+        "from": "Tell Abyad",
+        "to": "Ras al-Ayn",
+        "from_id": "tell-abyad",
+        "to_id": "ras-al-ayn",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.07,
+            36.85
+          ],
+          [
+            41.215,
+            37.068
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 17,
+        "from": "Ras al-Ayn",
+        "to": "Nusaybin",
+        "from_id": "ras-al-ayn",
+        "to_id": "nusaybin",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.215,
+            37.068
+          ],
+          [
+            43.13,
+            36.34
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 18,
+        "from": "Nusaybin",
+        "to": "Mosul",
+        "from_id": "nusaybin",
+        "to_id": "mosul",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.13,
+            36.34
+          ],
+          [
+            43.49,
+            34.929
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 19,
+        "from": "Mosul",
+        "to": "Baiji",
+        "from_id": "mosul",
+        "to_id": "baiji",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.49,
+            34.929
+          ],
+          [
+            43.875,
+            34.198
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 20,
+        "from": "Baiji",
+        "to": "Samarra",
+        "from_id": "baiji",
+        "to_id": "samarra",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.875,
+            34.198
+          ],
+          [
+            44.361,
+            33.312
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 21,
+        "from": "Samarra",
+        "to": "Baghdad",
+        "from_id": "samarra",
+        "to_id": "baghdad",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.361,
+            33.312
+          ],
+          [
+            45.818,
+            32.512
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 22,
+        "from": "Baghdad",
+        "to": "Kut",
+        "from_id": "baghdad",
+        "to_id": "kut",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.818,
+            32.512
+          ],
+          [
+            47.784,
+            30.508
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "baghdad-railway",
+        "sequence": 23,
+        "from": "Kut",
+        "to": "Basra",
+        "from_id": "kut",
+        "to_id": "basra",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
       }
     }
   ]

@@ -1,248 +1,119 @@
 #!/usr/bin/env python3
+"""Validate the Levant Historic Railway dataset. Standard library only.
+
+Checks GeoJSON validity, coordinate ranges, controlled vocabularies, provenance
+integrity (every cited source exists), uniqueness, and snapshot counts.
+
+Usage:  python3 scripts/validate.py     # exits non-zero if any errors
 """
-Validate GeoJSON files for the Levant Historic Railway Network project.
+import json, pathlib, sys, glob
 
-This script checks for:
-- Valid GeoJSON syntax
-- Required properties for each station
-- Coordinate validity (within reasonable bounds for the region)
-- Data type consistency
-- Missing recommended fields
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+errors, warnings = [], []
+def err(m): errors.append(m)
+def warn(m): warnings.append(m)
 
-Part of the Levantrain initiative.
-"""
-
-import json
-import sys
-from pathlib import Path
-from typing import List, Tuple
-
-
-def validate_geojson(filepath: Path) -> Tuple[List[str], List[str]]:
-    """
-    Validate a GeoJSON file.
-    
-    Returns:
-        Tuple of (errors, warnings) where each is a list of strings
-    """
-    errors = []
-    warnings = []
-    
-    # Load file
+def load(rel):
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-    except json.JSONDecodeError as e:
-        return [f"Invalid JSON: {e}"], []
-    except FileNotFoundError:
-        return [f"File not found: {filepath}"], []
-    
-    # Check if it's a FeatureCollection
-    if data.get('type') != 'FeatureCollection':
-        errors.append("Must be a FeatureCollection")
-        return errors, warnings
-    
-    # Check features exist
-    if 'features' not in data:
-        errors.append("No 'features' array found")
-        return errors, warnings
-    
-    # Define required and recommended properties
-    required_props = [
-        'name', 
-        'country', 
-        'year_opened', 
-        'status', 
-        'station_type', 
-        'gauge_mm', 
-        'historic_routes'
-    ]
-    recommended_props = ['name_arabic', 'notes']
-    
-    # Valid status values
-    valid_statuses = [
-        'Active',
-        'Active - Heritage',
-        'Active - Limited',
-        'Partially Active',
-        'Abandoned',
-        'Abandoned - Intact',
-        'Abandoned - Ruins',
-        'Demolished',
-        'Damaged',
-        'Repurposed'
-    ]
-    
-    # Validate each feature
-    for i, feature in enumerate(data['features']):
-        feature_num = i + 1
-        
-        # Check geometry
-        if 'geometry' not in feature:
-            errors.append(f"Feature {feature_num}: Missing geometry")
-            continue
-            
-        geom = feature['geometry']
-        if geom['type'] != 'Point':
-            errors.append(f"Feature {feature_num}: Geometry must be Point, not {geom['type']}")
-        
-        # Check coordinates
-        if 'coordinates' not in geom or len(geom['coordinates']) != 2:
-            errors.append(f"Feature {feature_num}: Invalid coordinates")
+        return json.loads((ROOT / rel).read_text())
+    except Exception as e:
+        err(f"{rel}: cannot parse ({e})")
+        return None
+
+PRECISION = {"exact", "approx", "town", "unknown"}
+GEOM_STATUS = {"surveyed", "partial", "schematic", "none"}
+# Levant/Middle East bounding box (generous).
+LON, LAT = (24.0, 52.0), (12.0, 43.0)
+
+sources = load("data/sources.json") or []
+source_ids = {s.get("id") for s in sources}
+if not source_ids:
+    err("data/sources.json: no sources found")
+
+def check_source_ids(ids, where):
+    for sid in ids or []:
+        if sid not in source_ids:
+            err(f"{where}: unknown source_id '{sid}'")
+
+# --- stations ---
+stations = load("data/stations/historic/stations.geojson")
+station_count = 0
+seen_ids = set()
+if stations:
+    for i, f in enumerate(stations.get("features", [])):
+        station_count += 1
+        p = f.get("properties", {})
+        sid = p.get("station_id")
+        where = f"stations[{sid or i}]"
+        if not sid:
+            err(f"{where}: missing station_id")
+        elif sid in seen_ids:
+            err(f"{where}: duplicate station_id")
         else:
-            lon, lat = geom['coordinates']
-            
-            # Regional bounds check (Levant region approximate)
-            if not (24 <= lat <= 42):
-                warnings.append(
-                    f"Feature {feature_num}: Latitude {lat:.4f} outside expected "
-                    f"range (24-42°N)"
-                )
-            if not (29 <= lon <= 43):
-                warnings.append(
-                    f"Feature {feature_num}: Longitude {lon:.4f} outside expected "
-                    f"range (29-43°E)"
-                )
-        
-        # Check properties
-        if 'properties' not in feature:
-            errors.append(f"Feature {feature_num}: Missing properties")
-            continue
-        
-        props = feature['properties']
-        station_name = props.get('name', f'unnamed-{feature_num}')
-        
-        # Check required properties
-        for prop in required_props:
-            if prop not in props or props[prop] is None or props[prop] == '':
-                errors.append(
-                    f"Feature {feature_num} ({station_name}): "
-                    f"Missing required property '{prop}'"
-                )
-        
-        # Check recommended properties
-        for prop in recommended_props:
-            if prop not in props or not props[prop]:
-                warnings.append(
-                    f"Feature {feature_num} ({station_name}): "
-                    f"Missing recommended property '{prop}'"
-                )
-        
-        # Validate year_opened
-        if 'year_opened' in props and props['year_opened']:
-            try:
-                year = int(props['year_opened'])
-                if not (1850 <= year <= 2030):
-                    warnings.append(
-                        f"Feature {feature_num} ({station_name}): "
-                        f"year_opened {year} seems unusual (expected 1850-2030)"
-                    )
-            except (ValueError, TypeError):
-                errors.append(
-                    f"Feature {feature_num} ({station_name}): "
-                    f"year_opened must be a number"
-                )
-        
-        # Validate year_closed (if present)
-        if 'year_closed' in props and props['year_closed']:
-            try:
-                year_closed = int(props['year_closed'])
-                if 'year_opened' in props and props['year_opened']:
-                    year_opened = int(props['year_opened'])
-                    if year_closed < year_opened:
-                        errors.append(
-                            f"Feature {feature_num} ({station_name}): "
-                            f"year_closed ({year_closed}) before year_opened ({year_opened})"
-                        )
-            except (ValueError, TypeError):
-                errors.append(
-                    f"Feature {feature_num} ({station_name}): "
-                    f"year_closed must be a number"
-                )
-        
-        # Validate status
-        if 'status' in props and props['status']:
-            if props['status'] not in valid_statuses:
-                warnings.append(
-                    f"Feature {feature_num} ({station_name}): "
-                    f"status '{props['status']}' not in standard list. "
-                    f"Valid values: {', '.join(valid_statuses)}"
-                )
-        
-        # Validate gauge_mm
-        if 'gauge_mm' in props and props['gauge_mm']:
-            try:
-                gauge = int(props['gauge_mm'])
-                # Common gauges in the region: 610, 1000, 1050, 1435
-                if gauge not in [610, 1000, 1050, 1435]:
-                    warnings.append(
-                        f"Feature {feature_num} ({station_name}): "
-                        f"gauge_mm {gauge} is unusual (common: 610, 1000, 1050, 1435)"
-                    )
-            except (ValueError, TypeError):
-                errors.append(
-                    f"Feature {feature_num} ({station_name}): "
-                    f"gauge_mm must be a number"
-                )
-    
-    return errors, warnings
+            seen_ids.add(sid)
+        g = f.get("geometry") or {}
+        if g.get("type") != "Point":
+            err(f"{where}: geometry is not a Point")
+        else:
+            lon, lat = (g.get("coordinates") or [None, None])[:2]
+            if lon is None or lat is None:
+                err(f"{where}: missing coordinates")
+            elif not (LON[0] <= lon <= LON[1] and LAT[0] <= lat <= LAT[1]):
+                warn(f"{where}: coordinates {lon},{lat} outside the expected region")
+        if p.get("precision") and p["precision"] not in PRECISION:
+            err(f"{where}: invalid precision '{p['precision']}'")
+        check_source_ids(p.get("source_ids"), where)
 
+# --- routes ---
+route_count = seg_count = 0
+for path in sorted(glob.glob(str(ROOT / "data/routes/**/*.geojson"), recursive=True)):
+    rel = pathlib.Path(path).relative_to(ROOT)
+    gj = load(str(rel))
+    if not gj:
+        continue
+    route_count += 1
+    meta = gj.get("route", {})
+    check_source_ids(meta.get("source_ids"), f"{rel}:route")
+    for j, f in enumerate(gj.get("features", [])):
+        seg_count += 1
+        p = f.get("properties", {})
+        where = f"{rel}[{p.get('sequence', j)}]"
+        g = f.get("geometry") or {}
+        if g.get("type") != "LineString" or len(g.get("coordinates", [])) < 2:
+            err(f"{where}: segment is not a valid LineString")
+        if p.get("geometry_status") and p["geometry_status"] not in GEOM_STATUS:
+            err(f"{where}: invalid geometry_status '{p['geometry_status']}'")
+        check_source_ids(p.get("source_ids"), where)
 
-def main():
-    """Main validation function."""
-    stations_file = Path('data/stations.geojson')
-    
-    print("=" * 70)
-    print("Levant Historic Railway Network - Data Validation")
-    print("Part of the Levantrain initiative")
-    print("=" * 70)
-    print(f"\nChecking: {stations_file}")
-    print("-" * 70)
-    
-    if not stations_file.exists():
-        print(f"\n❌ ERROR: File not found: {stations_file}")
-        print("\nMake sure you're running this from the repository root directory.")
-        return 1
-    
-    errors, warnings = validate_geojson(stations_file)
-    
-    # Count features
-    try:
-        with open(stations_file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            feature_count = len(data.get('features', []))
-            print(f"\nTotal stations: {feature_count}")
-    except:
-        feature_count = 0
-    
-    # Print results
-    if errors:
-        print(f"\n❌ ERRORS ({len(errors)}):")
-        for error in errors:
-            print(f"  • {error}")
-    
-    if warnings:
-        print(f"\n⚠️  WARNINGS ({len(warnings)}):")
-        for warning in warnings:
-            print(f"  • {warning}")
-    
-    # Summary
-    print("\n" + "=" * 70)
-    if not errors and not warnings:
-        print("✅ Perfect! All validation checks passed!")
-        print("=" * 70)
-        return 0
-    elif not errors:
-        print(f"✅ No errors found ({len(warnings)} warnings)")
-        print("=" * 70)
-        print("\nWarnings are suggestions for improvement, not blocking issues.")
-        return 0
-    else:
-        print(f"❌ Validation failed: {len(errors)} errors, {len(warnings)} warnings")
-        print("=" * 70)
-        print("\nPlease fix the errors above before committing.")
-        return 1
+# --- infrastructure ---
+infra = load("data/infrastructure/historic.geojson")
+infra_count = len(infra.get("features", [])) if infra else 0
+if infra:
+    for i, f in enumerate(infra["features"]):
+        check_source_ids((f.get("properties") or {}).get("source_ids"), f"infrastructure[{i}]")
 
+# --- source_links ---
+links = load("data/source_links.json") or []
+for i, l in enumerate(links):
+    if l.get("source_id") not in source_ids:
+        err(f"source_links[{i}]: unknown source_id '{l.get('source_id')}'")
 
-if __name__ == '__main__':
-    sys.exit(main())
+# --- snapshot counts ---
+snap = load("data/snapshot.json") or {}
+for key, actual in [("stations", station_count), ("routes", route_count),
+                    ("segments", seg_count), ("infrastructure", infra_count),
+                    ("sources", len(sources)), ("source_links", len(links))]:
+    if key in snap and snap[key] != actual:
+        err(f"snapshot.json {key}={snap[key]} but found {actual}")
+
+# --- report ---
+print(f"stations={station_count} routes={route_count} segments={seg_count} "
+      f"infrastructure={infra_count} sources={len(sources)} source_links={len(links)}")
+for w in warnings:
+    print(f"WARN  {w}")
+if errors:
+    for e in errors:
+        print(f"ERROR {e}")
+    print(f"\n{len(errors)} error(s), {len(warnings)} warning(s)")
+    sys.exit(1)
+print(f"OK — valid ({len(warnings)} warning(s))")

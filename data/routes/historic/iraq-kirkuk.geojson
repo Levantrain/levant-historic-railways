@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "iraq-kirkuk",
+    "name": "Baghdad-Kirkuk-Erbil Railway",
+    "name_arabic": "سكة حديد بغداد-كركوك-أربيل",
+    "countries": "Iraq",
+    "gauge_mm": 1000,
+    "year_opened": 1925,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "medium",
+    "description": "Metre-gauge 'Eastern Line'; the last metre gauge in Iraq",
+    "notes": "The IRR 'Eastern Line', the last metre-gauge railway in Iraq; closed 1984-88.  [route] Baghdad -> Baquba -> Kirkuk -> Erbil, with a branch from Jalawla Junction to Khanaqin (toward the Iranian border), held as an off-line extra_station. Metre gauge (1,000 mm).",
+    "history": "A metre-gauge (1,000 mm) line: the Baghdad-toward-Persia section was built in WWI and later diverted to Khanaqin, extended from Kingerban to Kirkuk in 1925, and Kirkuk to Erbil in 1949. A Tigris bridge at Baghdad (1950) finally linked the east- and west-bank metre-gauge systems.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "levantrain_compilation",
+      "levantrain_system",
+      "wp_iraq"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.361,
+            33.312
+          ],
+          [
+            44.63,
+            33.75
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "iraq-kirkuk",
+        "sequence": 1,
+        "from": "Baghdad",
+        "to": "Baquba",
+        "from_id": "baghdad",
+        "to_id": "baquba",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.63,
+            33.75
+          ],
+          [
+            44.392,
+            35.468
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "iraq-kirkuk",
+        "sequence": 2,
+        "from": "Baquba",
+        "to": "Kirkuk",
+        "from_id": "baquba",
+        "to_id": "kirkuk",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.392,
+            35.468
+          ],
+          [
+            44.01,
+            36.19
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "iraq-kirkuk",
+        "sequence": 3,
+        "from": "Kirkuk",
+        "to": "Erbil",
+        "from_id": "kirkuk",
+        "to_id": "erbil",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    }
+  ]
+}

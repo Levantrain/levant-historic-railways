@@ -27,39 +27,62 @@ This historical documentation serves multiple purposes:
 
 ## Overview
 
-The database includes historic railway infrastructure across Turkey, Syria, Lebanon, Jordan, Israel/Palestine, Saudi Arabia, and Egypt at its maximum historical extent:
+The database spans historic railway infrastructure across Turkey, Syria, Lebanon, Jordan, Israel/Palestine, Saudi Arabia, and Egypt at its maximum historical extent. This snapshot (**2026-07-11**) contains **21 routes · 218 stations · 217 segments · 7 bridges/tunnels**, every fact cited to one of **31 sources** (~1,240 citations):
 
-- **Historic railway stations** with precise geolocation data
-- **Railway routes** connecting these stations
-- **Metadata** including years of operation, current status, gauge, and condition
+- **Historic railway stations** with geolocation and a stated location **precision**
+- **Railway routes** as ordered, per-segment geometries carrying **confidence** and geometry provenance
+- **Full provenance** — every feature cites its sources; **85 segments carry real OpenStreetMap track geometry**
 - **Multiple railway systems**: Hejaz Railway, Baghdad Railway, Taurus Express, Palestine Railways, Egyptian State Railways, and more
 
-## Interactive Map
+## Interactive map
 
-Explore the historic network on our interactive map: [uMap Viewer](https://umap.openstreetmap.fr/) *(link to be added)*
+Explore the network on the Levantrain map: **[levantrain.net/map](https://levantrain.net/map)**.
 
 ## Data
 
-All data is provided in open, standard formats:
+This repository is a **point-in-time snapshot (2026-07-11)** generated from the Levantrain database
+(the live single source of truth). It is provided in open, standard formats:
 
-- **GeoJSON** - `data/stations.geojson` - Geographic data for all stations
-- **CSV** - `data/stations.csv` - Tabular format for easy editing
-- **Route Geometries** - `data/routes.geojson` - Railway line geometries (coming soon)
+| Path | Contents |
+| --- | --- |
+| `data/stations/historic/stations.geojson` | 218 stations (Point features) |
+| `data/routes/historic/*.geojson` | 21 routes, one file each — a Feature per **segment** (LineString) plus route metadata under a top-level `route` object |
+| `data/infrastructure/historic.geojson` | 7 historic bridges/tunnels (Point features) |
+| `data/sources.json` | The 31 sources every fact is cited to |
+| `data/source_links.json` | 1,238 attribute-level citations (which source backs which field of which feature) |
+| `data/snapshot.json` | Snapshot metadata (date + counts) |
 
-### Data Fields
+Every feature carries a `source_ids` array referencing `data/sources.json`, so provenance travels with
+the data. For finer, per-attribute provenance (e.g. *which* source backs a station's gauge vs. its
+coordinates), see `data/source_links.json`.
 
-Each station includes:
-- `name` - Station name (English/transliterated)
-- `name_arabic` - Station name in Arabic script
-- `latitude` / `longitude` - Geographic coordinates (WGS84)
-- `year_opened` - Year the station opened
-- `year_closed` - Year the station closed (if applicable)
-- `current_status` - Active, Abandoned, Damaged, Partially Active, etc.
-- `station_type` - Major, Minor, Terminus, Junction, etc.
-- `country` - Current country
-- `gauge_mm` - Track gauge in millimeters
-- `historic_routes` - Which railway lines served this station
-- `notes` - Additional historical context and current condition
+**85 of 217 route segments carry real surveyed track geometry** recovered from OpenStreetMap; the rest
+are best-guess corridors — see each segment's `geometry_status` and `corridor_confidence`.
+
+### Station fields
+
+- `station_id` — stable slug identifier
+- `name` / `name_arabic` / `name_he` — names
+- `latitude` / `longitude` — WGS84 (in the GeoJSON geometry)
+- `country`, `role`, `elevation_m`
+- `precision` — how well the location is known: `exact` / `approx` / `town` / `unknown`
+- `confidence` — overall confidence in the record: `high` / `medium` / `low`
+- `year_opened` / `year_closed`, `gauge_mm`, `status`, `historic_routes`
+- `source_ids` — citations (→ `data/sources.json`)
+
+### Route & segment fields
+
+Route metadata (`route` object): `route_id`, `name`, `name_arabic`, `countries`, `gauge_mm`,
+`year_opened`/`year_closed`, `era`, `route_type`, `status`, `corridor_confidence`, `description`,
+`history`, `notes`, `source_ids`. Each segment Feature: `sequence`, `from`/`to` (+ `_id`),
+`geometry_status` (`surveyed` / `partial` / `schematic`), `geometry_source`, `corridor_confidence`,
+`connection_status`, `source_ids`.
+
+### Attribution
+
+Track geometry for surveyed segments is derived from **© OpenStreetMap contributors**
+([ODbL](https://www.openstreetmap.org/copyright)). This database is released under the ODbL (see below),
+which keeps that geometry properly share-alike.
 
 ## Contributing
 

@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "syria-trunk",
+    "name": "Damascus-Aleppo Railway (Syrian trunk)",
+    "name_arabic": "سكة حديد دمشق-حلب",
+    "countries": "Syria",
+    "gauge_mm": 1435,
+    "year_opened": 1906,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "high",
+    "description": "Syrian standard-gauge north-south trunk; the connector to Aleppo",
+    "notes": "The internal Syrian standard-gauge trunk; the physical link from the Levant routes to the Baghdad Railway.  [established] The Homs-Hama-Aleppo section is the DHP standard-gauge northern line (opened 1902-1906); the DIRECT Damascus-Homs standard-gauge link (194 km) opened only in 1983 (before that Damascus connected north via Rayak / the narrow gauge). So the full through trunk dates variously 1906-1983.  [connections] This is the missing SPINE that ties the network together: it meets the Beirut-Damascus and Hejaz lines at Damascus; the Rayak-Baalbek and Tripoli-Homs lines at Homs; the Syrian coastal and Euphrates lines; and the Baghdad Railway at Aleppo (-> Turkey and Iraq).",
+    "history": "The standard-gauge (1,435 mm) spine of the Syrian network. Its northern half (Homs-Hama-Aleppo) is the French DHP 'prolongements' opened 1902-1906; the Damascus-Homs section was completed as standard gauge in 1983, giving a continuous Damascus-Aleppo trunk.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "levantrain_compilation",
+      "levantrain_system",
+      "wp_lebanon",
+      "wp_syria"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.293,
+            33.514
+          ],
+          [
+            36.729,
+            34.023
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 1,
+        "from": "Damascus (Hejaz)",
+        "to": "An-Nabk",
+        "from_id": "damascus-hejaz",
+        "to_id": "an-nabk",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.729,
+            34.023
+          ],
+          [
+            36.716,
+            34.73
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 2,
+        "from": "An-Nabk",
+        "to": "Homs",
+        "from_id": "an-nabk",
+        "to_id": "homs",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.716,
+            34.73
+          ],
+          [
+            36.751,
+            35.132
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 3,
+        "from": "Homs",
+        "to": "Hama",
+        "from_id": "homs",
+        "to_id": "hama",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.751,
+            35.132
+          ],
+          [
+            36.68,
+            35.647
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 4,
+        "from": "Hama",
+        "to": "Maarat al-Numan",
+        "from_id": "hama",
+        "to_id": "maarat-al-numan",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.68,
+            35.647
+          ],
+          [
+            37.161,
+            36.202
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 5,
+        "from": "Maarat al-Numan",
+        "to": "Aleppo",
+        "from_id": "maarat-al-numan",
+        "to_id": "aleppo",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    }
+  ]
+}

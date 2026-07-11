@@ -1,28 +1,1296 @@
 {
   "type": "FeatureCollection",
+  "route": {
+    "route_id": "haifa-deraa",
+    "name": "Haifa-Deraa Line",
+    "name_arabic": "خط حيفا-درعا",
+    "countries": "Israel, Jordan, Syria",
+    "gauge_mm": 1050,
+    "year_opened": 1905,
+    "era": "historic",
+    "color": "#b45309",
+    "corridor_confidence": "high",
+    "description": "Critical Mediterranean connection",
+    "notes": "Inaugurated 15 Oct 1905; carried ~3/4 of Hejaz traffic despite being ~1/5 of construction.  [route] The full Hejaz branch to the Mediterranean; its western portion is the Jezreel Valley line. The 8 ORIGINAL 1905 stations were Haifa, Balad al-Sheikh, Kfar Yehoshua (Tel Shammam), Afula, Beit She’an, Gesher, Tzemah/Samakh and al-Hamma; the others are LATER halts (several founded after 1905 — e.g. Nesher 1925, Ein Harod 1921, HaSade 1934, Beit Yosef 1937), so treat them as additions, not original stops. Arlosorow Halt (1937) and a temporary 'Jordan Valley' halt (1936) are documented but not placed.  [gorge] The Samakh–Deraa eastern section (73 km, +529 m climb, 8 tunnels ~1,100 m, 329 bridges/aqueducts up the Yarmuk gorge) is well documented as ENGINEERING but its intermediate STATION NAMES are not in the consulted sources — a research gap (the famous Tell esh-Shehab bridge, a T.E. Lawrence target, lies on this stretch; verify).",
+    "history": "The Haifa–Deraa branch of the Hejaz Railway (1,050 mm), inaugurated 15 October 1905, gave the Hejaz system its outlet to the Mediterranean at Haifa. It ran ~161 km up the Jezreel and Harod valleys to the Jordan, then climbed the Yarmuk gorge to meet the Hejaz main line at Deraa.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "levantrain_system",
+      "shemer_jezreel",
+      "wp_hejaz",
+      "wp_jezreel"
+    ]
+  },
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [34.9886, 32.8211],
-          [35.2897, 32.6078],
-          [35.5781, 32.7069],
-          [36.1019, 32.6189]
+          [
+            34.994011,
+            32.823435
+          ],
+          [
+            34.995776,
+            32.822579
+          ],
+          [
+            34.998834,
+            32.821509
+          ],
+          [
+            35.001486,
+            32.819175
+          ],
+          [
+            35.003191,
+            32.81752
+          ],
+          [
+            35.007687,
+            32.809862
+          ],
+          [
+            35.009882,
+            32.806888
+          ],
+          [
+            35.012346,
+            32.804696
+          ],
+          [
+            35.018729,
+            32.799519
+          ],
+          [
+            35.021554,
+            32.797567
+          ],
+          [
+            35.029752,
+            32.794511
+          ],
+          [
+            35.031302,
+            32.79401
+          ],
+          [
+            35.033271,
+            32.793675
+          ],
+          [
+            35.03516,
+            32.79366
+          ],
+          [
+            35.036642,
+            32.794223
+          ],
+          [
+            35.03918,
+            32.794774
+          ],
+          [
+            35.039991,
+            32.795113
+          ],
+          [
+            35.042451,
+            32.796564
+          ],
+          [
+            35.042985,
+            32.797092
+          ],
+          [
+            35.044145,
+            32.798603
+          ],
+          [
+            35.045088,
+            32.800001
+          ],
+          [
+            35.046746,
+            32.800688
+          ],
+          [
+            35.048149,
+            32.801409
+          ],
+          [
+            35.050616,
+            32.803308
+          ],
+          [
+            35.052101,
+            32.804087
+          ],
+          [
+            35.052932,
+            32.804334
+          ],
+          [
+            35.054168,
+            32.804494
+          ],
+          [
+            35.057891,
+            32.804628
+          ],
+          [
+            35.060845,
+            32.804859
+          ],
+          [
+            35.062907,
+            32.805156
+          ],
+          [
+            35.066485,
+            32.805896
+          ],
+          [
+            35.067873,
+            32.806284
+          ]
         ]
       },
       "properties": {
-        "name": "Haifa-Deraa Line",
-        "name_arabic": "خط حيفا-درعا",
-        "route_type": "Branch Line",
-        "year_opened": 1905,
-        "year_closed": 1948,
-        "status": "Abandoned",
-        "gauge_mm": 1050,
-        "countries": "Israel, Jordan, Syria",
-        "notes": "Connected Mediterranean to Hejaz Railway",
-        "color": "#f57c00"
+        "route_id": "haifa-deraa",
+        "sequence": 1,
+        "from": "Haifa",
+        "to": "Balad al-Sheikh",
+        "from_id": "haifa",
+        "to_id": "balad-al-sheikh",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "high",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.067873,
+            32.806284
+          ],
+          [
+            35.066485,
+            32.805896
+          ],
+          [
+            35.062907,
+            32.805156
+          ],
+          [
+            35.060845,
+            32.804859
+          ],
+          [
+            35.057891,
+            32.804628
+          ],
+          [
+            35.054168,
+            32.804494
+          ],
+          [
+            35.052932,
+            32.804334
+          ],
+          [
+            35.052101,
+            32.804087
+          ],
+          [
+            35.050616,
+            32.803308
+          ],
+          [
+            35.048149,
+            32.801409
+          ],
+          [
+            35.046746,
+            32.800688
+          ],
+          [
+            35.045088,
+            32.800001
+          ],
+          [
+            35.044145,
+            32.798603
+          ],
+          [
+            35.042985,
+            32.797092
+          ],
+          [
+            35.042451,
+            32.796564
+          ],
+          [
+            35.040575,
+            32.795431
+          ],
+          [
+            35.03918,
+            32.794774
+          ],
+          [
+            35.036642,
+            32.794223
+          ],
+          [
+            35.035204,
+            32.79109
+          ],
+          [
+            35.03601,
+            32.790041
+          ],
+          [
+            35.036696,
+            32.78878
+          ],
+          [
+            35.038223,
+            32.783676
+          ],
+          [
+            35.038657,
+            32.782588
+          ],
+          [
+            35.039296,
+            32.781522
+          ],
+          [
+            35.040559,
+            32.779894
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 2,
+        "from": "Balad al-Sheikh",
+        "to": "Nesher",
+        "from_id": "balad-al-sheikh",
+        "to_id": "nesher",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.040559,
+            32.779894
+          ],
+          [
+            35.042394,
+            32.778675
+          ],
+          [
+            35.045044,
+            32.776612
+          ],
+          [
+            35.051908,
+            32.771694
+          ],
+          [
+            35.057409,
+            32.767579
+          ],
+          [
+            35.059438,
+            32.765487
+          ],
+          [
+            35.063382,
+            32.759658
+          ],
+          [
+            35.063831,
+            32.759129
+          ],
+          [
+            35.068882,
+            32.754073
+          ],
+          [
+            35.071729,
+            32.75148
+          ],
+          [
+            35.078047,
+            32.746721
+          ],
+          [
+            35.079793,
+            32.745137
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 3,
+        "from": "Nesher",
+        "to": "Yagur",
+        "from_id": "nesher",
+        "to_id": "yagur",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.075,
+            32.742
+          ],
+          [
+            35.11,
+            32.72
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 4,
+        "from": "Yagur",
+        "to": "Elro'i",
+        "from_id": "yagur",
+        "to_id": "elro-i",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.09803,
+            32.724828
+          ],
+          [
+            35.097598,
+            32.72505
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 5,
+        "from": "Elro'i",
+        "to": "Kiryat Haroshet",
+        "from_id": "elro-i",
+        "to_id": "kiryat-haroshet",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.095,
+            32.722
+          ],
+          [
+            35.15,
+            32.717
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 6,
+        "from": "Kiryat Haroshet",
+        "to": "Kfar Yehoshua",
+        "from_id": "kiryat-haroshet",
+        "to_id": "kfar-yehoshua",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.15,
+            32.717
+          ],
+          [
+            35.29,
+            32.606
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 7,
+        "from": "Kfar Yehoshua",
+        "to": "Afula",
+        "from_id": "kfar-yehoshua",
+        "to_id": "afula",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "high",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.29118,
+            32.61014
+          ],
+          [
+            35.251059,
+            32.628355
+          ],
+          [
+            35.25281,
+            32.627644
+          ],
+          [
+            35.254217,
+            32.627253
+          ],
+          [
+            35.255992,
+            32.626951
+          ],
+          [
+            35.257798,
+            32.626837
+          ],
+          [
+            35.280449,
+            32.628073
+          ],
+          [
+            35.282019,
+            32.628081
+          ],
+          [
+            35.283858,
+            32.627882
+          ],
+          [
+            35.285339,
+            32.627575
+          ],
+          [
+            35.286562,
+            32.627195
+          ],
+          [
+            35.288933,
+            32.62612
+          ],
+          [
+            35.293575,
+            32.62318
+          ],
+          [
+            35.296633,
+            32.621092
+          ],
+          [
+            35.300471,
+            32.618309
+          ],
+          [
+            35.301417,
+            32.61751
+          ],
+          [
+            35.302275,
+            32.616401
+          ],
+          [
+            35.303022,
+            32.614984
+          ],
+          [
+            35.303362,
+            32.613637
+          ],
+          [
+            35.303432,
+            32.612495
+          ],
+          [
+            35.303234,
+            32.611297
+          ],
+          [
+            35.302372,
+            32.60765
+          ],
+          [
+            35.302326,
+            32.60654
+          ],
+          [
+            35.302402,
+            32.605707
+          ],
+          [
+            35.302614,
+            32.604896
+          ],
+          [
+            35.302871,
+            32.604164
+          ],
+          [
+            35.3035,
+            32.603012
+          ],
+          [
+            35.304369,
+            32.601948
+          ],
+          [
+            35.306588,
+            32.599737
+          ],
+          [
+            35.307637,
+            32.598857
+          ],
+          [
+            35.311291,
+            32.596216
+          ],
+          [
+            35.312526,
+            32.595098
+          ],
+          [
+            35.313656,
+            32.593852
+          ],
+          [
+            35.329516,
+            32.572388
+          ],
+          [
+            35.331012,
+            32.57069
+          ],
+          [
+            35.332071,
+            32.569819
+          ],
+          [
+            35.333773,
+            32.568789
+          ],
+          [
+            35.346269,
+            32.562953
+          ],
+          [
+            35.351381,
+            32.560444
+          ],
+          [
+            35.353276,
+            32.559787
+          ],
+          [
+            35.360131,
+            32.557993
+          ],
+          [
+            35.365927,
+            32.556284
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 8,
+        "from": "Afula",
+        "to": "Ein Harod",
+        "from_id": "afula",
+        "to_id": "ein-harod",
+        "geometry_status": "partial",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.392,
+            32.558
+          ],
+          [
+            35.405,
+            32.553
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 9,
+        "from": "Ein Harod",
+        "to": "Tel Yosef",
+        "from_id": "ein-harod",
+        "to_id": "tel-yosef",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.405,
+            32.553
+          ],
+          [
+            35.44,
+            32.53
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 10,
+        "from": "Tel Yosef",
+        "to": "Shata",
+        "from_id": "tel-yosef",
+        "to_id": "shata",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.44,
+            32.53
+          ],
+          [
+            35.46,
+            32.512
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 11,
+        "from": "Shata",
+        "to": "HaSade",
+        "from_id": "shata",
+        "to_id": "hasade",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.46,
+            32.512
+          ],
+          [
+            35.5,
+            32.497
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 12,
+        "from": "HaSade",
+        "to": "Beit She'an",
+        "from_id": "hasade",
+        "to_id": "beit-she-an",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.5,
+            32.497
+          ],
+          [
+            35.52,
+            32.53
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 13,
+        "from": "Beit She'an",
+        "to": "Beit Yosef",
+        "from_id": "beit-she-an",
+        "to_id": "beit-yosef",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.52,
+            32.53
+          ],
+          [
+            35.553,
+            32.622
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 14,
+        "from": "Beit Yosef",
+        "to": "Gesher",
+        "from_id": "beit-yosef",
+        "to_id": "gesher",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.560467,
+            32.618404
+          ],
+          [
+            35.563851,
+            32.623074
+          ],
+          [
+            35.564159,
+            32.623397
+          ],
+          [
+            35.565898,
+            32.624575
+          ],
+          [
+            35.56622,
+            32.625117
+          ],
+          [
+            35.566415,
+            32.626182
+          ],
+          [
+            35.566865,
+            32.626679
+          ],
+          [
+            35.567938,
+            32.627312
+          ],
+          [
+            35.5702,
+            32.628415
+          ],
+          [
+            35.571071,
+            32.629137
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 15,
+        "from": "Gesher",
+        "to": "Naharayim",
+        "from_id": "gesher",
+        "to_id": "naharayim",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.571071,
+            32.629137
+          ],
+          [
+            35.571565,
+            32.630068
+          ],
+          [
+            35.571617,
+            32.631144
+          ],
+          [
+            35.571424,
+            32.632165
+          ],
+          [
+            35.571091,
+            32.633213
+          ],
+          [
+            35.570994,
+            32.63399
+          ],
+          [
+            35.571155,
+            32.635571
+          ],
+          [
+            35.570533,
+            32.639574
+          ],
+          [
+            35.570513,
+            32.640196
+          ],
+          [
+            35.570696,
+            32.641433
+          ],
+          [
+            35.571105,
+            32.643166
+          ],
+          [
+            35.571627,
+            32.644197
+          ],
+          [
+            35.571796,
+            32.64434
+          ],
+          [
+            35.573062,
+            32.64483
+          ],
+          [
+            35.573202,
+            32.645431
+          ],
+          [
+            35.573965,
+            32.646802
+          ],
+          [
+            35.574371,
+            32.647331
+          ],
+          [
+            35.575382,
+            32.64828
+          ],
+          [
+            35.574206,
+            32.655714
+          ],
+          [
+            35.574257,
+            32.656242
+          ],
+          [
+            35.57505,
+            32.658853
+          ],
+          [
+            35.575229,
+            32.660042
+          ],
+          [
+            35.575665,
+            32.661536
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 16,
+        "from": "Naharayim",
+        "to": "al-Dalhamiyya",
+        "from_id": "naharayim",
+        "to_id": "al-dalhamiyya",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "low",
+        "connection_status": "uncertain",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.575665,
+            32.661536
+          ],
+          [
+            35.584237,
+            32.692826
+          ],
+          [
+            35.586674,
+            32.701349
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 17,
+        "from": "al-Dalhamiyya",
+        "to": "Samakh (Tzemah)",
+        "from_id": "al-dalhamiyya",
+        "to_id": "samakh-tzemah",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.586674,
+            32.701349
+          ],
+          [
+            35.587131,
+            32.702513
+          ],
+          [
+            35.58801,
+            32.703344
+          ],
+          [
+            35.589369,
+            32.703725
+          ],
+          [
+            35.595091,
+            32.704788
+          ],
+          [
+            35.59626,
+            32.704756
+          ],
+          [
+            35.597845,
+            32.704412
+          ],
+          [
+            35.598928,
+            32.704024
+          ],
+          [
+            35.601031,
+            32.702814
+          ],
+          [
+            35.624625,
+            32.687227
+          ],
+          [
+            35.626202,
+            32.68654
+          ],
+          [
+            35.627994,
+            32.685944
+          ],
+          [
+            35.630117,
+            32.685578
+          ],
+          [
+            35.631022,
+            32.685602
+          ],
+          [
+            35.631859,
+            32.685792
+          ],
+          [
+            35.633658,
+            32.686508
+          ],
+          [
+            35.634656,
+            32.687059
+          ],
+          [
+            35.635668,
+            32.68739
+          ],
+          [
+            35.636558,
+            32.687453
+          ],
+          [
+            35.637241,
+            32.687312
+          ],
+          [
+            35.637985,
+            32.68702
+          ],
+          [
+            35.638865,
+            32.686496
+          ],
+          [
+            35.639687,
+            32.685804
+          ],
+          [
+            35.640695,
+            32.683837
+          ],
+          [
+            35.641694,
+            32.682486
+          ],
+          [
+            35.64215,
+            32.682198
+          ],
+          [
+            35.642476,
+            32.682114
+          ],
+          [
+            35.644024,
+            32.682366
+          ],
+          [
+            35.644519,
+            32.682265
+          ],
+          [
+            35.645003,
+            32.681992
+          ],
+          [
+            35.646912,
+            32.680279
+          ],
+          [
+            35.647566,
+            32.679976
+          ],
+          [
+            35.648435,
+            32.679836
+          ],
+          [
+            35.650002,
+            32.679755
+          ],
+          [
+            35.650405,
+            32.679838
+          ],
+          [
+            35.650909,
+            32.680199
+          ],
+          [
+            35.651773,
+            32.681219
+          ],
+          [
+            35.652485,
+            32.681624
+          ],
+          [
+            35.652781,
+            32.681964
+          ],
+          [
+            35.65329,
+            32.683141
+          ],
+          [
+            35.653585,
+            32.683527
+          ],
+          [
+            35.654691,
+            32.684145
+          ],
+          [
+            35.655769,
+            32.68461
+          ],
+          [
+            35.657195,
+            32.684778
+          ],
+          [
+            35.660558,
+            32.68392
+          ],
+          [
+            35.661861,
+            32.683815
+          ],
+          [
+            35.663134,
+            32.683929
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 18,
+        "from": "Samakh (Tzemah)",
+        "to": "al-Hamma",
+        "from_id": "samakh-tzemah",
+        "to_id": "al-hamma",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "high",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.664,
+            32.681
+          ],
+          [
+            36.101,
+            32.618
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-deraa",
+        "sequence": 19,
+        "from": "al-Hamma",
+        "to": "Deraa",
+        "from_id": "al-hamma",
+        "to_id": "deraa",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred"
       }
     }
   ]
