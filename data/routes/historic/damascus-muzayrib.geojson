@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "damascus-muzayrib",
+    "name": "Damascus–Muzayrib (Damas–Hauran)",
+    "name_arabic": "خط دمشق–مزيريب",
+    "countries": "Syria",
+    "gauge_mm": 1050,
+    "year_opened": 1894,
+    "era": "historic",
+    "color": "#a16207",
+    "corridor_confidence": "low",
+    "description": "The 1,050 mm Damascus–Muzayrib line (Chemin de fer de Damas–Hauran), ~103 km, opened 1893/94 — the direct western route down the Hauran plain along the Hajj road, later absorbed into the Hejaz/CFH network and abandoned.",
+    "notes": "PROVISIONAL identity (research report damascus-muzayrib-western-alignment.md; Daraa 24 + Wikipedia Mzerib). The western abandoned alignment ~6–11 km W of the Hejaz main line; the eastern Hejaz detour is the legal artefact of a French non-parallel clause. Opening 1893 (Arabic sources) vs inauguration 14 July 1894 — recorded as a source conflict. Status: abandoned (closure date not located; economic rationale collapsed by 1918 when Hauran grain shifted to Haifa). Station memberships are INFERRED (reconstructed from the Hajj-road corridor), not attested — do not present as settled. Northern terminus (Damascus via al-Kiswah/Khan Dannun, or al-Midan/Baramke/Qanawat) unresolved (Tier C, held). Muzayrib is a junction shared with haifa-deraa (our coord is exact; the report's is a ~2.6 km settlement proxy). Follow-ups (report §7): OSM changeset history + Mandate/GSGS sheets to upgrade to attested; possible H3 palimpsest with the abandoned 2000s SG Damascus–Sheikh Miskin–Daraa project → may need two route records sharing geometry.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "daraa24_hejaz",
+      "wp_mzerib"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.22534,
+            33.18235
+          ],
+          [
+            36.183429,
+            33.078883
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "damascus-muzayrib",
+        "sequence": 1,
+        "from": "Ghabaghib",
+        "to": "Al-Sanamayn",
+        "from_id": "ghabaghib",
+        "to_id": "al-sanamayn",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.183429,
+            33.078883
+          ],
+          [
+            36.16052,
+            32.82666
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "damascus-muzayrib",
+        "sequence": 2,
+        "from": "Al-Sanamayn",
+        "to": "Sheikh Miskin",
+        "from_id": "al-sanamayn",
+        "to_id": "sheikh-miskin",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.16052,
+            32.82666
+          ],
+          [
+            36.13,
+            32.75389
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "damascus-muzayrib",
+        "sequence": 3,
+        "from": "Sheikh Miskin",
+        "to": "Da'el",
+        "from_id": "sheikh-miskin",
+        "to_id": "dael",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "inferred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.13,
+            32.75389
+          ],
+          [
+            36.012669,
+            32.688297
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "damascus-muzayrib",
+        "sequence": 4,
+        "from": "Da'el",
+        "to": "Muzeirib",
+        "from_id": "dael",
+        "to_id": "muzeirib",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "low",
+        "connection_status": "inferred"
+      }
+    }
+  ]
+}

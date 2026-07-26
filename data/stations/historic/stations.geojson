@@ -5695,6 +5695,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.13,
+          32.75389
+        ]
+      },
+      "properties": {
+        "station_id": "dael",
+        "name": "Da'el",
+        "name_arabic": "داعل",
+        "country": "Syria",
+        "role": "Station on the Damascus–Muzayrib (Damas–Hauran) line, ~14 km N of Deraa on the old Deraa–Damascus road.",
+        "confidence": "low",
+        "gauge_mm": 1050,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "daraa24_hejaz"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.294949,
           33.511149
         ]

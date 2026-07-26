@@ -911,6 +911,20 @@
   },
   {
     "entity_type": "route",
+    "entity": "damascus-muzayrib",
+    "aspect": "connection",
+    "field": null,
+    "source_id": "daraa24_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "damascus-muzayrib",
+    "aspect": "connection",
+    "field": null,
+    "source_id": "wp_mzerib"
+  },
+  {
+    "entity_type": "route",
     "entity": "eastern-railway",
     "aspect": "attribute",
     "field": "countries",
@@ -5962,6 +5976,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dael",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "daraa24_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dael",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "daraa24_hejaz"
   },
   {
     "entity_type": "station",

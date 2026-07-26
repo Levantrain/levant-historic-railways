@@ -98,6 +98,20 @@
     "note": null
   },
   {
+    "id": "daraa24_hejaz",
+    "title": "الخط الحديدي الحجازي في درعا، تاريخه ومحطاته",
+    "publisher": "Daraa 24",
+    "type": "specialist",
+    "url": "https://daraa24.org/%D8%A7%D9%84%D8%AE%D8%B7-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A-%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%B2%D9%8A-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7/",
+    "accessed": "2026-07-26",
+    "license": "Link + credit",
+    "reliability": "secondary",
+    "author": "Suhaib al-Miqdad",
+    "year": 2024,
+    "isbn": null,
+    "note": "Local-history study with academic citations (Kawtharani, Hasanayn M. Ali, Hülagü, al-Bakhit Hashemite Documents vol. VIII). Hejaz station list in order; the non-parallel-clause mechanism; Muzayrib–Deraa 11 km link (Sept 1901); Deraa/Izra station specs; bridge counts; 1918 Haifa vs Damascus export tonnages; captioned station photos at Ghabaghib, al-Sanamayn, ash-Shaykh Miskin, Da'el, al-Qunayya."
+  },
+  {
     "id": "dbpedia",
     "title": "DBpedia",
     "publisher": "DBpedia",
@@ -824,6 +838,20 @@
     "year": null,
     "isbn": null,
     "note": "Tier B settlement proxy: town coordinates 34.24250, 37.05889 (aliases Mahin/Mheen/Méhine). Article has no rail detail; the junction role comes from the GDR account + CFS network."
+  },
+  {
+    "id": "wp_mzerib",
+    "title": "Mzerib",
+    "publisher": "Wikipedia",
+    "type": "encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Mzerib",
+    "accessed": "2026-07-26",
+    "license": "CC BY-SA",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Damascus–Muzayrib line: 103 km, 1,050 mm, inaugurated 14 July 1894, extended to Beirut 1895, financial failure by 1918; Muzayrib Tier-B coordinates and Hauran wheat context."
   },
   {
     "id": "wp_palestine_rw",
