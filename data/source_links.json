@@ -190,6 +190,83 @@
   },
   {
     "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge bridge",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge bridge",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge bridge",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge bridge",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge bridge",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge bridge",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge bridge",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge tunnel",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge tunnel",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge tunnel",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Yarmuk gorge tunnel",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
     "entity": "Yarmuk gorge tunnels & bridges (Samakh–Deraa)",
     "aspect": "attribute",
     "field": "name",

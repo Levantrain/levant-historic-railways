@@ -111,6 +111,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          35.91046,
+          32.72892
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Yarmuk gorge bridge",
+        "confidence": "high",
+        "note": "OSM way/165887064 — abandoned Hejaz Railway bridge, Yarmuk gorge (Samakh–Deraa).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.70469,
+          32.71808
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Yarmuk gorge bridge",
+        "confidence": "high",
+        "note": "OSM way/229601221 — abandoned Hejaz Railway bridge, Yarmuk gorge (Samakh–Deraa). OSM name: הרכבת החיג'זית (line name).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85323,
+          32.72977
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Yarmuk gorge bridge",
+        "confidence": "high",
+        "note": "OSM way/415306798 — abandoned Hejaz Railway bridge, Yarmuk gorge (Samakh–Deraa).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.84316,
+          32.73192
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Yarmuk gorge bridge",
+        "confidence": "high",
+        "note": "OSM way/415306799 — abandoned Hejaz Railway bridge, Yarmuk gorge (Samakh–Deraa).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.92684,
+          32.73514
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Yarmuk gorge bridge",
+        "confidence": "high",
+        "note": "OSM way/415307877 — abandoned Hejaz Railway bridge, Yarmuk gorge (Samakh–Deraa).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.93771,
+          32.71943
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Yarmuk gorge bridge",
+        "confidence": "high",
+        "note": "OSM way/415308372 — abandoned Hejaz Railway bridge, Yarmuk gorge (Samakh–Deraa).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8604,
+          32.73098
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Yarmuk gorge bridge",
+        "confidence": "high",
+        "note": "OSM way/549062213 — abandoned Hejaz Railway bridge, Yarmuk gorge (Samakh–Deraa).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.03,
           32.81
         ]
@@ -348,6 +488,86 @@
         "route_id": "d57acc0e-cf6a-4d9b-9f26-436e8bafa6d3",
         "source_ids": [
           "wp_berlin_baghdad"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.72391,
+          32.72616
+        ]
+      },
+      "properties": {
+        "type": "tunnel",
+        "name": "Yarmuk gorge tunnel",
+        "confidence": "high",
+        "note": "OSM way/229601223 — abandoned Hejaz Railway tunnel, Yarmuk gorge (Samakh–Deraa). OSM name: הרכבת החיג'זית (line name).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.91764,
+          32.73189
+        ]
+      },
+      "properties": {
+        "type": "tunnel",
+        "name": "Yarmuk gorge tunnel",
+        "confidence": "high",
+        "note": "OSM way/415308208 — abandoned Hejaz Railway tunnel, Yarmuk gorge (Samakh–Deraa).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9069,
+          32.725
+        ]
+      },
+      "properties": {
+        "type": "tunnel",
+        "name": "Yarmuk gorge tunnel",
+        "confidence": "high",
+        "note": "OSM way/415308250 — abandoned Hejaz Railway tunnel, Yarmuk gorge (Samakh–Deraa).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.90349,
+          32.72441
+        ]
+      },
+      "properties": {
+        "type": "tunnel",
+        "name": "Yarmuk gorge tunnel",
+        "confidence": "high",
+        "note": "OSM way/549062211 — abandoned Hejaz Railway tunnel, Yarmuk gorge (Samakh–Deraa).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "osm"
         ]
       }
     },
