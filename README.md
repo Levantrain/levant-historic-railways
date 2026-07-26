@@ -151,23 +151,7 @@ This project builds on the work of railway historians, archivists, engineers, an
 
 ## Roadmap
 
-### Phase 1: Historic Documentation (Current)
-- [x] Initial station database (Hejaz, Baghdad, Palestine railways)
-- [ ] Complete route geometries (line strings)
-- [ ] Document surviving infrastructure and current condition
-- [ ] Field verification of key sites
-
-### Phase 2: Modern Assessment (Future)
-- [ ] Survey of reusable rights-of-way
-- [ ] Engineering assessment of surviving infrastructure
-- [ ] Integration with modern transport planning data
-- [ ] Cost-benefit analysis for infrastructure reuse
-
-### Phase 3: Future Planning Support (Future)
-- [ ] High-speed rail corridor analysis
-- [ ] Integration with Levantrain feasibility studies
-- [ ] Community engagement tools
-- [ ] API for transport planning applications
+Where the dataset and the wider Levantrain initiative are headed lives on the live site: **[levantrain.net/roadmap](https://levantrain.net/roadmap)**.
 
 ---
 
