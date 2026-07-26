@@ -6533,8 +6533,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.663739,
-          36.676364
+          36.658005,
+          36.674007
         ]
       },
       "properties": {
@@ -6542,9 +6542,9 @@
         "name": "Rajo",
         "country": "Syria",
         "role": "Baghdad Railway station (Afrin district)",
-        "confidence": "medium",
+        "confidence": "high",
         "verification_status": "verified",
-        "precision": "town",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
