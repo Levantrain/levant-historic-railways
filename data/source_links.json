@@ -2878,6 +2878,34 @@
   },
   {
     "entity_type": "segment",
+    "entity": "damascus-muzayrib#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "damascus-muzayrib#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "damascus-muzayrib#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "damascus-muzayrib#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "eastern-railway#1",
     "aspect": "geometry",
     "field": null,
