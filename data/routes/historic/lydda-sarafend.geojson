@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "lydda-sarafend",
+    "name": "Lydda–Sarafend Branch",
+    "countries": "Israel",
+    "gauge_mm": 1435,
+    "era": "historic",
+    "color": "#10b981",
+    "corridor_confidence": "medium",
+    "description": "Short branch from Lydda to the Sarafand (Sarafand al-Amar / Tzrifin) camp.",
+    "history": "Chainage from Lydda (0) per the 1925 diagram. Geometry schematic.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "pr_diagram_1925"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.875598,
+            31.945757
+          ],
+          [
+            34.878549,
+            31.948103
+          ],
+          [
+            34.883737,
+            31.951783
+          ],
+          [
+            34.886198,
+            31.953882
+          ],
+          [
+            34.887046,
+            31.954991
+          ],
+          [
+            34.887855,
+            31.956663
+          ],
+          [
+            34.887982,
+            31.957637
+          ],
+          [
+            34.887874,
+            31.958281
+          ],
+          [
+            34.88768,
+            31.958769
+          ],
+          [
+            34.887364,
+            31.959279
+          ],
+          [
+            34.886826,
+            31.959847
+          ],
+          [
+            34.883015,
+            31.962653
+          ],
+          [
+            34.881732,
+            31.963882
+          ],
+          [
+            34.851539,
+            31.994549
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "lydda-sarafend",
+        "sequence": 1,
+        "from": "Lydda (Lod)",
+        "to": "Saferiyeh",
+        "from_id": "lydda-lod",
+        "to_id": "saferiyeh",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.850931,
+            31.993389
+          ],
+          [
+            34.849294,
+            31.959481
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "lydda-sarafend",
+        "sequence": 2,
+        "from": "Saferiyeh",
+        "to": "Sarafend",
+        "from_id": "saferiyeh",
+        "to_id": "sarafend",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    }
+  ]
+}

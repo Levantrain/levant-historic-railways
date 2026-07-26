@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "haifa-acre",
+    "name": "Haifa–Acre Branch",
+    "countries": "Israel",
+    "gauge_mm": 1435,
+    "era": "historic",
+    "color": "#14b8a6",
+    "corridor_confidence": "medium",
+    "description": "Coastal branch from Haifa north to Acre, diverging at the Acre Junction.",
+    "history": "Chainage from Haifa (0) per the 1925 diagram. Geometry schematic.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "pr_diagram_1925"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.00472,
+            32.81194
+          ],
+          [
+            35.005278,
+            32.811111
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-acre",
+        "sequence": 1,
+        "from": "Haifa",
+        "to": "Acre Junction",
+        "from_id": "haifa",
+        "to_id": "acre-junction",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.025864,
+            32.812974
+          ],
+          [
+            35.026937,
+            32.812054
+          ],
+          [
+            35.027174,
+            32.811554
+          ],
+          [
+            35.027043,
+            32.808721
+          ],
+          [
+            35.036027,
+            32.805985
+          ],
+          [
+            35.038942,
+            32.812352
+          ],
+          [
+            35.0491,
+            32.809839
+          ],
+          [
+            35.053271,
+            32.813601
+          ],
+          [
+            35.060434,
+            32.818113
+          ],
+          [
+            35.061954,
+            32.82154
+          ],
+          [
+            35.062649,
+            32.822732
+          ],
+          [
+            35.070648,
+            32.833944
+          ],
+          [
+            35.070731,
+            32.83423
+          ],
+          [
+            35.071094,
+            32.834766
+          ],
+          [
+            35.089269,
+            32.860068
+          ],
+          [
+            35.092866,
+            32.865158
+          ],
+          [
+            35.093508,
+            32.86621
+          ],
+          [
+            35.094179,
+            32.867733
+          ],
+          [
+            35.094404,
+            32.868546
+          ],
+          [
+            35.095229,
+            32.874435
+          ],
+          [
+            35.095217,
+            32.876475
+          ],
+          [
+            35.09479,
+            32.878238
+          ],
+          [
+            35.094187,
+            32.879606
+          ],
+          [
+            35.09354,
+            32.880688
+          ],
+          [
+            35.091323,
+            32.883736
+          ],
+          [
+            35.090567,
+            32.885236
+          ],
+          [
+            35.086629,
+            32.895708
+          ],
+          [
+            35.085044,
+            32.900746
+          ],
+          [
+            35.083859,
+            32.909532
+          ],
+          [
+            35.082251,
+            32.914562
+          ],
+          [
+            35.084225,
+            32.92299
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-acre",
+        "sequence": 2,
+        "from": "Acre Junction",
+        "to": "Acre",
+        "from_id": "acre-junction",
+        "to_id": "acre",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    }
+  ]
+}

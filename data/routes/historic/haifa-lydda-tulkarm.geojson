@@ -1,0 +1,774 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "haifa-lydda-tulkarm",
+    "name": "Haifa–Lydda Railway (via Tulkarm)",
+    "countries": "Israel/Palestine",
+    "gauge_mm": 1435,
+    "era": "historic",
+    "color": "#0ea5e9",
+    "corridor_confidence": "medium",
+    "description": "The 1925 northern coastal main line: Lydda to Haifa via Ras el Ain, Tulkarm and the Sharon plain (before the direct coastal line via Netanya opened ~1937).",
+    "history": "Chainage in the 1925 Kantara–Haifa milepost datum (Lydda 304.3 → Haifa 412.4). Geometry schematic.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "pr_diagram_1925"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.875598,
+            31.945757
+          ],
+          [
+            34.878549,
+            31.948103
+          ],
+          [
+            34.881433,
+            31.950013
+          ],
+          [
+            34.895762,
+            31.960066
+          ],
+          [
+            34.896654,
+            31.960822
+          ],
+          [
+            34.897341,
+            31.961762
+          ],
+          [
+            34.898269,
+            31.963742
+          ],
+          [
+            34.90092,
+            31.97033
+          ],
+          [
+            34.901086,
+            31.970985
+          ],
+          [
+            34.901195,
+            31.971752
+          ],
+          [
+            34.901534,
+            31.979225
+          ],
+          [
+            34.901917,
+            31.981106
+          ],
+          [
+            34.903631,
+            31.984849
+          ],
+          [
+            34.903541,
+            31.984883
+          ],
+          [
+            34.906998,
+            31.991684
+          ],
+          [
+            34.907947,
+            31.994313
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 1,
+        "from": "Lydda (Lod)",
+        "to": "Kafr Jinis",
+        "from_id": "lydda-lod",
+        "to_id": "kafr-jinis",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.907331,
+            31.995221
+          ],
+          [
+            34.911872,
+            32.023564
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 2,
+        "from": "Kafr Jinis",
+        "to": "Wilhelma Halt",
+        "from_id": "kafr-jinis",
+        "to_id": "wilhelma-halt",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.911872,
+            32.023564
+          ],
+          [
+            34.953322,
+            32.095293
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 3,
+        "from": "Wilhelma Halt",
+        "to": "Ras el Ain (Palestine)",
+        "from_id": "wilhelma-halt",
+        "to_id": "ras-el-ain-palestine",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.934397,
+            32.09809
+          ],
+          [
+            34.935138,
+            32.106926
+          ],
+          [
+            34.935176,
+            32.109417
+          ],
+          [
+            34.934424,
+            32.113521
+          ],
+          [
+            34.934507,
+            32.121938
+          ],
+          [
+            34.934416,
+            32.123302
+          ],
+          [
+            34.933756,
+            32.126097
+          ],
+          [
+            34.932862,
+            32.13065
+          ],
+          [
+            34.932757,
+            32.132868
+          ],
+          [
+            34.932898,
+            32.134359
+          ],
+          [
+            34.936357,
+            32.153979
+          ],
+          [
+            34.937037,
+            32.156505
+          ],
+          [
+            34.937865,
+            32.15841
+          ],
+          [
+            34.939092,
+            32.160536
+          ],
+          [
+            34.94017,
+            32.161981
+          ],
+          [
+            34.947466,
+            32.169817
+          ],
+          [
+            34.948183,
+            32.170465
+          ],
+          [
+            34.951891,
+            32.17328
+          ],
+          [
+            34.953606,
+            32.174883
+          ],
+          [
+            34.955,
+            32.176714
+          ],
+          [
+            34.955828,
+            32.17821
+          ],
+          [
+            34.956391,
+            32.1796
+          ],
+          [
+            34.956753,
+            32.180947
+          ],
+          [
+            34.956994,
+            32.182723
+          ],
+          [
+            34.95699,
+            32.18383
+          ],
+          [
+            34.956841,
+            32.185392
+          ],
+          [
+            34.955458,
+            32.191995
+          ],
+          [
+            34.955377,
+            32.19426
+          ],
+          [
+            34.955714,
+            32.19649
+          ],
+          [
+            34.95676,
+            32.199531
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 4,
+        "from": "Ras el Ain (Palestine)",
+        "to": "Qalqilya",
+        "from_id": "ras-el-ain-palestine",
+        "to_id": "qalqilya",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9708,
+            32.1954
+          ],
+          [
+            35.0286,
+            32.3104
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 5,
+        "from": "Qalqilya",
+        "to": "Tulkarm",
+        "from_id": "qalqilya",
+        "to_id": "tulkarm",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.0286,
+            32.3104
+          ],
+          [
+            34.95,
+            32.44611
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 6,
+        "from": "Tulkarm",
+        "to": "Hadera",
+        "from_id": "tulkarm",
+        "to_id": "hadera",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.94976,
+            32.446193
+          ],
+          [
+            34.947017,
+            32.450939
+          ],
+          [
+            34.946795,
+            32.451535
+          ],
+          [
+            34.94273,
+            32.458712
+          ],
+          [
+            34.94236,
+            32.459601
+          ],
+          [
+            34.942169,
+            32.461143
+          ],
+          [
+            34.942337,
+            32.462295
+          ],
+          [
+            34.94292,
+            32.463584
+          ],
+          [
+            34.946695,
+            32.468909
+          ],
+          [
+            34.948278,
+            32.471511
+          ],
+          [
+            34.951644,
+            32.475951
+          ],
+          [
+            34.952952,
+            32.477843
+          ],
+          [
+            34.95383,
+            32.479647
+          ],
+          [
+            34.954267,
+            32.481342
+          ],
+          [
+            34.954406,
+            32.482932
+          ],
+          [
+            34.954326,
+            32.484085
+          ],
+          [
+            34.952508,
+            32.49991
+          ],
+          [
+            34.949611,
+            32.514555
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 7,
+        "from": "Hadera",
+        "to": "Benyamina",
+        "from_id": "hadera",
+        "to_id": "benyamina",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.949611,
+            32.514555
+          ],
+          [
+            34.948909,
+            32.518038
+          ],
+          [
+            34.948494,
+            32.519086
+          ],
+          [
+            34.947973,
+            32.51996
+          ],
+          [
+            34.946791,
+            32.521263
+          ],
+          [
+            34.942881,
+            32.52429
+          ],
+          [
+            34.94151,
+            32.52568
+          ],
+          [
+            34.94078,
+            32.526799
+          ],
+          [
+            34.938869,
+            32.530628
+          ],
+          [
+            34.938242,
+            32.531562
+          ],
+          [
+            34.937368,
+            32.532529
+          ],
+          [
+            34.934792,
+            32.534828
+          ],
+          [
+            34.933816,
+            32.535994
+          ],
+          [
+            34.93306,
+            32.537296
+          ],
+          [
+            34.93129,
+            32.541032
+          ],
+          [
+            34.930973,
+            32.54228
+          ],
+          [
+            34.930824,
+            32.543406
+          ],
+          [
+            34.93103,
+            32.548608
+          ],
+          [
+            34.930558,
+            32.552967
+          ],
+          [
+            34.930507,
+            32.554927
+          ],
+          [
+            34.930619,
+            32.556081
+          ],
+          [
+            34.930882,
+            32.557316
+          ],
+          [
+            34.932532,
+            32.562887
+          ],
+          [
+            34.932823,
+            32.564154
+          ],
+          [
+            34.932936,
+            32.566032
+          ],
+          [
+            34.932682,
+            32.567725
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 8,
+        "from": "Benyamina",
+        "to": "Zichron Jacob",
+        "from_id": "benyamina",
+        "to_id": "zichron-jacob",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.932682,
+            32.567725
+          ],
+          [
+            34.924906,
+            32.591529
+          ],
+          [
+            34.924561,
+            32.593382
+          ],
+          [
+            34.924511,
+            32.595135
+          ],
+          [
+            34.925244,
+            32.60579
+          ],
+          [
+            34.925523,
+            32.608446
+          ],
+          [
+            34.926958,
+            32.616966
+          ],
+          [
+            34.927592,
+            32.619884
+          ],
+          [
+            34.928797,
+            32.626348
+          ],
+          [
+            34.928977,
+            32.627979
+          ],
+          [
+            34.929944,
+            32.633319
+          ],
+          [
+            34.935372,
+            32.668242
+          ],
+          [
+            34.936625,
+            32.675826
+          ],
+          [
+            34.940227,
+            32.692944
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 9,
+        "from": "Zichron Jacob",
+        "to": "Athlit",
+        "from_id": "zichron-jacob",
+        "to_id": "athlit",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.940227,
+            32.692944
+          ],
+          [
+            34.94013,
+            32.692954
+          ],
+          [
+            34.940617,
+            32.69523
+          ],
+          [
+            34.941488,
+            32.698606
+          ],
+          [
+            34.943132,
+            32.706224
+          ],
+          [
+            34.94523,
+            32.712701
+          ],
+          [
+            34.949231,
+            32.727041
+          ],
+          [
+            34.949629,
+            32.728723
+          ],
+          [
+            34.951908,
+            32.742686
+          ],
+          [
+            34.952318,
+            32.746682
+          ],
+          [
+            34.953023,
+            32.75684
+          ],
+          [
+            34.956568,
+            32.777361
+          ],
+          [
+            34.957055,
+            32.788426
+          ],
+          [
+            34.957362,
+            32.78976
+          ],
+          [
+            34.957309,
+            32.79001
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 10,
+        "from": "Athlit",
+        "to": "Carmel",
+        "from_id": "athlit",
+        "to_id": "carmel",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.957457,
+            32.793514
+          ],
+          [
+            35.00472,
+            32.81194
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "haifa-lydda-tulkarm",
+        "sequence": 11,
+        "from": "Carmel",
+        "to": "Haifa",
+        "from_id": "carmel",
+        "to_id": "haifa",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    }
+  ]
+}

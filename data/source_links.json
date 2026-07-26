@@ -15,6 +15,41 @@
   },
   {
     "entity_type": "infrastructure",
+    "entity": "Bal'a Tunnel (al-Kharq) — Ottoman railway tunnel",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "travelpalestine_bala"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Bal'a Tunnel (al-Kharq) — Ottoman railway tunnel",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Batn el-Ghoul escarpment descent",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_planning_2026_07"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Battir railway section",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_planning_2026_07"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Beirut–Damascus rack (Abt) section",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_planning_2026_07"
+  },
+  {
+    "entity_type": "infrastructure",
     "entity": "Benha Nile bridge",
     "aspect": "attribute",
     "field": "name",
@@ -26,6 +61,48 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "awm_hbt"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Haifa East / Qishon railway workshops",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_planning_2026_07"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Jarabulus (Karkamış) Euphrates bridge",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_planning_2026_07"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Jarabulus (Karkamış) Euphrates bridge",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Jisr el-Majami' (Gesher) Jordan River railway bridge",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_planning_2026_07"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Jisr el-Majami' (Gesher) Jordan River railway bridge",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Kadem (Qadam) works & depot",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_planning_2026_07"
   },
   {
     "entity_type": "infrastructure",
@@ -47,6 +124,48 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Ma'an station workshops",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_planning_2026_07"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Ras al-Naqoura (Rosh HaNikra) headland tunnels",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_planning_2026_07"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Ras al-Naqoura (Rosh HaNikra) headland tunnels",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Rayak works & depot",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "rizk_rayak_2022"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Rayak works & depot",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "levantrain_planning_2026_07"
+  },
+  {
+    "entity_type": "infrastructure",
+    "entity": "Rayak works & depot",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
   },
   {
     "entity_type": "infrastructure",
@@ -438,7 +557,28 @@
     "entity": "beirut-damascus",
     "aspect": "attribute",
     "field": "history",
+    "source_id": "elhage_rizk_marmikhael_2023"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "history",
     "source_id": "gwr_lebanon"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "walling_beirut_2020"
   },
   {
     "entity_type": "route",
@@ -851,6 +991,13 @@
     "entity": "eastern-railway",
     "aspect": "connection",
     "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "connection",
+    "field": "order",
     "source_id": "wp_israel_rw"
   },
   {
@@ -862,6 +1009,13 @@
   },
   {
     "entity_type": "route",
+    "entity": "haifa-acre",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
     "entity": "haifa-beirut-tripoli",
     "aspect": "attribute",
     "field": "countries",
@@ -977,6 +1131,13 @@
     "entity": "haifa-beirut-tripoli",
     "aspect": "connection",
     "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-beirut-tripoli",
+    "aspect": "connection",
+    "field": "order",
     "source_id": "wp_lebanon"
   },
   {
@@ -1082,6 +1243,13 @@
     "entity": "haifa-deraa",
     "aspect": "connection",
     "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "connection",
+    "field": "order",
     "source_id": "shemer_jezreel"
   },
   {
@@ -1097,6 +1265,13 @@
     "aspect": "connection",
     "field": "order",
     "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-lydda-tulkarm",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "route",
@@ -1152,6 +1327,13 @@
     "entity": "hejaz",
     "aspect": "attribute",
     "field": "history",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "history",
     "source_id": "ochsenwald_1980"
   },
   {
@@ -1195,6 +1377,13 @@
     "aspect": "connection",
     "field": "order",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "route",
@@ -1432,6 +1621,13 @@
     "entity": "jaffa-jerusalem",
     "aspect": "connection",
     "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "connection",
+    "field": "order",
     "source_id": "wp_jaffa_jerusalem"
   },
   {
@@ -1520,6 +1716,41 @@
   },
   {
     "entity_type": "route",
+    "entity": "kafr-jinis-beit-nabala",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "lydda-sarafend",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "masudiya-nablus",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rafa-beersheba",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "ras-el-ain-petah-tikva",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
     "entity": "rayak-baalbek",
     "aspect": "attribute",
     "field": "countries",
@@ -1573,6 +1804,13 @@
     "aspect": "attribute",
     "field": "history",
     "source_id": "greenarea_baalbek"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "gsgs_2061_syria_1916"
   },
   {
     "entity_type": "route",
@@ -1705,6 +1943,13 @@
     "entity": "sinai-military-railway",
     "aspect": "connection",
     "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "connection",
+    "field": "order",
     "source_id": "wp_palestine_rw"
   },
   {
@@ -1901,6 +2146,13 @@
     "entity": "syria-trunk",
     "aspect": "attribute",
     "field": "history",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "attribute",
+    "field": "history",
     "source_id": "wp_lebanon"
   },
   {
@@ -2056,6 +2308,13 @@
     "aspect": "connection",
     "field": "order",
     "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "alexandria-cairo#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
   },
   {
     "entity_type": "segment",
@@ -2101,6 +2360,13 @@
   },
   {
     "entity_type": "segment",
+    "entity": "aqaba-branch#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "baghdad-railway#10",
     "aspect": "geometry",
     "field": null,
@@ -2109,6 +2375,13 @@
   {
     "entity_type": "segment",
     "entity": "baghdad-railway#12",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "baghdad-railway#15",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2129,7 +2402,21 @@
   },
   {
     "entity_type": "segment",
+    "entity": "baghdad-railway#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "baghdad-railway#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "baghdad-railway#8",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2178,6 +2465,27 @@
   },
   {
     "entity_type": "segment",
+    "entity": "beirut-damascus#15",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#16",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#17",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "beirut-damascus#18",
     "aspect": "geometry",
     "field": null,
@@ -2200,6 +2508,20 @@
   {
     "entity_type": "segment",
     "entity": "beirut-damascus#20",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#21",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "beirut-damascus#22",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2248,6 +2570,13 @@
   },
   {
     "entity_type": "segment",
+    "entity": "beirut-damascus#29",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "beirut-damascus#3",
     "aspect": "geometry",
     "field": null,
@@ -2290,7 +2619,42 @@
   },
   {
     "entity_type": "segment",
+    "entity": "c1b635f3-5633-4cee-a6bb-9c0c740accb1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#10",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "cairo-aswan#11",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#12",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#13",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#2",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2304,7 +2668,21 @@
   },
   {
     "entity_type": "segment",
+    "entity": "cairo-aswan#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "cairo-aswan#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cairo-aswan#6",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2423,7 +2801,70 @@
   },
   {
     "entity_type": "segment",
+    "entity": "d7f8f9eb-34e0-4425-8470-a210df19d9b5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "eastern-railway#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "eastern-railway#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "eastern-railway#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "eastern-railway#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "eastern-railway#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "eastern-railway#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "eastern-railway#9",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-acre#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-beirut-tripoli#1",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2466,6 +2907,13 @@
   {
     "entity_type": "segment",
     "entity": "haifa-beirut-tripoli#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-beirut-tripoli#8",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2528,7 +2976,21 @@
   },
   {
     "entity_type": "segment",
+    "entity": "haifa-deraa#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "haifa-deraa#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#6",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2542,21 +3004,77 @@
   },
   {
     "entity_type": "segment",
+    "entity": "haifa-deraa#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-lydda-tulkarm#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-lydda-tulkarm#10",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-lydda-tulkarm#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-lydda-tulkarm#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-lydda-tulkarm#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-lydda-tulkarm#9",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#10",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#11",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "hejaz#12",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "hejaz#13",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "hejaz#14",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2591,14 +3109,14 @@
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#2",
+    "entity": "hejaz#19",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#21",
+    "entity": "hejaz#2",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2619,7 +3137,14 @@
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#24",
+    "entity": "hejaz#26",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#27",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2647,20 +3172,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#31",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "hejaz#32",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "hejaz#33",
     "aspect": "geometry",
     "field": null,
@@ -2675,35 +3186,70 @@
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#40",
+    "entity": "hejaz#35",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#42",
+    "entity": "hejaz#36",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#43",
+    "entity": "hejaz#37",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#44",
+    "entity": "hejaz#38",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#5",
+    "entity": "hejaz#39",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#45",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#47",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#48",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#49",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2718,6 +3264,41 @@
   {
     "entity_type": "segment",
     "entity": "hejaz#9",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "iraq-basra-wwi#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "iraq-basra-wwi#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "iraq-kirkuk#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "jaffa-jerusalem#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "jaffa-jerusalem#2",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2773,6 +3354,34 @@
   },
   {
     "entity_type": "segment",
+    "entity": "lydda-sarafend#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "masudiya-nablus#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "masudiya-nablus#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "ras-el-ain-petah-tikva#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "rayak-baalbek#1",
     "aspect": "geometry",
     "field": null,
@@ -2780,7 +3389,105 @@
   },
   {
     "entity_type": "segment",
-    "entity": "sinai-military-railway#4",
+    "entity": "rayak-baalbek#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "rayak-baalbek#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "rayak-baalbek#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "rayak-baalbek#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "rayak-baalbek#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#18",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#19",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#20",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#21",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-coastal#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-coastal#2",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2788,6 +3495,55 @@
   {
     "entity_type": "segment",
     "entity": "syria-coastal#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-euphrates#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-euphrates#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-euphrates#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-trunk#10",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-trunk#11",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-trunk#12",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-trunk#9",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -2826,6 +3582,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "abu-al-duhur",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
   },
   {
     "entity_type": "station",
@@ -2951,6 +3714,13 @@
     "entity": "acre",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "acre",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "wp_lebanon"
   },
   {
@@ -2973,6 +3743,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "acre-junction",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "acre-junction",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "wikidata"
   },
   {
     "entity_type": "station",
@@ -3015,6 +3799,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "afula",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -3273,6 +4064,13 @@
     "entity": "al-hamma",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hamma",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "shemer_jezreel"
   },
   {
@@ -3316,6 +4114,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-hasa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -3470,6 +4275,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-qasr",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-qusayr",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
   },
   {
     "entity_type": "station",
@@ -3728,6 +4547,13 @@
     "entity": "amman",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "amman",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "robinson_atlas"
   },
   {
@@ -3781,6 +4607,27 @@
   },
   {
     "entity_type": "station",
+    "entity": "anebta",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "anebta",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "map_anabta_1619"
+  },
+  {
+    "entity_type": "station",
+    "entity": "anebta",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "aqaba",
     "aspect": "attribute",
     "field": "name",
@@ -3802,6 +4649,48 @@
   },
   {
     "entity_type": "station",
+    "entity": "arrabeh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "arrabeh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "artuf",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "artuf",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ashdod",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ashdod",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "aswan",
     "aspect": "attribute",
     "field": "name",
@@ -3854,6 +4743,20 @@
     "entity": "asyut",
     "aspect": "geometry",
     "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "athlit",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "athlit",
+    "aspect": "geometry",
+    "field": "coordinate",
     "source_id": "osm"
   },
   {
@@ -4239,6 +5142,13 @@
     "entity": "battir",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "battir",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "wp_jaffa_jerusalem"
   },
   {
@@ -4267,6 +5177,13 @@
     "entity": "beersheba",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beersheba",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "wp_palestine_rw"
   },
   {
@@ -4282,6 +5199,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beirut",
+    "aspect": "attribute",
+    "field": "description",
+    "source_id": "elhage_rizk_marmikhael_2023"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beirut",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "walling_beirut_2020"
   },
   {
     "entity_type": "station",
@@ -4307,6 +5238,13 @@
   {
     "entity_type": "station",
     "entity": "beirut",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "elhage_rizk_marmikhael_2023"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beirut",
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
@@ -4317,6 +5255,27 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-nabala",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-nabala",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "wikidata"
+  },
+  {
+    "entity_type": "station",
+    "entity": "beit-she-an",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -4418,6 +5377,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "benyamina",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "benyamina",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "bhamdoun",
     "aspect": "attribute",
     "field": "name",
@@ -4457,6 +5430,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-el-abd",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -4520,6 +5500,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "gazetteer_misc"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-yacob",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-yacob",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -4642,6 +5636,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "carmel",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "carmel",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "chekka",
     "aspect": "attribute",
     "field": "name",
@@ -4723,6 +5731,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "daba-a",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -4964,6 +5979,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "dchajara",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dchajara",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "deir-ali",
     "aspect": "attribute",
     "field": "name",
@@ -5016,6 +6045,13 @@
     "entity": "deir-el-balah",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-el-balah",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "wp_palestine_rw"
   },
   {
@@ -5031,6 +6067,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-esh-sheikh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-esh-sheikh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -5107,6 +6157,13 @@
     "entity": "deir-sneid",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deir-sneid",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "wp_palestine_rw"
   },
   {
@@ -5122,6 +6179,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deraa",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -5199,6 +6263,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dimas",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
   },
   {
     "entity_type": "station",
@@ -5289,6 +6360,13 @@
     "entity": "ein-harod",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ein-harod",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "shemer_jezreel"
   },
   {
@@ -5331,6 +6409,13 @@
     "entity": "el-arish",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-arish",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "wp_palestine_rw"
   },
   {
@@ -5457,6 +6542,13 @@
     "entity": "el-kantara-east",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-kantara-east",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "wp_palestine_rw"
   },
   {
@@ -5479,6 +6571,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "el-mazar",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -5762,6 +6861,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "frefra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "frefra",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "furn-el-chebbak",
     "aspect": "attribute",
     "field": "name",
@@ -5797,10 +6910,31 @@
   },
   {
     "entity_type": "station",
+    "entity": "gaber-amir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaber-amir",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
     "entity": "gaza",
     "aspect": "attribute",
     "field": "name",
     "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gaza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -5871,6 +7005,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gesher",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -5986,10 +7127,24 @@
   },
   {
     "entity_type": "station",
+    "entity": "ghazale",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
     "entity": "gilban",
     "aspect": "attribute",
     "field": "name",
     "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "gilban",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -6046,6 +7201,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hadera",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -6122,6 +7284,13 @@
     "entity": "haifa",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "haifa",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "shemer_jezreel"
   },
   {
@@ -6221,6 +7390,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "hamidiyah",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
   },
   {
     "entity_type": "station",
@@ -6326,6 +7502,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "imara",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "imara",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
   },
   {
     "entity_type": "station",
@@ -6563,6 +7753,13 @@
     "entity": "jaffa",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jaffa",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "wp_jaffa_jerusalem"
   },
   {
@@ -6686,6 +7883,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "jebab",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jenin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
     "entity": "jenin",
     "aspect": "attribute",
     "field": "name",
@@ -6718,6 +7929,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jerusalem",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -6781,6 +7999,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jiza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -6836,6 +8061,13 @@
     "entity": "jurf-ad-darawish",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jurf-ad-darawish",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "robinson_atlas"
   },
   {
@@ -6896,6 +8128,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "kafr-jinis",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kafr-jinis",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "wikidata"
+  },
+  {
+    "entity_type": "station",
     "entity": "karaman",
     "aspect": "attribute",
     "field": "name",
@@ -6980,6 +8226,27 @@
   },
   {
     "entity_type": "station",
+    "entity": "kassir",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kassir",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kfar-yehoshua",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
     "entity": "kfar-yehoshua",
     "aspect": "attribute",
     "field": "name",
@@ -7015,6 +8282,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "khabab",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
     "entity": "khan-az-zabib",
     "aspect": "attribute",
     "field": "name",
@@ -7026,6 +8300,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-az-zabib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -7103,6 +8384,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khan-yunis",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -7141,6 +8429,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "khirba",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khirba",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
     "entity": "khirbet-as-samra",
     "aspect": "attribute",
     "field": "name",
@@ -7152,6 +8454,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "khirbet-as-samra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -7407,6 +8716,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "labweh",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
     "entity": "latakia",
     "aspect": "attribute",
     "field": "name",
@@ -7456,6 +8772,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "libban",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "libban",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "luxor",
     "aspect": "attribute",
     "field": "name",
@@ -7494,6 +8824,13 @@
     "entity": "lydda-lod",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "lydda-lod",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "wp_jaffa_jerusalem"
   },
   {
@@ -7512,6 +8849,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "lydda-north",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "lydda-north",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "ma-an",
     "aspect": "attribute",
     "field": "name",
@@ -7523,6 +8874,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ma-an",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -7551,6 +8909,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "maadan",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "maadan",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
   },
   {
     "entity_type": "station",
@@ -7704,6 +9076,13 @@
     "entity": "mafraq",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mafraq",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "robinson_atlas"
   },
   {
@@ -7726,6 +9105,27 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mahaja",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "makaren",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "makaren",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
   },
   {
     "entity_type": "station",
@@ -7768,6 +9168,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "manzil",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -7796,6 +9203,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "gazetteer_misc"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mas-udiya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -7869,6 +9283,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "mejdel",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mejdel",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "meydan-ekbez",
     "aspect": "attribute",
     "field": "name",
@@ -7936,6 +9364,27 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mismiyeh",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mosefeig",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mosefeig",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
   },
   {
     "entity_type": "station",
@@ -8066,6 +9515,13 @@
   {
     "entity_type": "station",
     "entity": "muzeirib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "muzeirib",
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
@@ -8076,6 +9532,27 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "naaneh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "naaneh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "wikidata"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nablus",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -8230,6 +9707,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nassib-jaber",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -8324,6 +9808,41 @@
   },
   {
     "entity_type": "station",
+    "entity": "new-kantara-east",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "new-kantara-east",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nur-esh-shams",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nur-esh-shams",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "map_tulkarm_1519"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nur-esh-shams",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "nusaybin",
     "aspect": "attribute",
     "field": "name",
@@ -8363,6 +9882,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "petah-tikva",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "petah-tikva",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -8440,6 +9973,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qalqilya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -8572,6 +10112,13 @@
     "entity": "qatrana",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qatrana",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "robinson_atlas"
   },
   {
@@ -8594,6 +10141,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qattinah",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
   },
   {
     "entity_type": "station",
@@ -8629,6 +10183,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rafah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -8692,6 +10253,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ramla",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -8863,6 +10431,34 @@
   },
   {
     "entity_type": "station",
+    "entity": "ras-baalbek",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-el-ain-palestine",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-el-ain-palestine",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rastan",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
     "entity": "raswa",
     "aspect": "attribute",
     "field": "name",
@@ -8893,6 +10489,20 @@
     "entity_type": "station",
     "entity": "rayak",
     "aspect": "attribute",
+    "field": "history",
+    "source_id": "rizk_rayak_2022"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rayak",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "walling_beirut_2020"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rayak",
+    "aspect": "attribute",
     "field": "name",
     "source_id": "bdr_project"
   },
@@ -8913,9 +10523,30 @@
   {
     "entity_type": "station",
     "entity": "rayak",
+    "aspect": "attribute",
+    "field": "year_closed",
+    "source_id": "wp_riyaq"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rayak",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "wp_riyaq"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rayak",
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rayak",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -8926,10 +10557,31 @@
   },
   {
     "entity_type": "station",
+    "entity": "rehoboth",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "rehoboth",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "romani",
     "aspect": "attribute",
     "field": "name",
     "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "station",
+    "entity": "romani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -9021,6 +10673,41 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sabastieh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sabastieh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "saferiyeh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "saferiyeh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "wikidata"
+  },
+  {
+    "entity_type": "station",
+    "entity": "samakh-tzemah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -9122,6 +10809,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "sarafend",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sarafend",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "wikidata"
+  },
+  {
+    "entity_type": "station",
     "entity": "serghaya",
     "aspect": "attribute",
     "field": "name",
@@ -9154,6 +10855,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shaqra",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "shata",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -9388,6 +11103,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "sileh",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "sileh",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "sofar",
     "aspect": "attribute",
     "field": "name",
@@ -9497,6 +11226,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "suaq-sultani",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -9640,6 +11376,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "talbiseh",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tallajin",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
     "entity": "tanta",
     "aspect": "attribute",
     "field": "name",
@@ -9693,6 +11443,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-aviv",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tel-aviv",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
   },
   {
     "entity_type": "station",
@@ -9917,6 +11681,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tulkarm",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -9983,6 +11754,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "umm-ar-rajim",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
     "entity": "uneiza",
     "aspect": "attribute",
     "field": "name",
@@ -9994,6 +11772,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "uneiza",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
   },
   {
     "entity_type": "station",
@@ -10012,6 +11797,48 @@
   {
     "entity_type": "station",
     "entity": "uneiza",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "vale-of-sorek",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "vale-of-sorek",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-jardoun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-jardoun",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-khaled",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-khaled",
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
@@ -10050,6 +11877,27 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wilhelma-halt",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wilhelma-halt",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wudeihi",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "gsgs_2061_syria_1916"
   },
   {
     "entity_type": "station",
@@ -10113,6 +11961,20 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "yebnah",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "yebnah",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -10210,6 +12072,13 @@
     "entity": "zarqa",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zarqa",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "robinson_atlas"
   },
   {
@@ -10232,5 +12101,33 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zeizoun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zeizoun",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "wikidata"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zichron-jacob",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "zichron-jacob",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
   }
 ]

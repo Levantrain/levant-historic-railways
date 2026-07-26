@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "rafa-beersheba",
+    "name": "Rafa–Beersheba Railway",
+    "countries": "Israel/Palestine",
+    "gauge_mm": 1435,
+    "era": "historic",
+    "color": "#f59e0b",
+    "corridor_confidence": "medium",
+    "description": "British WWI military branch from Rafah inland to Beersheba across the northern Negev.",
+    "history": "Chainage from Rafah (0) per the 1925 diagram. Geometry schematic.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "pr_diagram_1925"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.246,
+            31.287
+          ],
+          [
+            34.51952,
+            31.26587
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "rafa-beersheba",
+        "sequence": 1,
+        "from": "Rafah",
+        "to": "Imara",
+        "from_id": "rafah",
+        "to_id": "imara",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.51952,
+            31.26587
+          ],
+          [
+            34.784879,
+            31.24537
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "rafa-beersheba",
+        "sequence": 2,
+        "from": "Imara",
+        "to": "Beersheba",
+        "from_id": "imara",
+        "to_id": "beersheba",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    }
+  ]
+}

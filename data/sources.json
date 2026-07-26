@@ -98,6 +98,20 @@
     "note": null
   },
   {
+    "id": "elhage_rizk_marmikhael_2023",
+    "title": "The Mar Mikhael station: 125 years reflecting an ever-changing Beirut",
+    "publisher": "Trasporti & Cultura n.66-67 (Laura Facchinelli, Venezia)",
+    "type": "specialist",
+    "url": "https://www.academia.edu/118023274/The_Mar_Mikhael_train_station_125_years_reflecting_an_ever_changing_Beirut",
+    "accessed": "2026-07-15",
+    "license": "in copyright — link only, do not re-host",
+    "reliability": "secondary",
+    "author": "Christelle El Hage & Yara Rizk",
+    "year": 2023,
+    "isbn": null,
+    "note": "Double-blind peer-reviewed. History, architecture (PLM model by the Société de construction des Batignolles, 1893; adapted to local climate) and decline/revival of Beirut's first station, read against the city's evolution — through the 1991 \"Peace Train\" and the post-2020-blast heritage project."
+  },
+  {
     "id": "farnworth",
     "title": "Egyptian Railway History (A Short Version)",
     "publisher": "Roger Farnworth",
@@ -152,6 +166,20 @@
     "year": null,
     "isbn": null,
     "note": null
+  },
+  {
+    "id": "gsgs_2061_syria_1916",
+    "title": "Index Map of Syria showing Railway Lines and Routes (GSGS 2061/9)",
+    "publisher": "Geographical Section, General Staff — British War Office",
+    "type": "map",
+    "url": "https://wdc.contentdm.oclc.org/digital/collection/tav/id/3426/",
+    "accessed": "2026-07-16",
+    "license": "Underlying map public domain by age (UK Crown copyright expired). Scan courtesy The Archive Vault — link-only until host terms confirmed.",
+    "reliability": "primary",
+    "author": "Geographical Section, General Staff (War Office)",
+    "year": 1916,
+    "isbn": null,
+    "note": "Corrected Oct 1916. Scale 1:1,500,000, geographic (1° graticule → georeferenceable). Legend: completed / under-construction-&-destroyed / projected. Carries station names + chainage (e.g. Damascus K460, Deraa K337). Covers the Syria trunk, Hejaz, Yarmuk branch, Baghdad Railway and Palestine lines. Primary for line existence/status/names/chainage; coarse (~±1–2 km) for geometry, not precise coordinates."
   },
   {
     "id": "gwr_lebanon",
@@ -210,6 +238,20 @@
     "note": "Schematic route geometry and locality-level station coordinates originate here until upgraded from OSM/Wikidata."
   },
   {
+    "id": "levantrain_planning_2026_07",
+    "title": "Levantrain planning session — landmark candidates (2026-07-13)",
+    "publisher": "Levantrain project",
+    "type": "derived",
+    "url": null,
+    "accessed": "2026-07",
+    "license": "internal",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Curated shortlist of engineering + operational landmarks with approximate coords, confidence and verification leads. See docs/archive/planning-session-2026-07-13/."
+  },
+  {
     "id": "levantrain_system",
     "title": "Levantrain project database (route catalogue, incl. Arabic names & descriptions)",
     "publisher": "Levantrain project",
@@ -222,6 +264,62 @@
     "year": null,
     "isbn": null,
     "note": null
+  },
+  {
+    "id": "map_anabta_1619",
+    "title": "Survey of Palestine — Anabta, Sheet 16-19, 1:20,000 (1942)",
+    "publisher": "Survey of Palestine",
+    "type": "map",
+    "url": "https://en.wikipedia.org/wiki/File:16-19-Anabta-1942.jpg",
+    "accessed": "2026-07",
+    "license": "Public domain (PD-UKGov / Israel gov)",
+    "reliability": "primary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "1:20k topocadastral sheet (1942): Anabta STA. (KM.9), Bal'a, and the Tulkarm–Nablus (H.R./Hejaz, narrow-gauge) line. See data/reference-maps/survey-of-palestine-tulkarm-anabta-1519-1619/."
+  },
+  {
+    "id": "map_pr_system_1946",
+    "title": "Palestine Railways — PR system map (1946)",
+    "publisher": "Palestine Railways",
+    "type": "map",
+    "url": "https://www.flickr.com/photos/124446949@N06/48608394413/",
+    "accessed": "2026-07",
+    "license": "All rights reserved (photo); underlying 1946 gov. map likely PD by age — link only",
+    "reliability": "primary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "1946 operator/system map, 1:2,250,000. Operator coding (P.R./K.R.R./H.B.T./Hejaz) + gauge. Corroborating-only. See data/reference-maps/pr-system-map-1946/."
+  },
+  {
+    "id": "map_transjordania_survey",
+    "title": "Railway Map of Palestine & Transjordania (Survey of Egypt)",
+    "publisher": "Survey of Egypt",
+    "type": "map",
+    "url": "https://www.flickr.com/photos/124446949@N06/46190203671/",
+    "accessed": "2026-07",
+    "license": "All rights reserved (photo); underlying ~1920s gov. map likely PD by age — link only",
+    "reliability": "primary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Geographic railway map, 1:750,000, early Mandate (pre-WWII). Corroborating; coordinate ingestion deferred (needs georeferencing). See data/reference-maps/palestine-transjordania-survey-egypt/."
+  },
+  {
+    "id": "map_tulkarm_1519",
+    "title": "Survey of Palestine — Tulkarm, Sheet 15-19, 1:20,000",
+    "publisher": "Survey of Palestine",
+    "type": "map",
+    "url": "https://en.wikipedia.org/wiki/File:15-19-Tulkarm-19XX.jpg",
+    "accessed": "2026-07",
+    "license": "Public domain (PD-UKGov / Israel gov)",
+    "reliability": "primary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "1:20k topocadastral sheet: Tulkarm + Nur esh Shams Sta. (KM.14) + exact rail alignment along Wadi el Burj. See data/reference-maps/survey-of-palestine-tulkarm-anabta-1519-1619/."
   },
   {
     "id": "nabataea",
@@ -266,6 +364,20 @@
     "note": "Geometry provenance for OSM-refreshed features; each way/node carries its own osm_id."
   },
   {
+    "id": "pr_diagram_1925",
+    "title": "Palestine Railways — Diagram of Routes (1925)",
+    "publisher": "Palestine Railways, Dept. of Public Works (Drawing Office)",
+    "type": "map",
+    "url": "https://www.flickr.com/photos/124446949@N06/51253263885",
+    "accessed": "2026-07",
+    "license": "All rights reserved (photo); underlying 1925 gov. map likely PD by age — link-only, do not embed",
+    "reliability": "primary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Israel Railways Museum, Haifa (digitized by Historical Railway Images, Flickr)"
+  },
+  {
     "id": "railwaywonders",
     "title": "In the Nile Valley",
     "publisher": "Railway Wonders of the World",
@@ -278,6 +390,20 @@
     "year": null,
     "isbn": null,
     "note": null
+  },
+  {
+    "id": "rizk_rayak_2022",
+    "title": "The Lebanese railway heritage: the case of the Rayak station",
+    "publisher": "AIPAI / Marsilio — 2° Stati Generali del Patrimonio Industriale (Rome-Tivoli, 2022)",
+    "type": "specialist",
+    "url": "https://www.researchgate.net/publication/364658103_The_Lebanese_railway_heritage_the_case_of_the_Rayak_station",
+    "accessed": "2026-07-15",
+    "license": "in copyright — link only, do not re-host",
+    "reliability": "secondary",
+    "author": "Yara Rizk (Sapienza University of Rome)",
+    "year": 2022,
+    "isbn": null,
+    "note": "Blind-peer-reviewed conference paper. History, layout & conservation state of the Rayak station + DHP works; reproduces the Train/Train \"Plan d'ensemble de la gare de Rayak\" and factory plans. Basis for the works detail below."
   },
   {
     "id": "robinson_atlas",
@@ -308,6 +434,48 @@
     "note": "Specialist site — verify against authoritative references."
   },
   {
+    "id": "sop_jaffa_1929",
+    "title": "Survey of Palestine — Jaffa, Sheet 12-16, 1:20,000 Topocadastral (1929)",
+    "publisher": "Survey of Palestine",
+    "type": "map",
+    "url": "https://commons.wikimedia.org/wiki/File:12-16-Jaffa-1929.jpg",
+    "accessed": "2026-07",
+    "license": "Public domain (PD-UKGov / Israel gov) — freely usable",
+    "reliability": "primary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Detailed 1:20,000 sheet: exact rail alignment, STA. station positions, km posts (~tens of metres). PD + georeferenceable = the precision tier for targeted deep-dives (station pins, the Bal'a tunnel, OSM-overlay). See data/reference-maps/survey-of-palestine-jaffa-1929/."
+  },
+  {
+    "id": "sop_sabastiya_1618",
+    "title": "Survey of Palestine — Sabastiya, Sheet 16-18, 1:20,000 (1942)",
+    "publisher": "Survey of Palestine",
+    "type": "map",
+    "url": "https://commons.wikimedia.org/wiki/File:16-18-Sabastiya-1942.jpg",
+    "accessed": "2026-07",
+    "license": "Public domain (PD-UKGov / Israel gov) — freely usable",
+    "reliability": "primary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "1:20,000 topocadastral sheet covering the Mas'udiya junction + the Nablus approach (S of the Anabta 16-19 sheet). Confirms Mas'udiya as a 3-way wye — Afula-Nablus line (N, via Jenin), Nablus branch (S, via Abu Sila Sta.), Tulkarm-Nablus line (W, the Bal'a-tunnel arm, drawn dashed = lifted by 1942). Km posts read KM.60 at Mas'udiya → validates our chainage. See data/reference-maps/survey-of-palestine-sabastiya-1618/."
+  },
+  {
+    "id": "sop_sketch_1932",
+    "title": "Sketch Map of Palestine, Transjordan & Northern Sinai (Survey of Palestine, 1932)",
+    "publisher": "Survey of Palestine",
+    "type": "map",
+    "url": "https://commons.wikimedia.org/wiki/File:Survey_of_Palestine,_Sketch_map_of_Palestine,_TransJordsan_%26_northern_Sinai_(FL27965287_2654942).jpg",
+    "accessed": "2026-07",
+    "license": "Public domain (PD-UKGov / Israel gov) — freely usable",
+    "reliability": "primary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "General sketch map, 1:3,000,000, with railways + a lat/long graticule. Coarse (corroborating), but PD → first displayable map asset. See data/reference-maps/survey-of-palestine-sketch-1932/."
+  },
+  {
     "id": "thehejazrailway",
     "title": "The Hejaz Railway (station coordinates)",
     "publisher": "thehejazrailway.com",
@@ -320,6 +488,48 @@
     "year": null,
     "isbn": null,
     "note": null
+  },
+  {
+    "id": "travelpalestine_bala",
+    "title": "The Ottoman Tunnel (Bal'a Breakthrough)",
+    "publisher": "Travel Palestine (Ministry of Tourism & Antiquities)",
+    "type": "article",
+    "url": "https://www.travelpalestine.ps/en/Site/166/The-Ottoman-Tunnel-(Bal%E2%80%99a-Breakthrough)",
+    "accessed": "2026-07",
+    "license": "website",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Describes the Ottoman railway tunnel E of Bal'a through Mount Rasheen."
+  },
+  {
+    "id": "walling_beirut_2020",
+    "title": "Beirut Train — a photo-essay on the Beirut–Damascus railway",
+    "publisher": "Self-published (cantab.net/brian.walling)",
+    "type": "specialist",
+    "url": "https://www.cantab.net/users/brian.walling/MiddleEast/2020%2008%2016%20Beirut%20train%20text%20v2.0.pdf",
+    "accessed": "2026-07-15",
+    "license": "in copyright — link only, do not re-host",
+    "reliability": "secondary",
+    "author": "Brian Walling",
+    "year": 2020,
+    "isbn": null,
+    "note": "32-page illustrated photo-essay on the Beirut–Damascus line: route & terrain (147 km over the Lebanon/Anti-Lebanon ranges, Dar al-Baidar pass, the Barada gorge), history, Orient/Taurus Express connections, decline and reinstatement prospects. Blends first-hand \"golden age\" (1960s–70s) recollections with archival photographs."
+  },
+  {
+    "id": "wikidata",
+    "title": "Wikidata",
+    "publisher": "Wikimedia Foundation",
+    "type": "geodata",
+    "url": "https://www.wikidata.org/",
+    "accessed": "2026-07",
+    "license": "CC0",
+    "reliability": "crowdsourced",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Coordinate provenance for Wikidata-sourced station locations; each carries its own QID."
   },
   {
     "id": "wikipedia_geo",
@@ -502,6 +712,20 @@
     "year": null,
     "isbn": null,
     "note": null
+  },
+  {
+    "id": "wp_riyaq",
+    "title": "Riyak railway station",
+    "publisher": "Wikipedia",
+    "type": "encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Riyak_railway_station",
+    "accessed": "2026-07-15",
+    "license": "CC BY-SA",
+    "reliability": "secondary",
+    "author": null,
+    "year": 2024,
+    "isbn": null,
+    "note": "Corroborates the station/works layout (35,400 m², 48 buildings, Straight/Curved Rail) and gives dates: opened 1895, closed c.1975; junction toward Homs/Damascus and onward to Mosul."
   },
   {
     "id": "wp_syria",

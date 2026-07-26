@@ -16,6 +16,7 @@
     "verification_status": "unverified",
     "source_ids": [
       "levantrain_system",
+      "pr_diagram_1925",
       "shemer_jezreel",
       "wp_hejaz",
       "wp_jezreel"
@@ -238,12 +239,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            35.077221,
-            32.74139
+            35.097598,
+            32.72505
           ],
           [
-            35.11,
-            32.72
+            35.09803,
+            32.724828
           ]
         ]
       },
@@ -254,10 +255,13 @@
         "to": "Elro'i",
         "from_id": "yagur",
         "to_id": "elro-i",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
         "corridor_confidence": "low",
-        "connection_status": "uncertain"
+        "connection_status": "uncertain",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -297,12 +301,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            35.095,
-            32.722
+            35.097598,
+            32.72505
           ],
           [
-            35.11653,
-            32.701462
+            35.09803,
+            32.724828
           ]
         ]
       },
@@ -313,10 +317,13 @@
         "to": "Kfar Yehoshua",
         "from_id": "kiryat-haroshet",
         "to_id": "kfar-yehoshua",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -488,12 +495,88 @@
         "type": "LineString",
         "coordinates": [
           [
-            35.295226,
-            32.621563
+            35.29118,
+            32.61014
           ],
           [
-            35.393578,
-            32.559218
+            35.298393,
+            32.60689
+          ],
+          [
+            35.30253,
+            32.608428
+          ],
+          [
+            35.302333,
+            32.607301
+          ],
+          [
+            35.302402,
+            32.605707
+          ],
+          [
+            35.302871,
+            32.604164
+          ],
+          [
+            35.303733,
+            32.602679
+          ],
+          [
+            35.30531,
+            32.600982
+          ],
+          [
+            35.306993,
+            32.599375
+          ],
+          [
+            35.311291,
+            32.596216
+          ],
+          [
+            35.312526,
+            32.595098
+          ],
+          [
+            35.313656,
+            32.593852
+          ],
+          [
+            35.329516,
+            32.572388
+          ],
+          [
+            35.331012,
+            32.57069
+          ],
+          [
+            35.332071,
+            32.569819
+          ],
+          [
+            35.333773,
+            32.568789
+          ],
+          [
+            35.346269,
+            32.562953
+          ],
+          [
+            35.351381,
+            32.560444
+          ],
+          [
+            35.353276,
+            32.559787
+          ],
+          [
+            35.360131,
+            32.557993
+          ],
+          [
+            35.365927,
+            32.556284
           ]
         ]
       },
@@ -504,10 +587,13 @@
         "to": "Ein Harod",
         "from_id": "afula",
         "to_id": "ein-harod",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {

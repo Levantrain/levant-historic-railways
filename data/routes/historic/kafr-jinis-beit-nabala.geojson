@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "kafr-jinis-beit-nabala",
+    "name": "Kafr Jinis–Beit Nabala Branch",
+    "countries": "Israel/Palestine",
+    "gauge_mm": 1435,
+    "era": "historic",
+    "color": "#84cc16",
+    "corridor_confidence": "medium",
+    "description": "Short spur from Kafr Jinis to Beit Nabala.",
+    "history": "Chainage from Kafr Jinis (0) per the 1925 diagram. Geometry schematic.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "pr_diagram_1925"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.907331,
+            31.995221
+          ],
+          [
+            34.956667,
+            31.985556
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "kafr-jinis-beit-nabala",
+        "sequence": 1,
+        "from": "Kafr Jinis",
+        "to": "Beit Nabala",
+        "from_id": "kafr-jinis",
+        "to_id": "beit-nabala",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    }
+  ]
+}

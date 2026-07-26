@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "route": {
     "route_id": "sinai-military-railway",
-    "name": "Sinai Military Railway (Kantara-Haifa)",
+    "name": "Sinai Military Railway (Kantara–Lydda)",
     "name_arabic": "سكة حديد سيناء العسكرية",
     "countries": "Egypt, Palestine, Israel",
     "gauge_mm": 1435,
@@ -12,16 +12,45 @@
     "corridor_confidence": "medium",
     "description": "WWI British line; the Egypt-Palestine rail link",
     "notes": "Became part of Palestine Railways in October 1920; standard gauge throughout.  [route] Built west-to-east then north as the army advanced. Sinai desert railheads (Gilban, Bir el Abd, El Mazar) have approximate/uncertain coordinates. The Beersheba branch (from Deir Sneid, 1918) is held as an off-line extra_station.  [egypt_levant_link] This is THE physical Egypt-Levant rail connection: from El Kantara EAST it crossed the Suez Canal (swing bridge ~3 miles N of Kantara, July 1918) to join the Egyptian network on the west bank — i.e. it connects to the Cairo-Port Said route at Kantara. Note El Kantara (East) here is distinct from 'Al Qantarah West' on the Cairo-Port Said line.",
-    "history": "A standard-gauge (1,435 mm) military railway built by the British Egyptian Expeditionary Force during WWI as it advanced across Sinai: construction began March 1916, reaching Romani by May 1916, El Arish by January 1917 and Rafah (the Palestine border) by March 1917; it then pushed north with the army, converting captured Ottoman lines to standard gauge and reaching Haifa by the end of 1918. A Deir Sneid-Beersheba branch was added by May 1918. It borrowed ~70 locomotives from Egyptian State Railways.",
+    "history": "A standard-gauge (1,435 mm) military railway built by the British Egyptian Expeditionary Force during WWI as it advanced across Sinai: construction began March 1916, reaching Romani by May 1916, El Arish by January 1917 and Rafah (the Palestine border) by March 1917; it then pushed north with the army, converting captured Ottoman lines to standard gauge and reaching Haifa by the end of 1918. A Deir Sneid-Beersheba branch was added by May 1918. It borrowed ~70 locomotives from Egyptian State Railways. Rescoped to the Kantara–Lydda trunk per the 1925 PR Diagram of Routes; the Lydda–Haifa continuation (via Tulkarm) is the separate Haifa–Lydda Railway. Chainage = 1925 mileposts from Old Kantara East. Segment geometry reset to schematic on re-sequencing.",
     "verification_status": "unverified",
     "source_ids": [
       "cotterell_1984",
       "levantrain_compilation",
       "levantrain_system",
+      "pr_diagram_1925",
       "wp_palestine_rw"
     ]
   },
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.397126,
+            30.866685
+          ],
+          [
+            32.33444,
+            30.86972
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 1,
+        "from": "New Kantara East",
+        "to": "El Kantara (East)",
+        "from_id": "new-kantara-east",
+        "to_id": "el-kantara-east",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -39,15 +68,15 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 1,
+        "sequence": 2,
         "from": "El Kantara (East)",
         "to": "Gilban",
         "from_id": "el-kantara-east",
         "to_id": "gilban",
         "geometry_status": "schematic",
         "geometry_source": "schematic",
-        "corridor_confidence": "low",
-        "connection_status": "uncertain"
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
       }
     },
     {
@@ -67,15 +96,15 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 2,
+        "sequence": 3,
         "from": "Gilban",
         "to": "Romani",
         "from_id": "gilban",
         "to_id": "romani",
         "geometry_status": "schematic",
         "geometry_source": "schematic",
-        "corridor_confidence": "low",
-        "connection_status": "uncertain"
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
       }
     },
     {
@@ -88,22 +117,113 @@
             31.05
           ],
           [
-            33.011111,
-            31.018056
+            32.813,
+            31.014
           ]
         ]
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 3,
+        "sequence": 4,
         "from": "Romani",
-        "to": "Bir el Abd",
+        "to": "Khirba",
         "from_id": "romani",
-        "to_id": "bir-el-abd",
+        "to_id": "khirba",
         "geometry_status": "schematic",
         "geometry_source": "schematic",
-        "corridor_confidence": "low",
-        "connection_status": "uncertain"
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.824988,
+            30.995478
+          ],
+          [
+            32.829057,
+            30.996918
+          ],
+          [
+            32.834718,
+            30.998456
+          ],
+          [
+            32.856213,
+            31.003681
+          ],
+          [
+            32.858432,
+            31.004129
+          ],
+          [
+            32.861048,
+            31.004444
+          ],
+          [
+            32.864675,
+            31.004437
+          ],
+          [
+            32.868474,
+            31.003901
+          ],
+          [
+            32.87894,
+            31.001423
+          ],
+          [
+            32.8836,
+            31.000561
+          ],
+          [
+            32.912812,
+            30.997671
+          ],
+          [
+            32.917315,
+            30.997483
+          ],
+          [
+            32.986195,
+            30.998226
+          ],
+          [
+            32.987508,
+            30.998311
+          ],
+          [
+            32.988719,
+            30.998414
+          ],
+          [
+            32.991036,
+            30.998817
+          ],
+          [
+            33.01587,
+            31.005601
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 5,
+        "from": "Khirba",
+        "to": "Bir el Abd",
+        "from_id": "khirba",
+        "to_id": "bir-el-abd",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -135,6 +255,33 @@
             33.111851,
             31.027376
           ],
+          [
+            33.135602,
+            31.028638
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 6,
+        "from": "Bir el Abd",
+        "to": "Mosefeig",
+        "from_id": "bir-el-abd",
+        "to_id": "mosefeig",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [
             33.135602,
             31.028638
@@ -287,15 +434,15 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 4,
-        "from": "Bir el Abd",
+        "sequence": 7,
+        "from": "Mosefeig",
         "to": "El Mazar",
-        "from_id": "bir-el-abd",
+        "from_id": "mosefeig",
         "to_id": "el-mazar",
         "geometry_status": "surveyed",
         "geometry_source": "osm",
-        "corridor_confidence": "low",
-        "connection_status": "uncertain",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
         "source_ids": [
           "osm"
         ]
@@ -307,8 +454,135 @@
         "type": "LineString",
         "coordinates": [
           [
-            33.3883,
-            31.0339
+            33.38736,
+            31.03089
+          ],
+          [
+            33.392607,
+            31.030676
+          ],
+          [
+            33.393715,
+            31.030786
+          ],
+          [
+            33.400908,
+            31.033695
+          ],
+          [
+            33.430035,
+            31.043031
+          ],
+          [
+            33.435401,
+            31.044882
+          ],
+          [
+            33.444079,
+            31.047574
+          ],
+          [
+            33.463717,
+            31.053981
+          ],
+          [
+            33.464411,
+            31.054133
+          ],
+          [
+            33.468361,
+            31.054523
+          ],
+          [
+            33.475958,
+            31.054794
+          ],
+          [
+            33.4842,
+            31.055334
+          ],
+          [
+            33.488121,
+            31.05529
+          ],
+          [
+            33.488989,
+            31.055405
+          ],
+          [
+            33.492731,
+            31.055561
+          ],
+          [
+            33.499828,
+            31.055602
+          ],
+          [
+            33.505844,
+            31.055932
+          ],
+          [
+            33.510913,
+            31.056597
+          ],
+          [
+            33.515152,
+            31.057308
+          ],
+          [
+            33.522229,
+            31.05831
+          ],
+          [
+            33.523665,
+            31.05845
+          ],
+          [
+            33.531889,
+            31.05973
+          ],
+          [
+            33.536974,
+            31.060396
+          ],
+          [
+            33.548977,
+            31.06111
+          ],
+          [
+            33.554863,
+            31.061609
+          ],
+          [
+            33.573258,
+            31.065181
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 8,
+        "from": "El Mazar",
+        "to": "Maadan",
+        "from_id": "el-mazar",
+        "to_id": "maadan",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.568,
+            31.089
           ],
           [
             33.803376,
@@ -318,15 +592,15 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 5,
-        "from": "El Mazar",
+        "sequence": 9,
+        "from": "Maadan",
         "to": "El Arish",
-        "from_id": "el-mazar",
+        "from_id": "maadan",
         "to_id": "el-arish",
         "geometry_status": "schematic",
         "geometry_source": "schematic",
-        "corridor_confidence": "low",
-        "connection_status": "uncertain"
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
       }
     },
     {
@@ -339,6 +613,34 @@
             31.132072
           ],
           [
+            34.043,
+            31.211
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 10,
+        "from": "El Arish",
+        "to": "Gaber Amir",
+        "from_id": "el-arish",
+        "to_id": "gaber-amir",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "corridor_confidence": "medium",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.043,
+            31.211
+          ],
+          [
             34.246,
             31.287
           ]
@@ -346,15 +648,15 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 6,
-        "from": "El Arish",
+        "sequence": 11,
+        "from": "Gaber Amir",
         "to": "Rafah",
-        "from_id": "el-arish",
+        "from_id": "gaber-amir",
         "to_id": "rafah",
         "geometry_status": "schematic",
         "geometry_source": "schematic",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "documented"
       }
     },
     {
@@ -374,7 +676,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 7,
+        "sequence": 12,
         "from": "Rafah",
         "to": "Khan Yunis",
         "from_id": "rafah",
@@ -382,7 +684,7 @@
         "geometry_status": "schematic",
         "geometry_source": "schematic",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "documented"
       }
     },
     {
@@ -402,7 +704,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 8,
+        "sequence": 13,
         "from": "Khan Yunis",
         "to": "Deir el Balah",
         "from_id": "khan-yunis",
@@ -410,7 +712,7 @@
         "geometry_status": "schematic",
         "geometry_source": "schematic",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "documented"
       }
     },
     {
@@ -430,7 +732,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 9,
+        "sequence": 14,
         "from": "Deir el Balah",
         "to": "Gaza",
         "from_id": "deir-el-balah",
@@ -438,7 +740,7 @@
         "geometry_status": "schematic",
         "geometry_source": "schematic",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "documented"
       }
     },
     {
@@ -458,7 +760,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 10,
+        "sequence": 15,
         "from": "Gaza",
         "to": "Deir Sneid",
         "from_id": "gaza",
@@ -466,7 +768,7 @@
         "geometry_status": "schematic",
         "geometry_source": "schematic",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "documented"
       }
     },
     {
@@ -479,22 +781,22 @@
             31.56667
           ],
           [
-            34.87556,
-            31.94583
+            34.565044,
+            31.665319
           ]
         ]
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 11,
+        "sequence": 16,
         "from": "Deir Sneid",
-        "to": "Lydda (Lod)",
+        "to": "Mejdel",
         "from_id": "deir-sneid",
-        "to_id": "lydda-lod",
+        "to_id": "mejdel",
         "geometry_status": "schematic",
         "geometry_source": "schematic",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "documented"
       }
     },
     {
@@ -503,26 +805,546 @@
         "type": "LineString",
         "coordinates": [
           [
-            34.87556,
-            31.94583
+            34.565044,
+            31.665319
           ],
           [
-            35.00472,
-            32.81194
+            34.65881,
+            31.755774
           ]
         ]
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 12,
-        "from": "Lydda (Lod)",
-        "to": "Haifa",
-        "from_id": "lydda-lod",
-        "to_id": "haifa",
+        "sequence": 17,
+        "from": "Mejdel",
+        "to": "Ashdod",
+        "from_id": "mejdel",
+        "to_id": "ashdod",
         "geometry_status": "schematic",
         "geometry_source": "schematic",
-        "corridor_confidence": "high",
+        "corridor_confidence": "medium",
         "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.654904,
+            31.757744
+          ],
+          [
+            34.655588,
+            31.758703
+          ],
+          [
+            34.656523,
+            31.759735
+          ],
+          [
+            34.661511,
+            31.764045
+          ],
+          [
+            34.665163,
+            31.767995
+          ],
+          [
+            34.665567,
+            31.769298
+          ],
+          [
+            34.666752,
+            31.778332
+          ],
+          [
+            34.667017,
+            31.779286
+          ],
+          [
+            34.667647,
+            31.780443
+          ],
+          [
+            34.66864,
+            31.781492
+          ],
+          [
+            34.673436,
+            31.784947
+          ],
+          [
+            34.674916,
+            31.786191
+          ],
+          [
+            34.676115,
+            31.787411
+          ],
+          [
+            34.681134,
+            31.793002
+          ],
+          [
+            34.684708,
+            31.795984
+          ],
+          [
+            34.686212,
+            31.797448
+          ],
+          [
+            34.687528,
+            31.799209
+          ],
+          [
+            34.697418,
+            31.814948
+          ],
+          [
+            34.699007,
+            31.816884
+          ],
+          [
+            34.708352,
+            31.827572
+          ],
+          [
+            34.713034,
+            31.833231
+          ],
+          [
+            34.715173,
+            31.836374
+          ],
+          [
+            34.716027,
+            31.837015
+          ],
+          [
+            34.714798,
+            31.840097
+          ],
+          [
+            34.717983,
+            31.841917
+          ],
+          [
+            34.71813,
+            31.843019
+          ],
+          [
+            34.71794,
+            31.84714
+          ],
+          [
+            34.715955,
+            31.861853
+          ],
+          [
+            34.715895,
+            31.86457
+          ],
+          [
+            34.716142,
+            31.866437
+          ],
+          [
+            34.716486,
+            31.867865
+          ],
+          [
+            34.716897,
+            31.869086
+          ],
+          [
+            34.717444,
+            31.87037
+          ],
+          [
+            34.718094,
+            31.871586
+          ],
+          [
+            34.726154,
+            31.883166
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 18,
+        "from": "Ashdod",
+        "to": "Yebnah",
+        "from_id": "ashdod",
+        "to_id": "yebnah",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.726154,
+            31.883166
+          ],
+          [
+            34.718094,
+            31.871586
+          ],
+          [
+            34.717444,
+            31.87037
+          ],
+          [
+            34.716897,
+            31.869086
+          ],
+          [
+            34.716346,
+            31.867344
+          ],
+          [
+            34.715895,
+            31.86457
+          ],
+          [
+            34.715887,
+            31.862674
+          ],
+          [
+            34.71794,
+            31.84714
+          ],
+          [
+            34.71813,
+            31.843019
+          ],
+          [
+            34.715173,
+            31.841534
+          ],
+          [
+            34.716132,
+            31.841746
+          ],
+          [
+            34.717249,
+            31.842214
+          ],
+          [
+            34.719175,
+            31.843326
+          ],
+          [
+            34.720948,
+            31.844795
+          ],
+          [
+            34.722178,
+            31.845574
+          ],
+          [
+            34.734859,
+            31.85463
+          ],
+          [
+            34.746038,
+            31.862939
+          ],
+          [
+            34.749355,
+            31.864853
+          ],
+          [
+            34.774861,
+            31.886888
+          ],
+          [
+            34.777285,
+            31.888319
+          ],
+          [
+            34.787208,
+            31.891849
+          ],
+          [
+            34.788845,
+            31.892683
+          ],
+          [
+            34.790533,
+            31.893808
+          ],
+          [
+            34.791834,
+            31.894894
+          ],
+          [
+            34.793144,
+            31.896297
+          ],
+          [
+            34.797239,
+            31.902174
+          ],
+          [
+            34.799177,
+            31.904688
+          ],
+          [
+            34.800916,
+            31.906005
+          ],
+          [
+            34.805502,
+            31.908277
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 19,
+        "from": "Yebnah",
+        "to": "Rehoboth",
+        "from_id": "yebnah",
+        "to_id": "rehoboth",
+        "geometry_status": "partial",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.805502,
+            31.908277
+          ],
+          [
+            34.80868,
+            31.909935
+          ],
+          [
+            34.810952,
+            31.912649
+          ],
+          [
+            34.811279,
+            31.916512
+          ],
+          [
+            34.811499,
+            31.917439
+          ],
+          [
+            34.812098,
+            31.918607
+          ],
+          [
+            34.813975,
+            31.920702
+          ],
+          [
+            34.814561,
+            31.921717
+          ],
+          [
+            34.814936,
+            31.923142
+          ],
+          [
+            34.815134,
+            31.927184
+          ],
+          [
+            34.815275,
+            31.928025
+          ],
+          [
+            34.815938,
+            31.929587
+          ],
+          [
+            34.816575,
+            31.930443
+          ],
+          [
+            34.817299,
+            31.931128
+          ],
+          [
+            34.818366,
+            31.931848
+          ],
+          [
+            34.819917,
+            31.932475
+          ],
+          [
+            34.82093,
+            31.932694
+          ],
+          [
+            34.823071,
+            31.932873
+          ],
+          [
+            34.819298,
+            31.931563
+          ],
+          [
+            34.821301,
+            31.930478
+          ],
+          [
+            34.828224,
+            31.928047
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 20,
+        "from": "Rehoboth",
+        "to": "Bir Yacob",
+        "from_id": "rehoboth",
+        "to_id": "bir-yacob",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.828224,
+            31.928047
+          ],
+          [
+            34.821301,
+            31.930478
+          ],
+          [
+            34.819298,
+            31.931563
+          ],
+          [
+            34.823071,
+            31.932873
+          ],
+          [
+            34.825646,
+            31.933021
+          ],
+          [
+            34.83206,
+            31.932247
+          ],
+          [
+            34.833407,
+            31.932201
+          ],
+          [
+            34.834611,
+            31.932388
+          ],
+          [
+            34.835866,
+            31.932838
+          ],
+          [
+            34.837234,
+            31.933685
+          ],
+          [
+            34.837835,
+            31.934231
+          ],
+          [
+            34.841718,
+            31.938716
+          ],
+          [
+            34.842958,
+            31.939694
+          ],
+          [
+            34.844567,
+            31.940446
+          ],
+          [
+            34.845951,
+            31.940801
+          ],
+          [
+            34.847358,
+            31.940906
+          ],
+          [
+            34.853981,
+            31.940031
+          ],
+          [
+            34.855162,
+            31.940013
+          ],
+          [
+            34.856588,
+            31.940177
+          ],
+          [
+            34.868316,
+            31.94237
+          ],
+          [
+            34.872218,
+            31.943695
+          ],
+          [
+            34.875598,
+            31.945757
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 21,
+        "from": "Bir Yacob",
+        "to": "Lydda (Lod)",
+        "from_id": "bir-yacob",
+        "to_id": "lydda-lod",
+        "geometry_status": "partial",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
       }
     }
   ]

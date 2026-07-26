@@ -11,13 +11,16 @@
     "color": "#b45309",
     "corridor_confidence": "medium",
     "description": "Mountain railway with rack section",
-    "notes": "The rack section over Mount Lebanon (Dar al-Baidar pass) is the defining feature.  [gauge_mm] DISCREPANCY: sources give 1,050 mm narrow gauge with an Abt rack section (opened 3 Aug 1895). The project system lists 1,435 mm — likely an error.  [countries] COUNTRY CORRECTIONS vs the project list: Yahfoufa is in LEBANON (as listed), but every station beyond it — Serghaya, Ain Hur, Zabadani, Madaya, El-Tekkieh, Souk Wadi Barada, Deir Qanoun, Ain el Fijeh, Achrafieh, Jdeideh, Al-Hama, Dummar and Damascus — is in SYRIA. The project list mislabels these Barada-gorge stations as Lebanon. 'Souk/Suk Wadi Barada' was also DUPLICATED in the list (once Lebanon, once Syria) — merged into one Syrian station.  [route] Ordered station chain + altitudes from the Beirut-Damascus Railway project site.",
+    "notes": "The rack section over Mount Lebanon (Dar al-Baidar pass) is the defining feature.  [gauge_mm] DISCREPANCY: sources give 1,050 mm narrow gauge with an Abt rack section (opened 3 Aug 1895). The project system lists 1,435 mm — likely an error.  [countries] COUNTRY CORRECTIONS vs the project list: Yahfoufa is in LEBANON (as listed), but every station beyond it — Serghaya, Ain Hur, Zabadani, Madaya, El-Tekkieh, Souk Wadi Barada, Deir Qanoun, Ain el Fijeh, Achrafieh, Jdeideh, Al-Hama, Dummar and Damascus — is in SYRIA. The project list mislabels these Barada-gorge stations as Lebanon. 'Souk/Suk Wadi Barada' was also DUPLICATED in the list (once Lebanon, once Syria) — merged into one Syrian station.  [route] Ordered station chain + altitudes from the Beirut-Damascus Railway project site. Al-Dimas (Barada) added map-derived/unverified per GSGS 2061/9 (1916); approximate sequence position.",
     "history": "Opened to Beirut on 3 August 1895 at 1,050 mm gauge. From the coast the line climbed Mount Lebanon on Abt RACK sections to the summit at Dahr al-Baidar (~1,490 m, ~37 km from Beirut), descended to the Beqaa plain at Chtaura, and reached the junction at Rayak. From Rayak the Damascus branch climbed again to a summit around Serghaya/Ain Hur (~1,380 m) before descending the Barada gorge through Zabadani and Ain el Fijeh to Damascus (~700 m). The full trip initially took about 9 hours and terminated at Baramke, Qanawat and Midan stations in Damascus.",
     "verification_status": "unverified",
     "source_ids": [
       "bdr_project",
+      "elhage_rizk_marmikhael_2023",
+      "gsgs_2061_syria_1916",
       "gwr_lebanon",
       "levantrain_system",
+      "walling_beirut_2020",
       "wp_lebanon"
     ]
   },
@@ -2118,6 +2121,86 @@
           [
             35.984612,
             33.854379
+          ],
+          [
+            35.988878,
+            33.858375
+          ],
+          [
+            35.989368,
+            33.858719
+          ],
+          [
+            36.000383,
+            33.864257
+          ],
+          [
+            36.002128,
+            33.86505
+          ],
+          [
+            36.003029,
+            33.86528
+          ],
+          [
+            36.004015,
+            33.865203
+          ],
+          [
+            36.004733,
+            33.864906
+          ],
+          [
+            36.005526,
+            33.864256
+          ],
+          [
+            36.005922,
+            33.863558
+          ],
+          [
+            36.005594,
+            33.853945
+          ],
+          [
+            36.005645,
+            33.853178
+          ],
+          [
+            36.005843,
+            33.852571
+          ],
+          [
+            36.006135,
+            33.85209
+          ],
+          [
+            36.006618,
+            33.851584
+          ],
+          [
+            36.007191,
+            33.85124
+          ],
+          [
+            36.007812,
+            33.850984
+          ],
+          [
+            36.008373,
+            33.850893
+          ],
+          [
+            36.010774,
+            33.851038
+          ],
+          [
+            36.010648,
+            33.851178
+          ],
+          [
+            36.011924,
+            33.851509
           ]
         ]
       },
@@ -2143,12 +2226,368 @@
         "type": "LineString",
         "coordinates": [
           [
-            35.988,
-            33.851
+            36.011924,
+            33.851509
           ],
           [
-            36.01,
-            33.78
+            36.014129,
+            33.851789
+          ],
+          [
+            36.015159,
+            33.851638
+          ],
+          [
+            36.014976,
+            33.851338
+          ],
+          [
+            36.016003,
+            33.85166
+          ],
+          [
+            36.024046,
+            33.852716
+          ],
+          [
+            36.037592,
+            33.854304
+          ],
+          [
+            36.039832,
+            33.855067
+          ],
+          [
+            36.040439,
+            33.855391
+          ],
+          [
+            36.041831,
+            33.856493
+          ],
+          [
+            36.043273,
+            33.857273
+          ],
+          [
+            36.044098,
+            33.857345
+          ],
+          [
+            36.04486,
+            33.857198
+          ],
+          [
+            36.045257,
+            33.857233
+          ],
+          [
+            36.046117,
+            33.857613
+          ],
+          [
+            36.049916,
+            33.858108
+          ],
+          [
+            36.052991,
+            33.857432
+          ],
+          [
+            36.053576,
+            33.85743
+          ],
+          [
+            36.057521,
+            33.85839
+          ],
+          [
+            36.059239,
+            33.85807
+          ],
+          [
+            36.059929,
+            33.857672
+          ],
+          [
+            36.060351,
+            33.857569
+          ],
+          [
+            36.06079,
+            33.857601
+          ],
+          [
+            36.062027,
+            33.858114
+          ],
+          [
+            36.064559,
+            33.857361
+          ],
+          [
+            36.065762,
+            33.857131
+          ],
+          [
+            36.068382,
+            33.856346
+          ],
+          [
+            36.069464,
+            33.855894
+          ],
+          [
+            36.069976,
+            33.855813
+          ],
+          [
+            36.070542,
+            33.855846
+          ],
+          [
+            36.073502,
+            33.856493
+          ],
+          [
+            36.074912,
+            33.857083
+          ],
+          [
+            36.076339,
+            33.857458
+          ],
+          [
+            36.076747,
+            33.857475
+          ],
+          [
+            36.077607,
+            33.85721
+          ],
+          [
+            36.078088,
+            33.856918
+          ],
+          [
+            36.078615,
+            33.856288
+          ],
+          [
+            36.078903,
+            33.855306
+          ],
+          [
+            36.079402,
+            33.854896
+          ],
+          [
+            36.081695,
+            33.854453
+          ],
+          [
+            36.083267,
+            33.854363
+          ],
+          [
+            36.086152,
+            33.854415
+          ],
+          [
+            36.087673,
+            33.854233
+          ],
+          [
+            36.088937,
+            33.854349
+          ],
+          [
+            36.089528,
+            33.854584
+          ],
+          [
+            36.090242,
+            33.855043
+          ],
+          [
+            36.091772,
+            33.856477
+          ],
+          [
+            36.092081,
+            33.856628
+          ],
+          [
+            36.092614,
+            33.856717
+          ],
+          [
+            36.093246,
+            33.856675
+          ],
+          [
+            36.094659,
+            33.856337
+          ],
+          [
+            36.096491,
+            33.856431
+          ],
+          [
+            36.09762,
+            33.856742
+          ],
+          [
+            36.098133,
+            33.856777
+          ],
+          [
+            36.098694,
+            33.856631
+          ],
+          [
+            36.099484,
+            33.856228
+          ],
+          [
+            36.100272,
+            33.856063
+          ],
+          [
+            36.101887,
+            33.856217
+          ],
+          [
+            36.102196,
+            33.856361
+          ],
+          [
+            36.103047,
+            33.857034
+          ],
+          [
+            36.10369,
+            33.857134
+          ],
+          [
+            36.105355,
+            33.856492
+          ],
+          [
+            36.106583,
+            33.855743
+          ],
+          [
+            36.107279,
+            33.85567
+          ],
+          [
+            36.108611,
+            33.856077
+          ],
+          [
+            36.109226,
+            33.856508
+          ],
+          [
+            36.10963,
+            33.857533
+          ],
+          [
+            36.109635,
+            33.859297
+          ],
+          [
+            36.109853,
+            33.85962
+          ],
+          [
+            36.110679,
+            33.860175
+          ],
+          [
+            36.110915,
+            33.860451
+          ],
+          [
+            36.110985,
+            33.860834
+          ],
+          [
+            36.110942,
+            33.861787
+          ],
+          [
+            36.111264,
+            33.86242
+          ],
+          [
+            36.112105,
+            33.862859
+          ],
+          [
+            36.113826,
+            33.863046
+          ],
+          [
+            36.115748,
+            33.863952
+          ],
+          [
+            36.116255,
+            33.864037
+          ],
+          [
+            36.118342,
+            33.86391
+          ],
+          [
+            36.118905,
+            33.863765
+          ],
+          [
+            36.121566,
+            33.861952
+          ],
+          [
+            36.121813,
+            33.861669
+          ],
+          [
+            36.122012,
+            33.861222
+          ],
+          [
+            36.121912,
+            33.85949
+          ],
+          [
+            36.122207,
+            33.859012
+          ],
+          [
+            36.122532,
+            33.858798
+          ],
+          [
+            36.123411,
+            33.858812
+          ],
+          [
+            36.126243,
+            33.859128
+          ],
+          [
+            36.127702,
+            33.858894
+          ],
+          [
+            36.129315,
+            33.859195
+          ],
+          [
+            36.13244,
+            33.858693
           ]
         ]
       },
@@ -2159,10 +2598,13 @@
         "to": "Yahfoufa",
         "from_id": "rayak",
         "to_id": "yahfoufa",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -2171,12 +2613,180 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.01,
-            33.78
+            36.13244,
+            33.858693
           ],
           [
-            36.05,
-            33.74
+            36.132838,
+            33.858811
+          ],
+          [
+            36.133824,
+            33.859354
+          ],
+          [
+            36.134258,
+            33.859415
+          ],
+          [
+            36.134842,
+            33.859344
+          ],
+          [
+            36.135362,
+            33.85904
+          ],
+          [
+            36.136782,
+            33.857832
+          ],
+          [
+            36.136971,
+            33.857519
+          ],
+          [
+            36.137471,
+            33.855962
+          ],
+          [
+            36.137853,
+            33.8556
+          ],
+          [
+            36.138429,
+            33.855454
+          ],
+          [
+            36.139449,
+            33.855533
+          ],
+          [
+            36.140305,
+            33.855486
+          ],
+          [
+            36.141521,
+            33.855276
+          ],
+          [
+            36.142059,
+            33.855044
+          ],
+          [
+            36.142522,
+            33.85447
+          ],
+          [
+            36.142613,
+            33.854033
+          ],
+          [
+            36.14254,
+            33.853712
+          ],
+          [
+            36.14197,
+            33.853035
+          ],
+          [
+            36.141941,
+            33.852621
+          ],
+          [
+            36.142128,
+            33.852243
+          ],
+          [
+            36.142758,
+            33.851853
+          ],
+          [
+            36.143334,
+            33.851654
+          ],
+          [
+            36.143777,
+            33.851661
+          ],
+          [
+            36.145009,
+            33.852238
+          ],
+          [
+            36.145434,
+            33.85227
+          ],
+          [
+            36.145957,
+            33.852113
+          ],
+          [
+            36.146364,
+            33.8518
+          ],
+          [
+            36.147615,
+            33.851359
+          ],
+          [
+            36.147967,
+            33.851356
+          ],
+          [
+            36.149302,
+            33.851708
+          ],
+          [
+            36.150982,
+            33.851089
+          ],
+          [
+            36.152129,
+            33.85105
+          ],
+          [
+            36.152475,
+            33.850892
+          ],
+          [
+            36.153009,
+            33.850256
+          ],
+          [
+            36.152964,
+            33.849314
+          ],
+          [
+            36.153044,
+            33.849042
+          ],
+          [
+            36.153727,
+            33.848361
+          ],
+          [
+            36.153895,
+            33.847985
+          ],
+          [
+            36.153795,
+            33.847479
+          ],
+          [
+            36.152706,
+            33.846392
+          ],
+          [
+            36.152555,
+            33.845981
+          ],
+          [
+            36.152679,
+            33.845416
+          ],
+          [
+            36.153539,
+            33.84482
           ]
         ]
       },
@@ -2187,10 +2797,13 @@
         "to": "Jisr el-Remman",
         "from_id": "yahfoufa",
         "to_id": "jisr-el-remman",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -2199,12 +2812,184 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.05,
-            33.74
+            36.153539,
+            33.84482
           ],
           [
-            36.159611,
-            33.811638
+            36.155397,
+            33.844181
+          ],
+          [
+            36.155893,
+            33.843773
+          ],
+          [
+            36.155998,
+            33.843421
+          ],
+          [
+            36.156003,
+            33.842511
+          ],
+          [
+            36.156397,
+            33.841715
+          ],
+          [
+            36.156411,
+            33.840584
+          ],
+          [
+            36.15669,
+            33.840244
+          ],
+          [
+            36.157277,
+            33.839931
+          ],
+          [
+            36.157584,
+            33.83964
+          ],
+          [
+            36.157727,
+            33.839396
+          ],
+          [
+            36.157899,
+            33.838581
+          ],
+          [
+            36.158139,
+            33.838264
+          ],
+          [
+            36.158671,
+            33.838
+          ],
+          [
+            36.160461,
+            33.837612
+          ],
+          [
+            36.161898,
+            33.836799
+          ],
+          [
+            36.163813,
+            33.836366
+          ],
+          [
+            36.165098,
+            33.835513
+          ],
+          [
+            36.1663,
+            33.835039
+          ],
+          [
+            36.166551,
+            33.834789
+          ],
+          [
+            36.166685,
+            33.834429
+          ],
+          [
+            36.166665,
+            33.834096
+          ],
+          [
+            36.16653,
+            33.8339
+          ],
+          [
+            36.165619,
+            33.833238
+          ],
+          [
+            36.165402,
+            33.832886
+          ],
+          [
+            36.165366,
+            33.832346
+          ],
+          [
+            36.165624,
+            33.831209
+          ],
+          [
+            36.165623,
+            33.830855
+          ],
+          [
+            36.165211,
+            33.829544
+          ],
+          [
+            36.165065,
+            33.828657
+          ],
+          [
+            36.164551,
+            33.82741
+          ],
+          [
+            36.164614,
+            33.826403
+          ],
+          [
+            36.164352,
+            33.825658
+          ],
+          [
+            36.16236,
+            33.823111
+          ],
+          [
+            36.16177,
+            33.821983
+          ],
+          [
+            36.161539,
+            33.821731
+          ],
+          [
+            36.15909,
+            33.820052
+          ],
+          [
+            36.157445,
+            33.819201
+          ],
+          [
+            36.157015,
+            33.818679
+          ],
+          [
+            36.156873,
+            33.818311
+          ],
+          [
+            36.156813,
+            33.817699
+          ],
+          [
+            36.157333,
+            33.816426
+          ],
+          [
+            36.157415,
+            33.815824
+          ],
+          [
+            36.155935,
+            33.812169
+          ],
+          [
+            36.15961,
+            33.81164
           ]
         ]
       },
@@ -2215,10 +3000,13 @@
         "to": "Serghaya",
         "from_id": "jisr-el-remman",
         "to_id": "serghaya",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "geometry_status": "partial",
+        "geometry_source": "osm",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -2664,12 +3452,136 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.102939,
-            33.69011
+            36.099648,
+            33.7033
           ],
           [
-            36.15,
-            33.66
+            36.096439,
+            33.702647
+          ],
+          [
+            36.094957,
+            33.702069
+          ],
+          [
+            36.093821,
+            33.701486
+          ],
+          [
+            36.088149,
+            33.697719
+          ],
+          [
+            36.087438,
+            33.696992
+          ],
+          [
+            36.086914,
+            33.696183
+          ],
+          [
+            36.085479,
+            33.693074
+          ],
+          [
+            36.078556,
+            33.677037
+          ],
+          [
+            36.077236,
+            33.67499
+          ],
+          [
+            36.076804,
+            33.674113
+          ],
+          [
+            36.075798,
+            33.671331
+          ],
+          [
+            36.0748,
+            33.667992
+          ],
+          [
+            36.074752,
+            33.667157
+          ],
+          [
+            36.075734,
+            33.662976
+          ],
+          [
+            36.075789,
+            33.662338
+          ],
+          [
+            36.075537,
+            33.657768
+          ],
+          [
+            36.075905,
+            33.654817
+          ],
+          [
+            36.075669,
+            33.652788
+          ],
+          [
+            36.075799,
+            33.651759
+          ],
+          [
+            36.07606,
+            33.650874
+          ],
+          [
+            36.07601,
+            33.650077
+          ],
+          [
+            36.075554,
+            33.64822
+          ],
+          [
+            36.07558,
+            33.646113
+          ],
+          [
+            36.076658,
+            33.643061
+          ],
+          [
+            36.076696,
+            33.640728
+          ],
+          [
+            36.076626,
+            33.64018
+          ],
+          [
+            36.075865,
+            33.638183
+          ],
+          [
+            36.075141,
+            33.635752
+          ],
+          [
+            36.074506,
+            33.635017
+          ],
+          [
+            36.073605,
+            33.632432
+          ],
+          [
+            36.0737,
+            33.631785
+          ],
+          [
+            36.074183,
+            33.631061
           ]
         ]
       },
@@ -2680,10 +3592,13 @@
         "to": "El-Tekkieh",
         "from_id": "madaya",
         "to_id": "el-tekkieh",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -2692,12 +3607,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.15,
-            33.66
+            36.074183,
+            33.631061
           ],
           [
-            36.108062,
-            33.625148
+            36.074312,
+            33.630652
+          ],
+          [
+            36.074156,
+            33.630126
+          ],
+          [
+            36.073408,
+            33.62875
+          ],
+          [
+            36.07315,
+            33.62812
+          ],
+          [
+            36.07313,
+            33.627681
+          ],
+          [
+            36.073183,
+            33.627234
+          ],
+          [
+            36.074107,
+            33.626393
           ]
         ]
       },
@@ -2705,13 +3644,201 @@
         "route_id": "beirut-damascus",
         "sequence": 22,
         "from": "El-Tekkieh",
-        "to": "Souk Wadi Barada",
+        "to": "Al-Dimas",
         "from_id": "el-tekkieh",
-        "to_id": "souk-wadi-barada",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "to_id": "dimas",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.074107,
+            33.626393
+          ],
+          [
+            36.075168,
+            33.625429
+          ],
+          [
+            36.07643,
+            33.624813
+          ],
+          [
+            36.078711,
+            33.624747
+          ],
+          [
+            36.07908,
+            33.624517
+          ],
+          [
+            36.079576,
+            33.6236
+          ],
+          [
+            36.080022,
+            33.623315
+          ],
+          [
+            36.080399,
+            33.62321
+          ],
+          [
+            36.081445,
+            33.623473
+          ],
+          [
+            36.082578,
+            33.624192
+          ],
+          [
+            36.083155,
+            33.624224
+          ],
+          [
+            36.08399,
+            33.623948
+          ],
+          [
+            36.085707,
+            33.62383
+          ],
+          [
+            36.086096,
+            33.623895
+          ],
+          [
+            36.087001,
+            33.624268
+          ],
+          [
+            36.087862,
+            33.624204
+          ],
+          [
+            36.088684,
+            33.623856
+          ],
+          [
+            36.089076,
+            33.622903
+          ],
+          [
+            36.089809,
+            33.622535
+          ],
+          [
+            36.090216,
+            33.622532
+          ],
+          [
+            36.091474,
+            33.623174
+          ],
+          [
+            36.093078,
+            33.623156
+          ],
+          [
+            36.094062,
+            33.62355
+          ],
+          [
+            36.095399,
+            33.623432
+          ],
+          [
+            36.096329,
+            33.623587
+          ],
+          [
+            36.097364,
+            33.623433
+          ],
+          [
+            36.097735,
+            33.623546
+          ],
+          [
+            36.098446,
+            33.623981
+          ],
+          [
+            36.098819,
+            33.624413
+          ],
+          [
+            36.098969,
+            33.624798
+          ],
+          [
+            36.098945,
+            33.626458
+          ],
+          [
+            36.099245,
+            33.626939
+          ],
+          [
+            36.099772,
+            33.62716
+          ],
+          [
+            36.100194,
+            33.627154
+          ],
+          [
+            36.100805,
+            33.626975
+          ],
+          [
+            36.102241,
+            33.626917
+          ],
+          [
+            36.103367,
+            33.626522
+          ],
+          [
+            36.104476,
+            33.626415
+          ],
+          [
+            36.105473,
+            33.625884
+          ],
+          [
+            36.107004,
+            33.625443
+          ],
+          [
+            36.107489,
+            33.625076
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "beirut-damascus",
+        "sequence": 23,
+        "from": "Al-Dimas",
+        "to": "Souk Wadi Barada",
+        "from_id": "dimas",
+        "to_id": "souk-wadi-barada",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -2883,7 +4010,7 @@
       },
       "properties": {
         "route_id": "beirut-damascus",
-        "sequence": 23,
+        "sequence": 24,
         "from": "Souk Wadi Barada",
         "to": "Deir Qanoun",
         "from_id": "souk-wadi-barada",
@@ -3126,7 +4253,7 @@
       },
       "properties": {
         "route_id": "beirut-damascus",
-        "sequence": 24,
+        "sequence": 25,
         "from": "Deir Qanoun",
         "to": "Ain el Fijeh",
         "from_id": "deir-qanoun",
@@ -3313,7 +4440,7 @@
       },
       "properties": {
         "route_id": "beirut-damascus",
-        "sequence": 25,
+        "sequence": 26,
         "from": "Ain el Fijeh",
         "to": "Achrafieh",
         "from_id": "ain-el-fijeh",
@@ -3400,7 +4527,7 @@
       },
       "properties": {
         "route_id": "beirut-damascus",
-        "sequence": 26,
+        "sequence": 27,
         "from": "Achrafieh",
         "to": "Jdeideh",
         "from_id": "achrafieh",
@@ -3575,7 +4702,7 @@
       },
       "properties": {
         "route_id": "beirut-damascus",
-        "sequence": 27,
+        "sequence": 28,
         "from": "Jdeideh",
         "to": "Al-Hama",
         "from_id": "jdeideh",
@@ -3750,7 +4877,7 @@
       },
       "properties": {
         "route_id": "beirut-damascus",
-        "sequence": 28,
+        "sequence": 29,
         "from": "Al-Hama",
         "to": "Dummar",
         "from_id": "al-hama",
@@ -3781,7 +4908,7 @@
       },
       "properties": {
         "route_id": "beirut-damascus",
-        "sequence": 29,
+        "sequence": 30,
         "from": "Dummar",
         "to": "Damascus (Hejaz)",
         "from_id": "dummar",

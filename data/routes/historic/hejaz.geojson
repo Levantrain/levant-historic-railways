@@ -11,14 +11,16 @@
     "color": "#b45309",
     "corridor_confidence": "medium",
     "description": "Narrow gauge; partially operational in Jordan",
-    "notes": "Jordan section documented + OSM-mapped (high); Saudi section known by station/km-post but sparse geometry (low). Total length ~1,300–1,320 km.  [established] 1908 = completion to Medina (first train Aug, ceremony 1 Sep 1908); ordered 1900.  [route] CORRECTIONS applied to the project list (km-posts from Damascus, per the Hejaz railway source): (1) Al-'Ula / Mada’in Salih order FIXED — Mada’in Salih (Hegra) is ~22 km NORTH of Al-'Ula, so southbound it comes FIRST (Mada’in Salih -> Al-'Ula), as you suspected. (2) Dahr al-Hajj, Akhdar (Qal’at al-Akhdar), Al-Khanzira and Al-Muazzam were listed AFTER Mada’in Salih/Al-'Ula but actually lie BETWEEN Tabuk and Mada’in Salih — moved north to their km-post positions. (3) DUPLICATES merged: Ziza = Jiza (Al-Jizah / Qal’at Zizya); Akhdar = Al-Akhdar (Qal’at al-Akhdar); Muaddham = Al-Muazzam (Al-Mu’azzam). (4) Khan Dannun placed between Damascus and Kiswe. (5) 'Wadi Rutm' Arabic corrected (وادي رتم, not وادي رم / Wadi Rum).  [completeness] The full historic line had ~100+ stations; many small desert halts documented by the Hejaz source (El-Hazim, Al-Muhtatab, Wadi al-Athily, Khamisa, Khashm Sana’a, Dar al-Hamra, Zumurrud, Bir Jadid, Stabl Antar, Bir Nassif, etc.) are NOT yet added — available on request.  [coordinates] Saudi-section coordinates are rough north-south estimates pending OSM / historical-map verification; km-posts (from Damascus) are the more reliable positional data there.",
+    "notes": "Jordan section documented + OSM-mapped (high); Saudi section known by station/km-post but sparse geometry (low). Total length ~1,300–1,320 km.  [established] 1908 = completion to Medina (first train Aug, ceremony 1 Sep 1908); ordered 1900.  [route] CORRECTIONS applied to the project list (km-posts from Damascus, per the Hejaz railway source): (1) Al-'Ula / Mada’in Salih order FIXED — Mada’in Salih (Hegra) is ~22 km NORTH of Al-'Ula, so southbound it comes FIRST (Mada’in Salih -> Al-'Ula), as you suspected. (2) Dahr al-Hajj, Akhdar (Qal’at al-Akhdar), Al-Khanzira and Al-Muazzam were listed AFTER Mada’in Salih/Al-'Ula but actually lie BETWEEN Tabuk and Mada’in Salih — moved north to their km-post positions. (3) DUPLICATES merged: Ziza = Jiza (Al-Jizah / Qal’at Zizya); Akhdar = Al-Akhdar (Qal’at al-Akhdar); Muaddham = Al-Muazzam (Al-Mu’azzam). (4) Khan Dannun placed between Damascus and Kiswe. (5) 'Wadi Rutm' Arabic corrected (وادي رتم, not وادي رم / Wadi Rum).  [completeness] The full historic line had ~100+ stations; many small desert halts documented by the Hejaz source (El-Hazim, Al-Muhtatab, Wadi al-Athily, Khamisa, Khashm Sana’a, Dar al-Hamra, Zumurrud, Bir Jadid, Stabl Antar, Bir Nassif, etc.) are NOT yet added — available on request.  [coordinates] Saudi-section coordinates are rough north-south estimates pending OSM / historical-map verification; km-posts (from Damascus) are the more reliable positional data there. Jebab & Al-Qasr added and route-less Libban wired in, per GSGS 2061/9 (1916).",
     "history": "The Hejaz Railway (1,050 mm), ordered 1900 by Sultan Abdül Hamid II and reaching Medina on 1 September 1908, ran ~1,300 km from Damascus via Deraa, Amman and Ma'an to Medina. It was the only railway built, owned and operated by the Ottoman state (funded by the treasury and pan-Islamic donations), chiefly engineered by Heinrich Meissner, and cut the pilgrimage from ~40 days to about five. It never reached Mecca, stopping at Medina.",
     "verification_status": "unverified",
     "source_ids": [
       "arabnews_hejaz",
       "britannica_hejaz",
+      "gsgs_2061_syria_1916",
       "levantrain_system",
       "ochsenwald_1980",
+      "pr_diagram_1925",
       "robinson_atlas",
       "wp_hejaz",
       "wp_jordan"
@@ -31,12 +33,336 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.28333,
-            33.46667
+            36.288005,
+            33.470447
           ],
           [
-            36.230035,
-            33.331334
+            36.28817,
+            33.470534
+          ],
+          [
+            36.287645,
+            33.469334
+          ],
+          [
+            36.282762,
+            33.460885
+          ],
+          [
+            36.27597,
+            33.442664
+          ],
+          [
+            36.27525,
+            33.441079
+          ],
+          [
+            36.259098,
+            33.418878
+          ],
+          [
+            36.258772,
+            33.418226
+          ],
+          [
+            36.258699,
+            33.417148
+          ],
+          [
+            36.259158,
+            33.415403
+          ],
+          [
+            36.259441,
+            33.414744
+          ],
+          [
+            36.25969,
+            33.414429
+          ],
+          [
+            36.260602,
+            33.413744
+          ],
+          [
+            36.262496,
+            33.413087
+          ],
+          [
+            36.263849,
+            33.412166
+          ],
+          [
+            36.264273,
+            33.411661
+          ],
+          [
+            36.265012,
+            33.40998
+          ],
+          [
+            36.265698,
+            33.409263
+          ],
+          [
+            36.267698,
+            33.408375
+          ],
+          [
+            36.270067,
+            33.406655
+          ],
+          [
+            36.27254,
+            33.40604
+          ],
+          [
+            36.273118,
+            33.405778
+          ],
+          [
+            36.273615,
+            33.405411
+          ],
+          [
+            36.274843,
+            33.404156
+          ],
+          [
+            36.277157,
+            33.40308
+          ],
+          [
+            36.277895,
+            33.402392
+          ],
+          [
+            36.278642,
+            33.401855
+          ],
+          [
+            36.279491,
+            33.401561
+          ],
+          [
+            36.280727,
+            33.401439
+          ],
+          [
+            36.281629,
+            33.401153
+          ],
+          [
+            36.285637,
+            33.399024
+          ],
+          [
+            36.288941,
+            33.39628
+          ],
+          [
+            36.291782,
+            33.394331
+          ],
+          [
+            36.292555,
+            33.393965
+          ],
+          [
+            36.293593,
+            33.39365
+          ],
+          [
+            36.295241,
+            33.392575
+          ],
+          [
+            36.298048,
+            33.391299
+          ],
+          [
+            36.299902,
+            33.390002
+          ],
+          [
+            36.302099,
+            33.389071
+          ],
+          [
+            36.302786,
+            33.388526
+          ],
+          [
+            36.303172,
+            33.387859
+          ],
+          [
+            36.304007,
+            33.384475
+          ],
+          [
+            36.303965,
+            33.383727
+          ],
+          [
+            36.303649,
+            33.383068
+          ],
+          [
+            36.303043,
+            33.38247
+          ],
+          [
+            36.301996,
+            33.381976
+          ],
+          [
+            36.301473,
+            33.381832
+          ],
+          [
+            36.300872,
+            33.381753
+          ],
+          [
+            36.298743,
+            33.381904
+          ],
+          [
+            36.294958,
+            33.381295
+          ],
+          [
+            36.290049,
+            33.380972
+          ],
+          [
+            36.288607,
+            33.380643
+          ],
+          [
+            36.287113,
+            33.380076
+          ],
+          [
+            36.281981,
+            33.377819
+          ],
+          [
+            36.278899,
+            33.377023
+          ],
+          [
+            36.277517,
+            33.37622
+          ],
+          [
+            36.275552,
+            33.375597
+          ],
+          [
+            36.274427,
+            33.374866
+          ],
+          [
+            36.272453,
+            33.37412
+          ],
+          [
+            36.271664,
+            33.37369
+          ],
+          [
+            36.271389,
+            33.373446
+          ],
+          [
+            36.271003,
+            33.372859
+          ],
+          [
+            36.27084,
+            33.372149
+          ],
+          [
+            36.27096,
+            33.371411
+          ],
+          [
+            36.271638,
+            33.369934
+          ],
+          [
+            36.271749,
+            33.36926
+          ],
+          [
+            36.271518,
+            33.366414
+          ],
+          [
+            36.271234,
+            33.365619
+          ],
+          [
+            36.270754,
+            33.364995
+          ],
+          [
+            36.269964,
+            33.364407
+          ],
+          [
+            36.263778,
+            33.36167
+          ],
+          [
+            36.258577,
+            33.357963
+          ],
+          [
+            36.257662,
+            33.357187
+          ],
+          [
+            36.256428,
+            33.355806
+          ],
+          [
+            36.255846,
+            33.355298
+          ],
+          [
+            36.254132,
+            33.354517
+          ],
+          [
+            36.253667,
+            33.354219
+          ],
+          [
+            36.249601,
+            33.349165
+          ],
+          [
+            36.249257,
+            33.348581
+          ],
+          [
+            36.248967,
+            33.347773
+          ],
+          [
+            36.248092,
+            33.341527
+          ],
+          [
+            36.248108,
+            33.340226
+          ],
+          [
+            36.248617,
+            33.338818
           ]
         ]
       },
@@ -47,10 +373,13 @@
         "to": "Khan Dannun",
         "from_id": "damascus-kadem",
         "to_id": "khan-dannun",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
         "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -59,32 +388,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.232092,
-            33.333731
+            36.230035,
+            33.331334
           ],
           [
-            36.232299,
-            33.334938
-          ],
-          [
-            36.232455,
-            33.34231
-          ],
-          [
-            36.232378,
-            33.343024
-          ],
-          [
-            36.232086,
-            33.343715
-          ],
-          [
-            36.231833,
-            33.344039
-          ],
-          [
-            36.229551,
-            33.346298
+            36.241107,
+            33.358419
           ]
         ]
       },
@@ -95,8 +404,8 @@
         "to": "Kiswe",
         "from_id": "khan-dannun",
         "to_id": "kiswe",
-        "geometry_status": "surveyed",
-        "geometry_source": "osm",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
         "corridor_confidence": "medium",
         "connection_status": "inferred",
         "source_ids": [
@@ -138,12 +447,192 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.3025,
-            33.28361
+            36.299378,
+            33.281075
           ],
           [
-            36.22534,
-            33.18235
+            36.301782,
+            33.27835
+          ],
+          [
+            36.307386,
+            33.271257
+          ],
+          [
+            36.307914,
+            33.270277
+          ],
+          [
+            36.308296,
+            33.269289
+          ],
+          [
+            36.31011,
+            33.264141
+          ],
+          [
+            36.311358,
+            33.26188
+          ],
+          [
+            36.312875,
+            33.260053
+          ],
+          [
+            36.314868,
+            33.258285
+          ],
+          [
+            36.320883,
+            33.255111
+          ],
+          [
+            36.323397,
+            33.253342
+          ],
+          [
+            36.329065,
+            33.248718
+          ],
+          [
+            36.330027,
+            33.247848
+          ],
+          [
+            36.330807,
+            33.246921
+          ],
+          [
+            36.334776,
+            33.241267
+          ],
+          [
+            36.335522,
+            33.240368
+          ],
+          [
+            36.336874,
+            33.239252
+          ],
+          [
+            36.338624,
+            33.238324
+          ],
+          [
+            36.345645,
+            33.23512
+          ],
+          [
+            36.346754,
+            33.234279
+          ],
+          [
+            36.347378,
+            33.233467
+          ],
+          [
+            36.34795,
+            33.232394
+          ],
+          [
+            36.348193,
+            33.23093
+          ],
+          [
+            36.348123,
+            33.229799
+          ],
+          [
+            36.346926,
+            33.224359
+          ],
+          [
+            36.347073,
+            33.223042
+          ],
+          [
+            36.347494,
+            33.222191
+          ],
+          [
+            36.358669,
+            33.208277
+          ],
+          [
+            36.359168,
+            33.207764
+          ],
+          [
+            36.360708,
+            33.20689
+          ],
+          [
+            36.361741,
+            33.206581
+          ],
+          [
+            36.369279,
+            33.205017
+          ],
+          [
+            36.37163,
+            33.204014
+          ],
+          [
+            36.38408,
+            33.197023
+          ],
+          [
+            36.398884,
+            33.188516
+          ],
+          [
+            36.400649,
+            33.187192
+          ],
+          [
+            36.401773,
+            33.18589
+          ],
+          [
+            36.402479,
+            33.184814
+          ],
+          [
+            36.403047,
+            33.183411
+          ],
+          [
+            36.40479,
+            33.17731
+          ],
+          [
+            36.404877,
+            33.176097
+          ],
+          [
+            36.404658,
+            33.175142
+          ],
+          [
+            36.402433,
+            33.171172
+          ],
+          [
+            36.397357,
+            33.162818
+          ],
+          [
+            36.385251,
+            33.142435
+          ],
+          [
+            36.38184,
+            33.139643
+          ],
+          [
+            36.377705,
+            33.134813
           ]
         ]
       },
@@ -151,61 +640,9 @@
         "route_id": "hejaz",
         "sequence": 4,
         "from": "Deir Ali",
-        "to": "Ghabaghib",
+        "to": "Mismiyeh (al-Mismiyah)",
         "from_id": "deir-ali",
-        "to_id": "ghabaghib",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
-        "corridor_confidence": "medium",
-        "connection_status": "inferred"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.222762,
-            33.183983
-          ],
-          [
-            36.222226,
-            33.178093
-          ],
-          [
-            36.222071,
-            33.177334
-          ],
-          [
-            36.214506,
-            33.148471
-          ],
-          [
-            36.190703,
-            33.09644
-          ],
-          [
-            36.184203,
-            33.081969
-          ],
-          [
-            36.18387,
-            33.080924
-          ],
-          [
-            36.183951,
-            33.080024
-          ]
-        ]
-      },
-      "properties": {
-        "route_id": "hejaz",
-        "sequence": 5,
-        "from": "Ghabaghib",
-        "to": "Al-Sanamayn",
-        "from_id": "ghabaghib",
-        "to_id": "al-sanamayn",
+        "to_id": "mismiyeh",
         "geometry_status": "surveyed",
         "geometry_source": "osm",
         "corridor_confidence": "medium",
@@ -221,26 +658,50 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.183429,
-            33.078883
+            36.3833,
+            33.1333
           ],
           [
-            36.238489,
-            32.854913
+            36.2784,
+            33.0889
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "hejaz",
+        "sequence": 5,
+        "from": "Mismiyeh (al-Mismiyah)",
+        "to": "Al-Jabab",
+        "from_id": "mismiyeh",
+        "to_id": "jebab",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.2784,
+            33.0889
+          ],
+          [
+            36.2761,
+            33.0124
           ]
         ]
       },
       "properties": {
         "route_id": "hejaz",
         "sequence": 6,
-        "from": "Al-Sanamayn",
-        "to": "Izra",
-        "from_id": "al-sanamayn",
-        "to_id": "izra",
+        "from": "Al-Jabab",
+        "to": "Khabab",
+        "from_id": "jebab",
+        "to_id": "khabab",
         "geometry_status": "schematic",
-        "geometry_source": "schematic",
-        "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "geometry_source": "schematic"
       }
     },
     {
@@ -249,26 +710,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.238489,
-            32.854913
+            36.2761,
+            33.0124
           ],
           [
-            36.16052,
-            32.82666
+            36.2211,
+            32.9567
           ]
         ]
       },
       "properties": {
         "route_id": "hejaz",
         "sequence": 7,
-        "from": "Izra",
-        "to": "Sheikh Miskin",
-        "from_id": "izra",
-        "to_id": "sheikh-miskin",
+        "from": "Khabab",
+        "to": "Mahaja",
+        "from_id": "khabab",
+        "to_id": "mahaja",
         "geometry_status": "schematic",
-        "geometry_source": "schematic",
-        "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "geometry_source": "schematic"
       }
     },
     {
@@ -277,184 +736,561 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.16259,
-            32.828884
+            36.220041,
+            32.956136
           ],
           [
-            36.166678,
-            32.817577
+            36.22049,
+            32.955443
           ],
           [
-            36.166903,
-            32.816533
+            36.221743,
+            32.952882
           ],
           [
-            36.167013,
-            32.815504
+            36.226024,
+            32.945054
           ],
           [
-            36.166956,
-            32.814355
+            36.226483,
+            32.944369
           ],
           [
-            36.166671,
-            32.813085
+            36.22731,
+            32.942677
           ],
           [
-            36.166008,
-            32.811484
+            36.232847,
+            32.932542
           ],
           [
-            36.165337,
-            32.810403
+            36.235061,
+            32.926077
           ],
           [
-            36.119944,
-            32.751444
+            36.235067,
+            32.925302
           ],
           [
-            36.118897,
-            32.750348
+            36.234418,
+            32.919822
           ],
           [
-            36.117251,
-            32.749141
+            36.234183,
+            32.919192
           ],
           [
-            36.116481,
-            32.748699
+            36.232712,
+            32.916445
           ],
           [
-            36.106056,
-            32.744747
+            36.232499,
+            32.915886
           ],
           [
-            36.062885,
-            32.730642
+            36.231666,
+            32.911072
           ],
           [
-            36.029615,
-            32.70814
+            36.23141,
+            32.906087
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "hejaz",
+        "sequence": 8,
+        "from": "Mahaja",
+        "to": "Shaqra",
+        "from_id": "mahaja",
+        "to_id": "shaqra",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.23141,
+            32.906087
           ],
           [
-            36.022211,
-            32.702479
+            36.230673,
+            32.893525
           ],
           [
-            36.012766,
-            32.695591
+            36.231533,
+            32.884128
           ],
           [
-            36.012017,
-            32.694713
+            36.231538,
+            32.883079
           ],
           [
-            36.01154,
-            32.693686
+            36.229774,
+            32.872099
           ],
           [
-            36.011379,
-            32.692514
+            36.229698,
+            32.87127
           ],
           [
-            36.011589,
-            32.691362
+            36.229795,
+            32.870608
           ],
           [
-            36.011826,
-            32.690813
+            36.229944,
+            32.870189
           ],
           [
-            36.014937,
-            32.686346
+            36.236252,
+            32.858807
           ],
           [
-            36.020887,
-            32.681787
+            36.239161,
+            32.854702
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "hejaz",
+        "sequence": 9,
+        "from": "Shaqra",
+        "to": "Izra",
+        "from_id": "shaqra",
+        "to_id": "izra",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.239161,
+            32.854702
           ],
           [
-            36.031825,
-            32.6737
+            36.246868,
+            32.844639
           ],
           [
-            36.03345,
-            32.672047
+            36.248426,
+            32.842753
           ],
           [
-            36.036015,
-            32.669148
+            36.248741,
+            32.842467
           ],
           [
-            36.040553,
-            32.665382
+            36.250301,
+            32.841574
           ],
           [
-            36.046218,
-            32.656205
+            36.254735,
+            32.839178
           ],
           [
-            36.05133,
-            32.651309
+            36.255308,
+            32.838587
           ],
           [
-            36.054114,
-            32.648843
+            36.25565,
+            32.838094
           ],
           [
-            36.055471,
-            32.648138
+            36.255922,
+            32.837435
           ],
           [
-            36.056662,
-            32.647858
+            36.25656,
+            32.83406
           ],
           [
-            36.072246,
-            32.647456
+            36.256744,
+            32.833695
           ],
           [
-            36.077256,
-            32.64653
+            36.257224,
+            32.833091
           ],
           [
-            36.078098,
-            32.646205
+            36.259098,
+            32.831617
           ],
           [
-            36.078592,
-            32.645961
+            36.259693,
+            32.830796
           ],
           [
-            36.079279,
-            32.645414
+            36.259865,
+            32.829926
           ],
           [
-            36.082701,
-            32.64251
+            36.260315,
+            32.825085
           ],
           [
-            36.092427,
-            32.63806
+            36.260321,
+            32.823169
           ],
           [
-            36.093655,
-            32.637243
+            36.259875,
+            32.821388
           ],
           [
-            36.096316,
-            32.634379
+            36.258438,
+            32.81729
           ],
           [
-            36.097528,
-            32.633683
+            36.258396,
+            32.816705
           ],
           [
-            36.101838,
-            32.631831
+            36.2586,
+            32.815848
           ],
           [
-            36.102856,
-            32.630752
+            36.259705,
+            32.813928
+          ],
+          [
+            36.25994,
+            32.813165
+          ],
+          [
+            36.260015,
+            32.812534
+          ],
+          [
+            36.259672,
+            32.811168
+          ],
+          [
+            36.259259,
+            32.810487
+          ],
+          [
+            36.258836,
+            32.810023
+          ],
+          [
+            36.258266,
+            32.809644
+          ],
+          [
+            36.248483,
+            32.804338
+          ],
+          [
+            36.247897,
+            32.803945
+          ],
+          [
+            36.247549,
+            32.803549
+          ],
+          [
+            36.245252,
+            32.79806
+          ],
+          [
+            36.244088,
+            32.796315
+          ],
+          [
+            36.237189,
+            32.787125
+          ],
+          [
+            36.236637,
+            32.786164
+          ],
+          [
+            36.2299,
+            32.771268
+          ],
+          [
+            36.228318,
+            32.769806
+          ],
+          [
+            36.22784,
+            32.769184
+          ],
+          [
+            36.223447,
+            32.760992
+          ],
+          [
+            36.222936,
+            32.76022
+          ],
+          [
+            36.216511,
+            32.754568
+          ],
+          [
+            36.21562,
+            32.753742
+          ],
+          [
+            36.214804,
+            32.752794
+          ],
+          [
+            36.214219,
+            32.751824
+          ],
+          [
+            36.21164,
+            32.746573
+          ],
+          [
+            36.211216,
+            32.746014
+          ],
+          [
+            36.209156,
+            32.744462
+          ],
+          [
+            36.207724,
+            32.74226
+          ],
+          [
+            36.20722,
+            32.741655
+          ],
+          [
+            36.206426,
+            32.741059
+          ],
+          [
+            36.201638,
+            32.739012
+          ],
+          [
+            36.200047,
+            32.738461
+          ],
+          [
+            36.199393,
+            32.73809
+          ],
+          [
+            36.198465,
+            32.736598
+          ],
+          [
+            36.197747,
+            32.735832
+          ],
+          [
+            36.197285,
+            32.735591
+          ],
+          [
+            36.195236,
+            32.734991
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "hejaz",
+        "sequence": 10,
+        "from": "Izra",
+        "to": "Al-Ghazaleh",
+        "from_id": "izra",
+        "to_id": "ghazale",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "inferred",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.195236,
+            32.734991
+          ],
+          [
+            36.191343,
+            32.73359
+          ],
+          [
+            36.189886,
+            32.732894
+          ],
+          [
+            36.171325,
+            32.714499
+          ],
+          [
+            36.170295,
+            32.713226
+          ],
+          [
+            36.162067,
+            32.701177
+          ],
+          [
+            36.148655,
+            32.686647
+          ],
+          [
+            36.148451,
+            32.686276
+          ],
+          [
+            36.146276,
+            32.678031
+          ],
+          [
+            36.146202,
+            32.677535
+          ],
+          [
+            36.146614,
+            32.67568
+          ],
+          [
+            36.146491,
+            32.67508
+          ],
+          [
+            36.146325,
+            32.674605
+          ],
+          [
+            36.145908,
+            32.674099
+          ],
+          [
+            36.143262,
+            32.671587
+          ],
+          [
+            36.142642,
+            32.670854
+          ],
+          [
+            36.142323,
+            32.669825
+          ],
+          [
+            36.142568,
+            32.667681
+          ],
+          [
+            36.142243,
+            32.666647
+          ],
+          [
+            36.141519,
+            32.665826
+          ],
+          [
+            36.141009,
+            32.665511
+          ],
+          [
+            36.137836,
+            32.664311
+          ],
+          [
+            36.133641,
+            32.662875
+          ],
+          [
+            36.132585,
+            32.662293
+          ],
+          [
+            36.132134,
+            32.661814
+          ],
+          [
+            36.13186,
+            32.661389
+          ],
+          [
+            36.131646,
+            32.660608
+          ],
+          [
+            36.131646,
+            32.660093
+          ],
+          [
+            36.131994,
+            32.658698
+          ],
+          [
+            36.131973,
+            32.65812
+          ],
+          [
+            36.129822,
+            32.651837
+          ],
+          [
+            36.129543,
+            32.651246
+          ],
+          [
+            36.126378,
+            32.646661
+          ],
+          [
+            36.125836,
+            32.645956
+          ],
+          [
+            36.1222,
+            32.642122
+          ],
+          [
+            36.120965,
+            32.641579
+          ],
+          [
+            36.115268,
+            32.640197
+          ],
+          [
+            36.11411,
+            32.639809
+          ],
+          [
+            36.112911,
+            32.639023
+          ],
+          [
+            36.10747,
+            32.633756
+          ],
+          [
+            36.10494,
+            32.631193
           ],
           [
             36.103531,
@@ -468,15 +1304,13 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 8,
-        "from": "Sheikh Miskin",
+        "sequence": 11,
+        "from": "Al-Ghazaleh",
         "to": "Deraa",
-        "from_id": "sheikh-miskin",
+        "from_id": "ghazale",
         "to_id": "deraa",
         "geometry_status": "surveyed",
         "geometry_source": "osm",
-        "corridor_confidence": "medium",
-        "connection_status": "inferred",
         "source_ids": [
           "osm"
         ]
@@ -659,7 +1493,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 9,
+        "sequence": 12,
         "from": "Deraa",
         "to": "Nassib/Jaber",
         "from_id": "deraa",
@@ -690,7 +1524,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 10,
+        "sequence": 13,
         "from": "Nassib/Jaber",
         "to": "Ramtha",
         "from_id": "nassib-jaber",
@@ -718,7 +1552,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 11,
+        "sequence": 14,
         "from": "Ramtha",
         "to": "Mafraq",
         "from_id": "ramtha",
@@ -1222,7 +2056,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 12,
+        "sequence": 15,
         "from": "Mafraq",
         "to": "Khirbet as-Samra",
         "from_id": "mafraq",
@@ -1617,7 +2451,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 13,
+        "sequence": 16,
         "from": "Khirbet as-Samra",
         "to": "Zarqa",
         "from_id": "khirbet-as-samra",
@@ -1940,7 +2774,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 14,
+        "sequence": 17,
         "from": "Zarqa",
         "to": "Russeifa",
         "from_id": "zarqa",
@@ -2219,7 +3053,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 15,
+        "sequence": 18,
         "from": "Russeifa",
         "to": "Amman",
         "from_id": "russeifa",
@@ -2239,969 +3073,81 @@
         "type": "LineString",
         "coordinates": [
           [
-            35.968786,
-            31.968843
+            35.96879,
+            31.96884
           ],
           [
-            35.966205,
-            31.968273
-          ],
-          [
-            35.965692,
-            31.967849
-          ],
-          [
-            35.965541,
-            31.967349
-          ],
-          [
-            35.966225,
-            31.965278
-          ],
-          [
-            35.966404,
-            31.965001
-          ],
-          [
-            35.966909,
-            31.9647
-          ],
-          [
-            35.96891,
-            31.964317
-          ],
-          [
-            35.969318,
-            31.964139
-          ],
-          [
-            35.969516,
-            31.963958
-          ],
-          [
-            35.969667,
-            31.963618
-          ],
-          [
-            35.969664,
-            31.963303
-          ],
-          [
-            35.969469,
-            31.962896
-          ],
-          [
-            35.968956,
-            31.962593
-          ],
-          [
-            35.968311,
-            31.962587
-          ],
-          [
-            35.968033,
-            31.962706
-          ],
-          [
-            35.967196,
-            31.963658
-          ],
-          [
-            35.966929,
-            31.963799
-          ],
-          [
-            35.965789,
-            31.964105
-          ],
-          [
-            35.9647,
-            31.964803
-          ],
-          [
-            35.964054,
-            31.964821
-          ],
-          [
-            35.96374,
-            31.964683
-          ],
-          [
-            35.963499,
-            31.964441
-          ],
-          [
-            35.962907,
-            31.963128
-          ],
-          [
-            35.962019,
-            31.961987
-          ],
-          [
-            35.961103,
-            31.961069
-          ],
-          [
-            35.961029,
-            31.960563
-          ],
-          [
-            35.961118,
-            31.960276
-          ],
-          [
-            35.961525,
-            31.959627
-          ],
-          [
-            35.961853,
-            31.958633
-          ],
-          [
-            35.962059,
-            31.958354
-          ],
-          [
-            35.962322,
-            31.958164
-          ],
-          [
-            35.962647,
-            31.958082
-          ],
-          [
-            35.963033,
-            31.958082
-          ],
-          [
-            35.964245,
-            31.958369
-          ],
-          [
-            35.964588,
-            31.958351
-          ],
-          [
-            35.964931,
-            31.958259
-          ],
-          [
-            35.965392,
-            31.957965
-          ],
-          [
-            35.965659,
-            31.957436
-          ],
-          [
-            35.96562,
-            31.956251
-          ],
-          [
-            35.965537,
-            31.955994
-          ],
-          [
-            35.964519,
-            31.95473
-          ],
-          [
-            35.963903,
-            31.952952
-          ],
-          [
-            35.963127,
-            31.952074
-          ],
-          [
-            35.962027,
-            31.951376
-          ],
-          [
-            35.961727,
-            31.951076
-          ],
-          [
-            35.961374,
-            31.950053
-          ],
-          [
-            35.96102,
-            31.949527
-          ],
-          [
-            35.960587,
-            31.949239
-          ],
-          [
-            35.959134,
-            31.948661
-          ],
-          [
-            35.958827,
-            31.948425
-          ],
-          [
-            35.958405,
-            31.948257
-          ],
-          [
-            35.956497,
-            31.947923
-          ],
-          [
-            35.955674,
-            31.947384
-          ],
-          [
-            35.955429,
-            31.947112
-          ],
-          [
-            35.955173,
-            31.946441
-          ],
-          [
-            35.955039,
-            31.945217
-          ],
-          [
-            35.954004,
-            31.944228
-          ],
-          [
-            35.953907,
-            31.943693
-          ],
-          [
-            35.954094,
-            31.943316
-          ],
-          [
-            35.954336,
-            31.943108
-          ],
-          [
-            35.955605,
-            31.942569
-          ],
-          [
-            35.955941,
-            31.942131
-          ],
-          [
-            35.956057,
-            31.936964
-          ],
-          [
-            35.956874,
-            31.935761
-          ],
-          [
-            35.956936,
-            31.935392
-          ],
-          [
-            35.95684,
-            31.935081
-          ],
-          [
-            35.956535,
-            31.934761
-          ],
-          [
-            35.955997,
-            31.934584
-          ],
-          [
-            35.955494,
-            31.934654
-          ],
-          [
-            35.955042,
-            31.934978
-          ],
-          [
-            35.95483,
-            31.935462
-          ],
-          [
-            35.954999,
-            31.936463
-          ],
-          [
-            35.954911,
-            31.937043
-          ],
-          [
-            35.9541,
-            31.938418
-          ],
-          [
-            35.9537,
-            31.938736
-          ],
-          [
-            35.95314,
-            31.938947
-          ],
-          [
-            35.952262,
-            31.938989
-          ],
-          [
-            35.951749,
-            31.938835
-          ],
-          [
-            35.951115,
-            31.938295
-          ],
-          [
-            35.950907,
-            31.93794
-          ],
-          [
-            35.950347,
-            31.936015
-          ],
-          [
-            35.950609,
-            31.93496
-          ],
-          [
-            35.950535,
-            31.933076
-          ],
-          [
-            35.950443,
-            31.932818
-          ],
-          [
-            35.950269,
-            31.932596
-          ],
-          [
-            35.949855,
-            31.932346
-          ],
-          [
-            35.948758,
-            31.932235
-          ],
-          [
-            35.94817,
-            31.931968
-          ],
-          [
-            35.94788,
-            31.931418
-          ],
-          [
-            35.94765,
-            31.929666
-          ],
-          [
-            35.947745,
-            31.928332
-          ],
-          [
-            35.947972,
-            31.927653
-          ],
-          [
-            35.948404,
-            31.926874
-          ],
-          [
-            35.949423,
-            31.925469
-          ],
-          [
-            35.949526,
-            31.924976
-          ],
-          [
-            35.949402,
-            31.924679
-          ],
-          [
-            35.948882,
-            31.92427
-          ],
-          [
-            35.947423,
-            31.924219
-          ],
-          [
-            35.946896,
-            31.923985
-          ],
-          [
-            35.946584,
-            31.923429
-          ],
-          [
-            35.946588,
-            31.922591
-          ],
-          [
-            35.94638,
-            31.922197
-          ],
-          [
-            35.945961,
-            31.921936
-          ],
-          [
-            35.94474,
-            31.92159
-          ],
-          [
-            35.944439,
-            31.921383
-          ],
-          [
-            35.943929,
-            31.920343
-          ],
-          [
-            35.943409,
-            31.919782
-          ],
-          [
-            35.942931,
-            31.919541
-          ],
-          [
-            35.94111,
-            31.919458
-          ],
-          [
-            35.94055,
-            31.919194
-          ],
-          [
-            35.939698,
-            31.918608
-          ],
-          [
-            35.939348,
-            31.9182
-          ],
-          [
-            35.939133,
-            31.91749
-          ],
-          [
-            35.938972,
-            31.913659
-          ],
-          [
-            35.938447,
-            31.913024
-          ],
-          [
-            35.934144,
-            31.910284
-          ],
-          [
-            35.9337,
-            31.909688
-          ],
-          [
-            35.933576,
-            31.908897
-          ],
-          [
-            35.933821,
-            31.908166
-          ],
-          [
-            35.934276,
-            31.907655
-          ],
-          [
-            35.934588,
-            31.90745
-          ],
-          [
-            35.935598,
-            31.907091
-          ],
-          [
-            35.939388,
-            31.906415
-          ],
-          [
-            35.944234,
-            31.906266
-          ],
-          [
-            35.945196,
-            31.906058
-          ],
-          [
-            35.945611,
-            31.905735
-          ],
-          [
-            35.945926,
-            31.90531
-          ],
-          [
-            35.946452,
-            31.903933
-          ],
-          [
-            35.946462,
-            31.903563
-          ],
-          [
-            35.946332,
-            31.903138
-          ],
-          [
-            35.945906,
-            31.902658
-          ],
-          [
-            35.945206,
-            31.902416
-          ],
-          [
-            35.943408,
-            31.902229
-          ],
-          [
-            35.942893,
-            31.901974
-          ],
-          [
-            35.942567,
-            31.901604
-          ],
-          [
-            35.942387,
-            31.901183
-          ],
-          [
-            35.942377,
-            31.900762
-          ],
-          [
-            35.942858,
-            31.899305
-          ],
-          [
-            35.942813,
-            31.898726
-          ],
-          [
-            35.942587,
-            31.898242
-          ],
-          [
-            35.94073,
-            31.896265
-          ],
-          [
-            35.940489,
-            31.895713
-          ],
-          [
-            35.940409,
-            31.894676
-          ],
-          [
-            35.940845,
-            31.893877
-          ],
-          [
-            35.94121,
-            31.893601
-          ],
-          [
-            35.942177,
-            31.893129
-          ],
-          [
-            35.943989,
-            31.892551
-          ],
-          [
-            35.94454,
-            31.891917
-          ],
-          [
-            35.94507,
-            31.890765
-          ],
-          [
-            35.951369,
-            31.885583
-          ],
-          [
-            35.95272,
-            31.883938
-          ],
-          [
-            35.956846,
-            31.87811
-          ],
-          [
-            35.957767,
-            31.877247
-          ],
-          [
-            35.958247,
-            31.876932
-          ],
-          [
-            35.964465,
-            31.873897
-          ],
-          [
-            35.965286,
-            31.873412
-          ],
-          [
-            35.966673,
-            31.872269
-          ],
-          [
-            35.967514,
-            31.871396
-          ],
-          [
-            35.969751,
-            31.868429
-          ],
-          [
-            35.970118,
-            31.868135
-          ],
-          [
-            35.970577,
-            31.867857
-          ],
-          [
-            35.971465,
-            31.86761
-          ],
-          [
-            35.973521,
-            31.867277
-          ],
-          [
-            35.974373,
-            31.867038
-          ],
-          [
-            35.975189,
-            31.866661
-          ],
-          [
-            35.976072,
-            31.866033
-          ],
-          [
-            35.976622,
-            31.865435
-          ],
-          [
-            35.977072,
-            31.864755
-          ],
-          [
-            35.978122,
-            31.862402
-          ],
-          [
-            35.982943,
-            31.856041
-          ],
-          [
-            35.983204,
-            31.855218
-          ],
-          [
-            35.983056,
-            31.854334
-          ],
-          [
-            35.982556,
-            31.853567
-          ],
-          [
-            35.982107,
-            31.853229
-          ],
-          [
-            35.980775,
-            31.852649
-          ],
-          [
-            35.980035,
-            31.852194
-          ],
-          [
-            35.979684,
-            31.85173
-          ],
-          [
-            35.97952,
-            31.851262
-          ],
-          [
-            35.979566,
-            31.850582
-          ],
-          [
-            35.980342,
-            31.848527
-          ],
-          [
-            35.980418,
-            31.848003
-          ],
-          [
-            35.980352,
-            31.847431
-          ],
-          [
-            35.980076,
-            31.846803
-          ],
-          [
-            35.97925,
-            31.845633
-          ],
-          [
-            35.979117,
-            31.84529
-          ],
-          [
-            35.978291,
-            31.841589
-          ],
-          [
-            35.978347,
-            31.841043
-          ],
-          [
-            35.978566,
-            31.840566
-          ],
-          [
-            35.979709,
-            31.838815
-          ],
-          [
-            35.980393,
-            31.836258
-          ],
-          [
-            35.980326,
-            31.835587
-          ],
-          [
-            35.979928,
-            31.835032
-          ],
-          [
-            35.977633,
-            31.834104
-          ],
-          [
-            35.97727,
-            31.833762
-          ],
-          [
-            35.977021,
-            31.83342
-          ],
-          [
-            35.975066,
-            31.829211
-          ],
-          [
-            35.974786,
-            31.828868
-          ],
-          [
-            35.973521,
-            31.828002
-          ],
-          [
-            35.973148,
-            31.82759
-          ],
-          [
-            35.970669,
-            31.824239
-          ],
-          [
-            35.970429,
-            31.823702
-          ],
-          [
-            35.970256,
-            31.822913
-          ],
-          [
-            35.970169,
-            31.819852
-          ],
-          [
-            35.969914,
-            31.818938
-          ],
-          [
-            35.969037,
-            31.816788
-          ],
-          [
-            35.96898,
-            31.816129
-          ],
-          [
-            35.969184,
-            31.815474
-          ],
-          [
-            35.970654,
-            31.813059
-          ],
-          [
-            35.97095,
-            31.812444
-          ],
-          [
-            35.971001,
-            31.811963
-          ],
-          [
-            35.970679,
-            31.811026
-          ],
-          [
-            35.970281,
-            31.810645
-          ],
-          [
-            35.969138,
-            31.809938
-          ],
-          [
-            35.968593,
-            31.809305
-          ],
-          [
-            35.968277,
-            31.808074
-          ],
-          [
-            35.967909,
-            31.804718
-          ],
-          [
-            35.968281,
-            31.803808
-          ],
-          [
-            35.968736,
-            31.803305
-          ],
-          [
-            35.971526,
-            31.800781
-          ],
-          [
-            35.971924,
-            31.800183
-          ],
-          [
-            35.972189,
-            31.799025
-          ],
-          [
-            35.971358,
-            31.796497
-          ],
-          [
-            35.969985,
-            31.79289
-          ],
-          [
-            35.969735,
-            31.791585
-          ],
-          [
-            35.961211,
-            31.736989
-          ],
-          [
-            35.961221,
-            31.736221
-          ],
-          [
-            35.961932,
-            31.734588
-          ],
-          [
-            35.962097,
-            31.733665
-          ],
-          [
-            35.960042,
-            31.725536
-          ],
-          [
-            35.959794,
-            31.723456
-          ],
-          [
-            35.960217,
-            31.721318
-          ],
-          [
-            35.960591,
-            31.720419
-          ],
-          [
-            35.96289,
-            31.716182
-          ],
-          [
-            35.963074,
-            31.715565
-          ],
-          [
-            35.963089,
-            31.714719
-          ],
-          [
-            35.96235,
-            31.711201
+            35.9367,
+            31.9071
           ]
         ]
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 16,
+        "sequence": 19,
         "from": "Amman",
-        "to": "Jiza",
+        "to": "Al-Qasr",
         "from_id": "amman",
-        "to_id": "jiza",
-        "geometry_status": "surveyed",
-        "geometry_source": "osm",
+        "to_id": "al-qasr",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
         "corridor_confidence": "high",
         "connection_status": "documented",
         "source_ids": [
           "osm"
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9367,
+            31.9071
+          ],
+          [
+            35.9709,
+            31.795
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "hejaz",
+        "sequence": 20,
+        "from": "Al-Qasr",
+        "to": "Libban",
+        "from_id": "al-qasr",
+        "to_id": "libban",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9709,
+            31.795
+          ],
+          [
+            35.96171,
+            31.71186
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "hejaz",
+        "sequence": 21,
+        "from": "Libban",
+        "to": "Jiza",
+        "from_id": "libban",
+        "to_id": "jiza",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic"
       }
     },
     {
@@ -3661,7 +3607,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 17,
+        "sequence": 22,
         "from": "Jiza",
         "to": "Daba'a",
         "from_id": "jiza",
@@ -3996,7 +3942,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 18,
+        "sequence": 23,
         "from": "Daba'a",
         "to": "Khan az-Zabib",
         "from_id": "daba-a",
@@ -4027,7 +3973,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 19,
+        "sequence": 24,
         "from": "Khan az-Zabib",
         "to": "Suaq (Sultani)",
         "from_id": "khan-az-zabib",
@@ -4055,7 +4001,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 20,
+        "sequence": 25,
         "from": "Suaq (Sultani)",
         "to": "Qatrana",
         "from_id": "suaq-sultani",
@@ -4291,7 +4237,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 21,
+        "sequence": 26,
         "from": "Qatrana",
         "to": "Manzil",
         "from_id": "qatrana",
@@ -4750,7 +4696,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 22,
+        "sequence": 27,
         "from": "Manzil",
         "to": "Al-Hasa",
         "from_id": "manzil",
@@ -5013,7 +4959,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 23,
+        "sequence": 28,
         "from": "Al-Hasa",
         "to": "Jurf ad-Darawish",
         "from_id": "al-hasa",
@@ -5280,7 +5226,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 24,
+        "sequence": 29,
         "from": "Jurf ad-Darawish",
         "to": "Uneiza",
         "from_id": "jurf-ad-darawish",
@@ -5300,26 +5246,489 @@
         "type": "LineString",
         "coordinates": [
           [
-            35.79,
-            30.5
+            35.801026,
+            30.497346
           ],
           [
-            35.7341,
-            30.1962
+            35.79754,
+            30.484947
+          ],
+          [
+            35.797324,
+            30.483809
+          ],
+          [
+            35.795572,
+            30.420821
+          ],
+          [
+            35.791469,
+            30.406827
+          ],
+          [
+            35.780565,
+            30.370696
+          ],
+          [
+            35.780229,
+            30.369908
+          ],
+          [
+            35.77928,
+            30.368224
+          ],
+          [
+            35.777179,
+            30.364767
+          ],
+          [
+            35.776573,
+            30.363658
+          ],
+          [
+            35.776385,
+            30.363117
+          ],
+          [
+            35.776273,
+            30.362524
+          ],
+          [
+            35.776143,
+            30.359476
+          ],
+          [
+            35.775972,
+            30.358742
+          ],
+          [
+            35.769759,
+            30.339272
+          ],
+          [
+            35.769596,
+            30.338182
+          ],
+          [
+            35.767525,
+            30.30645
+          ],
+          [
+            35.767669,
+            30.305656
+          ],
+          [
+            35.772489,
+            30.292398
+          ],
+          [
+            35.772523,
+            30.291674
+          ],
+          [
+            35.77244,
+            30.29106
+          ],
+          [
+            35.768565,
+            30.279715
+          ],
+          [
+            35.767965,
+            30.278176
+          ],
+          [
+            35.767606,
+            30.276509
+          ],
+          [
+            35.766874,
+            30.265704
+          ],
+          [
+            35.766596,
+            30.264422
+          ],
+          [
+            35.76205,
+            30.249637
+          ],
+          [
+            35.761978,
+            30.24906
+          ],
+          [
+            35.762622,
+            30.242129
+          ],
+          [
+            35.762488,
+            30.241166
+          ],
+          [
+            35.761787,
+            30.239656
+          ],
+          [
+            35.761701,
+            30.238724
+          ],
+          [
+            35.761957,
+            30.237933
+          ],
+          [
+            35.762416,
+            30.237244
+          ],
+          [
+            35.762845,
+            30.236837
+          ],
+          [
+            35.764176,
+            30.236087
+          ],
+          [
+            35.765023,
+            30.235438
+          ],
+          [
+            35.76532,
+            30.235085
+          ],
+          [
+            35.766313,
+            30.233365
+          ],
+          [
+            35.766467,
+            30.23245
+          ],
+          [
+            35.766413,
+            30.231977
+          ],
+          [
+            35.765758,
+            30.229721
+          ],
+          [
+            35.765658,
+            30.228971
+          ],
+          [
+            35.765837,
+            30.228416
+          ],
+          [
+            35.766125,
+            30.228001
+          ],
+          [
+            35.76731,
+            30.226948
+          ],
+          [
+            35.767581,
+            30.226422
+          ],
+          [
+            35.767623,
+            30.225665
+          ],
+          [
+            35.767352,
+            30.224158
+          ],
+          [
+            35.767444,
+            30.223584
+          ],
+          [
+            35.76766,
+            30.223105
+          ],
+          [
+            35.767969,
+            30.222824
+          ],
+          [
+            35.769956,
+            30.221695
+          ],
+          [
+            35.77046,
+            30.221093
+          ],
+          [
+            35.770606,
+            30.220606
+          ],
+          [
+            35.770606,
+            30.220246
+          ],
+          [
+            35.770335,
+            30.21889
+          ],
+          [
+            35.770406,
+            30.218252
+          ],
+          [
+            35.770761,
+            30.217606
+          ],
+          [
+            35.772855,
+            30.215454
+          ],
+          [
+            35.773014,
+            30.214848
+          ],
+          [
+            35.773001,
+            30.214419
+          ],
+          [
+            35.7693,
+            30.206009
+          ],
+          [
+            35.768558,
+            30.204693
+          ],
+          [
+            35.766228,
+            30.202716
+          ],
+          [
+            35.765778,
+            30.202416
+          ],
+          [
+            35.765277,
+            30.202225
+          ],
+          [
+            35.76432,
+            30.202198
+          ],
+          [
+            35.763249,
+            30.202559
+          ],
+          [
+            35.762336,
+            30.202744
+          ],
+          [
+            35.761544,
+            30.202584
+          ],
+          [
+            35.761079,
+            30.20231
+          ],
+          [
+            35.760721,
+            30.201996
+          ],
+          [
+            35.760494,
+            30.201617
+          ],
+          [
+            35.759145,
+            30.197075
+          ],
+          [
+            35.759094,
+            30.19644
+          ],
+          [
+            35.759184,
+            30.195917
+          ],
+          [
+            35.760441,
+            30.191052
+          ],
+          [
+            35.760388,
+            30.190349
+          ],
+          [
+            35.759558,
+            30.186727
+          ],
+          [
+            35.759681,
+            30.185698
+          ],
+          [
+            35.760198,
+            30.184816
+          ],
+          [
+            35.760651,
+            30.184385
+          ],
+          [
+            35.761174,
+            30.184109
+          ],
+          [
+            35.763291,
+            30.183435
+          ],
+          [
+            35.763591,
+            30.183263
+          ],
+          [
+            35.764112,
+            30.182727
+          ],
+          [
+            35.764308,
+            30.182406
+          ],
+          [
+            35.764444,
+            30.181883
+          ],
+          [
+            35.764288,
+            30.18106
+          ],
+          [
+            35.763969,
+            30.18041
+          ],
+          [
+            35.763196,
+            30.177889
+          ],
+          [
+            35.752896,
+            30.177818
+          ],
+          [
+            35.748372,
+            30.179208
+          ],
+          [
+            35.747871,
+            30.179233
+          ],
+          [
+            35.746915,
+            30.179052
+          ],
+          [
+            35.746071,
+            30.17853
+          ],
+          [
+            35.745529,
+            30.178356
+          ],
+          [
+            35.744235,
+            30.178334
+          ],
+          [
+            35.743768,
+            30.178176
+          ],
+          [
+            35.739712,
+            30.176039
+          ],
+          [
+            35.739223,
+            30.175873
+          ],
+          [
+            35.738192,
+            30.175933
+          ],
+          [
+            35.737681,
+            30.176189
+          ],
+          [
+            35.737116,
+            30.176867
+          ],
+          [
+            35.736951,
+            30.178793
+          ],
+          [
+            35.736672,
+            30.179982
+          ],
+          [
+            35.73604,
+            30.181043
+          ],
+          [
+            35.735935,
+            30.181442
+          ],
+          [
+            35.736025,
+            30.181916
+          ],
+          [
+            35.736386,
+            30.182616
+          ],
+          [
+            35.736379,
+            30.183233
+          ],
+          [
+            35.736243,
+            30.183564
+          ],
+          [
+            35.73589,
+            30.184121
+          ],
+          [
+            35.735528,
+            30.184331
+          ],
+          [
+            35.734941,
+            30.184549
+          ],
+          [
+            35.734415,
+            30.18461
           ]
         ]
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 25,
+        "sequence": 30,
         "from": "Uneiza",
         "to": "Ma'an",
         "from_id": "uneiza",
         "to_id": "ma-an",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
         "corridor_confidence": "high",
-        "connection_status": "documented"
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -5339,7 +5748,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 26,
+        "sequence": 31,
         "from": "Ma'an",
         "to": "Ghadir al-Hajj",
         "from_id": "ma-an",
@@ -5367,7 +5776,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 27,
+        "sequence": 32,
         "from": "Ghadir al-Hajj",
         "to": "Batn al-Ghul",
         "from_id": "ghadir-al-hajj",
@@ -5519,7 +5928,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 28,
+        "sequence": 33,
         "from": "Batn al-Ghul",
         "to": "Wadi Rutm",
         "from_id": "batn-al-ghul",
@@ -5690,7 +6099,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 29,
+        "sequence": 34,
         "from": "Wadi Rutm",
         "to": "Tel Shahem",
         "from_id": "wadi-rutm",
@@ -5797,7 +6206,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 30,
+        "sequence": 35,
         "from": "Tel Shahem",
         "to": "Mudawwara",
         "from_id": "tel-shahem",
@@ -6044,7 +6453,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 31,
+        "sequence": 36,
         "from": "Mudawwara",
         "to": "Halat Ammar",
         "from_id": "mudawwara",
@@ -6215,7 +6624,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 32,
+        "sequence": 37,
         "from": "Halat Ammar",
         "to": "Dhat al-Hajj",
         "from_id": "halat-ammar",
@@ -6414,7 +6823,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 33,
+        "sequence": 38,
         "from": "Dhat al-Hajj",
         "to": "Bir Ibn Hermas",
         "from_id": "dhat-al-hajj",
@@ -6605,7 +7014,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 34,
+        "sequence": 39,
         "from": "Bir Ibn Hermas",
         "to": "Tabuk",
         "from_id": "bir-ibn-hermas",
@@ -6636,7 +7045,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 35,
+        "sequence": 40,
         "from": "Tabuk",
         "to": "Dahr al-Hajj",
         "from_id": "tabuk",
@@ -6664,7 +7073,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 36,
+        "sequence": 41,
         "from": "Dahr al-Hajj",
         "to": "Akhdar",
         "from_id": "dahr-al-hajj",
@@ -6692,7 +7101,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 37,
+        "sequence": 42,
         "from": "Akhdar",
         "to": "Al-Khanzira",
         "from_id": "akhdar",
@@ -6720,7 +7129,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 38,
+        "sequence": 43,
         "from": "Al-Khanzira",
         "to": "Al-Muazzam",
         "from_id": "al-khanzira",
@@ -6748,7 +7157,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 39,
+        "sequence": 44,
         "from": "Al-Muazzam",
         "to": "Mada'in Salih",
         "from_id": "al-muazzam",
@@ -7048,7 +7457,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 40,
+        "sequence": 45,
         "from": "Mada'in Salih",
         "to": "Al-'Ula",
         "from_id": "mada-in-salih",
@@ -7079,7 +7488,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 41,
+        "sequence": 46,
         "from": "Al-'Ula",
         "to": "Hadiyyah",
         "from_id": "al-ula",
@@ -7551,7 +7960,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 42,
+        "sequence": 47,
         "from": "Hadiyyah",
         "to": "Abu Na'am",
         "from_id": "hadiyyah",
@@ -7666,7 +8075,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 43,
+        "sequence": 48,
         "from": "Abu Na'am",
         "to": "Buwair",
         "from_id": "abu-na-am",
@@ -8061,7 +8470,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 44,
+        "sequence": 49,
         "from": "Buwair",
         "to": "al-Hafirah",
         "from_id": "buwair",
@@ -8092,7 +8501,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 45,
+        "sequence": 50,
         "from": "al-Hafirah",
         "to": "Medina",
         "from_id": "al-hafirah",

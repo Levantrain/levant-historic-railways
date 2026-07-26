@@ -202,6 +202,7 @@
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wikipedia_geo",
           "wp_palestine_rw"
         ]
@@ -332,6 +333,7 @@
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wikipedia_geo",
           "wp_palestine_rw"
         ]
@@ -435,6 +437,7 @@
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wikipedia_geo",
           "wp_palestine_rw"
         ]
@@ -461,6 +464,7 @@
           "cotterell_1984",
           "geonames",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_palestine_rw"
         ]
       }
@@ -521,6 +525,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.043,
+          31.211
+        ]
+      },
+      "properties": {
+        "station_id": "gaber-amir",
+        "name": "Gaber Amir",
+        "country": "Egypt",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — No feature for Gaber Amir; interpolated (km178.0). Rough.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "levantrain_compilation",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           32.50122,
           30.93487
         ]
@@ -537,6 +564,7 @@
           "cotterell_1984",
           "levantrain_compilation",
           "osm",
+          "pr_diagram_1925",
           "wp_palestine_rw"
         ]
       }
@@ -598,6 +626,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          32.813,
+          31.014
+        ]
+      },
+      "properties": {
+        "station_id": "khirba",
+        "name": "Khirba",
+        "country": "Egypt",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — No feature for al-Khirba; straight-line chainage interpolation (km62.3). Rough.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "levantrain_compilation",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           32.947017,
           24.476656
         ]
@@ -640,6 +691,29 @@
           "osm",
           "railwaywonders",
           "wp_egypt_stations"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.568,
+          31.089
+        ]
+      },
+      "properties": {
+        "station_id": "maadan",
+        "name": "Maadan",
+        "country": "Egypt",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — No feature for al-Ma'dan; interpolated (km131.3). Rough.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "levantrain_compilation",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -698,6 +772,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.131,
+          31.022
+        ]
+      },
+      "properties": {
+        "station_id": "mosefeig",
+        "name": "Mosefeig",
+        "country": "Egypt",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — No feature; interpolated (km90.3). Inherits El Mazar uncertainty. Rough.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "levantrain_compilation",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           32.24105,
           26.043278
         ]
@@ -741,6 +838,29 @@
           "railwaywonders",
           "wp_egypt_stations",
           "wp_enr"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.397126,
+          30.866685
+        ]
+      },
+      "properties": {
+        "station_id": "new-kantara-east",
+        "name": "New Kantara East",
+        "country": "Egypt",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Distinct from Old Kantara East (El Kantara East). Coordinate: exact (medium confidence) — OSM railway=station 'Qantara Sharqeya' on E bank at El Qantara. OSM doesn't split Old/New; node ~7km E of canal.",
+        "verification_status": "unverified",
+        "precision": "exact",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -895,6 +1015,7 @@
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_palestine_rw"
         ]
       }
@@ -1157,6 +1278,7 @@
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_palestine_rw"
         ]
       }
@@ -1540,8 +1662,32 @@
           "awm_hbt",
           "levantrain_compilation",
           "osm",
+          "pr_diagram_1925",
           "wp_lebanon",
           "wp_palestine_rw"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.005278,
+          32.811111
+        ]
+      },
+      "properties": {
+        "station_id": "acre-junction",
+        "name": "Acre Junction",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Junction for the Haifa–Acre branch. Coordinate: approx (low confidence) — No junction feature; anchored to Haifa East station, actual junction ~4.5km ESE. Approximate.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "pr_diagram_1925",
+          "wikidata"
         ]
       }
     },
@@ -1566,9 +1712,56 @@
         "source_ids": [
           "levantrain_compilation",
           "osm",
+          "pr_diagram_1925",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.65881,
+          31.755774
+        ]
+      },
+      "properties": {
+        "station_id": "ashdod",
+        "name": "Ashdod",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Tel Ashdod, site of depopulated Isdud where the Mandate station stood — NOT modern Ashdod city. Village-site level.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.940222,
+          32.692764
+        ]
+      },
+      "properties": {
+        "station_id": "athlit",
+        "name": "Athlit",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (high confidence) — Atlit station node on Carmel coast.",
+        "verification_status": "unverified",
+        "precision": "exact",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -1620,6 +1813,7 @@
         "source_ids": [
           "levantrain_compilation",
           "osm",
+          "pr_diagram_1925",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
@@ -1657,6 +1851,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.949629,
+          32.514553
+        ]
+      },
+      "properties": {
+        "station_id": "benyamina",
+        "name": "Benyamina",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (high confidence) — Active Binyamina station node.",
+        "verification_status": "unverified",
+        "precision": "exact",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.839865,
+          31.944353
+        ]
+      },
+      "properties": {
+        "station_id": "bir-yacob",
+        "name": "Bir Yacob",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Be'er Ya'akov centroid.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.957457,
+          32.793514
+        ]
+      },
+      "properties": {
+        "station_id": "carmel",
+        "name": "Carmel",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — AMBIGUOUS — no 1925 'Carmel' station in OSM/Wikidata. Modern Hof HaCarmel used as corridor anchor (~409.6km). Flag for manual review.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.393578,
           32.559218
         ]
@@ -1672,6 +1935,7 @@
         "source_ids": [
           "levantrain_compilation",
           "osm",
+          "pr_diagram_1925",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
@@ -1723,6 +1987,7 @@
         "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "pr_diagram_1925",
           "shemer_jezreel",
           "wikipedia_geo",
           "wp_hejaz",
@@ -1775,6 +2040,7 @@
         "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wikipedia_geo",
           "wp_israel_rw",
           "wp_palestine_rw"
@@ -1801,6 +2067,7 @@
         "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "pr_diagram_1925",
           "shemer_jezreel",
           "wikipedia_geo",
           "wp_hejaz",
@@ -1829,6 +2096,7 @@
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wikipedia_geo",
           "wp_jaffa_jerusalem"
         ]
@@ -1855,6 +2123,7 @@
         "source_ids": [
           "gazetteer_misc",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
@@ -1908,8 +2177,78 @@
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wikipedia_geo",
           "wp_jaffa_jerusalem"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.878665,
+          31.94693
+        ]
+      },
+      "properties": {
+        "station_id": "lydda-north",
+        "name": "Lydda North",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — No distinct North-junction feature; anchored to modern Lod station, junction lay just N.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.565044,
+          31.665319
+        ]
+      },
+      "properties": {
+        "station_id": "mejdel",
+        "name": "Mejdel",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). al-Majdal (Ashkelon area). Coordinate: town (medium confidence) — Modern Ashkelon centroid; Mandate Majdal station served al-Majdal Asqalan (Migdal quarter). Town-level.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.873333,
+          31.872222
+        ]
+      },
+      "properties": {
+        "station_id": "naaneh",
+        "name": "Naaneh",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (high confidence) — al-Na'ani (Na'ana) village near Rehovot.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "pr_diagram_1925",
+          "wikidata"
         ]
       }
     },
@@ -1970,6 +2309,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.876529,
+          32.090638
+        ]
+      },
+      "properties": {
+        "station_id": "petah-tikva",
+        "name": "Petah Tikva",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (high confidence) — Petah Tikva town centre; not the specific branch-line station.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8809,
           31.9231
         ]
@@ -1986,8 +2348,55 @@
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wikipedia_geo",
           "wp_jaffa_jerusalem"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.953322,
+          32.095293
+        ]
+      },
+      "properties": {
+        "station_id": "ras-el-ain-palestine",
+        "name": "Ras el Ain (Palestine)",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Palestine junction (Rosh HaAyin). NOT the Syrian Ras al-Ayn already in the catalogue. Coordinate: approx (medium confidence) — Ras al-Ayn/Rosh HaAyin junction (NOT Syrian Ras al-Ayn). Actual junction sat W near Tel Afek/Antipatris — approximate.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.805277,
+          31.908551
+        ]
+      },
+      "properties": {
+        "station_id": "rehoboth",
+        "name": "Rehoboth",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (medium confidence) — Modern Rehovot station; may be offset from 1925 site.",
+        "verification_status": "unverified",
+        "precision": "exact",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -2012,9 +2421,33 @@
         "source_ids": [
           "levantrain_compilation",
           "osm",
+          "pr_diagram_1925",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.849294,
+          31.959481
+        ]
+      },
+      "properties": {
+        "station_id": "sarafend",
+        "name": "Sarafend",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Sarafand al-Amar village; adjacent Tzrifin/Sarafand camp corroborates. Town-level.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "pr_diagram_1925",
+          "wikidata"
         ]
       }
     },
@@ -2038,9 +2471,33 @@
         "source_ids": [
           "dbpedia",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.777,
+          32.0636
+        ]
+      },
+      "properties": {
+        "station_id": "tel-aviv",
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (high confidence) — Original Tel Aviv Custom House Station (1920), ~2.5km from Jaffa.",
+        "verification_status": "unverified",
+        "precision": "exact",
+        "source_ids": [
+          "levantrain_compilation",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -2075,6 +2532,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.874506,
+          31.806396
+        ]
+      },
+      "properties": {
+        "station_id": "vale-of-sorek",
+        "name": "Vale of Sorek",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (medium confidence) — Wadi es-Sarar/Nahal Sorek junction station (renamed Wadi Sarar 1931); surviving building coord. No OSM/WD feature.",
+        "verification_status": "unverified",
+        "precision": "exact",
+        "source_ids": [
+          "levantrain_compilation",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.911872,
+          32.023564
+        ]
+      },
+      "properties": {
+        "station_id": "wilhelma-halt",
+        "name": "Wilhelma Halt",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Bnei Atarot, on former Templer colony Wilhelma. Town-level.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.077221,
           32.74139
         ]
@@ -2093,6 +2596,52 @@
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.738297,
+          31.876886
+        ]
+      },
+      "properties": {
+        "station_id": "yebnah",
+        "name": "Yebnah",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Modern Yavne (Yibna) centroid.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.952997,
+          32.571159
+        ]
+      },
+      "properties": {
+        "station_id": "zichron-jacob",
+        "name": "Zichron Jacob",
+        "country": "Israel",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (low confidence) — Hilltop town; Mandate station actually in plain near Binyamina, several km W. Indicative only.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -2179,6 +2728,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.999609,
+          31.764706
+        ]
+      },
+      "properties": {
+        "station_id": "artuf",
+        "name": "Artuf",
+        "country": "Israel/Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Hartuv (Artuf) village near Beit Shemesh; station stood nearby on the line.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.0333,
           31.8167
         ]
@@ -2220,8 +2792,32 @@
         "source_ids": [
           "cotterell_1984",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wikipedia_geo",
           "wp_palestine_rw"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.956667,
+          31.985556
+        ]
+      },
+      "properties": {
+        "station_id": "beit-nabala",
+        "name": "Beit Nabala",
+        "country": "Israel/Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (high confidence) — Bayt Nabala depopulated village near Lod.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "pr_diagram_1925",
+          "wikidata"
         ]
       }
     },
@@ -2256,6 +2852,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.51952,
+          31.26587
+        ]
+      },
+      "properties": {
+        "station_id": "imara",
+        "name": "Imara",
+        "country": "Israel/Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — al-Imara halt on 1917 Rafah–Beersheba branch; no coordinate found in any source. Left null (not invented). [coordinate filled by chainage interpolation between catalogue anchors]",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "levantrain_compilation",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.224712,
           31.76685
         ]
@@ -2273,7 +2892,31 @@
           "cotterell_1984",
           "dbpedia",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_jaffa_jerusalem"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.907331,
+          31.995221
+        ]
+      },
+      "properties": {
+        "station_id": "kafr-jinis",
+        "name": "Kafr Jinis",
+        "country": "Israel/Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (high confidence) — Wikidata station item alias 'Kafr Jinnis railway station' near Lod.",
+        "verification_status": "unverified",
+        "precision": "exact",
+        "source_ids": [
+          "pr_diagram_1925",
+          "wikidata"
         ]
       }
     },
@@ -2308,6 +2951,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.850931,
+          31.993389
+        ]
+      },
+      "properties": {
+        "station_id": "saferiyeh",
+        "name": "Saferiyeh",
+        "country": "Israel/Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Also listed on the Lydda–Sarafend branch as 'Safriyeh'. Coordinate: town (high confidence) — al-Safiriyya depopulated village near Lydda (village site).",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "pr_diagram_1925",
+          "wikidata"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.6592,
           32.6837
         ]
@@ -2324,6 +2990,7 @@
         "source_ids": [
           "geonames",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "shemer_jezreel",
           "wp_hejaz",
           "wp_jezreel"
@@ -2352,8 +3019,34 @@
           "gazetteer_misc",
           "geonames",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9367,
+          31.9071
+        ]
+      },
+      "properties": {
+        "station_id": "al-qasr",
+        "name": "Al-Qasr",
+        "name_arabic": "القصر",
+        "country": "Jordan",
+        "role": "Hejaz main line",
+        "confidence": "low",
+        "year_opened": 1903,
+        "gauge_mm": 1050,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
         ]
       }
     },
@@ -2379,6 +3072,7 @@
           "levantrain_compilation",
           "ochsenwald_1980",
           "osm",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -2399,7 +3093,9 @@
         "country": "Jordan",
         "role": "Red Sea port terminus (phosphate)",
         "confidence": "high",
+        "year_opened": 1975,
         "verification_status": "verified",
+        "osm_id": 10716097829,
         "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
@@ -2459,8 +3155,32 @@
           "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.98339,
+          30.90179
+        ]
+      },
+      "properties": {
+        "station_id": "frefra",
+        "name": "Frefra",
+        "country": "Jordan",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (high confidence) — Clean name match al-Fureifira=Frefra; N of Al-Hasa, consistent with km244.3<264.8.",
+        "verification_status": "unverified",
+        "precision": "exact",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -2515,6 +3235,7 @@
           "nabataea",
           "ochsenwald_1980",
           "osm",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -2542,8 +3263,32 @@
           "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.93674,
+          31.90708
+        ]
+      },
+      "properties": {
+        "station_id": "kassir",
+        "name": "Kassir",
+        "country": "Jordan",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (medium confidence) — al-Qasr station S of Amman; km~106 vs map 111.1 (good fit). 'Kassir'=al-Qasr transliteration is the only caveat.",
+        "verification_status": "unverified",
+        "precision": "exact",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -2569,6 +3314,7 @@
           "arabnews_hejaz",
           "geonames",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -2595,8 +3341,32 @@
           "arabnews_hejaz",
           "ochsenwald_1980",
           "osm",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9709,
+          31.795
+        ]
+      },
+      "properties": {
+        "station_id": "libban",
+        "name": "Libban",
+        "country": "Jordan",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — No named feature; interpolated on real track between Kassir(km111.1) and Jiza(km136.7). Libb village is ~17km W off-corridor, deliberately not used.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -2622,6 +3392,7 @@
           "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -2649,6 +3420,7 @@
           "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -2677,6 +3449,7 @@
           "gazetteer_misc",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -2730,6 +3503,7 @@
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wikipedia_geo",
           "wp_hejaz"
@@ -2838,6 +3612,7 @@
           "geonames",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
         ]
@@ -2894,8 +3669,32 @@
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.76876,
+          30.32831
+        ]
+      },
+      "properties": {
+        "station_id": "wadi-jardoun",
+        "name": "Wadi Jardoun",
+        "country": "Jordan",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (high confidence) — al-Jirdana=Wadi Jardoun; between Uneiza and Ma'an, km-interp 30.339 vs actual 30.328 — excellent fit.",
+        "verification_status": "unverified",
+        "precision": "exact",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -2948,6 +3747,7 @@
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wikipedia_geo",
           "wp_hejaz"
@@ -3077,13 +3877,18 @@
         "role": "Coastal terminus (Mar Mikhael); rack climb begins",
         "confidence": "high",
         "elevation_m": 18,
+        "year_opened": 1895,
+        "year_closed": 1976,
+        "description": "Beirut’s first railway station and the coastal terminus of the 1895 Beirut–Damascus line — the first significant railway in the Levant, pre-dating the Hejaz Railway by 13 years. The station building (completed 1893 by the Société de construction des Batignolles on the PLM model, adapted to the local climate — an encircling marquise, taller ceilings, a triple-arched central window) stood just beyond the old city by the port, linked to the Hamidiyeh souk (today Martyrs’ Square) along the Tripoli road (now Rue d’Arménie). It was the hub of both the Beirut–Damascus railway and the Tramway Libanais, and from 1903 connected onward to La Gare du Port. Regular passenger service ended with the civil war; the ~62,000 m² site survived as the railway authority’s (OFTC/OCFTC) headquarters and, after the 2020 port explosion that damaged it, became the subject of an Italy/UNESCO/UN-Habitat heritage-and-public-space revival.",
         "verification_status": "verified",
         "precision": "exact",
         "source_ids": [
           "bdr_project",
+          "elhage_rizk_marmikhael_2023",
           "gwr_lebanon",
           "levantrain_compilation",
           "osm",
+          "walling_beirut_2020",
           "wp_lebanon"
         ]
       }
@@ -3307,6 +4112,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.3266,
+          34.2119
+        ]
+      },
+      "properties": {
+        "station_id": "labweh",
+        "name": "Labweh",
+        "name_arabic": "اللبوة",
+        "country": "Lebanon",
+        "role": "Rayak–Baalbek–Homs line",
+        "confidence": "low",
+        "year_opened": 1902,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.895,
           33.833
         ]
@@ -3361,25 +4191,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.988,
-          33.851
+          36.4268,
+          34.2979
+        ]
+      },
+      "properties": {
+        "station_id": "ras-baalbek",
+        "name": "Ras Baalbek",
+        "name_arabic": "رأس بعلبك",
+        "country": "Lebanon",
+        "role": "Rayak–Baalbek–Homs line",
+        "confidence": "low",
+        "year_opened": 1902,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.012135,
+          33.85194
         ]
       },
       "properties": {
         "station_id": "rayak",
         "name": "Rayak",
+        "name_arabic": "رياق",
         "country": "Lebanon",
         "role": "Gauge-break junction; DHP workshops",
         "confidence": "high",
         "elevation_m": 928,
+        "year_opened": 1895,
+        "year_closed": 1976,
         "verification_status": "verified",
-        "precision": "town",
+        "precision": "exact",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
+          "osm",
+          "rizk_rayak_2022",
+          "walling_beirut_2020",
           "wikipedia_geo",
-          "wp_lebanon"
+          "wp_lebanon",
+          "wp_riyaq"
         ]
       }
     },
@@ -3519,8 +4381,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.01,
-          33.78
+          36.13244,
+          33.85869
         ]
       },
       "properties": {
@@ -3572,6 +4434,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          35.116049,
+          32.307284
+        ]
+      },
+      "properties": {
+        "station_id": "anebta",
+        "name": "Anebta",
+        "country": "Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Bal'a tunnel corridor (km 27.8–33.5 on the Nablus branch). Coordinate: town (high confidence) — Anabta town centre E of Tulkarm. Tunnel corridor. No station feature found. Station confirmed on Survey of Palestine 1:20k sheet 16-19 (1942) at KM.9, NW of the town; H.R./Hejaz narrow gauge. Precise coord pending georeferencing.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "map_anabta_1619",
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.203339,
+          32.40461
+        ]
+      },
+      "properties": {
+        "station_id": "arrabeh",
+        "name": "Arrabeh",
+        "country": "Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (high confidence) — Arraba village centre, West Bank. No station feature.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.55,
           31.56667
         ]
@@ -3588,6 +4497,7 @@
           "cotterell_1984",
           "levantrain_compilation",
           "osm",
+          "pr_diagram_1925",
           "wp_palestine_rw"
         ]
       }
@@ -3613,7 +4523,31 @@
           "cotterell_1984",
           "geonames",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_palestine_rw"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.067271,
+          31.748873
+        ]
+      },
+      "properties": {
+        "station_id": "deir-esh-sheikh",
+        "name": "Deir esh Sheikh",
+        "country": "Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Dayr al-Shaykh ruins; halt sat in Sorek gorge near village.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -3638,6 +4572,7 @@
           "cotterell_1984",
           "geonames",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_palestine_rw"
         ]
       }
@@ -3662,6 +4597,7 @@
         "source_ids": [
           "geonames",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_israel_rw",
           "wp_palestine_rw"
         ]
@@ -3688,6 +4624,7 @@
           "cotterell_1984",
           "geonames",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_palestine_rw"
         ]
       }
@@ -3697,8 +4634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.192847,
-          32.302451
+          35.17912,
+          32.28146
         ]
       },
       "properties": {
@@ -3708,10 +4645,11 @@
         "role": "Eastern Railway junction (near Sebastia)",
         "confidence": "medium",
         "verification_status": "verified",
-        "precision": "exact",
+        "precision": "town",
         "source_ids": [
           "gazetteer_misc",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_israel_rw",
           "wp_palestine_rw"
         ]
@@ -3737,8 +4675,33 @@
         "source_ids": [
           "geonames",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_israel_rw",
           "wp_palestine_rw"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.058621,
+          32.319035
+        ]
+      },
+      "properties": {
+        "station_id": "nur-esh-shams",
+        "name": "Nur esh Shams",
+        "country": "Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Nur Shams camp/locality E of Tulkarm near Anabta. Station confirmed on Survey of Palestine 1:20k sheet 15-19 at KM.14 (Nur esh Shams Sta.), on Wadi el Burj. Precise coord pending georeferencing.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "map_tulkarm_1519",
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -3762,8 +4725,55 @@
         "source_ids": [
           "geonames",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_israel_rw",
           "wp_palestine_rw"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.189846,
+          32.264589
+        ]
+      },
+      "properties": {
+        "station_id": "sabastieh",
+        "name": "Sabastieh",
+        "country": "Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Sebastia/Sabastiya village N of Nablus.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.190309,
+          32.315919
+        ]
+      },
+      "properties": {
+        "station_id": "sileh",
+        "name": "Sileh",
+        "country": "Palestine",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Silat adh-Dhahr village centre, between Jenin and Nablus.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -3787,6 +4797,7 @@
         "source_ids": [
           "geonames",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_israel_rw",
           "wp_palestine_rw"
         ]
@@ -3814,6 +4825,7 @@
           "cotterell_1984",
           "geonames",
           "levantrain_compilation",
+          "pr_diagram_1925",
           "wp_jaffa_jerusalem"
         ]
       }
@@ -4236,6 +5248,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          37.0477,
+          35.736
+        ]
+      },
+      "properties": {
+        "station_id": "abu-al-duhur",
+        "name": "Abu al-Duhur",
+        "name_arabic": "أبو الضهور",
+        "country": "Syria",
+        "role": "Syria trunk (Aleppo–Homs section)",
+        "confidence": "low",
+        "year_opened": 1906,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.193068,
           33.586734
         ]
@@ -4317,6 +5354,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.0741,
+          33.6264
+        ]
+      },
+      "properties": {
+        "station_id": "dimas",
+        "name": "Al-Dimas",
+        "name_arabic": "الديماس",
+        "country": "Syria",
+        "role": "Beirut–Damascus (Barada) line",
+        "confidence": "low",
+        "year_opened": 1895,
+        "gauge_mm": 1050,
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2,
+          32.725
+        ]
+      },
+      "properties": {
+        "station_id": "ghazale",
+        "name": "Al-Ghazaleh",
+        "name_arabic": "الغزالة",
+        "country": "Syria",
+        "role": "Hejaz main line (Damascus–Deraa)",
+        "year_opened": 1903,
+        "gauge_mm": 1050,
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.22222,
           33.55806
         ]
@@ -4336,6 +5422,106 @@
           "levantrain_compilation",
           "wikipedia_geo",
           "wp_lebanon"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.125,
+          35.9717
+        ]
+      },
+      "properties": {
+        "station_id": "hamidiyah",
+        "name": "Al-Hamidiyah",
+        "name_arabic": "الحميدية",
+        "country": "Syria",
+        "role": "Syria trunk (Aleppo–Homs section)",
+        "confidence": "low",
+        "year_opened": 1906,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2784,
+          33.0889
+        ]
+      },
+      "properties": {
+        "station_id": "jebab",
+        "name": "Al-Jabab",
+        "name_arabic": "الجباب",
+        "country": "Syria",
+        "role": "Hejaz main line",
+        "confidence": "low",
+        "year_opened": 1903,
+        "gauge_mm": 1050,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5842,
+          34.5116
+        ]
+      },
+      "properties": {
+        "station_id": "al-qusayr",
+        "name": "Al-Qusayr",
+        "name_arabic": "القصير",
+        "country": "Syria",
+        "role": "Rayak–Baalbek–Homs line",
+        "confidence": "low",
+        "year_opened": 1902,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71,
+          34.906
+        ]
+      },
+      "properties": {
+        "station_id": "rastan",
+        "name": "Al-Rastan",
+        "name_arabic": "الرستن",
+        "country": "Syria",
+        "role": "Syria trunk (Aleppo–Homs section)",
+        "confidence": "low",
+        "year_opened": 1906,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
         ]
       }
     },
@@ -4388,6 +5574,31 @@
           "geonames",
           "levantrain_compilation",
           "wp_syria"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1427,
+          36.1645
+        ]
+      },
+      "properties": {
+        "station_id": "wudeihi",
+        "name": "Al-Wudeihi",
+        "name_arabic": "الوضيحي",
+        "country": "Syria",
+        "role": "Syria trunk (Aleppo–Homs section)",
+        "confidence": "low",
+        "year_opened": 1906,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
         ]
       }
     },
@@ -4527,6 +5738,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          35.974477,
+          32.702269
+        ]
+      },
+      "properties": {
+        "station_id": "dchajara",
+        "name": "Dchajara",
+        "country": "Syria",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — No station feature; positioned at Tell Shehab village, Daraa gov. Halt may sit off-village in gorge.",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "osm",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.3025,
           33.28361
         ]
@@ -4620,6 +5854,7 @@
         "precision": "town",
         "source_ids": [
           "levantrain_compilation",
+          "pr_diagram_1925",
           "shemer_jezreel",
           "wikipedia_geo",
           "wp_hejaz",
@@ -4659,8 +5894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.15,
-          33.66
+          36.07557,
+          33.63143
         ]
       },
       "properties": {
@@ -4864,8 +6099,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.05,
-          33.74
+          36.15354,
+          33.84482
         ]
       },
       "properties": {
@@ -4877,12 +6112,36 @@
         "elevation_m": 1300,
         "notes": "Location note: DHP station 'Jisr el-Remman' (~1300 m altitude) at the summit end of the line, listed adjacent to Serghaya (1373 m) and Zabadani (1210 m) — i.e. in the Zabadani/Serghaya branch area; Neighbouring station on the summit section",
         "verification_status": "unverified",
-        "precision": "town",
+        "precision": "approx",
         "source_ids": [
           "bdr_project",
           "gwr_lebanon",
           "levantrain_compilation",
           "wp_lebanon"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2761,
+          33.0124
+        ]
+      },
+      "properties": {
+        "station_id": "khabab",
+        "name": "Khabab",
+        "name_arabic": "خبب",
+        "country": "Syria",
+        "role": "Hejaz main line (Damascus–Deraa)",
+        "year_opened": 1903,
+        "gauge_mm": 1050,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
         ]
       }
     },
@@ -5020,6 +6279,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.2211,
+          32.9567
+        ]
+      },
+      "properties": {
+        "station_id": "mahaja",
+        "name": "Mahaja",
+        "name_arabic": "محجة",
+        "country": "Syria",
+        "role": "Hejaz main line (Damascus–Deraa)",
+        "year_opened": 1903,
+        "gauge_mm": 1050,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85571,
+          32.65397
+        ]
+      },
+      "properties": {
+        "station_id": "makaren",
+        "name": "Makaren",
+        "country": "Syria",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — Yarmouk-valley halt; not in OSM/WD/Nominatim. Position undetermined. [coordinate filled by chainage interpolation between catalogue anchors]",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "levantrain_compilation",
+          "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3833,
+          33.1333
+        ]
+      },
+      "properties": {
+        "station_id": "mismiyeh",
+        "name": "Mismiyeh (al-Mismiyah)",
+        "name_arabic": "المسمية",
+        "country": "Syria",
+        "role": "Hejaz main line (Damascus–Deraa)",
+        "year_opened": 1903,
+        "gauge_mm": 1050,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.012669,
           32.688297
         ]
@@ -5034,7 +6364,8 @@
         "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
-          "osm"
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -5059,6 +6390,31 @@
           "levantrain_compilation",
           "osm",
           "wp_syria"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.631,
+          34.6451
+        ]
+      },
+      "properties": {
+        "station_id": "qattinah",
+        "name": "Qattinah",
+        "name_arabic": "قطينة",
+        "country": "Syria",
+        "role": "Rayak–Baalbek–Homs line",
+        "confidence": "low",
+        "year_opened": 1902,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
         ]
       }
     },
@@ -5172,6 +6528,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.2379,
+          32.9068
+        ]
+      },
+      "properties": {
+        "station_id": "shaqra",
+        "name": "Shaqra",
+        "name_arabic": "شقرا",
+        "country": "Syria",
+        "role": "Hejaz main line (Damascus–Deraa)",
+        "year_opened": 1903,
+        "gauge_mm": 1050,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.16052,
           32.82666
         ]
@@ -5226,6 +6606,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.731,
+          34.841
+        ]
+      },
+      "properties": {
+        "station_id": "talbiseh",
+        "name": "Talbiseh",
+        "name_arabic": "تلبيسة",
+        "country": "Syria",
+        "role": "Syria trunk (Aleppo–Homs section)",
+        "confidence": "low",
+        "year_opened": 1906,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.034,
+          35.8335
+        ]
+      },
+      "properties": {
+        "station_id": "tallajin",
+        "name": "Tallajin",
+        "name_arabic": "تلاجين",
+        "country": "Syria",
+        "role": "Syria trunk (Aleppo–Homs section)",
+        "confidence": "low",
+        "year_opened": 1906,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.883,
           34.883
         ]
@@ -5242,6 +6672,54 @@
           "levantrain_compilation",
           "wikipedia_geo",
           "wp_syria"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9642,
+          35.5173
+        ]
+      },
+      "properties": {
+        "station_id": "umm-ar-rajim",
+        "name": "Umm ar-Rajim",
+        "name_arabic": "أم الرجيم",
+        "country": "Syria",
+        "role": "Syria trunk (Aleppo–Homs section)",
+        "confidence": "low",
+        "year_opened": 1906,
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "gsgs_2061_syria_1916"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74063,
+          32.67138
+        ]
+      },
+      "properties": {
+        "station_id": "wadi-khaled",
+        "name": "Wadi Khaled",
+        "country": "Syria",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — Yarmouk-valley halt; not in OSM/WD/Nominatim. Between al-Hamma(~95km) and Deraa(~161km). [coordinate filled by chainage interpolation between catalogue anchors]",
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "levantrain_compilation",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -5277,6 +6755,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          35.943333,
+          32.720833
+        ]
+      },
+      "properties": {
+        "station_id": "zeizoun",
+        "name": "Zeizoun",
+        "country": "Syria",
+        "confidence": "high",
+        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: town (medium confidence) — Zayzun village, Daraa gov. No station node; located to village.",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "pr_diagram_1925",
+          "wikidata"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.18444,
           32.55528
         ]
@@ -5293,6 +6794,7 @@
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "pr_diagram_1925",
           "robinson_atlas",
           "wikipedia_geo",
           "wp_hejaz"

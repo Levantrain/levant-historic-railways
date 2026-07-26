@@ -26,6 +26,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          38.02821,
+          36.83275
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Jarabulus (Karkamış) Euphrates bridge",
+        "confidence": "high",
+        "note": "Baghdad Railway crossing of the Euphrates at Jarabulus / Karkamış. Confirmed on OSM (\"Karkamış Köprüsü / جسر جرابلس\", railway=disused).",
+        "route_id": "d57acc0e-cf6a-4d9b-9f26-436e8bafa6d3",
+        "source_ids": [
+          "levantrain_planning_2026_07",
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56527,
+          32.62411
+        ]
+      },
+      "properties": {
+        "type": "bridge",
+        "name": "Jisr el-Majami' (Gesher) Jordan River railway bridge",
+        "confidence": "high",
+        "note": "Abandoned Jezreel Valley / Hejaz railway bridge over the Jordan near Gesher / Naharayim. Confirmed on OSM (railway=abandoned, bridge=yes).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "levantrain_planning_2026_07",
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.821,
           30.824
         ]
@@ -69,6 +111,148 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          35.03,
+          32.81
+        ]
+      },
+      "properties": {
+        "type": "depot",
+        "name": "Haifa East / Qishon railway workshops",
+        "confidence": "medium",
+        "note": "Palestine Railways' main workshops by the Qishon river, adjacent to Haifa East station. Coordinate approximate (Qishon works area).",
+        "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
+        "source_ids": [
+          "levantrain_planning_2026_07"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.28333,
+          33.46667
+        ]
+      },
+      "properties": {
+        "type": "depot",
+        "name": "Kadem (Qadam) works & depot",
+        "confidence": "medium",
+        "note": "Hejaz Railway workshops & depot S of Damascus. Anchored at Kadem station; exact works footprint approximate.",
+        "route_id": "0efc4f8c-1ea4-4d8c-894c-fb794caa8259",
+        "source_ids": [
+          "levantrain_planning_2026_07"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7341,
+          30.1962
+        ]
+      },
+      "properties": {
+        "type": "depot",
+        "name": "Ma'an station workshops",
+        "confidence": "medium",
+        "note": "Hejaz Railway workshops at Ma'an — a major operating base (and a focal point of the Arab Revolt). Anchored at Ma'an station.",
+        "route_id": "0efc4f8c-1ea4-4d8c-894c-fb794caa8259",
+        "source_ids": [
+          "levantrain_planning_2026_07"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0054,
+          33.860252
+        ]
+      },
+      "properties": {
+        "type": "depot",
+        "name": "Rayak works & depot",
+        "confidence": "high",
+        "note": "DHP locomotive workshops, foundry & repair shops — the operational heart of the Beirut–Damascus/Beqaa network and a railway company-town. Site of the junction between the 1,050 mm Beirut–Damascus line and the standard-gauge Rayak–Baalbek–Aleppo line (which moved the transfer point from Damascus to Rayak; Baalbek 1902, Aleppo 1906). The ~133,430 m² factory (≈48 buildings) converted steam engines coal→diesel and served as a technical school; used as a military base in WWII (five \"Rayak\"-series warplanes assembled at the adjacent airbase). >30 locomotives and ~200 coaches/wagons reportedly still rust on the ~170,000 m² site; the Train/Train NGO proposes a Rayak Railway Museum. Located ~1.1 km NW of the passenger station, on the northern throat that ran under the Baalbek-road bridge toward Homs/Beirut. Site satellite-identified; layout per the DHP factory plan (Rizk 2022).",
+        "route_id": "7e0985fc-63ab-4fbd-adb0-ec925bd8e932",
+        "source_ids": [
+          "levantrain_planning_2026_07",
+          "osm",
+          "rizk_rayak_2022"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9167,
+          29.65
+        ]
+      },
+      "properties": {
+        "type": "engineering_feature",
+        "name": "Batn el-Ghoul escarpment descent",
+        "confidence": "medium",
+        "note": "The Hejaz Railway's dramatic curved descent of the Batn al-Ghul escarpment S of Ma'an. Coordinate = Jabal Batn al-Ghul (approximate); exact rail alignment to verify.",
+        "route_id": "0efc4f8c-1ea4-4d8c-894c-fb794caa8259",
+        "source_ids": [
+          "levantrain_planning_2026_07"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.141,
+          31.7195
+        ]
+      },
+      "properties": {
+        "type": "engineering_feature",
+        "name": "Battir railway section",
+        "confidence": "medium",
+        "note": "The Jaffa–Jerusalem line through the UNESCO World Heritage terraces at Battir, running along the Green Line — a railway / heritage / border collision in a ~2 km stretch. Linear feature anchored at Battir station.",
+        "route_id": "54b19ec3-757e-4f1a-be10-0346c9a4282f",
+        "source_ids": [
+          "levantrain_planning_2026_07"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.76188,
+          33.81034
+        ]
+      },
+      "properties": {
+        "type": "engineering_feature",
+        "name": "Beirut–Damascus rack (Abt) section",
+        "confidence": "medium",
+        "note": "The 1,050 mm DHP line's Abt rack sections climbing the Lebanon range to the Dahr el-Baidar pass (~1,500 m; gradients reported ~7%) — the region's premier railway engineering feat (opened 1895). Linear feature anchored at the Dahr el-Baidar summit.",
+        "route_id": "7e0985fc-63ab-4fbd-adb0-ec925bd8e932",
+        "source_ids": [
+          "levantrain_planning_2026_07"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.68,
           37.13
         ]
@@ -90,6 +274,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          35.148094,
+          32.324315
+        ]
+      },
+      "properties": {
+        "type": "tunnel",
+        "name": "Bal'a Tunnel (al-Kharq) — Ottoman railway tunnel",
+        "confidence": "high",
+        "note": "The only railway tunnel in the West Bank, ~212 m long. Cut through Mount Rasheen ~9 km E of Tulkarm, just E of Bal'a, on the Mas'udiya–Anabta segment of the Eastern/Hejaz branch (our eastern-railway; mapped in OSM as \"Old Afula-Nablus Railway\"). Local name النفق العثماني / al-Kharq (\"the breach\"). PORTALS (OSM way 414427473, railway=abandoned tunnel=yes; corridor confirmed on Airbus/Maxar satellite): south 32.323397, 35.147829 · north 32.325232, 35.148359; stored point = midpoint. LENGTH SETTLED: ~212 m measured along the OSM alignment — the 350 m (video) and ~800 m (folklore) figures are overstated; the ~145–240 m estimates were right. DATE contested (Abdul Hamid II-era survey vs 1915 wartime completion under H.A. Meissner). Wikidata Q12409257. Corridor + both portals survive today. [025 correction: on the Afula-Nablus MAIN LINE (Sileh->Mas'udiya, eastern-railway seq4) via El Attara / Kh. Rashin — confirmed as \"Tunnel\" at Kh. Rashin on Survey of Palestine sheet 16-19 (Anabta, 1942), matching OSM way 414427473 — NOT the Mas'udiya->Anebta arm as 023/024 stated. Precise seq4 corridor geometry pending georeferencing.]",
+        "route_id": "279a8e5d-3166-4a0e-8839-3eafd84e08e4",
+        "source_ids": [
+          "osm",
+          "travelpalestine_bala"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.71,
           34.3
         ]
@@ -102,6 +307,27 @@
         "route_id": "50df2b1e-00d1-49a9-9de0-c3d9c7e12a94",
         "source_ids": [
           "awm_hbt"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1043,
+          33.09327
+        ]
+      },
+      "properties": {
+        "type": "tunnel",
+        "name": "Ras al-Naqoura (Rosh HaNikra) headland tunnels",
+        "confidence": "high",
+        "note": "WWII Haifa–Beirut–Tripoli line tunnels bored through the Naqoura headland at the Israel–Lebanon border. Confirmed on OSM (\"Rosh HaNikra Railroad\", railway=abandoned, tunnel=yes).",
+        "route_id": "50df2b1e-00d1-49a9-9de0-c3d9c7e12a94",
+        "source_ids": [
+          "levantrain_planning_2026_07",
+          "osm"
         ]
       }
     },

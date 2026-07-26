@@ -1,0 +1,191 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "ras-el-ain-petah-tikva",
+    "name": "Ras el Ain–Petah Tikva Branch",
+    "countries": "Israel",
+    "gauge_mm": 1435,
+    "era": "historic",
+    "color": "#ec4899",
+    "corridor_confidence": "medium",
+    "description": "Short branch from the Ras el Ain junction to Petah Tikva.",
+    "history": "Chainage from Ras el Ain (0) per the 1925 diagram. Geometry schematic.",
+    "verification_status": "unverified",
+    "source_ids": [
+      "pr_diagram_1925"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.934397,
+            32.09809
+          ],
+          [
+            34.935138,
+            32.106926
+          ],
+          [
+            34.935176,
+            32.109417
+          ],
+          [
+            34.934837,
+            32.106951
+          ],
+          [
+            34.934785,
+            32.107373
+          ],
+          [
+            34.934297,
+            32.108193
+          ],
+          [
+            34.933615,
+            32.10872
+          ],
+          [
+            34.933034,
+            32.108971
+          ],
+          [
+            34.922237,
+            32.110815
+          ],
+          [
+            34.918614,
+            32.111033
+          ],
+          [
+            34.911477,
+            32.11108
+          ],
+          [
+            34.906067,
+            32.11143
+          ],
+          [
+            34.895225,
+            32.112316
+          ],
+          [
+            34.893133,
+            32.112324
+          ],
+          [
+            34.882929,
+            32.111566
+          ],
+          [
+            34.880615,
+            32.111075
+          ],
+          [
+            34.864155,
+            32.106634
+          ],
+          [
+            34.86354,
+            32.106679
+          ],
+          [
+            34.858072,
+            32.105181
+          ],
+          [
+            34.855297,
+            32.104766
+          ],
+          [
+            34.851846,
+            32.104107
+          ],
+          [
+            34.850343,
+            32.103118
+          ],
+          [
+            34.848008,
+            32.102145
+          ],
+          [
+            34.847472,
+            32.10177
+          ],
+          [
+            34.847172,
+            32.10133
+          ],
+          [
+            34.846911,
+            32.100697
+          ],
+          [
+            34.845633,
+            32.096775
+          ],
+          [
+            34.845531,
+            32.096167
+          ],
+          [
+            34.845697,
+            32.09363
+          ],
+          [
+            34.846186,
+            32.092973
+          ],
+          [
+            34.847006,
+            32.092624
+          ],
+          [
+            34.84945,
+            32.092557
+          ],
+          [
+            34.852757,
+            32.092675
+          ],
+          [
+            34.854109,
+            32.092594
+          ],
+          [
+            34.875298,
+            32.090613
+          ],
+          [
+            34.875798,
+            32.090707
+          ],
+          [
+            34.876235,
+            32.09097
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "ras-el-ain-petah-tikva",
+        "sequence": 1,
+        "from": "Ras el Ain (Palestine)",
+        "to": "Petah Tikva",
+        "from_id": "ras-el-ain-palestine",
+        "to_id": "petah-tikva",
+        "geometry_status": "partial",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    }
+  ]
+}

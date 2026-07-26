@@ -11,10 +11,11 @@
     "color": "#b45309",
     "corridor_confidence": "high",
     "description": "Syrian standard-gauge north-south trunk; the connector to Aleppo",
-    "notes": "The internal Syrian standard-gauge trunk; the physical link from the Levant routes to the Baghdad Railway.  [established] The Homs-Hama-Aleppo section is the DHP standard-gauge northern line (opened 1902-1906); the DIRECT Damascus-Homs standard-gauge link (194 km) opened only in 1983 (before that Damascus connected north via Rayak / the narrow gauge). So the full through trunk dates variously 1906-1983.  [connections] This is the missing SPINE that ties the network together: it meets the Beirut-Damascus and Hejaz lines at Damascus; the Rayak-Baalbek and Tripoli-Homs lines at Homs; the Syrian coastal and Euphrates lines; and the Baghdad Railway at Aleppo (-> Turkey and Iraq).",
+    "notes": "The internal Syrian standard-gauge trunk; the physical link from the Levant routes to the Baghdad Railway.  [established] The Homs-Hama-Aleppo section is the DHP standard-gauge northern line (opened 1902-1906); the DIRECT Damascus-Homs standard-gauge link (194 km) opened only in 1983 (before that Damascus connected north via Rayak / the narrow gauge). So the full through trunk dates variously 1906-1983.  [connections] This is the missing SPINE that ties the network together: it meets the Beirut-Damascus and Hejaz lines at Damascus; the Rayak-Baalbek and Tripoli-Homs lines at Homs; the Syrian coastal and Euphrates lines; and the Baghdad Railway at Aleppo (-> Turkey and Iraq). GSGS 2061/9 (1916): trunk drawn as COMPLETED railway. Note: the 1916 map routes Damascus↔Homs via Rayak/Baalbek (the direct An-Nabk alignment we model postdates 1916) — An-Nabk not shown on the 1916 trunk; Maarat al-Numan drawn as a town, not a station on the line.",
     "history": "The standard-gauge (1,435 mm) spine of the Syrian network. Its northern half (Homs-Hama-Aleppo) is the French DHP 'prolongements' opened 1902-1906; the Damascus-Homs section was completed as standard gauge in 1983, giving a continuous Damascus-Aleppo trunk.",
     "verification_status": "unverified",
     "source_ids": [
+      "gsgs_2061_syria_1916",
       "levantrain_compilation",
       "levantrain_system",
       "wp_lebanon",
@@ -88,8 +89,8 @@
             34.7333
           ],
           [
-            36.7496,
-            35.1343
+            36.731,
+            34.841
           ]
         ]
       },
@@ -97,13 +98,65 @@
         "route_id": "syria-trunk",
         "sequence": 3,
         "from": "Homs",
-        "to": "Hama",
+        "to": "Talbiseh",
         "from_id": "homs",
-        "to_id": "hama",
+        "to_id": "talbiseh",
         "geometry_status": "schematic",
         "geometry_source": "schematic",
         "corridor_confidence": "high",
         "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.731,
+            34.841
+          ],
+          [
+            36.71,
+            34.906
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 4,
+        "from": "Talbiseh",
+        "to": "Al-Rastan",
+        "from_id": "talbiseh",
+        "to_id": "rastan",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.71,
+            34.906
+          ],
+          [
+            36.7496,
+            35.1343
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 5,
+        "from": "Al-Rastan",
+        "to": "Hama",
+        "from_id": "rastan",
+        "to_id": "hama",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic"
       }
     },
     {
@@ -116,18 +169,18 @@
             35.1343
           ],
           [
-            36.677706,
-            35.647079
+            36.9642,
+            35.5173
           ]
         ]
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 4,
+        "sequence": 6,
         "from": "Hama",
-        "to": "Maarat al-Numan",
+        "to": "Umm ar-Rajim",
         "from_id": "hama",
-        "to_id": "maarat-al-numan",
+        "to_id": "umm-ar-rajim",
         "geometry_status": "schematic",
         "geometry_source": "schematic",
         "corridor_confidence": "high",
@@ -140,26 +193,716 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.677706,
-            35.647079
+            36.9642,
+            35.5173
           ],
           [
-            37.14778,
-            36.21389
+            36.677706,
+            35.647079
           ]
         ]
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 5,
+        "sequence": 7,
+        "from": "Umm ar-Rajim",
+        "to": "Maarat al-Numan",
+        "from_id": "umm-ar-rajim",
+        "to_id": "maarat-al-numan",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.677706,
+            35.647079
+          ],
+          [
+            37.0477,
+            35.736
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 8,
         "from": "Maarat al-Numan",
-        "to": "Aleppo",
+        "to": "Abu al-Duhur",
         "from_id": "maarat-al-numan",
-        "to_id": "aleppo",
+        "to_id": "abu-al-duhur",
         "geometry_status": "schematic",
         "geometry_source": "schematic",
         "corridor_confidence": "high",
         "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.047665,
+            35.735959
+          ],
+          [
+            37.048618,
+            35.73842
+          ],
+          [
+            37.04919,
+            35.740368
+          ],
+          [
+            37.049489,
+            35.742566
+          ],
+          [
+            37.049393,
+            35.743383
+          ],
+          [
+            37.048946,
+            35.744637
+          ],
+          [
+            37.047286,
+            35.747068
+          ],
+          [
+            37.045309,
+            35.750611
+          ],
+          [
+            37.040081,
+            35.760796
+          ],
+          [
+            37.039251,
+            35.76278
+          ],
+          [
+            37.032509,
+            35.786287
+          ],
+          [
+            37.030727,
+            35.793175
+          ],
+          [
+            37.030702,
+            35.794454
+          ],
+          [
+            37.033967,
+            35.833468
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 9,
+        "from": "Abu al-Duhur",
+        "to": "Tallajin",
+        "from_id": "abu-al-duhur",
+        "to_id": "tallajin",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.033967,
+            35.833468
+          ],
+          [
+            37.034626,
+            35.840789
+          ],
+          [
+            37.035378,
+            35.842601
+          ],
+          [
+            37.035865,
+            35.843437
+          ],
+          [
+            37.036691,
+            35.844445
+          ],
+          [
+            37.074406,
+            35.882666
+          ],
+          [
+            37.078429,
+            35.886847
+          ],
+          [
+            37.104005,
+            35.912671
+          ],
+          [
+            37.105544,
+            35.914516
+          ],
+          [
+            37.106345,
+            35.915844
+          ],
+          [
+            37.107183,
+            35.91757
+          ],
+          [
+            37.107639,
+            35.918838
+          ],
+          [
+            37.108097,
+            35.921498
+          ],
+          [
+            37.107987,
+            35.926017
+          ],
+          [
+            37.106987,
+            35.949069
+          ],
+          [
+            37.10698,
+            35.951212
+          ],
+          [
+            37.107199,
+            35.952359
+          ],
+          [
+            37.10754,
+            35.953261
+          ],
+          [
+            37.108454,
+            35.954673
+          ],
+          [
+            37.109474,
+            35.95569
+          ],
+          [
+            37.111253,
+            35.956895
+          ],
+          [
+            37.112557,
+            35.957361
+          ],
+          [
+            37.116731,
+            35.958377
+          ],
+          [
+            37.118429,
+            35.958992
+          ],
+          [
+            37.119853,
+            35.959799
+          ],
+          [
+            37.120885,
+            35.960547
+          ],
+          [
+            37.121779,
+            35.961406
+          ],
+          [
+            37.12246,
+            35.96226
+          ],
+          [
+            37.123118,
+            35.963362
+          ],
+          [
+            37.123612,
+            35.964449
+          ],
+          [
+            37.125009,
+            35.971658
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 10,
+        "from": "Tallajin",
+        "to": "Al-Hamidiyah",
+        "from_id": "tallajin",
+        "to_id": "hamidiyah",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.125009,
+            35.971658
+          ],
+          [
+            37.126382,
+            35.978714
+          ],
+          [
+            37.127288,
+            35.982841
+          ],
+          [
+            37.127679,
+            35.986385
+          ],
+          [
+            37.127617,
+            35.987113
+          ],
+          [
+            37.126186,
+            35.994738
+          ],
+          [
+            37.125759,
+            36.009753
+          ],
+          [
+            37.125611,
+            36.016757
+          ],
+          [
+            37.125698,
+            36.017469
+          ],
+          [
+            37.12624,
+            36.019248
+          ],
+          [
+            37.130754,
+            36.029333
+          ],
+          [
+            37.13097,
+            36.029992
+          ],
+          [
+            37.137372,
+            36.055732
+          ],
+          [
+            37.137597,
+            36.057765
+          ],
+          [
+            37.136774,
+            36.068599
+          ],
+          [
+            37.136417,
+            36.069836
+          ],
+          [
+            37.128813,
+            36.08675
+          ],
+          [
+            37.129273,
+            36.088697
+          ],
+          [
+            37.127094,
+            36.090567
+          ],
+          [
+            37.125016,
+            36.094911
+          ],
+          [
+            37.124577,
+            36.098153
+          ],
+          [
+            37.124672,
+            36.09892
+          ],
+          [
+            37.124647,
+            36.10014
+          ],
+          [
+            37.123574,
+            36.105834
+          ],
+          [
+            37.123728,
+            36.106652
+          ],
+          [
+            37.124132,
+            36.107387
+          ],
+          [
+            37.128526,
+            36.111575
+          ],
+          [
+            37.128904,
+            36.111964
+          ],
+          [
+            37.12935,
+            36.112726
+          ],
+          [
+            37.129582,
+            36.113524
+          ],
+          [
+            37.129573,
+            36.114397
+          ],
+          [
+            37.129385,
+            36.115111
+          ],
+          [
+            37.128526,
+            36.117032
+          ],
+          [
+            37.128312,
+            36.117906
+          ],
+          [
+            37.128363,
+            36.119001
+          ],
+          [
+            37.128852,
+            36.120367
+          ],
+          [
+            37.129573,
+            36.12122
+          ],
+          [
+            37.130003,
+            36.121587
+          ],
+          [
+            37.134517,
+            36.125075
+          ],
+          [
+            37.135616,
+            36.125733
+          ],
+          [
+            37.137435,
+            36.126586
+          ],
+          [
+            37.138388,
+            36.127328
+          ],
+          [
+            37.139027,
+            36.128231
+          ],
+          [
+            37.140105,
+            36.1306
+          ],
+          [
+            37.140242,
+            36.131661
+          ],
+          [
+            37.14013,
+            36.13218
+          ],
+          [
+            37.139641,
+            36.133137
+          ],
+          [
+            37.139229,
+            36.13356
+          ],
+          [
+            37.138242,
+            36.134191
+          ],
+          [
+            37.136036,
+            36.135057
+          ],
+          [
+            37.135496,
+            36.135362
+          ],
+          [
+            37.134981,
+            36.13573
+          ],
+          [
+            37.134183,
+            36.136659
+          ],
+          [
+            37.133907,
+            36.137255
+          ],
+          [
+            37.132767,
+            36.141992
+          ],
+          [
+            37.132586,
+            36.143229
+          ],
+          [
+            37.132758,
+            36.14524
+          ],
+          [
+            37.133324,
+            36.14682
+          ],
+          [
+            37.133964,
+            36.147933
+          ],
+          [
+            37.135822,
+            36.150264
+          ],
+          [
+            37.13654,
+            36.151362
+          ],
+          [
+            37.138337,
+            36.156003
+          ],
+          [
+            37.138877,
+            36.157063
+          ],
+          [
+            37.141523,
+            36.160066
+          ],
+          [
+            37.142002,
+            36.16077
+          ],
+          [
+            37.142285,
+            36.162056
+          ],
+          [
+            37.140674,
+            36.159506
+          ],
+          [
+            37.138413,
+            36.156505
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 11,
+        "from": "Al-Hamidiyah",
+        "to": "Al-Wudeihi",
+        "from_id": "hamidiyah",
+        "to_id": "wudeihi",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.138413,
+            36.156505
+          ],
+          [
+            37.140674,
+            36.159506
+          ],
+          [
+            37.14241,
+            36.162287
+          ],
+          [
+            37.142932,
+            36.165676
+          ],
+          [
+            37.142845,
+            36.168163
+          ],
+          [
+            37.14288,
+            36.171529
+          ],
+          [
+            37.146173,
+            36.173451
+          ],
+          [
+            37.146515,
+            36.174215
+          ],
+          [
+            37.14601,
+            36.174732
+          ],
+          [
+            37.145555,
+            36.175467
+          ],
+          [
+            37.145289,
+            36.176049
+          ],
+          [
+            37.145152,
+            36.176638
+          ],
+          [
+            37.145126,
+            36.177183
+          ],
+          [
+            37.145715,
+            36.180121
+          ],
+          [
+            37.144725,
+            36.182325
+          ],
+          [
+            37.143893,
+            36.182857
+          ],
+          [
+            37.141027,
+            36.184131
+          ],
+          [
+            37.139937,
+            36.184879
+          ],
+          [
+            37.137319,
+            36.187644
+          ],
+          [
+            37.136692,
+            36.188475
+          ],
+          [
+            37.136121,
+            36.189403
+          ],
+          [
+            37.135319,
+            36.191133
+          ],
+          [
+            37.134624,
+            36.19441
+          ],
+          [
+            37.134727,
+            36.195346
+          ],
+          [
+            37.135319,
+            36.1975
+          ],
+          [
+            37.135345,
+            36.198401
+          ],
+          [
+            37.134945,
+            36.199589
+          ],
+          [
+            37.134374,
+            36.201853
+          ],
+          [
+            37.136641,
+            36.204932
+          ],
+          [
+            37.14159,
+            36.209845
+          ],
+          [
+            37.145637,
+            36.212917
+          ],
+          [
+            37.15323,
+            36.218281
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 12,
+        "from": "Al-Wudeihi",
+        "to": "Aleppo",
+        "from_id": "wudeihi",
+        "to_id": "aleppo",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "source_ids": [
+          "osm"
+        ]
       }
     }
   ]
