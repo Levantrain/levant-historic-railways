@@ -7029,8 +7029,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.635078,
-          37.099608
+          36.638721,
+          37.098819
         ]
       },
       "properties": {
@@ -7040,7 +7040,7 @@
         "role": "Amanus (Nur) Mts crossing; Ayran tunnel area",
         "confidence": "high",
         "verification_status": "verified",
-        "precision": "town",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
