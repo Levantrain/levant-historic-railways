@@ -3219,6 +3219,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.19606,
+          32.51106
+        ]
+      },
+      "properties": {
+        "station_id": "jabir-as-sirhan",
+        "name": "Jabir as-Sirhan",
+        "name_arabic": "جابر السرحان",
+        "country": "Jordan",
+        "role": "Hejaz main line",
+        "confidence": "low",
+        "year_opened": 1903,
+        "gauge_mm": 1050,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "wp_hejaz"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.96171,
           31.71186
         ]
@@ -3494,33 +3519,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.0069,
-          32.5592
-        ]
-      },
-      "properties": {
-        "station_id": "ramtha",
-        "name": "Ramtha",
-        "country": "Jordan",
-        "role": "Hejaz station near the Syrian border",
-        "confidence": "high",
-        "verification_status": "verified",
-        "precision": "town",
-        "source_ids": [
-          "arabnews_hejaz",
-          "geonames",
-          "levantrain_compilation",
-          "ochsenwald_1980",
-          "robinson_atlas",
-          "wp_hejaz"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           36.04639,
           32.01778
         ]
@@ -3572,8 +3570,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.0667,
-          31.4
+          36.111956,
+          31.378104
         ]
       },
       "properties": {
@@ -5282,6 +5280,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.515,
+          33.6
+        ]
+      },
+      "properties": {
+        "station_id": "adra",
+        "name": "Adra",
+        "name_arabic": "عدرا",
+        "country": "Syria",
+        "role": "Serves Adra Industrial City (Syria's largest industrial zone); terminus of the Latakia port–Adra container/dry-port freight service (reopened May 2026).",
+        "confidence": "low",
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "wp_adra"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.135904,
           33.771421
         ]
@@ -5620,31 +5642,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.7284,
-          34.0255
-        ]
-      },
-      "properties": {
-        "station_id": "an-nabk",
-        "name": "An-Nabk",
-        "country": "Syria",
-        "role": "Damascus-Homs trunk station",
-        "confidence": "medium",
-        "verification_status": "verified",
-        "precision": "town",
-        "source_ids": [
-          "geonames",
-          "levantrain_compilation",
-          "wp_lebanon",
-          "wp_syria"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           35.94028,
           35.18222
         ]
@@ -5716,6 +5713,30 @@
           "robinson_atlas",
           "wikipedia_geo",
           "wp_hejaz"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.29075,
+          33.476583
+        ]
+      },
+      "properties": {
+        "station_id": "damascus-qadam",
+        "name": "Damascus Qadam",
+        "name_arabic": "محطة القدم",
+        "country": "Syria",
+        "role": "Standard-gauge intercity terminus for Damascus (Damascus↔Aleppo/Latakia); took over from the city-centre Hejaz station after it closed to traffic. 4 platforms, 6 tracks; originally a 1900s Hejaz Railway station.",
+        "confidence": "high",
+        "gauge_mm": 1435,
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "wp_qadam_station"
         ]
       }
     },
@@ -5826,8 +5847,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.1,
-          32.617
+          36.10806,
+          32.62498
         ]
       },
       "properties": {
@@ -5837,14 +5858,41 @@
         "role": "Junction: Hejaz trunk x Haifa-Deraa branch",
         "confidence": "high",
         "verification_status": "verified",
-        "precision": "town",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "nabataea_deraa_station",
+          "osm",
           "pr_diagram_1925",
           "shemer_jezreel",
           "wikipedia_geo",
           "wp_hejaz",
           "wp_jezreel"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.68703,
+          33.63379
+        ]
+      },
+      "properties": {
+        "station_id": "dumayr",
+        "name": "Dumayr",
+        "name_arabic": "ضمير",
+        "country": "Syria",
+        "role": "Damascus–Homs direct line (1983)",
+        "confidence": "medium",
+        "year_opened": 1983,
+        "gauge_mm": 1435,
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "osm"
         ]
       }
     },
@@ -5974,6 +6022,30 @@
           "levantrain_compilation",
           "osm",
           "wp_syria"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.64376,
+          34.93651
+        ]
+      },
+      "properties": {
+        "station_id": "hirbnafsah",
+        "name": "Hirbnafsah",
+        "name_arabic": "حر بنفسه",
+        "country": "Syria",
+        "role": "Homs–Hama line",
+        "confidence": "medium",
+        "gauge_mm": 1435,
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "osm"
         ]
       }
     },
@@ -6112,6 +6184,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.69388,
+          35.06874
+        ]
+      },
+      "properties": {
+        "station_id": "kafr-buhum",
+        "name": "Kafr Buhum",
+        "name_arabic": "كفر بهم",
+        "country": "Syria",
+        "role": "Homs–Hama line",
+        "confidence": "medium",
+        "gauge_mm": 1435,
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.2761,
           33.0124
         ]
@@ -6190,6 +6286,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.15625,
+          32.6028
+        ]
+      },
+      "properties": {
+        "station_id": "kum-gharz",
+        "name": "Kum Gharz",
+        "name_arabic": "كوم غرز",
+        "country": "Syria",
+        "role": "Hejaz main line",
+        "confidence": "medium",
+        "year_opened": 1903,
+        "gauge_mm": 1050,
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "osm",
+          "wp_hejaz"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.78722,
           35.51583
         ]
@@ -6205,31 +6327,6 @@
         "source_ids": [
           "levantrain_compilation",
           "wikipedia_geo",
-          "wp_syria"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.677706,
-          35.647079
-        ]
-      },
-      "properties": {
-        "station_id": "maarat-al-numan",
-        "name": "Maarat al-Numan",
-        "country": "Syria",
-        "role": "Hama-Aleppo trunk station",
-        "confidence": "medium",
-        "verification_status": "verified",
-        "precision": "town",
-        "source_ids": [
-          "levantrain_compilation",
-          "osm",
-          "wp_lebanon",
           "wp_syria"
         ]
       }
@@ -6304,6 +6401,30 @@
         "source_ids": [
           "levantrain_compilation",
           "pr_diagram_1925"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.05889,
+          34.2425
+        ]
+      },
+      "properties": {
+        "station_id": "mhin",
+        "name": "Mhin",
+        "name_arabic": "مهين",
+        "country": "Syria",
+        "role": "Junction on the direct Damascus–Homs line; the Mhin–Al Sharkia phosphate branch (111 km) diverges here. GDR signalling contract sections Homs–Mhin (I) and Mhin–Damascus (VII) meet at Mhin.",
+        "confidence": "low",
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "wp_mahin"
         ]
       }
     },
@@ -6694,8 +6815,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.74063,
-          32.67138
+          35.75012,
+          32.73587
         ]
       },
       "properties": {
@@ -6704,10 +6825,11 @@
         "country": "Syria",
         "confidence": "high",
         "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: approx (low confidence) — Yarmouk-valley halt; not in OSM/WD/Nominatim. Between al-Hamma(~95km) and Deraa(~161km). [coordinate filled by chainage interpolation between catalogue anchors]",
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
+          "osm",
           "pr_diagram_1925"
         ]
       }
@@ -6767,22 +6889,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.18444,
-          32.55528
+          36.19061,
+          32.5498
         ]
       },
       "properties": {
-        "station_id": "nassib-jaber",
-        "name": "Nassib/Jaber",
+        "station_id": "nasib",
+        "name": "Nasib",
+        "name_arabic": "نصيب",
         "country": "Syria/Jordan",
-        "role": "Border crossing",
+        "role": "Hejaz main line (Syrian border)",
         "confidence": "medium",
         "verification_status": "verified",
-        "precision": "town",
+        "precision": "exact",
         "source_ids": [
           "arabnews_hejaz",
           "levantrain_compilation",
           "ochsenwald_1980",
+          "osm",
           "pr_diagram_1925",
           "robinson_atlas",
           "wikipedia_geo",

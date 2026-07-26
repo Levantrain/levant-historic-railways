@@ -2187,6 +2187,27 @@
     "entity_type": "route",
     "entity": "syria-trunk",
     "aspect": "connection",
+    "field": null,
+    "source_id": "cfs_syrische_eisenbahn"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "connection",
+    "field": null,
+    "source_id": "syrianheritage_gdr_railway"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "connection",
+    "field": null,
+    "source_id": "wp_syria"
+  },
+  {
+    "entity_type": "route",
+    "entity": "syria-trunk",
+    "aspect": "connection",
     "field": "order",
     "source_id": "wp_lebanon"
   },
@@ -2934,6 +2955,27 @@
   },
   {
     "entity_type": "segment",
+    "entity": "haifa-deraa#10",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#11",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#13",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "haifa-deraa#14",
     "aspect": "geometry",
     "field": null,
@@ -2963,6 +3005,27 @@
   {
     "entity_type": "segment",
     "entity": "haifa-deraa#18",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#22",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#23",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#24",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3005,6 +3068,13 @@
   {
     "entity_type": "segment",
     "entity": "haifa-deraa#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#9",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3081,6 +3151,20 @@
   },
   {
     "entity_type": "segment",
+    "entity": "hejaz#13",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#14",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "hejaz#15",
     "aspect": "geometry",
     "field": null,
@@ -3123,6 +3207,20 @@
   },
   {
     "entity_type": "segment",
+    "entity": "hejaz#20",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#21",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "hejaz#22",
     "aspect": "geometry",
     "field": null,
@@ -3131,6 +3229,20 @@
   {
     "entity_type": "segment",
     "entity": "hejaz#23",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#24",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#25",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3172,7 +3284,7 @@
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#33",
+    "entity": "hejaz#31",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3228,14 +3340,14 @@
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#45",
+    "entity": "hejaz#40",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#47",
+    "entity": "hejaz#46",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3250,6 +3362,13 @@
   {
     "entity_type": "segment",
     "entity": "hejaz#49",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#50",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3522,20 +3641,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "syria-trunk#10",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "syria-trunk#11",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "syria-trunk#12",
     "aspect": "geometry",
     "field": null,
@@ -3543,7 +3648,21 @@
   },
   {
     "entity_type": "segment",
-    "entity": "syria-trunk#9",
+    "entity": "syria-trunk#13",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-trunk#14",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-trunk#15",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3806,6 +3925,20 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "adra",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_adra"
+  },
+  {
+    "entity_type": "station",
+    "entity": "adra",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wp_adra"
   },
   {
     "entity_type": "station",
@@ -4604,34 +4737,6 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
-  },
-  {
-    "entity_type": "station",
-    "entity": "an-nabk",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "wp_lebanon"
-  },
-  {
-    "entity_type": "station",
-    "entity": "an-nabk",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "wp_syria"
-  },
-  {
-    "entity_type": "station",
-    "entity": "an-nabk",
-    "aspect": "geometry",
-    "field": "coordinate",
-    "source_id": "levantrain_compilation"
-  },
-  {
-    "entity_type": "station",
-    "entity": "an-nabk",
-    "aspect": "geometry",
-    "field": "coordinates",
-    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -5979,6 +6084,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "damascus-qadam",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_qadam_station"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-qadam",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wp_qadam_station"
+  },
+  {
+    "entity_type": "station",
     "entity": "dayr-aban",
     "aspect": "attribute",
     "field": "name",
@@ -6212,6 +6331,13 @@
     "entity_type": "station",
     "entity": "deraa",
     "aspect": "attribute",
+    "field": "existence",
+    "source_id": "nabataea_deraa_station"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deraa",
+    "aspect": "attribute",
     "field": "name",
     "source_id": "pr_diagram_1925"
   },
@@ -6242,6 +6368,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "deraa",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -6319,6 +6452,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "dumayr",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -7512,6 +7652,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "hirbnafsah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "homs",
     "aspect": "attribute",
     "field": "name",
@@ -7754,6 +7901,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "jabir-as-sirhan",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "wp_hejaz"
   },
   {
     "entity_type": "station",
@@ -8132,6 +8286,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "geonames"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kafr-buhum",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -8702,6 +8863,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "kum-gharz",
+    "aspect": "attribute",
+    "field": "existence",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "kum-gharz",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "kut",
     "aspect": "attribute",
     "field": "name",
@@ -8986,34 +9161,6 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
-  },
-  {
-    "entity_type": "station",
-    "entity": "maarat-al-numan",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "wp_lebanon"
-  },
-  {
-    "entity_type": "station",
-    "entity": "maarat-al-numan",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "wp_syria"
-  },
-  {
-    "entity_type": "station",
-    "entity": "maarat-al-numan",
-    "aspect": "geometry",
-    "field": "coordinate",
-    "source_id": "levantrain_compilation"
-  },
-  {
-    "entity_type": "station",
-    "entity": "maarat-al-numan",
-    "aspect": "geometry",
-    "field": "coordinates",
-    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -9374,6 +9521,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "mhin",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_mahin"
+  },
+  {
+    "entity_type": "station",
+    "entity": "mhin",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wp_mahin"
+  },
+  {
+    "entity_type": "station",
     "entity": "minya",
     "aspect": "attribute",
     "field": "name",
@@ -9710,6 +9871,62 @@
   },
   {
     "entity_type": "station",
+    "entity": "nasib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "arabnews_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nasib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "ochsenwald_1980"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nasib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nasib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "robinson_atlas"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nasib",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nasib",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nasib",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "nasib",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
     "entity": "nasiriyah",
     "aspect": "attribute",
     "field": "name",
@@ -9728,55 +9945,6 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "geonames"
-  },
-  {
-    "entity_type": "station",
-    "entity": "nassib-jaber",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "arabnews_hejaz"
-  },
-  {
-    "entity_type": "station",
-    "entity": "nassib-jaber",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "ochsenwald_1980"
-  },
-  {
-    "entity_type": "station",
-    "entity": "nassib-jaber",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "pr_diagram_1925"
-  },
-  {
-    "entity_type": "station",
-    "entity": "nassib-jaber",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "robinson_atlas"
-  },
-  {
-    "entity_type": "station",
-    "entity": "nassib-jaber",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "wp_hejaz"
-  },
-  {
-    "entity_type": "station",
-    "entity": "nassib-jaber",
-    "aspect": "geometry",
-    "field": "coordinate",
-    "source_id": "levantrain_compilation"
-  },
-  {
-    "entity_type": "station",
-    "entity": "nassib-jaber",
-    "aspect": "geometry",
-    "field": "coordinates",
-    "source_id": "wikipedia_geo"
   },
   {
     "entity_type": "station",
@@ -10323,48 +10491,6 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
-  },
-  {
-    "entity_type": "station",
-    "entity": "ramtha",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "arabnews_hejaz"
-  },
-  {
-    "entity_type": "station",
-    "entity": "ramtha",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "ochsenwald_1980"
-  },
-  {
-    "entity_type": "station",
-    "entity": "ramtha",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "robinson_atlas"
-  },
-  {
-    "entity_type": "station",
-    "entity": "ramtha",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "wp_hejaz"
-  },
-  {
-    "entity_type": "station",
-    "entity": "ramtha",
-    "aspect": "geometry",
-    "field": "coordinate",
-    "source_id": "levantrain_compilation"
-  },
-  {
-    "entity_type": "station",
-    "entity": "ramtha",
-    "aspect": "geometry",
-    "field": "coordinates",
-    "source_id": "geonames"
   },
   {
     "entity_type": "station",
@@ -11905,6 +12031,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-khaled",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",

@@ -70,6 +70,20 @@
     "note": null
   },
   {
+    "id": "cfs_syrische_eisenbahn",
+    "title": "Chemins de fer Syriens (CFS) — network, timetables & station notes",
+    "publisher": "syrische-eisenbahn.de",
+    "type": "specialist",
+    "url": "http://www.syrische-eisenbahn.de/",
+    "accessed": "2026-07-26",
+    "license": "Link + credit",
+    "reliability": "secondary",
+    "author": "Samir Stefan Fteimi",
+    "year": null,
+    "isbn": null,
+    "note": "Enthusiast site mirroring CFS material: network section table with km, official 2010/2011 timetables (HTML+PDF), CFS expansion plans (al-Kaboun, Al Baharia, Dumayr), rolling stock and station notes. Last updated Dec 2024 — archive candidate."
+  },
+  {
     "id": "cotterell_1984",
     "title": "The Railways of Palestine and Israel",
     "publisher": "Tourret Publishing",
@@ -336,6 +350,48 @@
     "note": null
   },
   {
+    "id": "nabataea_deraa_station",
+    "title": "Dera'a Station — Travel the Hejaz Railway",
+    "publisher": "nabataea.net",
+    "type": "specialist",
+    "url": "https://nabataea.net/travel/travel/deraa-station/",
+    "accessed": "2026-07-25",
+    "license": "Proprietary (link-only)",
+    "reliability": "secondary",
+    "author": "nabataea.net",
+    "year": null,
+    "isbn": null,
+    "note": "Photo-documentation of Dera'a station — the junction of the E-W (Yarmuk/Haifa) and N-S (Hejaz) lines. Corroborates the station location: aligns with the OSM/Google \"Daraa Railway Station\" node."
+  },
+  {
+    "id": "newarab_aleppo_hama_2025",
+    "title": "Train service between Aleppo and Hama resumes after 13 years",
+    "publisher": "The New Arab",
+    "type": "news",
+    "url": "https://www.newarab.com/news/train-service-between-aleppo-and-hama-resumes-after-13-years",
+    "accessed": "2026-07-25",
+    "license": "Link-only (news)",
+    "reliability": "secondary",
+    "author": "The New Arab",
+    "year": 2025,
+    "isbn": null,
+    "note": "Recent operating status: Aleppo–Hama passenger service resumed after a ~13-year suspension. Corroborates the Homs–Hama–Aleppo standard-gauge line as currently active (category d — current/underway)."
+  },
+  {
+    "id": "nigeltout_yarmuk",
+    "title": "Daraa to the Yarmuk Gorge (charter train, 13 Sep 2000)",
+    "publisher": "nigeltout.com (Nigel Tout)",
+    "type": "specialist",
+    "url": "http://nigeltout.com/html/daraa-to-the-yarmuk-gorge--13-9-00.html",
+    "accessed": "2026-07-25",
+    "license": "CC BY-SA 4.0 (photos; attribute link to nigeltout.com)",
+    "reliability": "secondary",
+    "author": "Nigel Tout",
+    "year": 2000,
+    "isbn": null,
+    "note": "CC BY-SA 4.0 photos of the Yarmuk Gorge line and the Daraa loco shed (2-8-2 no. 262, Hart 4031/18). Background only for the Deraa station location, but corroborates Zeizoun as an abandoned Yarmuk-gorge station, bridge no. 14, and that bridges were blown up in the late 1940s, severing the through route to Haifa. Usable (CC) imagery; the loco shed is likely visible on satellite."
+  },
+  {
     "id": "ochsenwald_1980",
     "title": "The Hijaz Railroad",
     "publisher": "University Press of Virginia",
@@ -420,6 +476,20 @@
     "note": null
   },
   {
+    "id": "seat61_syria",
+    "title": "Train travel in Syria — The Man in Seat 61",
+    "publisher": "seat61.com",
+    "type": "reference",
+    "url": "https://www.seat61.com/Syria.htm",
+    "accessed": "2026-07-25",
+    "license": "Link-only (© Mark Smith / seat61.com)",
+    "reliability": "secondary",
+    "author": "Mark Smith (The Man in Seat 61)",
+    "year": null,
+    "isbn": null,
+    "note": "Practical guide to trains in Syria incl. the Aleppo–Damascus service (via Homs & Hama). Its timetables show only the major stops (Damascus Kadem, Homs, Hama, Aleppo) — corroborating that the modern trunk is a fast service with few intermediate stations. Recommends syrische-eisenbahn.de / syrian-railways.com (our CFS network-map source)."
+  },
+  {
     "id": "shemer_jezreel",
     "title": "The Jezreel Valley Railway",
     "publisher": "Shemer Israel",
@@ -474,6 +544,20 @@
     "year": null,
     "isbn": null,
     "note": "General sketch map, 1:3,000,000, with railways + a lat/long graticule. Coarse (corroborating), but PD → first displayable map asset. See data/reference-maps/survey-of-palestine-sketch-1932/."
+  },
+  {
+    "id": "syrianheritage_gdr_railway",
+    "title": "Assistance of the German Democratic Republic with the modernisation of the Syrian State Railway",
+    "publisher": "Syrian Heritage Archive",
+    "type": "specialist",
+    "url": "https://syrian-heritage.org/assistance-of-german-democratic-republic-with-the-modernisation-of-the-syrian-state-railway/",
+    "accessed": "2026-07-26",
+    "license": "Link + credit (photos CC-BY-SA / CC-BY-NC-ND)",
+    "reliability": "primary",
+    "author": "Manfred Strauß (via Hiba Bizreh, Syrian Heritage Archive)",
+    "year": null,
+    "isbn": null,
+    "note": "Firsthand GDR-engineer account of modernizing the Syrian State Railway (CFS), 1980–84. Confirms the direct Damascus–Aleppo line was built 1983–85. Contract sections incl. Homs–Mhin, Hama–Aleppo, Mhin–Damascus → the direct Damascus–Homs line runs via MHIN. Mentions Shanshar, the Baba Amr depot, the Homs II control centre; ~650 km of track cables, signaling for 48 buildings + 25 automatic barriers."
   },
   {
     "id": "thehejazrailway",
@@ -558,6 +642,20 @@
     "year": null,
     "isbn": null,
     "note": null
+  },
+  {
+    "id": "wp_adra",
+    "title": "Adra, Syria",
+    "publisher": "Wikipedia",
+    "type": "encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Adra,_Syria",
+    "accessed": "2026-07-26",
+    "license": "CC BY-SA",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Tier B settlement proxy: town coordinates 33.6, 36.515. Syria's largest industrial city lies immediately east; the rail station likely sits ~5–8 km E at Adra Industrial City."
   },
   {
     "id": "wp_berlin_baghdad",
@@ -700,6 +798,20 @@
     "note": null
   },
   {
+    "id": "wp_mahin",
+    "title": "Mahin, Syria",
+    "publisher": "Wikipedia",
+    "type": "encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Mahin,_Syria",
+    "accessed": "2026-07-26",
+    "license": "CC BY-SA",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Tier B settlement proxy: town coordinates 34.24250, 37.05889 (aliases Mahin/Mheen/Méhine). Article has no rail detail; the junction role comes from the GDR account + CFS network."
+  },
+  {
     "id": "wp_palestine_rw",
     "title": "Palestine Railways",
     "publisher": "Wikipedia",
@@ -712,6 +824,20 @@
     "year": null,
     "isbn": null,
     "note": null
+  },
+  {
+    "id": "wp_qadam_station",
+    "title": "Qadam railway station",
+    "publisher": "Wikipedia",
+    "type": "encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Qadam_railway_station",
+    "accessed": "2026-07-26",
+    "license": "CC BY-SA",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Tier A: station-level coordinates 33.476583, 36.290750. Damascus's standard-gauge intercity terminus in the Qadam district on the southern outskirts (aliases al-Qadam / Kadam)."
   },
   {
     "id": "wp_riyaq",

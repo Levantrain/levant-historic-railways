@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-07-25",
-  "stations": 278,
+  "snapshot_date": "2026-07-26",
+  "stations": 283,
   "routes": 28,
-  "segments": 269,
-  "segments_with_osm_geometry": 173,
+  "segments": 278,
+  "segments_with_osm_geometry": 188,
   "infrastructure": 18,
-  "sources": 53,
-  "source_links": 1743
+  "sources": 62,
+  "source_links": 1762
 }

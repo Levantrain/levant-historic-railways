@@ -6,18 +6,20 @@
     "name_arabic": "سكة حديد دمشق-حلب",
     "countries": "Syria",
     "gauge_mm": 1435,
-    "year_opened": 1906,
+    "year_opened": 1983,
     "era": "historic",
     "color": "#b45309",
     "corridor_confidence": "high",
     "description": "Syrian standard-gauge north-south trunk; the connector to Aleppo",
-    "notes": "The internal Syrian standard-gauge trunk; the physical link from the Levant routes to the Baghdad Railway.  [established] The Homs-Hama-Aleppo section is the DHP standard-gauge northern line (opened 1902-1906); the DIRECT Damascus-Homs standard-gauge link (194 km) opened only in 1983 (before that Damascus connected north via Rayak / the narrow gauge). So the full through trunk dates variously 1906-1983.  [connections] This is the missing SPINE that ties the network together: it meets the Beirut-Damascus and Hejaz lines at Damascus; the Rayak-Baalbek and Tripoli-Homs lines at Homs; the Syrian coastal and Euphrates lines; and the Baghdad Railway at Aleppo (-> Turkey and Iraq). GSGS 2061/9 (1916): trunk drawn as COMPLETED railway. Note: the 1916 map routes Damascus↔Homs via Rayak/Baalbek (the direct An-Nabk alignment we model postdates 1916) — An-Nabk not shown on the 1916 trunk; Maarat al-Numan drawn as a town, not a station on the line.",
+    "notes": "The internal Syrian standard-gauge trunk; the physical link from the Levant routes to the Baghdad Railway.  [established] The Homs-Hama-Aleppo section is the DHP standard-gauge northern line (opened 1902-1906); the DIRECT Damascus-Homs standard-gauge link (194 km) opened only in 1983 (before that Damascus connected north via Rayak / the narrow gauge). So the full through trunk dates variously 1906-1983.  [connections] This is the missing SPINE that ties the network together: it meets the Beirut-Damascus and Hejaz lines at Damascus; the Rayak-Baalbek and Tripoli-Homs lines at Homs; the Syrian coastal and Euphrates lines; and the Baghdad Railway at Aleppo (-> Turkey and Iraq). GSGS 2061/9 (1916): trunk drawn as COMPLETED railway. Note: the 1916 map routes Damascus↔Homs via Rayak/Baalbek (the direct An-Nabk alignment we model postdates 1916) — An-Nabk not shown on the 1916 trunk; Maarat al-Numan drawn as a town, not a station on the line. Era corrected 2026-07-25: the direct Damascus–An-Nabk(–Dumayr)–Homs line opened 1983 (CFS network map; Syria's 1969–1990 build-out), not 1906. The Homs–Hama–Aleppo section is the older DHP standard gauge (~1906), shared with the pre-1983 Rayak-routed trunk (modeled via beirut-damascus + rayak-baalbek→Homs). Alignment corrected 2026-07-26 (syrische-eisenbahn.de CFS section table + syrianheritage_gdr_railway GDR account + Wikipedia 'Rail transport in Syria'; reconciled via the Levantrain Damascus–Aleppo research pass): the 1983 Damascus–Homs line runs the EASTERN DESERT via Dumayr→Mhin (1980 Homs–Mhin phosphate branch, extended to Damascus 1983), NOT the M5 via An-Nabk/Qara. Terminus = Qadam (SG intercity; the city Hejaz station is closed to traffic). Removed An-Nabk (M5 inference, no rail basis) and Maarat al-Numan (highway town W of the line; Hama–Aleppo runs E of Jabal Zawiya via Abu al-Duhur). Damascus–Homs kept SCHEMATIC (settlement-proxy coords off the rail; passing loops need satellite survey). CFS 2010/2011 timetables list ~zero intermediate stops Damascus–Homs → intermediate points are station_exists, not necessarily station_served.",
     "history": "The standard-gauge (1,435 mm) spine of the Syrian network. Its northern half (Homs-Hama-Aleppo) is the French DHP 'prolongements' opened 1902-1906; the Damascus-Homs section was completed as standard gauge in 1983, giving a continuous Damascus-Aleppo trunk.",
     "verification_status": "unverified",
     "source_ids": [
+      "cfs_syrische_eisenbahn",
       "gsgs_2061_syria_1916",
       "levantrain_compilation",
       "levantrain_system",
+      "syrianheritage_gdr_railway",
       "wp_lebanon",
       "wp_syria"
     ]
@@ -29,26 +31,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.294949,
-            33.511149
+            36.29075,
+            33.476583
           ],
           [
-            36.7284,
-            34.0255
+            36.515,
+            33.6
           ]
         ]
       },
       "properties": {
         "route_id": "syria-trunk",
         "sequence": 1,
-        "from": "Damascus (Hejaz)",
-        "to": "An-Nabk",
-        "from_id": "damascus-hejaz",
-        "to_id": "an-nabk",
+        "from": "Damascus Qadam",
+        "to": "Adra",
+        "from_id": "damascus-qadam",
+        "to_id": "adra",
         "geometry_status": "schematic",
-        "geometry_source": "schematic",
-        "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "geometry_source": "schematic"
       }
     },
     {
@@ -57,8 +57,60 @@
         "type": "LineString",
         "coordinates": [
           [
-            36.7284,
-            34.0255
+            36.515,
+            33.6
+          ],
+          [
+            36.68703,
+            33.63379
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 2,
+        "from": "Adra",
+        "to": "Dumayr",
+        "from_id": "adra",
+        "to_id": "dumayr",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.68703,
+            33.63379
+          ],
+          [
+            37.05889,
+            34.2425
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 3,
+        "from": "Dumayr",
+        "to": "Mhin",
+        "from_id": "dumayr",
+        "to_id": "mhin",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.05889,
+            34.2425
           ],
           [
             36.7167,
@@ -68,15 +120,13 @@
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 2,
-        "from": "An-Nabk",
+        "sequence": 4,
+        "from": "Mhin",
         "to": "Homs",
-        "from_id": "an-nabk",
+        "from_id": "mhin",
         "to_id": "homs",
         "geometry_status": "schematic",
-        "geometry_source": "schematic",
-        "corridor_confidence": "medium",
-        "connection_status": "inferred"
+        "geometry_source": "schematic"
       }
     },
     {
@@ -96,7 +146,7 @@
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 3,
+        "sequence": 5,
         "from": "Homs",
         "to": "Talbiseh",
         "from_id": "homs",
@@ -124,7 +174,7 @@
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 4,
+        "sequence": 6,
         "from": "Talbiseh",
         "to": "Al-Rastan",
         "from_id": "talbiseh",
@@ -143,6 +193,58 @@
             34.906
           ],
           [
+            36.64376,
+            34.93651
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 7,
+        "from": "Al-Rastan",
+        "to": "Hirbnafsah",
+        "from_id": "rastan",
+        "to_id": "hirbnafsah",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.64376,
+            34.93651
+          ],
+          [
+            36.69388,
+            35.06874
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "syria-trunk",
+        "sequence": 8,
+        "from": "Hirbnafsah",
+        "to": "Kafr Buhum",
+        "from_id": "hirbnafsah",
+        "to_id": "kafr-buhum",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.69388,
+            35.06874
+          ],
+          [
             36.7496,
             35.1343
           ]
@@ -150,10 +252,10 @@
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 5,
-        "from": "Al-Rastan",
+        "sequence": 9,
+        "from": "Kafr Buhum",
         "to": "Hama",
-        "from_id": "rastan",
+        "from_id": "kafr-buhum",
         "to_id": "hama",
         "geometry_status": "schematic",
         "geometry_source": "schematic"
@@ -176,7 +278,7 @@
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 6,
+        "sequence": 10,
         "from": "Hama",
         "to": "Umm ar-Rajim",
         "from_id": "hama",
@@ -197,32 +299,6 @@
             35.51729
           ],
           [
-            36.677706,
-            35.647079
-          ]
-        ]
-      },
-      "properties": {
-        "route_id": "syria-trunk",
-        "sequence": 7,
-        "from": "Umm ar-Rajim",
-        "to": "Maarat al-Numan",
-        "from_id": "umm-ar-rajim",
-        "to_id": "maarat-al-numan",
-        "geometry_status": "schematic",
-        "geometry_source": "schematic"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.677706,
-            35.647079
-          ],
-          [
             37.04766,
             35.73596
           ]
@@ -230,15 +306,13 @@
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 8,
-        "from": "Maarat al-Numan",
+        "sequence": 11,
+        "from": "Umm ar-Rajim",
         "to": "Abu al-Duhur",
-        "from_id": "maarat-al-numan",
+        "from_id": "umm-ar-rajim",
         "to_id": "abu-al-duhur",
         "geometry_status": "schematic",
-        "geometry_source": "schematic",
-        "corridor_confidence": "high",
-        "connection_status": "documented"
+        "geometry_source": "schematic"
       }
     },
     {
@@ -306,7 +380,7 @@
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 9,
+        "sequence": 12,
         "from": "Abu al-Duhur",
         "to": "Tallajin",
         "from_id": "abu-al-duhur",
@@ -451,7 +525,7 @@
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 10,
+        "sequence": 13,
         "from": "Tallajin",
         "to": "Al-Hamidiyah",
         "from_id": "tallajin",
@@ -744,7 +818,7 @@
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 11,
+        "sequence": 14,
         "from": "Al-Hamidiyah",
         "to": "Al-Wudeihi",
         "from_id": "hamidiyah",
@@ -893,7 +967,7 @@
       },
       "properties": {
         "route_id": "syria-trunk",
-        "sequence": 12,
+        "sequence": 15,
         "from": "Al-Wudeihi",
         "to": "Aleppo",
         "from_id": "wudeihi",
