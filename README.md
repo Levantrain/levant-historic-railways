@@ -27,7 +27,7 @@ This historical documentation serves multiple purposes:
 
 ## Overview
 
-The database spans historic railway infrastructure across Turkey, Syria, Lebanon, Jordan, Israel/Palestine, Saudi Arabia, and Egypt at its maximum historical extent. This snapshot (**2026-07-25**) contains **28 routes · 279 stations · 269 segments · 18 bridges/tunnels**, every fact cited to one of **53 sources** (~1,730 citations). Every station carries a sourced coordinate — **83 exact · 166 town-level · 29 approximate**:
+The database spans historic railway infrastructure across Turkey, Syria, Lebanon, Jordan, Israel/Palestine, Saudi Arabia, and Egypt at its maximum historical extent. This snapshot (**2026-07-25**) contains **28 routes · 278 stations · 269 segments · 18 bridges/tunnels**, every fact cited to one of **53 sources** (~1,740 citations). Every station carries a sourced coordinate — **93 exact · 156 town-level · 28 approximate**:
 
 - **Historic railway stations** with geolocation and a stated location **precision**
 - **Railway routes** as ordered, per-segment geometries carrying **confidence** and geometry provenance
@@ -45,11 +45,11 @@ This repository is a **point-in-time snapshot (2026-07-25)** generated from the 
 
 | Path | Contents |
 | --- | --- |
-| `data/stations/historic/stations.geojson` | 279 stations (Point features) |
+| `data/stations/historic/stations.geojson` | 278 stations (Point features) |
 | `data/routes/historic/*.geojson` | 28 routes, one file each — a Feature per **segment** (LineString) plus route metadata under a top-level `route` object |
 | `data/infrastructure/historic.geojson` | 18 historic bridges/tunnels (Point features) |
 | `data/sources.json` | The 53 sources every fact is cited to |
-| `data/source_links.json` | 1,733 attribute-level citations (which source backs which field of which feature) |
+| `data/source_links.json` | 1,743 attribute-level citations (which source backs which field of which feature) |
 | `data/snapshot.json` | Snapshot metadata (date + counts) |
 
 Every feature carries a `source_ids` array referencing `data/sources.json`, so provenance travels with

@@ -3030,8 +3030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.9367,
-          31.9071
+          35.93674,
+          31.90708
         ]
       },
       "properties": {
@@ -3043,10 +3043,12 @@
         "confidence": "low",
         "year_opened": 1903,
         "gauge_mm": 1050,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm",
+          "pr_diagram_1925"
         ]
       }
     },
@@ -3266,29 +3268,6 @@
           "pr_diagram_1925",
           "robinson_atlas",
           "wp_hejaz"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.93674,
-          31.90708
-        ]
-      },
-      "properties": {
-        "station_id": "kassir",
-        "name": "Kassir",
-        "country": "Jordan",
-        "confidence": "high",
-        "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (medium confidence) — al-Qasr station S of Amman; km~106 vs map 111.1 (good fit). 'Kassir'=al-Qasr transliteration is the only caveat.",
-        "verification_status": "unverified",
-        "precision": "exact",
-        "source_ids": [
-          "osm",
-          "pr_diagram_1925"
         ]
       }
     },
@@ -4112,8 +4091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.3266,
-          34.2119
+          36.32659,
+          34.21189
         ]
       },
       "properties": {
@@ -4125,10 +4104,11 @@
         "confidence": "low",
         "year_opened": 1902,
         "gauge_mm": 1435,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm"
         ]
       }
     },
@@ -4191,8 +4171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.4268,
-          34.2979
+          36.42682,
+          34.29793
         ]
       },
       "properties": {
@@ -4204,10 +4184,11 @@
         "confidence": "low",
         "year_opened": 1902,
         "gauge_mm": 1435,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm"
         ]
       }
     },
@@ -5248,8 +5229,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.0477,
-          35.736
+          37.04766,
+          35.73596
         ]
       },
       "properties": {
@@ -5261,10 +5242,11 @@
         "confidence": "low",
         "year_opened": 1906,
         "gauge_mm": 1435,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm"
         ]
       }
     },
@@ -5430,8 +5412,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.125,
-          35.9717
+          37.12501,
+          35.97166
         ]
       },
       "properties": {
@@ -5443,10 +5425,11 @@
         "confidence": "low",
         "year_opened": 1906,
         "gauge_mm": 1435,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm"
         ]
       }
     },
@@ -5455,8 +5438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.2784,
-          33.0889
+          36.27841,
+          33.08894
         ]
       },
       "properties": {
@@ -5468,10 +5451,11 @@
         "confidence": "low",
         "year_opened": 1903,
         "gauge_mm": 1050,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm"
         ]
       }
     },
@@ -5480,8 +5464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.5842,
-          34.5116
+          36.58419,
+          34.51164
         ]
       },
       "properties": {
@@ -5493,10 +5477,11 @@
         "confidence": "low",
         "year_opened": 1902,
         "gauge_mm": 1435,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm"
         ]
       }
     },
@@ -5582,8 +5567,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.1427,
-          36.1645
+          37.14271,
+          36.16449
         ]
       },
       "properties": {
@@ -5595,10 +5580,11 @@
         "confidence": "low",
         "year_opened": 1906,
         "gauge_mm": 1435,
-        "verification_status": "unverified",
-        "precision": "approx",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm"
         ]
       }
     },
@@ -6398,8 +6384,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.631,
-          34.6451
+          36.63101,
+          34.64508
         ]
       },
       "properties": {
@@ -6411,10 +6397,11 @@
         "confidence": "low",
         "year_opened": 1902,
         "gauge_mm": 1435,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm"
         ]
       }
     },
@@ -6631,8 +6618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.034,
-          35.8335
+          37.03397,
+          35.83347
         ]
       },
       "properties": {
@@ -6644,10 +6631,11 @@
         "confidence": "low",
         "year_opened": 1906,
         "gauge_mm": 1435,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm"
         ]
       }
     },
@@ -6680,8 +6668,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.9642,
-          35.5173
+          36.96419,
+          35.51729
         ]
       },
       "properties": {
@@ -6693,10 +6681,11 @@
         "confidence": "low",
         "year_opened": 1906,
         "gauge_mm": 1435,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
-          "gsgs_2061_syria_1916"
+          "gsgs_2061_syria_1916",
+          "osm"
         ]
       }
     },

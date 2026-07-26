@@ -3592,6 +3592,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "abu-al-duhur",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "abu-hammad",
     "aspect": "attribute",
     "field": "name",
@@ -4285,10 +4292,31 @@
   },
   {
     "entity_type": "station",
+    "entity": "al-qasr",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-qasr",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "al-qusayr",
     "aspect": "attribute",
     "field": "existence",
     "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "al-qusayr",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -7400,6 +7428,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "hamidiyah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "hasade",
     "aspect": "attribute",
     "field": "name",
@@ -7890,6 +7925,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "jebab",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "jenin",
     "aspect": "attribute",
     "field": "name",
@@ -8222,20 +8264,6 @@
     "entity": "karkamis",
     "aspect": "geometry",
     "field": "coordinates",
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "station",
-    "entity": "kassir",
-    "aspect": "attribute",
-    "field": "name",
-    "source_id": "pr_diagram_1925"
-  },
-  {
-    "entity_type": "station",
-    "entity": "kassir",
-    "aspect": "geometry",
-    "field": "coordinate",
     "source_id": "osm"
   },
   {
@@ -8720,6 +8748,13 @@
     "aspect": "attribute",
     "field": "existence",
     "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "labweh",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -10151,6 +10186,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "qattinah",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "qena",
     "aspect": "attribute",
     "field": "name",
@@ -10435,6 +10477,13 @@
     "aspect": "attribute",
     "field": "existence",
     "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "ras-baalbek",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -11390,6 +11439,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "tallajin",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "tanta",
     "aspect": "attribute",
     "field": "name",
@@ -11761,6 +11817,13 @@
   },
   {
     "entity_type": "station",
+    "entity": "umm-ar-rajim",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "uneiza",
     "aspect": "attribute",
     "field": "name",
@@ -11898,6 +11961,13 @@
     "aspect": "attribute",
     "field": "existence",
     "source_id": "gsgs_2061_syria_1916"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wudeihi",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
