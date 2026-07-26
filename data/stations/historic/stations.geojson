@@ -5736,6 +5736,7 @@
         "verification_status": "verified",
         "precision": "exact",
         "source_ids": [
+          "osm",
           "wp_qadam_station"
         ]
       }
@@ -6054,8 +6055,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.7167,
-          34.7333
+          36.70307,
+          34.72185
         ]
       },
       "properties": {
@@ -6065,7 +6066,7 @@
         "role": "Tripoli-Homs terminus; CFS junction",
         "confidence": "high",
         "verification_status": "verified",
-        "precision": "town",
+        "precision": "exact",
         "source_ids": [
           "levantrain_compilation",
           "osm",
@@ -6409,8 +6410,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.05889,
-          34.2425
+          37.06957,
+          34.25958
         ]
       },
       "properties": {
@@ -6419,11 +6420,12 @@
         "name_arabic": "مهين",
         "country": "Syria",
         "role": "Junction on the direct Damascus–Homs line; the Mhin–Al Sharkia phosphate branch (111 km) diverges here. GDR signalling contract sections Homs–Mhin (I) and Mhin–Damascus (VII) meet at Mhin.",
-        "confidence": "low",
+        "confidence": "medium",
         "gauge_mm": 1435,
-        "verification_status": "unverified",
-        "precision": "town",
+        "verification_status": "verified",
+        "precision": "exact",
         "source_ids": [
+          "osm",
           "wp_mahin"
         ]
       }

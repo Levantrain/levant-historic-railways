@@ -3668,6 +3668,27 @@
     "source_id": "osm"
   },
   {
+    "entity_type": "segment",
+    "entity": "syria-trunk#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-trunk#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "syria-trunk#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
     "entity_type": "station",
     "entity": "aaraya",
     "aspect": "attribute",
@@ -6088,6 +6109,13 @@
     "aspect": "attribute",
     "field": "name",
     "source_id": "wp_qadam_station"
+  },
+  {
+    "entity_type": "station",
+    "entity": "damascus-qadam",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
@@ -9531,7 +9559,7 @@
     "entity": "mhin",
     "aspect": "geometry",
     "field": "coordinates",
-    "source_id": "wp_mahin"
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
