@@ -173,4 +173,4 @@ This project builds on the work of railway historians, archivists, engineers, an
 
 **From the past to the future** — documenting historic railways to enable modern regional connectivity.
 
-*Part of the Levantrain initiative • Last updated: April 2026*
+*Part of the Levantrain initiative • Last updated: July 2026*

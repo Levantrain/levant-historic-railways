@@ -143,7 +143,7 @@ We actively seek collaboration with:
 
 **From documentation to planning** — rigorous methodology for preserving the past and enabling the future.
 
-*Last updated: April 2026*
+*Last updated: July 2026*
 ---
 
 ## 2026-07 snapshot & data model
