@@ -658,6 +658,20 @@
     "note": "Tier B settlement proxy: town coordinates 33.6, 36.515. Syria's largest industrial city lies immediately east; the rail station likely sits ~5–8 km E at Adra Industrial City."
   },
   {
+    "id": "wp_aleppo_station",
+    "title": "Aleppo railway station",
+    "publisher": "Wikipedia",
+    "type": "encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Aleppo_railway_station",
+    "accessed": "2026-07-26",
+    "license": "CC BY-SA",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Aleppo main station — Gare de Bagdad / Baghdad Station (محطة بغداد); official محطة قطار حلب. Opened 1912 (Baghdad Railway); Syria's 2nd-oldest station. Coordinates 36.21389, 37.14778; Wikidata Q15179152."
+  },
+  {
     "id": "wp_berlin_baghdad",
     "title": "Berlin–Baghdad railway",
     "publisher": "Wikipedia",

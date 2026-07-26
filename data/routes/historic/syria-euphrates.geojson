@@ -39,7 +39,7 @@
       "properties": {
         "route_id": "syria-euphrates",
         "sequence": 1,
-        "from": "Aleppo",
+        "from": "Aleppo (Baghdad Station)",
         "to": "Al-Thawra",
         "from_id": "aleppo",
         "to_id": "al-thawra",

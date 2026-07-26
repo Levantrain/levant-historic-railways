@@ -4652,6 +4652,13 @@
     "entity": "aleppo",
     "aspect": "attribute",
     "field": "name",
+    "source_id": "wp_aleppo_station"
+  },
+  {
+    "entity_type": "station",
+    "entity": "aleppo",
+    "aspect": "attribute",
+    "field": "name",
     "source_id": "wp_berlin_baghdad"
   },
   {

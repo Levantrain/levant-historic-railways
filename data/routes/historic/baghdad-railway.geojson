@@ -3596,7 +3596,7 @@
         "route_id": "baghdad-railway",
         "sequence": 15,
         "from": "Aleppo Free Zone",
-        "to": "Aleppo",
+        "to": "Aleppo (Baghdad Station)",
         "from_id": "free-zone",
         "to_id": "aleppo",
         "geometry_status": "surveyed",
@@ -3624,7 +3624,7 @@
       "properties": {
         "route_id": "baghdad-railway",
         "sequence": 16,
-        "from": "Aleppo",
+        "from": "Aleppo (Baghdad Station)",
         "to": "Karkamis",
         "from_id": "aleppo",
         "to_id": "karkamis",

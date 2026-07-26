@@ -5621,17 +5621,22 @@
       },
       "properties": {
         "station_id": "aleppo",
-        "name": "Aleppo",
+        "name": "Aleppo (Baghdad Station)",
+        "name_arabic": "محطة بغداد",
         "country": "Syria",
         "role": "Baghdad Railway hub x DHP north junction",
         "confidence": "high",
+        "year_opened": 1912,
+        "description": "Aleppo's main station, commonly the 'Gare de Bagdad' (Baghdad Station, محطة بغداد); official name محطة قطار حلب. Opened 1912 as a station on the Baghdad Railway; Syria's second-oldest station.",
         "verification_status": "verified",
+        "wikidata_qid": "Q15179152",
         "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
           "wikipedia_geo",
           "wp_adana_aleppo",
+          "wp_aleppo_station",
           "wp_berlin_baghdad",
           "wp_syria"
         ]

@@ -1826,7 +1826,7 @@
         "route_id": "syria-trunk",
         "sequence": 15,
         "from": "Al-Wudeihi",
-        "to": "Aleppo",
+        "to": "Aleppo (Baghdad Station)",
         "from_id": "wudeihi",
         "to_id": "aleppo",
         "geometry_status": "surveyed",
