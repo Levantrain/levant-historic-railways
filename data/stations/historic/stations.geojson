@@ -5642,6 +5642,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          37.200714,
+          36.327317
+        ]
+      },
+      "properties": {
+        "station_id": "free-zone",
+        "name": "Aleppo Free Zone",
+        "name_arabic": "المنطقة الحرة",
+        "country": "Syria",
+        "role": "Industrial/freight station near the Aleppo Free Zone (Sheikh Najjar), on the Baghdad Railway approach to Aleppo.",
+        "confidence": "low",
+        "gauge_mm": 1435,
+        "verification_status": "unverified",
+        "precision": "approx",
+        "source_ids": [
+          "levantrain_compilation"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.94028,
           35.18222
         ]
@@ -6783,6 +6807,30 @@
           "levantrain_compilation",
           "wikipedia_geo",
           "wp_syria"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.08892,
+          36.473216
+        ]
+      },
+      "properties": {
+        "station_id": "tell-rifaat",
+        "name": "Tell Rifaat",
+        "name_arabic": "تل رفعت",
+        "country": "Syria",
+        "role": "Station on the Baghdad Railway between Rajo and Aleppo.",
+        "confidence": "high",
+        "gauge_mm": 1435,
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "osm"
         ]
       }
     },

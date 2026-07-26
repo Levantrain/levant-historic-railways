@@ -2416,6 +2416,20 @@
   },
   {
     "entity_type": "segment",
+    "entity": "baghdad-railway#13",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "baghdad-railway#14",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "baghdad-railway#15",
     "aspect": "geometry",
     "field": null,
@@ -2423,14 +2437,21 @@
   },
   {
     "entity_type": "segment",
-    "entity": "baghdad-railway#20",
+    "entity": "baghdad-railway#17",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
   },
   {
     "entity_type": "segment",
-    "entity": "baghdad-railway#21",
+    "entity": "baghdad-railway#22",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "baghdad-railway#23",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -7068,6 +7089,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "free-zone",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "levantrain_compilation"
   },
   {
     "entity_type": "station",
@@ -11835,6 +11863,13 @@
     "aspect": "geometry",
     "field": "coordinates",
     "source_id": "wikipedia_geo"
+  },
+  {
+    "entity_type": "station",
+    "entity": "tell-rifaat",
+    "aspect": "geometry",
+    "field": "coordinates",
+    "source_id": "osm"
   },
   {
     "entity_type": "station",
