@@ -3,8 +3,8 @@
   "stations": 283,
   "routes": 28,
   "segments": 284,
-  "segments_with_osm_geometry": 189,
+  "segments_with_osm_geometry": 190,
   "infrastructure": 18,
   "sources": 62,
-  "source_links": 1767
+  "source_links": 1768
 }

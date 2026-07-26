@@ -7301,8 +7301,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.676813,
-          36.821281
+          36.674841,
+          36.821472
         ]
       },
       "properties": {
@@ -7310,9 +7310,9 @@
         "name": "Meydan Ekbez",
         "country": "Turkey/Syria",
         "role": "Baghdad Railway border crossing",
-        "confidence": "medium",
+        "confidence": "high",
         "verification_status": "verified",
-        "precision": "town",
+        "precision": "exact",
         "source_ids": [
           "britannica_baghdad",
           "levantrain_compilation",
