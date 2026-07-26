@@ -1613,6 +1613,13 @@
     "entity_type": "route",
     "entity": "jaffa-jerusalem",
     "aspect": "connection",
+    "field": null,
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "connection",
     "field": "order",
     "source_id": "cotterell_1984"
   },
@@ -3417,7 +3424,7 @@
   },
   {
     "entity_type": "segment",
-    "entity": "jaffa-jerusalem#2",
+    "entity": "jaffa-jerusalem#12",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3431,7 +3438,7 @@
   },
   {
     "entity_type": "segment",
-    "entity": "jaffa-jerusalem#6",
+    "entity": "jaffa-jerusalem#9",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
