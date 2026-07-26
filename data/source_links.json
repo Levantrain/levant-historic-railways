@@ -3088,6 +3088,27 @@
   },
   {
     "entity_type": "segment",
+    "entity": "haifa-deraa#19",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#20",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "haifa-deraa#21",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "haifa-deraa#22",
     "aspect": "geometry",
     "field": null,

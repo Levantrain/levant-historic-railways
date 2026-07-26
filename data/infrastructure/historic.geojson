@@ -356,15 +356,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.9,
-          32.7
+          35.722512,
+          32.725541
         ]
       },
       "properties": {
         "type": "tunnel",
         "name": "Yarmuk gorge tunnels & bridges (Samakh–Deraa)",
         "confidence": "high",
-        "note": "The Samakh–Deraa climb up the Yarmuk gorge: 8 tunnels (~1,100 m) and 329 bridges/aqueducts over 73 km (+529 m).",
+        "note": "The Samakh–Deraa climb up the Yarmuk gorge: 8 tunnels (~1,100 m) and 329 bridges/aqueducts over 73 km (+529 m). Relocated onto the route 2026-07-26 (was ~2 km S). Verified features (Tim, imagery): tunnel W portal 32.725541,35.722512 / E portal 32.727303,35.727710; bridge 32.732655,35.736110; Yarmouk river crossing 32.712460,35.698890. Much of the mid-gorge alignment is at the Al-Wahda (ex-Maqarin) dam site, built 2004–05.",
         "route_id": "d965985b-e5ab-4734-b90c-b106f83c9589",
         "source_ids": [
           "shemer_jezreel",
