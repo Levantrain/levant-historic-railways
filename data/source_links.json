@@ -3186,6 +3186,62 @@
   },
   {
     "entity_type": "segment",
+    "entity": "cyprus-government-railway#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cyprus-government-railway#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cyprus-government-railway#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cyprus-government-railway#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cyprus-government-railway#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cyprus-government-railway#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cyprus-government-railway#7",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "cyprus-government-railway#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "d7f8f9eb-34e0-4425-8470-a210df19d9b5",
     "aspect": "geometry",
     "field": null,
@@ -6252,6 +6308,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "cgr-angastina",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_cyprus_government_railway"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-angastina",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "cgr-evrykhou",
     "aspect": "attribute",
     "field": "name",
@@ -6280,6 +6350,34 @@
   },
   {
     "entity_type": "station",
+    "entity": "cgr-kalokhorio",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_cyprus_government_railway"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-kalokhorio",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-kokkinotrimithia",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_cyprus_government_railway"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-kokkinotrimithia",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "cgr-morphou",
     "aspect": "attribute",
     "field": "name",
@@ -6302,6 +6400,34 @@
   {
     "entity_type": "station",
     "entity": "cgr-nicosia",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-prastio",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_cyprus_government_railway"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-prastio",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-trakhoni",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "wp_cyprus_government_railway"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-trakhoni",
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "osm"

@@ -588,6 +588,20 @@
     "note": "General sketch map, 1:3,000,000, with railways + a lat/long graticule. Coarse (corroborating), but PD → first displayable map asset. See data/reference-maps/survey-of-palestine-sketch-1932/."
   },
   {
+    "id": "sorc_akka_damascus_1894",
+    "title": "Map of Palestine showing the route of the railway from Akka (Acre) to Damascus",
+    "publisher": "The Syria Ottoman Railway Company, Ltd.",
+    "type": "map",
+    "url": "https://commons.wikimedia.org/wiki/File:Map_of_Palestine_showing_the_route_of_the_railway_from_Akka_(Acre)_to_Damascus_01_(FL35090325_3891825).jpg",
+    "accessed": "2026-07",
+    "license": "Public domain by age (1894). Wikimedia Commons; held by the National Library of Israel (Eran Laor Cartographic Collection).",
+    "reliability": "primary",
+    "author": "Syria Ottoman Railway Company (Report of Sir Douglas Fox, Engineer-in-Chief)",
+    "year": 1894,
+    "isbn": null,
+    "note": "Company prospectus map of the PROPOSED Acre-Haifa-Damascus concession. Principal line Akka/Haifa -> Esdraelon -> Sea of Galilee -> Jordan/Huleh + Yarmuk (El Hamma, Mzerib) -> Nawa -> Kesweh -> Damascus; dashed branches to the coast and the Hauran (Deraa/Bosrah). Prospectus sketch (hachured relief, no graticule) -> route/topology + names only, not georeferenceable. Concession never built as drawn; superseded by the Ottoman Jezreel Valley/Hejaz line (Haifa-Deraa, 1903-05)."
+  },
+  {
     "id": "stanford_euphrates_valley_1912",
     "title": "The Euphrates Valley: Syria, Kurdistan, &c. (Edward Stanford Ltd.)",
     "publisher": "Edward Stanford Ltd., London",
@@ -740,6 +754,20 @@
     "year": null,
     "isbn": null,
     "note": null
+  },
+  {
+    "id": "wp_cyprus_government_railway",
+    "title": "Cyprus Government Railway (Wikipedia)",
+    "publisher": "Wikipedia",
+    "type": "encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Cyprus_Government_Railway",
+    "accessed": "2026-07",
+    "license": "CC BY-SA (article text); underlying facts public.",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Station list (Harbour + Sections 1-3) for the 1905-1951 CGR. Used for the principal-station roster; coordinates independently sourced from OSM/Nominatim."
   },
   {
     "id": "wp_egypt_stations",

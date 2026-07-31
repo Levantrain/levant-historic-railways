@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.59011,
+          35.20797
+        ]
+      },
+      "properties": {
+        "station_id": "cgr-angastina",
+        "name": "Angastina",
+        "country": "Cyprus",
+        "role": "Cyprus Government Railway station",
+        "confidence": "medium",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "wp_cyprus_government_railway"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           32.90218,
           35.0412
         ]
@@ -52,6 +75,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          32.88133,
+          35.10981
+        ]
+      },
+      "properties": {
+        "station_id": "cgr-kalokhorio",
+        "name": "Kalokhorio",
+        "country": "Cyprus",
+        "role": "Cyprus Government Railway station",
+        "confidence": "high",
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "osm",
+          "wp_cyprus_government_railway"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1987,
+          35.14847
+        ]
+      },
+      "properties": {
+        "station_id": "cgr-kokkinotrimithia",
+        "name": "Kokkino Trimithia",
+        "country": "Cyprus",
+        "role": "Cyprus Government Railway station",
+        "confidence": "medium",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "wp_cyprus_government_railway"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           32.99288,
           35.1993
         ]
@@ -90,6 +159,52 @@
         "source_ids": [
           "os_near_east_railways_1919",
           "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.75901,
+          35.18671
+        ]
+      },
+      "properties": {
+        "station_id": "cgr-prastio",
+        "name": "Prastio",
+        "country": "Cyprus",
+        "role": "Cyprus Government Railway station",
+        "confidence": "high",
+        "verification_status": "verified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "wp_cyprus_government_railway"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4809,
+          35.2217
+        ]
+      },
+      "properties": {
+        "station_id": "cgr-trakhoni",
+        "name": "Trakhoni",
+        "country": "Cyprus",
+        "role": "Cyprus Government Railway station",
+        "confidence": "medium",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "osm",
+          "wp_cyprus_government_railway"
         ]
       }
     },
