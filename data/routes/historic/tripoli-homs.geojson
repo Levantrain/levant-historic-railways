@@ -7,16 +7,18 @@
     "countries": "Lebanon, Syria",
     "gauge_mm": 1435,
     "year_opened": 1911,
+    "year_closed": 1917,
     "era": "historic",
     "color": "#b45309",
     "corridor_confidence": "medium",
     "description": "Northern Lebanon-Syria link",
     "notes": "The 'missed connection': the Lebanese and Syrian networks never fully integrated here, partly because of the gauge differences around Tripoli/Homs.  [gauge_mm] GAUGE IS A TWO-ERA PUZZLE, not a simple error — sources conflict, so verify: (a) the ORIGINAL 1911 DHP Homs–Tripoli branch appears to have been 1,050 mm NARROW gauge (Wikipedia), which would have meant yet another gauge break at Homs against the standard-gauge Aleppo line; (b) a STANDARD-gauge (1,435 mm) connection to Tripoli came later — the WWII HBT coastal line reached Tripoli on 18 Dec 1942, and the post-war Syrian (CFS) standard-gauge network served Homs. The project’s 1,435 mm is defensible for the LATER standard-gauge era but likely NOT for the original 1911 branch.  [route] Runs inland from Tripoli (El Mina) through the HOMS GAP / Akkar plain to Homs, where it joined the Syrian network (Damascus–Homs–Hama–Aleppo). Intermediate stations are NOT documented in the consulted sources (a research gap); likely candidates on the corridor include Abou Halqa, the Akkar plain, and Tell Kalakh (Syria) — unverified.",
-    "history": "A DHP branch linking the Mediterranean port of Tripoli inland to Homs (on the Syrian standard-gauge network toward Hama and Aleppo), through the Homs Gap — the natural lowland pass between the Lebanon and coastal mountain ranges.",
+    "history": "A DHP branch linking the Mediterranean port of Tripoli inland to Homs (on the Syrian standard-gauge network toward Hama and Aleppo), through the Homs Gap — the natural lowland pass between the Lebanon and coastal mountain ranges. [OS Near East 1919] Turkish metre-gauge branch (opened 1911), taken up (dismantled) 1917.",
     "verification_status": "unverified",
     "source_ids": [
       "internationalsteam",
       "levantrain_system",
+      "os_near_east_railways_1919",
       "wp_lebanon",
       "wp_syria"
     ]

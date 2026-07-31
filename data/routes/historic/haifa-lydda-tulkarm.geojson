@@ -5,13 +5,15 @@
     "name": "Haifa–Lydda Railway (via Tulkarm)",
     "countries": "Israel/Palestine",
     "gauge_mm": 1435,
+    "year_opened": 1918,
     "era": "historic",
     "color": "#0ea5e9",
     "corridor_confidence": "medium",
     "description": "The 1925 northern coastal main line: Lydda to Haifa via Ras el Ain, Tulkarm and the Sharon plain (before the direct coastal line via Netanya opened ~1937).",
-    "history": "Chainage in the 1925 Kantara–Haifa milepost datum (Lydda 304.3 → Haifa 412.4). Geometry schematic.",
+    "history": "Chainage in the 1925 Kantara–Haifa milepost datum (Lydda 304.3 → Haifa 412.4). Geometry schematic. [OS Near East 1919] British standard-gauge coastal line built 1918: Jaffa Sep 1918, Haifa Jan 1919.",
     "verification_status": "unverified",
     "source_ids": [
+      "os_near_east_railways_1919",
       "pr_diagram_1925"
     ]
   },

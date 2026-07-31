@@ -6,6 +6,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          32.90218,
+          35.0412
+        ]
+      },
+      "properties": {
+        "station_id": "cgr-evrykhou",
+        "name": "Evrykhou",
+        "country": "Cyprus",
+        "role": "Cyprus Government Railway — western terminus (1915 extension)",
+        "confidence": "high",
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "os_near_east_railways_1919",
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.93879,
+          35.12053
+        ]
+      },
+      "properties": {
+        "station_id": "cgr-famagusta",
+        "name": "Famagusta",
+        "country": "Cyprus",
+        "role": "Cyprus Government Railway — eastern terminus",
+        "confidence": "high",
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "os_near_east_railways_1919",
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.99288,
+          35.1993
+        ]
+      },
+      "properties": {
+        "station_id": "cgr-morphou",
+        "name": "Morphou",
+        "country": "Cyprus",
+        "role": "Cyprus Government Railway station",
+        "confidence": "high",
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "os_near_east_railways_1919",
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.36388,
+          35.17465
+        ]
+      },
+      "properties": {
+        "station_id": "cgr-nicosia",
+        "name": "Nicosia",
+        "country": "Cyprus",
+        "role": "Cyprus Government Railway station",
+        "confidence": "high",
+        "verification_status": "verified",
+        "precision": "exact",
+        "source_ids": [
+          "os_near_east_railways_1919",
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.67972,
           30.54444
         ]
@@ -179,6 +271,30 @@
           "levantrain_compilation",
           "railwaywonders",
           "wp_egypt_stations"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.09603,
+          31.03265
+        ]
+      },
+      "properties": {
+        "station_id": "bir-salmana",
+        "name": "Bir Salmana",
+        "name_arabic": "سلمانة",
+        "country": "Egypt",
+        "role": "Sinai Military Railway station (WWI); named on the OS Near East 1914-1919 map",
+        "confidence": "medium",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "os_near_east_railways_1919",
+          "osm"
         ]
       }
     },
@@ -940,6 +1056,30 @@
           "railwaywonders",
           "wp_egypt_stations",
           "wp_enr"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.74575,
+          30.95429
+        ]
+      },
+      "properties": {
+        "station_id": "qatiya",
+        "name": "Qatiya",
+        "name_arabic": "قطية",
+        "country": "Egypt",
+        "role": "Sinai Military Railway station (WWI); named on the OS Near East 1914-1919 map",
+        "confidence": "medium",
+        "verification_status": "unverified",
+        "precision": "town",
+        "source_ids": [
+          "os_near_east_railways_1919",
+          "osm"
         ]
       }
     },
@@ -3665,11 +3805,13 @@
         "station_id": "wadi-jardoun",
         "name": "Wadi Jardoun",
         "country": "Jordan",
+        "role": "Hejaz station (Jerdun / al-Jardana), between Uneiza and Ma'an",
         "confidence": "high",
         "notes": "Listed on the Palestine Railways Diagram of Routes (1925). Coordinate: exact (high confidence) — al-Jirdana=Wadi Jardoun; between Uneiza and Ma'an, km-interp 30.339 vs actual 30.328 — excellent fit.",
         "verification_status": "unverified",
         "precision": "exact",
         "source_ids": [
+          "os_near_east_railways_1919",
           "osm",
           "pr_diagram_1925"
         ]

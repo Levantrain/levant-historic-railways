@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "route": {
+    "route_id": "cyprus-government-railway",
+    "name": "Cyprus Government Railway",
+    "countries": "Cyprus",
+    "gauge_mm": 762,
+    "year_opened": 1905,
+    "year_closed": 1951,
+    "era": "historic",
+    "color": "#0ea5e9",
+    "history": "Cyprus Government Railway (1905-1951): 2 ft 6 in (762 mm) narrow gauge. Main line Famagusta-Nicosia-Morphou with a 1915 western extension to Evrykhou; closed 1951. Shown (Morphou-Nicosia-Famagusta) on the OS Near East 1914-1919 map.",
+    "verification_status": "verified",
+    "source_ids": [
+      "os_near_east_railways_1919"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.93879,
+            35.12053
+          ],
+          [
+            33.36388,
+            35.17465
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cyprus-government-railway",
+        "sequence": 1,
+        "from": "Famagusta",
+        "to": "Nicosia",
+        "from_id": "cgr-famagusta",
+        "to_id": "cgr-nicosia",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.36388,
+            35.17465
+          ],
+          [
+            32.99288,
+            35.1993
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cyprus-government-railway",
+        "sequence": 2,
+        "from": "Nicosia",
+        "to": "Morphou",
+        "from_id": "cgr-nicosia",
+        "to_id": "cgr-morphou",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.99288,
+            35.1993
+          ],
+          [
+            32.90218,
+            35.0412
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "cyprus-government-railway",
+        "sequence": 3,
+        "from": "Morphou",
+        "to": "Evrykhou",
+        "from_id": "cgr-morphou",
+        "to_id": "cgr-evrykhou",
+        "geometry_status": "schematic",
+        "geometry_source": "schematic",
+        "connection_status": "documented"
+      }
+    }
+  ]
+}

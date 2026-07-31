@@ -12,13 +12,14 @@
     "corridor_confidence": "high",
     "description": "Tourism railway to ruins",
     "notes": "Short standard-gauge section of the DHP Rayak-Aleppo line serving the Roman ruins at Baalbek.  [gauge_mm] DISCREPANCY (multiply confirmed): the Rayak-Baalbek line was STANDARD gauge 1,435 mm — part of the standard-gauge DHP northern line (Rayak-Baalbek-Homs-Aleppo), Baalbek opened 19 June 1902 (Wikipedia, InternationalSteam, GreenArea). The project’s 1,050 mm is almost certainly a mix-up with the SEPARATE 1,050 mm Beirut-Damascus line that MEETS this one at Rayak — precisely the gauge break that forced transshipment there (the Rayak-to-station approach was even dual-gauge).  [route] No intermediate stations between Rayak and Baalbek are recorded (Baalbek is ~26.8 km / km 26.8 from Rayak); north of Baalbek the line continued via Ras Baalbek into Syria toward Homs and Aleppo.  [description] 'Tourism railway to ruins' is plausible (Baalbek station sits at the Roman ruins), but the consulted sources emphasise FREIGHT — notably livestock traffic after the coastal line opened — rather than a dedicated tourist service; verify the tourism framing. Extended north Baalbek→Homs per GSGS 2061/9 (1916): the DHP standard-gauge line ran Rayak–Baalbek–Ras Baalbek–Labweh(Lebanon)–Al-Qusayr–Qattinah–Homs(Syria). Intermediate stations added map-derived/unverified.",
-    "history": "Opened 19 June 1902 as part of the French DHP standard-gauge (1,435 mm) northern line running from Rayak (km 66 on the Beirut-Damascus line) north through the Beqaa via Baalbek (km 26.8) and Ras Baalbek, across the border into Syria toward Homs and Aleppo (reached 1906). Because the Beirut-Damascus line at Rayak was 1,050 mm narrow gauge, Rayak was a GAUGE-BREAK junction with DHP workshops; the approach to the station was dual-gauge.",
+    "history": "Opened 19 June 1902 as part of the French DHP standard-gauge (1,435 mm) northern line running from Rayak (km 66 on the Beirut-Damascus line) north through the Beqaa via Baalbek (km 26.8) and Ras Baalbek, across the border into Syria toward Homs and Aleppo (reached 1906). Because the Beirut-Damascus line at Rayak was 1,050 mm narrow gauge, Rayak was a GAUGE-BREAK junction with DHP workshops; the approach to the station was dual-gauge. [OS Near East 1919] Rayak–Baalbek 1902; Baalbek–Homs extension 1906 (Turkish).",
     "verification_status": "unverified",
     "source_ids": [
       "greenarea_baalbek",
       "gsgs_2061_syria_1916",
       "internationalsteam",
       "levantrain_system",
+      "os_near_east_railways_1919",
       "wp_lebanon"
     ]
   },

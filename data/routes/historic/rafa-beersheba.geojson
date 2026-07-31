@@ -5,13 +5,15 @@
     "name": "Rafa–Beersheba Railway",
     "countries": "Israel/Palestine",
     "gauge_mm": 1435,
+    "year_opened": 1917,
     "era": "historic",
     "color": "#f59e0b",
     "corridor_confidence": "medium",
     "description": "British WWI military branch from Rafah inland to Beersheba across the northern Negev.",
-    "history": "Chainage from Rafah (0) per the 1925 diagram. Geometry schematic.",
+    "history": "Chainage from Rafah (0) per the 1925 diagram. Geometry schematic. [OS Near East 1919] British broad-gauge branch; Beersheba reached Sep 1917.",
     "verification_status": "unverified",
     "source_ids": [
+      "os_near_east_railways_1919",
       "pr_diagram_1925"
     ]
   },

@@ -420,6 +420,20 @@
     "note": null
   },
   {
+    "id": "os_near_east_railways_1919",
+    "title": "Railway Map of the Near East, 1914-1919 (Ordnance Survey, 1929)",
+    "publisher": "Historical Section (Military Branch); Ordnance Survey",
+    "type": "map",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER002367710/NLI",
+    "accessed": "2026-07",
+    "license": "Public domain — UK Crown copyright expired (published 1929). Citable and embeddable.",
+    "reliability": "primary",
+    "author": null,
+    "year": 1929,
+    "isbn": null,
+    "note": "Covers 1914-1919. Plan projection with graticule (parallels 32/34/36 N) -> georeferenceable. Carries gauge (broad/metre), ownership (British red / Turkish green), section opening dates (mileage from Haidar Pasha), some elevations, and status (Dismantled/Taken up/Destroyed/Doubled). Network-wide: Anatolia + Baghdad Railway, Syria trunk, full Hejaz to Medina, Cyprus (Morphou-Nicosia-Famagusta), Sinai Military Railway, Palestine, Egypt delta. Legend note: 73 stations Damascus->Medina, only some shown."
+  },
+  {
     "id": "osm",
     "title": "OpenStreetMap",
     "publisher": "OpenStreetMap contributors",
@@ -432,6 +446,20 @@
     "year": null,
     "isbn": null,
     "note": "Geometry provenance for OSM-refreshed features; each way/node carries its own osm_id."
+  },
+  {
+    "id": "palestine_sinai_1920",
+    "title": "Palestine and Sinai — oblique relief panorama with railways (1920)",
+    "publisher": "unattributed (period publisher); scan by Historical Railway Images",
+    "type": "map",
+    "url": "https://www.flickr.com/photos/124446949@N06/41187636764",
+    "accessed": "2026-07",
+    "license": "Underlying map public domain by age (1920). Scan hosted on Flickr — link-only for the image; transcribed facts are freely usable.",
+    "reliability": "primary",
+    "author": null,
+    "year": 1920,
+    "isbn": null,
+    "note": "Oblique relief panorama with dual scale bars (NE-SW and NW-SE) — NOT georeferenceable. Railways in red. Evidence for line existence, station names, ~1920 operational status and topology only; not a geometry/coordinate source. Confirms the WWI Sinai Military Railway (adds named stops Katia, Bir Salmana), the Beersheba–El Auja Negev branch, and the Deraa–Bosra branch. Aqaba shown as a settlement with no rail."
   },
   {
     "id": "pr_diagram_1925",
@@ -558,6 +586,20 @@
     "year": null,
     "isbn": null,
     "note": "General sketch map, 1:3,000,000, with railways + a lat/long graticule. Coarse (corroborating), but PD → first displayable map asset. See data/reference-maps/survey-of-palestine-sketch-1932/."
+  },
+  {
+    "id": "stanford_euphrates_valley_1912",
+    "title": "The Euphrates Valley: Syria, Kurdistan, &c. (Edward Stanford Ltd.)",
+    "publisher": "Edward Stanford Ltd., London",
+    "type": "map",
+    "url": "https://www.loc.gov/item/2013593032/",
+    "accessed": "2026-07",
+    "license": "Public domain / free to use and reuse — Library of Congress / World Digital Library (\"unaware of any copyright or other restrictions\").",
+    "reliability": "primary",
+    "author": "Edward Stanford Ltd.",
+    "year": 1912,
+    "isbn": null,
+    "note": "Dating approximate (LOC: 1900-1999?; internal evidence c.1910-1914: Anglo-Russian 1907 sphere line, Baghdad Railway under construction to Ras el Ain). Small-scale geopolitical map (1:3,220,177). Railways shown coarsely (Baghdad Railway, Jaffa & Jerusalem, Hejaz) as fine black lines; bold red dashed lines are Ottoman vilayet boundaries, not railways. Filed for provenance/context; not a station or geometry source."
   },
   {
     "id": "syrianheritage_gdr_railway",

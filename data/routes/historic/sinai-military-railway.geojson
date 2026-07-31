@@ -12,12 +12,13 @@
     "corridor_confidence": "medium",
     "description": "WWI British line; the Egypt-Palestine rail link",
     "notes": "Became part of Palestine Railways in October 1920; standard gauge throughout.  [route] Built west-to-east then north as the army advanced. Sinai desert railheads (Gilban, Bir el Abd, El Mazar) have approximate/uncertain coordinates. The Beersheba branch (from Deir Sneid, 1918) is held as an off-line extra_station.  [egypt_levant_link] This is THE physical Egypt-Levant rail connection: from El Kantara EAST it crossed the Suez Canal (swing bridge ~3 miles N of Kantara, July 1918) to join the Egyptian network on the west bank — i.e. it connects to the Cairo-Port Said route at Kantara. Note El Kantara (East) here is distinct from 'Al Qantarah West' on the Cairo-Port Said line.",
-    "history": "A standard-gauge (1,435 mm) military railway built by the British Egyptian Expeditionary Force during WWI as it advanced across Sinai: construction began March 1916, reaching Romani by May 1916, El Arish by January 1917 and Rafah (the Palestine border) by March 1917; it then pushed north with the army, converting captured Ottoman lines to standard gauge and reaching Haifa by the end of 1918. A Deir Sneid-Beersheba branch was added by May 1918. It borrowed ~70 locomotives from Egyptian State Railways. Rescoped to the Kantara–Lydda trunk per the 1925 PR Diagram of Routes; the Lydda–Haifa continuation (via Tulkarm) is the separate Haifa–Lydda Railway. Chainage = 1925 mileposts from Old Kantara East. Segment geometry reset to schematic on re-sequencing.",
+    "history": "A standard-gauge (1,435 mm) military railway built by the British Egyptian Expeditionary Force during WWI as it advanced across Sinai: construction began March 1916, reaching Romani by May 1916, El Arish by January 1917 and Rafah (the Palestine border) by March 1917; it then pushed north with the army, converting captured Ottoman lines to standard gauge and reaching Haifa by the end of 1918. A Deir Sneid-Beersheba branch was added by May 1918. It borrowed ~70 locomotives from Egyptian State Railways. Rescoped to the Kantara–Lydda trunk per the 1925 PR Diagram of Routes; the Lydda–Haifa continuation (via Tulkarm) is the separate Haifa–Lydda Railway. Chainage = 1925 mileposts from Old Kantara East. Segment geometry reset to schematic on re-sequencing. [OS Near East 1919] British military line (standard gauge). Sections opened: Kantara–Qatiya Dec 1916, Rafah Mar 1917, Gaza Apr 1917; doubled 1917–18.",
     "verification_status": "unverified",
     "source_ids": [
       "cotterell_1984",
       "levantrain_compilation",
       "levantrain_system",
+      "os_near_east_railways_1919",
       "pr_diagram_1925",
       "wp_palestine_rw"
     ]
@@ -117,8 +118,8 @@
             31.05
           ],
           [
-            32.813,
-            31.014
+            32.74575,
+            30.95429
           ]
         ]
       },
@@ -126,13 +127,71 @@
         "route_id": "sinai-military-railway",
         "sequence": 4,
         "from": "Romani",
-        "to": "Khirba",
+        "to": "Qatiya",
         "from_id": "romani",
-        "to_id": "khirba",
+        "to_id": "qatiya",
         "geometry_status": "schematic",
-        "geometry_source": "schematic",
+        "geometry_source": "osm",
         "corridor_confidence": "medium",
         "connection_status": "documented"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.739859,
+            30.974376
+          ],
+          [
+            32.750844,
+            30.976218
+          ],
+          [
+            32.753825,
+            30.976574
+          ],
+          [
+            32.761117,
+            30.977028
+          ],
+          [
+            32.762939,
+            30.977227
+          ],
+          [
+            32.77575,
+            30.979105
+          ],
+          [
+            32.778077,
+            30.979554
+          ],
+          [
+            32.781662,
+            30.980568
+          ],
+          [
+            32.824988,
+            30.995478
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 5,
+        "from": "Qatiya",
+        "to": "Khirba",
+        "from_id": "qatiya",
+        "to_id": "khirba",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
       }
     },
     {
@@ -212,7 +271,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 5,
+        "sequence": 6,
         "from": "Khirba",
         "to": "Bir el Abd",
         "from_id": "khirba",
@@ -250,6 +309,33 @@
           [
             33.094185,
             31.026121
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "sinai-military-railway",
+        "sequence": 7,
+        "from": "Bir el Abd",
+        "to": "Bir Salmana",
+        "from_id": "bir-el-abd",
+        "to_id": "bir-salmana",
+        "geometry_status": "surveyed",
+        "geometry_source": "osm",
+        "corridor_confidence": "medium",
+        "connection_status": "documented",
+        "source_ids": [
+          "osm"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.094185,
+            31.026121
           ],
           [
             33.111851,
@@ -263,14 +349,13 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 6,
-        "from": "Bir el Abd",
+        "sequence": 8,
+        "from": "Bir Salmana",
         "to": "Mosefeig",
-        "from_id": "bir-el-abd",
+        "from_id": "bir-salmana",
         "to_id": "mosefeig",
         "geometry_status": "surveyed",
         "geometry_source": "osm",
-        "corridor_confidence": "medium",
         "connection_status": "documented",
         "source_ids": [
           "osm"
@@ -434,7 +519,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 7,
+        "sequence": 9,
         "from": "Mosefeig",
         "to": "El Mazar",
         "from_id": "mosefeig",
@@ -561,7 +646,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 8,
+        "sequence": 10,
         "from": "El Mazar",
         "to": "Maadan",
         "from_id": "el-mazar",
@@ -592,7 +677,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 9,
+        "sequence": 11,
         "from": "Maadan",
         "to": "El Arish",
         "from_id": "maadan",
@@ -620,7 +705,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 10,
+        "sequence": 12,
         "from": "El Arish",
         "to": "Gaber Amir",
         "from_id": "el-arish",
@@ -648,7 +733,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 11,
+        "sequence": 13,
         "from": "Gaber Amir",
         "to": "Rafah",
         "from_id": "gaber-amir",
@@ -676,7 +761,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 12,
+        "sequence": 14,
         "from": "Rafah",
         "to": "Khan Yunis",
         "from_id": "rafah",
@@ -704,7 +789,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 13,
+        "sequence": 15,
         "from": "Khan Yunis",
         "to": "Deir el Balah",
         "from_id": "khan-yunis",
@@ -732,7 +817,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 14,
+        "sequence": 16,
         "from": "Deir el Balah",
         "to": "Gaza",
         "from_id": "deir-el-balah",
@@ -760,7 +845,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 15,
+        "sequence": 17,
         "from": "Gaza",
         "to": "Deir Sneid",
         "from_id": "gaza",
@@ -788,7 +873,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 16,
+        "sequence": 18,
         "from": "Deir Sneid",
         "to": "Mejdel",
         "from_id": "deir-sneid",
@@ -816,7 +901,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 17,
+        "sequence": 19,
         "from": "Mejdel",
         "to": "Ashdod",
         "from_id": "mejdel",
@@ -976,7 +1061,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 18,
+        "sequence": 20,
         "from": "Ashdod",
         "to": "Yebnah",
         "from_id": "ashdod",
@@ -1115,7 +1200,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 19,
+        "sequence": 21,
         "from": "Yebnah",
         "to": "Rehoboth",
         "from_id": "yebnah",
@@ -1222,7 +1307,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 20,
+        "sequence": 22,
         "from": "Rehoboth",
         "to": "Bir Yacob",
         "from_id": "rehoboth",
@@ -1333,7 +1418,7 @@
       },
       "properties": {
         "route_id": "sinai-military-railway",
-        "sequence": 21,
+        "sequence": 23,
         "from": "Bir Yacob",
         "to": "Lydda (Lod)",
         "from_id": "bir-yacob",

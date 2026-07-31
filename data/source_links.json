@@ -494,6 +494,13 @@
     "entity": "baghdad-railway",
     "aspect": "attribute",
     "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "baghdad-railway",
+    "aspect": "attribute",
+    "field": "gauge_mm",
     "source_id": "wp_adana_aleppo"
   },
   {
@@ -620,6 +627,13 @@
     "entity": "beirut-damascus",
     "aspect": "attribute",
     "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "gauge_mm",
     "source_id": "wp_lebanon"
   },
   {
@@ -695,6 +709,13 @@
   {
     "entity_type": "route",
     "entity": "beirut-damascus",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "beirut-damascus",
     "aspect": "connection",
     "field": "order",
     "source_id": "bdr_project"
@@ -837,6 +858,13 @@
     "entity": "cairo-port-said",
     "aspect": "attribute",
     "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cairo-port-said",
+    "aspect": "attribute",
+    "field": "gauge_mm",
     "source_id": "wp_enr"
   },
   {
@@ -985,6 +1013,34 @@
     "aspect": "connection",
     "field": "order",
     "source_id": "wp_enr"
+  },
+  {
+    "entity_type": "route",
+    "entity": "cyprus-government-railway",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "damascus-muzayrib",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "damascus-muzayrib",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "damascus-muzayrib",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -1033,6 +1089,13 @@
     "entity": "eastern-railway",
     "aspect": "attribute",
     "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "gauge_mm",
     "source_id": "wp_israel_rw"
   },
   {
@@ -1076,6 +1139,13 @@
     "aspect": "attribute",
     "field": "name_ar",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -1271,6 +1341,13 @@
     "entity": "haifa-deraa",
     "aspect": "attribute",
     "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "gauge_mm",
     "source_id": "wp_hejaz"
   },
   {
@@ -1332,6 +1409,13 @@
   {
     "entity_type": "route",
     "entity": "haifa-deraa",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-deraa",
     "aspect": "connection",
     "field": "order",
     "source_id": "pr_diagram_1925"
@@ -1356,6 +1440,27 @@
     "aspect": "connection",
     "field": "order",
     "source_id": "wp_jezreel"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-lydda-tulkarm",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-lydda-tulkarm",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "haifa-lydda-tulkarm",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -1398,6 +1503,13 @@
     "aspect": "attribute",
     "field": "established",
     "source_id": "wp_hejaz"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -1454,6 +1566,13 @@
     "aspect": "attribute",
     "field": "name_ar",
     "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "hejaz",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -1656,6 +1775,13 @@
     "entity": "jaffa-jerusalem",
     "aspect": "attribute",
     "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "gauge_mm",
     "source_id": "wp_israel_rw"
   },
   {
@@ -1699,6 +1825,13 @@
     "aspect": "attribute",
     "field": "name_ar",
     "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jaffa-jerusalem",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -1754,6 +1887,13 @@
     "entity": "jezreel-valley",
     "aspect": "attribute",
     "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "gauge_mm",
     "source_id": "wp_jezreel"
   },
   {
@@ -1801,6 +1941,13 @@
   {
     "entity_type": "route",
     "entity": "jezreel-valley",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "jezreel-valley",
     "aspect": "connection",
     "field": "order",
     "source_id": "shemer_jezreel"
@@ -1832,6 +1979,27 @@
     "aspect": "connection",
     "field": "order",
     "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rafa-beersheba",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rafa-beersheba",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rafa-beersheba",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -1894,6 +2062,13 @@
     "entity": "rayak-baalbek",
     "aspect": "attribute",
     "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "gauge_mm",
     "source_id": "wp_lebanon"
   },
   {
@@ -1922,6 +2097,13 @@
     "entity": "rayak-baalbek",
     "aspect": "attribute",
     "field": "history",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "history",
     "source_id": "wp_lebanon"
   },
   {
@@ -1944,6 +2126,13 @@
     "aspect": "attribute",
     "field": "name_ar",
     "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "rayak-baalbek",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -1992,6 +2181,13 @@
     "entity": "sinai-military-railway",
     "aspect": "attribute",
     "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "gauge_mm",
     "source_id": "wp_palestine_rw"
   },
   {
@@ -2000,6 +2196,13 @@
     "aspect": "attribute",
     "field": "history",
     "source_id": "cotterell_1984"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -2028,6 +2231,13 @@
     "aspect": "attribute",
     "field": "name_ar",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "route",
+    "entity": "sinai-military-railway",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -2356,6 +2566,13 @@
     "entity": "tripoli-homs",
     "aspect": "attribute",
     "field": "gauge_mm",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "gauge_mm",
     "source_id": "wp_lebanon"
   },
   {
@@ -2371,6 +2588,13 @@
     "aspect": "attribute",
     "field": "history",
     "source_id": "internationalsteam"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -2413,6 +2637,20 @@
     "aspect": "attribute",
     "field": "name_ar",
     "source_id": "levantrain_system"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "year_closed",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "route",
+    "entity": "tripoli-homs",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "route",
@@ -3466,13 +3704,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#34",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "hejaz#35",
     "aspect": "geometry",
     "field": null,
@@ -3522,14 +3753,14 @@
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#46",
+    "entity": "hejaz#41",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
   },
   {
     "entity_type": "segment",
-    "entity": "hejaz#48",
+    "entity": "hejaz#47",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3544,6 +3775,13 @@
   {
     "entity_type": "segment",
     "entity": "hejaz#50",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "hejaz#51",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3718,14 +3956,7 @@
   },
   {
     "entity_type": "segment",
-    "entity": "sinai-military-railway#18",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "sinai-military-railway#19",
+    "entity": "sinai-military-railway#10",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3740,6 +3971,20 @@
   {
     "entity_type": "segment",
     "entity": "sinai-military-railway#21",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#22",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#23",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3768,6 +4013,13 @@
   {
     "entity_type": "segment",
     "entity": "sinai-military-railway#8",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "sinai-military-railway#9",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -5839,6 +6091,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "bir-salmana",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "station",
+    "entity": "bir-salmana",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "bir-yacob",
     "aspect": "attribute",
     "field": "name",
@@ -5980,6 +6246,62 @@
   {
     "entity_type": "station",
     "entity": "carmel",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-evrykhou",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-evrykhou",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-famagusta",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-famagusta",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-morphou",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-morphou",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-nicosia",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "station",
+    "entity": "cgr-nicosia",
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "osm"
@@ -10529,6 +10851,20 @@
   },
   {
     "entity_type": "station",
+    "entity": "qatiya",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "os_near_east_railways_1919"
+  },
+  {
+    "entity_type": "station",
+    "entity": "qatiya",
+    "aspect": "geometry",
+    "field": "coordinate",
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "station",
     "entity": "qatrana",
     "aspect": "attribute",
     "field": "name",
@@ -12241,6 +12577,13 @@
     "aspect": "geometry",
     "field": "coordinate",
     "source_id": "levantrain_compilation"
+  },
+  {
+    "entity_type": "station",
+    "entity": "wadi-jardoun",
+    "aspect": "attribute",
+    "field": "name",
+    "source_id": "os_near_east_railways_1919"
   },
   {
     "entity_type": "station",

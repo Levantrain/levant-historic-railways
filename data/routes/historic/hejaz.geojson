@@ -20,6 +20,7 @@
       "gsgs_2061_syria_1916",
       "levantrain_system",
       "ochsenwald_1980",
+      "os_near_east_railways_1919",
       "pr_diagram_1925",
       "robinson_atlas",
       "wp_hejaz",
@@ -7011,408 +7012,8 @@
             30.338182
           ],
           [
-            35.767525,
-            30.30645
-          ],
-          [
-            35.767669,
-            30.305656
-          ],
-          [
-            35.772489,
-            30.292398
-          ],
-          [
-            35.772523,
-            30.291674
-          ],
-          [
-            35.77244,
-            30.29106
-          ],
-          [
-            35.768565,
-            30.279715
-          ],
-          [
-            35.767965,
-            30.278176
-          ],
-          [
-            35.767606,
-            30.276509
-          ],
-          [
-            35.766874,
-            30.265704
-          ],
-          [
-            35.766596,
-            30.264422
-          ],
-          [
-            35.76205,
-            30.249637
-          ],
-          [
-            35.761978,
-            30.24906
-          ],
-          [
-            35.762622,
-            30.242129
-          ],
-          [
-            35.762488,
-            30.241166
-          ],
-          [
-            35.761787,
-            30.239656
-          ],
-          [
-            35.761701,
-            30.238724
-          ],
-          [
-            35.761957,
-            30.237933
-          ],
-          [
-            35.762416,
-            30.237244
-          ],
-          [
-            35.762845,
-            30.236837
-          ],
-          [
-            35.764176,
-            30.236087
-          ],
-          [
-            35.765023,
-            30.235438
-          ],
-          [
-            35.76532,
-            30.235085
-          ],
-          [
-            35.766313,
-            30.233365
-          ],
-          [
-            35.766467,
-            30.23245
-          ],
-          [
-            35.766413,
-            30.231977
-          ],
-          [
-            35.765758,
-            30.229721
-          ],
-          [
-            35.765658,
-            30.228971
-          ],
-          [
-            35.765837,
-            30.228416
-          ],
-          [
-            35.766125,
-            30.228001
-          ],
-          [
-            35.76731,
-            30.226948
-          ],
-          [
-            35.767581,
-            30.226422
-          ],
-          [
-            35.767623,
-            30.225665
-          ],
-          [
-            35.767352,
-            30.224158
-          ],
-          [
-            35.767444,
-            30.223584
-          ],
-          [
-            35.76766,
-            30.223105
-          ],
-          [
-            35.767969,
-            30.222824
-          ],
-          [
-            35.769956,
-            30.221695
-          ],
-          [
-            35.77046,
-            30.221093
-          ],
-          [
-            35.770606,
-            30.220606
-          ],
-          [
-            35.770606,
-            30.220246
-          ],
-          [
-            35.770335,
-            30.21889
-          ],
-          [
-            35.770406,
-            30.218252
-          ],
-          [
-            35.770761,
-            30.217606
-          ],
-          [
-            35.772855,
-            30.215454
-          ],
-          [
-            35.773014,
-            30.214848
-          ],
-          [
-            35.773001,
-            30.214419
-          ],
-          [
-            35.7693,
-            30.206009
-          ],
-          [
-            35.768558,
-            30.204693
-          ],
-          [
-            35.766228,
-            30.202716
-          ],
-          [
-            35.765778,
-            30.202416
-          ],
-          [
-            35.765277,
-            30.202225
-          ],
-          [
-            35.76432,
-            30.202198
-          ],
-          [
-            35.763249,
-            30.202559
-          ],
-          [
-            35.762336,
-            30.202744
-          ],
-          [
-            35.761544,
-            30.202584
-          ],
-          [
-            35.761079,
-            30.20231
-          ],
-          [
-            35.760721,
-            30.201996
-          ],
-          [
-            35.760494,
-            30.201617
-          ],
-          [
-            35.759145,
-            30.197075
-          ],
-          [
-            35.759094,
-            30.19644
-          ],
-          [
-            35.759184,
-            30.195917
-          ],
-          [
-            35.760441,
-            30.191052
-          ],
-          [
-            35.760388,
-            30.190349
-          ],
-          [
-            35.759558,
-            30.186727
-          ],
-          [
-            35.759681,
-            30.185698
-          ],
-          [
-            35.760198,
-            30.184816
-          ],
-          [
-            35.760651,
-            30.184385
-          ],
-          [
-            35.761174,
-            30.184109
-          ],
-          [
-            35.763291,
-            30.183435
-          ],
-          [
-            35.763591,
-            30.183263
-          ],
-          [
-            35.764112,
-            30.182727
-          ],
-          [
-            35.764308,
-            30.182406
-          ],
-          [
-            35.764444,
-            30.181883
-          ],
-          [
-            35.764288,
-            30.18106
-          ],
-          [
-            35.763969,
-            30.18041
-          ],
-          [
-            35.763196,
-            30.177889
-          ],
-          [
-            35.752896,
-            30.177818
-          ],
-          [
-            35.748372,
-            30.179208
-          ],
-          [
-            35.747871,
-            30.179233
-          ],
-          [
-            35.746915,
-            30.179052
-          ],
-          [
-            35.746071,
-            30.17853
-          ],
-          [
-            35.745529,
-            30.178356
-          ],
-          [
-            35.744235,
-            30.178334
-          ],
-          [
-            35.743768,
-            30.178176
-          ],
-          [
-            35.739712,
-            30.176039
-          ],
-          [
-            35.739223,
-            30.175873
-          ],
-          [
-            35.738192,
-            30.175933
-          ],
-          [
-            35.737681,
-            30.176189
-          ],
-          [
-            35.737116,
-            30.176867
-          ],
-          [
-            35.736951,
-            30.178793
-          ],
-          [
-            35.736672,
-            30.179982
-          ],
-          [
-            35.73604,
-            30.181043
-          ],
-          [
-            35.735935,
-            30.181442
-          ],
-          [
-            35.736025,
-            30.181916
-          ],
-          [
-            35.736386,
-            30.182616
-          ],
-          [
-            35.736379,
-            30.183233
-          ],
-          [
-            35.736243,
-            30.183564
-          ],
-          [
-            35.73589,
-            30.184121
-          ],
-          [
-            35.735528,
-            30.184331
-          ],
-          [
-            35.734941,
-            30.184549
-          ],
-          [
-            35.734415,
-            30.18461
+            35.768964,
+            30.327403
           ]
         ]
       },
@@ -7420,9 +7021,9 @@
         "route_id": "hejaz",
         "sequence": 31,
         "from": "Uneiza",
-        "to": "Ma'an",
+        "to": "Wadi Jardoun",
         "from_id": "uneiza",
-        "to_id": "ma-an",
+        "to_id": "wadi-jardoun",
         "geometry_status": "surveyed",
         "geometry_source": "osm",
         "corridor_confidence": "high",
@@ -7430,6 +7031,33 @@
         "source_ids": [
           "osm"
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.76876,
+            30.32831
+          ],
+          [
+            35.7341,
+            30.1962
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": "hejaz",
+        "sequence": 32,
+        "from": "Wadi Jardoun",
+        "to": "Ma'an",
+        "from_id": "wadi-jardoun",
+        "to_id": "ma-an",
+        "geometry_status": "schematic",
+        "geometry_source": "osm",
+        "connection_status": "documented"
       }
     },
     {
@@ -7449,7 +7077,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 32,
+        "sequence": 33,
         "from": "Ma'an",
         "to": "Ghadir al-Hajj",
         "from_id": "ma-an",
@@ -7477,7 +7105,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 33,
+        "sequence": 34,
         "from": "Ghadir al-Hajj",
         "to": "Batn al-Ghul",
         "from_id": "ghadir-al-hajj",
@@ -7629,7 +7257,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 34,
+        "sequence": 35,
         "from": "Batn al-Ghul",
         "to": "Wadi Rutm",
         "from_id": "batn-al-ghul",
@@ -7800,7 +7428,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 35,
+        "sequence": 36,
         "from": "Wadi Rutm",
         "to": "Tel Shahem",
         "from_id": "wadi-rutm",
@@ -7907,7 +7535,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 36,
+        "sequence": 37,
         "from": "Tel Shahem",
         "to": "Mudawwara",
         "from_id": "tel-shahem",
@@ -8154,7 +7782,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 37,
+        "sequence": 38,
         "from": "Mudawwara",
         "to": "Halat Ammar",
         "from_id": "mudawwara",
@@ -8325,7 +7953,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 38,
+        "sequence": 39,
         "from": "Halat Ammar",
         "to": "Dhat al-Hajj",
         "from_id": "halat-ammar",
@@ -8524,7 +8152,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 39,
+        "sequence": 40,
         "from": "Dhat al-Hajj",
         "to": "Bir Ibn Hermas",
         "from_id": "dhat-al-hajj",
@@ -8715,7 +8343,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 40,
+        "sequence": 41,
         "from": "Bir Ibn Hermas",
         "to": "Tabuk",
         "from_id": "bir-ibn-hermas",
@@ -8746,7 +8374,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 41,
+        "sequence": 42,
         "from": "Tabuk",
         "to": "Dahr al-Hajj",
         "from_id": "tabuk",
@@ -8774,7 +8402,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 42,
+        "sequence": 43,
         "from": "Dahr al-Hajj",
         "to": "Akhdar",
         "from_id": "dahr-al-hajj",
@@ -8802,7 +8430,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 43,
+        "sequence": 44,
         "from": "Akhdar",
         "to": "Al-Khanzira",
         "from_id": "akhdar",
@@ -8830,7 +8458,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 44,
+        "sequence": 45,
         "from": "Al-Khanzira",
         "to": "Al-Muazzam",
         "from_id": "al-khanzira",
@@ -8858,7 +8486,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 45,
+        "sequence": 46,
         "from": "Al-Muazzam",
         "to": "Mada'in Salih",
         "from_id": "al-muazzam",
@@ -9158,7 +8786,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 46,
+        "sequence": 47,
         "from": "Mada'in Salih",
         "to": "Al-'Ula",
         "from_id": "mada-in-salih",
@@ -9189,7 +8817,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 47,
+        "sequence": 48,
         "from": "Al-'Ula",
         "to": "Hadiyyah",
         "from_id": "al-ula",
@@ -9661,7 +9289,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 48,
+        "sequence": 49,
         "from": "Hadiyyah",
         "to": "Abu Na'am",
         "from_id": "hadiyyah",
@@ -9776,7 +9404,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 49,
+        "sequence": 50,
         "from": "Abu Na'am",
         "to": "Buwair",
         "from_id": "abu-na-am",
@@ -10171,7 +9799,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 50,
+        "sequence": 51,
         "from": "Buwair",
         "to": "al-Hafirah",
         "from_id": "buwair",
@@ -10202,7 +9830,7 @@
       },
       "properties": {
         "route_id": "hejaz",
-        "sequence": 51,
+        "sequence": 52,
         "from": "al-Hafirah",
         "to": "Medina",
         "from_id": "al-hafirah",
