@@ -281,6 +281,41 @@
   },
   {
     "entity_type": "route",
+    "entity": "325b4569-c46e-42c6-b814-7095a8b96334",
+    "aspect": "connection",
+    "field": "order",
+    "source_id": "pr_diagram_1925"
+  },
+  {
+    "entity_type": "route",
+    "entity": "afula-nablus",
+    "aspect": "attribute",
+    "field": "gauge_mm",
+    "source_id": "wp_afula_nablus_railway"
+  },
+  {
+    "entity_type": "route",
+    "entity": "afula-nablus",
+    "aspect": "attribute",
+    "field": "history",
+    "source_id": "wp_afula_nablus_railway"
+  },
+  {
+    "entity_type": "route",
+    "entity": "afula-nablus",
+    "aspect": "attribute",
+    "field": "year_closed",
+    "source_id": "wp_afula_nablus_railway"
+  },
+  {
+    "entity_type": "route",
+    "entity": "afula-nablus",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "wp_afula_nablus_railway"
+  },
+  {
+    "entity_type": "route",
     "entity": "alexandria-cairo",
     "aspect": "attribute",
     "field": "countries",
@@ -1150,6 +1185,13 @@
   {
     "entity_type": "route",
     "entity": "eastern-railway",
+    "aspect": "attribute",
+    "field": "year_opened",
+    "source_id": "wp_afula_nablus_railway"
+  },
+  {
+    "entity_type": "route",
+    "entity": "eastern-railway",
     "aspect": "connection",
     "field": "order",
     "source_id": "pr_diagram_1925"
@@ -1975,13 +2017,6 @@
   },
   {
     "entity_type": "route",
-    "entity": "masudiya-nablus",
-    "aspect": "connection",
-    "field": "order",
-    "source_id": "pr_diagram_1925"
-  },
-  {
-    "entity_type": "route",
     "entity": "rafa-beersheba",
     "aspect": "attribute",
     "field": "gauge_mm",
@@ -2668,6 +2703,48 @@
   },
   {
     "entity_type": "segment",
+    "entity": "afula-nablus#1",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "afula-nablus#2",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "afula-nablus#3",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "afula-nablus#4",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "afula-nablus#5",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
+    "entity": "afula-nablus#6",
+    "aspect": "geometry",
+    "field": null,
+    "source_id": "osm"
+  },
+  {
+    "entity_type": "segment",
     "entity": "alexandria-cairo#1",
     "aspect": "geometry",
     "field": null,
@@ -3004,13 +3081,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "c1b635f3-5633-4cee-a6bb-9c0c740accb1",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "cairo-aswan#10",
     "aspect": "geometry",
     "field": null,
@@ -3242,13 +3312,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "d7f8f9eb-34e0-4425-8470-a210df19d9b5",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "damascus-muzayrib#1",
     "aspect": "geometry",
     "field": null,
@@ -3284,13 +3347,6 @@
   },
   {
     "entity_type": "segment",
-    "entity": "eastern-railway#2",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "eastern-railway#3",
     "aspect": "geometry",
     "field": null,
@@ -3298,28 +3354,7 @@
   },
   {
     "entity_type": "segment",
-    "entity": "eastern-railway#4",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
     "entity": "eastern-railway#5",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "eastern-railway#7",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "eastern-railway#9",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"
@@ -3943,20 +3978,6 @@
   {
     "entity_type": "segment",
     "entity": "lydda-sarafend#1",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "masudiya-nablus#1",
-    "aspect": "geometry",
-    "field": null,
-    "source_id": "osm"
-  },
-  {
-    "entity_type": "segment",
-    "entity": "masudiya-nablus#2",
     "aspect": "geometry",
     "field": null,
     "source_id": "osm"

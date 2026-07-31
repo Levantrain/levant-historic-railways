@@ -728,6 +728,20 @@
     "note": "Tier B settlement proxy: town coordinates 33.6, 36.515. Syria's largest industrial city lies immediately east; the rail station likely sits ~5–8 km E at Adra Industrial City."
   },
   {
+    "id": "wp_afula_nablus_railway",
+    "title": "Afula–Nablus railway line / Samaria Railway (Wikipedia)",
+    "publisher": "Wikipedia",
+    "type": "encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Afula%E2%80%93Nablus_railway_line",
+    "accessed": "2026-07",
+    "license": "CC BY-SA (article); facts public.",
+    "reliability": "secondary",
+    "author": null,
+    "year": null,
+    "isbn": null,
+    "note": "Branch of the Jezreel Valley Railway, 1050 mm; intended to reach Jerusalem via the Haifa–Deraa line but terminated at Nablus; closed 1932. Route + chainages: Afula 0, Jenin 16.8, Arrabeh 28.2, Sileh 40.2, Mas'udiya 60 (jct to Tulkarm), Sabastieh 65, Nablus 77.8 km."
+  },
+  {
     "id": "wp_aleppo_station",
     "title": "Aleppo railway station",
     "publisher": "Wikipedia",
